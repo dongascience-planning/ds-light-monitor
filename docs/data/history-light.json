@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "ts": "2026-07-10T07:24:18.411Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 5180,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1998,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1637,
+      "slow": false,
+      "imgBroken": false
+    }
+  }
+]
