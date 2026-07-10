@@ -1,0 +1,115 @@
+name: 경량 모니터링
+
+on:
+  schedule:
+    # 시간당 6회 발사 (공개 레포 = Actions 무료) — GitHub 크론 누락 대비 중복 트리거.
+    # 사전 체크의 dedup 가드가 실제 점검을 시간당 1회로 제한한다.
+    - cron: '7,17,27,37,47,57 * * * *'
+  workflow_dispatch:   # 수동 실행 (테스트용)
+
+jobs:
+  monitor:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    permissions:
+      contents: write
+    env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
+    steps:
+      - name: 저장소 체크아웃
+        uses: actions/checkout@v4
+
+      - name: 실행 여부 사전 체크
+        id: precheck
+        if: github.event_name == 'schedule'
+        run: |
+          HOUR=$(TZ=Asia/Seoul date +%-H)
+          DAY=$(TZ=Asia/Seoul date +%u)
+
+          # 평일 새벽 01~07시 KST 제외 (주말은 24시간)
+          if [ "$DAY" -le 5 ] && [ "$HOUR" -ge 1 ] && [ "$HOUR" -le 7 ]; then
+            echo "skip=true" >> $GITHUB_OUTPUT
+            echo "[사전 체크] 평일 새벽 ${HOUR}시 → 건너뜀"
+            exit 0
+          fi
+
+          # dedup 가드: 최근 50분 내 점검 이력이 있으면 건너뜀 (파싱 실패 시 실행)
+          LAST_TS=$(python3 -c "import json;d=json.load(open('docs/data/history-light.json'));print(d[0]['ts'] if d else '')" 2>/dev/null || echo "")
+          if [ -n "$LAST_TS" ]; then
+            LAST_EPOCH=$(date -d "$LAST_TS" +%s 2>/dev/null || echo 0)
+            AGE=$(( $(date +%s) - LAST_EPOCH ))
+            if [ "$LAST_EPOCH" -gt 0 ] && [ "$AGE" -lt 3000 ]; then
+              echo "skip=true" >> $GITHUB_OUTPUT
+              echo "[사전 체크] 최근 실행 ${AGE}초 전 → 건너뜀 (dedup)"
+              exit 0
+            fi
+          fi
+
+          echo "skip=false" >> $GITHUB_OUTPUT
+          echo "[사전 체크] ${HOUR}시 → 실행"
+
+      - name: Node.js 설정
+        if: steps.precheck.outputs.skip != 'true'
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: 'npm'
+
+      - name: 의존성 설치
+        if: steps.precheck.outputs.skip != 'true'
+        run: npm install
+
+      - name: Playwright 캐시
+        if: steps.precheck.outputs.skip != 'true'
+        uses: actions/cache@v4
+        id: playwright-cache
+        with:
+          path: ~/.cache/ms-playwright
+          key: playwright-chromium-${{ runner.os }}-${{ hashFiles('package-lock.json') }}
+
+      - name: Playwright Chromium 설치 (캐시 미스)
+        if: steps.precheck.outputs.skip != 'true' && steps.playwright-cache.outputs.cache-hit != 'true'
+        run: npx playwright install chromium --with-deps
+
+      - name: Playwright 시스템 의존성 (캐시 히트)
+        if: steps.precheck.outputs.skip != 'true' && steps.playwright-cache.outputs.cache-hit == 'true'
+        run: npx playwright install-deps chromium
+
+      - name: 경량 모니터링 실행
+        id: monitoring
+        if: steps.precheck.outputs.skip != 'true'
+        continue-on-error: true
+        env:
+          JANDI_WEBHOOK_URL: ${{ secrets.JANDI_WEBHOOK_URL }}
+          GITHUB_RUN_URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+          GITHUB_EVENT_NAME: ${{ github.event_name }}
+        run: node src/light-monitor.js
+
+      - name: 스크린샷 업로드
+        if: always() && steps.precheck.outputs.skip != 'true'
+        uses: actions/upload-artifact@v4
+        with:
+          name: light-screenshots-${{ github.run_id }}
+          path: screenshots-light/
+          retention-days: 7
+          if-no-files-found: ignore
+
+      - name: 점검 결과 커밋
+        if: always() && steps.precheck.outputs.skip != 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git pull --rebase --autostash origin main
+          git add docs/data/history-light.json
+          if git diff --cached --quiet; then
+            echo "변경 없음, 커밋·푸시 건너뜀"
+          else
+            git commit -m "chore: 경량 점검 결과 업데이트 [skip ci]"
+            for i in 1 2 3; do
+              git push origin main && break
+              echo "push 실패 (${i}회차), rebase 후 재시도..."
+              git pull --rebase --autostash origin main
+              sleep 3
+            done
+          fi

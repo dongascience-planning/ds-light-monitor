@@ -1,0 +1,13 @@
+{
+  "name": "ds-light-monitor",
+  "version": "1.0.0",
+  "description": "동아사이언스 서비스 경량 모니터링 (메인 페이지 상태 체크)",
+  "main": "src/light-monitor.js",
+  "scripts": {
+    "start": "node src/light-monitor.js"
+  },
+  "dependencies": {
+    "axios": "^1.7.7",
+    "playwright": "^1.48.0"
+  }
+}
