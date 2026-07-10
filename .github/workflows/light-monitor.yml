@@ -25,14 +25,6 @@ jobs:
         if: github.event_name == 'schedule'
         run: |
           HOUR=$(TZ=Asia/Seoul date +%-H)
-          DAY=$(TZ=Asia/Seoul date +%u)
-
-          # 평일 새벽 01~07시 KST 제외 (주말은 24시간)
-          if [ "$DAY" -le 5 ] && [ "$HOUR" -ge 1 ] && [ "$HOUR" -le 7 ]; then
-            echo "skip=true" >> $GITHUB_OUTPUT
-            echo "[사전 체크] 평일 새벽 ${HOUR}시 → 건너뜀"
-            exit 0
-          fi
 
           # dedup 가드: 최근 50분 내 점검 이력이 있으면 건너뜀 (파싱 실패 시 실행)
           LAST_TS=$(python3 -c "import json;d=json.load(open('docs/data/history-light.json'));print(d[0]['ts'] if d else '')" 2>/dev/null || echo "")
