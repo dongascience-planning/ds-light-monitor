@@ -65,12 +65,39 @@ const hardTimer = setTimeout(async () => {
   process.exit(1);
 }, HARD_TIMEOUT_MS);
 
+// ── 러너 네트워크 자가진단 ──────────────────────────────────────
+// 서비스 이상 감지 시 외부 기준 사이트 2곳을 확인해 GitHub 러너 쪽
+// 네트워크 문제를 걸러낸다. 두 곳 모두 실패해야 러너 문제로 판정
+// (보수적 기준 — 애매하면 서비스 이상으로 보고 알림 발송).
+async function isRunnerNetworkIssue() {
+  const canaries = ['https://www.google.com', 'https://www.cloudflare.com'];
+  const checks = await Promise.all(canaries.map((url) =>
+    axios.get(url, { timeout: 8000 }).then(() => true).catch(() => false)
+  ));
+  return checks.every((ok) => !ok);
+}
+
 // 정상 경로·하드 타임아웃 경로 중 먼저 도달한 쪽만 저장·알림 수행
 let finalized = false;
 async function finalize(res) {
   if (finalized) return;
   finalized = true;
-  saveHistory(res);
+
+  const anyError = SERVICES.some((s) => res[s.key] && !res[s.key].ok);
+  let runnerIssue = false;
+  if (anyError) {
+    runnerIssue = await isRunnerNetworkIssue();
+    if (runnerIssue) {
+      console.log('[진단] 외부 기준 사이트도 모두 실패 → 러너 네트워크 문제로 판정, 잔디 알림 생략');
+      for (const svc of SERVICES) {
+        const r = res[svc.key];
+        if (r && !r.ok) r.error = `${r.error || '오류'} · 러너 네트워크 이상 의심`;
+      }
+    }
+  }
+
+  saveHistory(res, runnerIssue);
+  if (runnerIssue) return;
   await sendAlert(res);
 }
 
@@ -204,7 +231,7 @@ async function withRetry(fn, label) {
 }
 
 // ── history-light.json 저장 ──────────────────────────────────────
-function saveHistory(results) {
+function saveHistory(results, runnerIssue = false) {
   const filePath = path.join(__dirname, '..', 'docs', 'data', 'history-light.json');
   try {
     const dir = path.dirname(filePath);
@@ -214,7 +241,7 @@ function saveHistory(results) {
       ? JSON.parse(fs.readFileSync(filePath, 'utf8'))
       : [];
 
-    const entry = { ts: new Date().toISOString() };
+    const entry = { ts: new Date().toISOString(), ...(runnerIssue ? { runnerIssue: true } : {}) };
     for (const svc of SERVICES) {
       const r = results[svc.key];
       entry[svc.key] = {

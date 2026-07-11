@@ -7,6 +7,12 @@ on:
     - cron: '7,17,27,37,47,57 * * * *'
   workflow_dispatch:   # 수동 실행 (테스트용)
 
+# 동시 실행 방지 — 예약·수동 실행이 겹치면 결과 커밋 단계에서 rebase 충돌 마커가
+# history-light.json에 그대로 커밋되는 사고가 있었음 (2026-07-11)
+concurrency:
+  group: light-monitor
+  cancel-in-progress: false
+
 jobs:
   monitor:
     runs-on: ubuntu-latest
