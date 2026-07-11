@@ -61,7 +61,7 @@ const hardTimer = setTimeout(async () => {
     }
   }
   setTimeout(() => process.exit(1), 30 * 1000); // 저장·알림이 멈춰도 30초 후엔 무조건 종료
-  await finalize(results);
+  await finalize(results).catch((err) => console.error('[HARD TIMEOUT] finalize 실패:', err.message));
   process.exit(1);
 }, HARD_TIMEOUT_MS);
 
@@ -72,7 +72,7 @@ const hardTimer = setTimeout(async () => {
 async function isRunnerNetworkIssue() {
   const canaries = ['https://www.google.com', 'https://www.cloudflare.com'];
   const checks = await Promise.all(canaries.map((url) =>
-    axios.get(url, { timeout: 8000 }).then(() => true).catch(() => false)
+    axios.get(url, { timeout: 5000 }).then(() => true).catch(() => false)
   ));
   return checks.every((ok) => !ok);
 }
@@ -237,9 +237,12 @@ function saveHistory(results, runnerIssue = false) {
     const dir = path.dirname(filePath);
     if (!fs.existsSync(dir)) fs.mkdirSync(dir, { recursive: true });
 
-    const existing = fs.existsSync(filePath)
-      ? JSON.parse(fs.readFileSync(filePath, 'utf8'))
-      : [];
+    // 파일이 오염돼도(예: git 충돌 마커) 새 결과 저장이 막히지 않도록 빈 이력으로 폴백
+    let existing = [];
+    if (fs.existsSync(filePath)) {
+      try { existing = JSON.parse(fs.readFileSync(filePath, 'utf8')); }
+      catch { console.error('[History] 기존 파일 JSON 파싱 실패 → 빈 이력으로 재생성'); }
+    }
 
     const entry = { ts: new Date().toISOString(), ...(runnerIssue ? { runnerIssue: true } : {}) };
     for (const svc of SERVICES) {
