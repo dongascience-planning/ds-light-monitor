@@ -47,11 +47,32 @@ const TIMEOUT_MS = 20000;
 const WEBHOOK_URL = process.env.JANDI_WEBHOOK_URL;
 const SCREENSHOT_DIR = path.join(__dirname, '..', 'screenshots-light');
 
-// ── 하드 타임아웃 (4분) ──────────────────────────────────────────
-const hardTimer = setTimeout(() => {
-  console.error('[HARD TIMEOUT] 4분 초과, 강제 종료');
+// ── 하드 타임아웃 (5분) ──────────────────────────────────────────
+// 최악 케이스: 3서비스 × (goto 20초 + ready 15초 + 재시도) ≈ 4.7분 → 5분으로 커버.
+// 강제 종료 전에 그 시점까지의 부분 결과를 저장·알림하고 종료한다
+// (타임아웃 순간이 곧 장애 순간이므로 기록·알림이 반드시 남아야 함).
+const HARD_TIMEOUT_MS = Number(process.env.HARD_TIMEOUT_MS) || 5 * 60 * 1000;
+const results = {};
+const hardTimer = setTimeout(async () => {
+  console.error(`[HARD TIMEOUT] ${(HARD_TIMEOUT_MS / 60000).toFixed(1)}분 초과 — 부분 결과 저장·알림 후 종료`);
+  for (const svc of SERVICES) {
+    if (!results[svc.key]) {
+      results[svc.key] = { ok: false, elapsed: null, slow: false, imgBroken: false, imgStats: null, error: '점검 미완료 (하드 타임아웃으로 중단)' };
+    }
+  }
+  setTimeout(() => process.exit(1), 30 * 1000); // 저장·알림이 멈춰도 30초 후엔 무조건 종료
+  await finalize(results);
   process.exit(1);
-}, 4 * 60 * 1000);
+}, HARD_TIMEOUT_MS);
+
+// 정상 경로·하드 타임아웃 경로 중 먼저 도달한 쪽만 저장·알림 수행
+let finalized = false;
+async function finalize(res) {
+  if (finalized) return;
+  finalized = true;
+  saveHistory(res);
+  await sendAlert(res);
+}
 
 // ── 유틸 ────────────────────────────────────────────────────────
 const delay = (ms) => new Promise((r) => setTimeout(r, ms));
@@ -256,7 +277,6 @@ async function sendAlert(results) {
 async function main() {
   console.log(`[${nowKST()}] 경량 모니터링 시작`);
 
-  const results = {};
   let browser = null;
 
   try {
@@ -296,8 +316,7 @@ async function main() {
     clearTimeout(hardTimer);
   }
 
-  saveHistory(results);
-  await sendAlert(results);
+  await finalize(results);
 
   const anyFail = SERVICES.some((s) => !results[s.key].ok);
   if (anyFail) process.exitCode = 1;

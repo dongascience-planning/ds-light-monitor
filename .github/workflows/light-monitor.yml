@@ -10,7 +10,7 @@ on:
 jobs:
   monitor:
     runs-on: ubuntu-latest
-    timeout-minutes: 5
+    timeout-minutes: 7   # 스크립트 하드 타임아웃 5분 + 셋업·결과 커밋 버퍼 2분
     permissions:
       contents: write
     env:
