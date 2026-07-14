@@ -1,21 +1,36 @@
 [
   {
+<<<<<<< Updated upstream
     "ts": "2026-07-14T22:13:52.174Z",
     "dsstore": {
       "ok": true,
       "elapsed": 7265,
+=======
+    "ts": "2026-07-14T22:14:54.829Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 5303,
+>>>>>>> Stashed changes
       "slow": false,
       "imgBroken": false
     },
     "dotcom": {
       "ok": true,
+<<<<<<< Updated upstream
       "elapsed": 1816,
+=======
+      "elapsed": 1924,
+>>>>>>> Stashed changes
       "slow": false,
       "imgBroken": false
     },
     "dl": {
       "ok": true,
+<<<<<<< Updated upstream
       "elapsed": 1396,
+=======
+      "elapsed": 1624,
+>>>>>>> Stashed changes
       "slow": false,
       "imgBroken": false
     }
@@ -1045,27 +1060,6 @@
     "dl": {
       "ok": true,
       "elapsed": 1504,
-      "slow": false,
-      "imgBroken": false
-    }
-  },
-  {
-    "ts": "2026-07-13T22:14:36.843Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 7748,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1894,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1512,
       "slow": false,
       "imgBroken": false
     }
