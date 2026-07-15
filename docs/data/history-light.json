@@ -1,128 +1,1073 @@
 [
-  {
-    "ts": "2026-07-15T00:44:29.743Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 8762,
-      "slow": false,
-      "imgBroken": false
+    {
+        "ts":  "2026-07-15T00:44:29.743Z",
+        "dsstore":  {
+                        "ok":  true,
+                        "elapsed":  8762,
+                        "slow":  false,
+                        "imgBroken":  false
+                    },
+        "dotcom":  {
+                       "ok":  true,
+                       "elapsed":  2037,
+                       "slow":  false,
+                       "imgBroken":  false
+                   },
+        "dl":  {
+                   "ok":  true,
+                   "elapsed":  1582,
+                   "slow":  false,
+                   "imgBroken":  false
+               }
     },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 2037,
-      "slow": false,
-      "imgBroken": false
+    {
+        "ts":  "2026-07-15T00:14:31.009Z",
+        "dsstore":  {
+                        "ok":  true,
+                        "elapsed":  5407,
+                        "slow":  false,
+                        "imgBroken":  false
+                    },
+        "dotcom":  {
+                       "ok":  true,
+                       "elapsed":  1903,
+                       "slow":  false,
+                       "imgBroken":  false
+                   },
+        "dl":  {
+                   "ok":  true,
+                   "elapsed":  1534,
+                   "slow":  false,
+                   "imgBroken":  false
+               }
     },
-    "dl": {
-      "ok": true,
-      "elapsed": 1582,
-      "slow": false,
-      "imgBroken": false
+    {
+        "ts":  "2026-07-14T23:44:31.484Z",
+        "dsstore":  {
+                        "ok":  true,
+                        "elapsed":  8240,
+                        "slow":  false,
+                        "imgBroken":  false
+                    },
+        "dotcom":  {
+                       "ok":  true,
+                       "elapsed":  1830,
+                       "slow":  false,
+                       "imgBroken":  false
+                   },
+        "dl":  {
+                   "ok":  true,
+                   "elapsed":  1383,
+                   "slow":  false,
+                   "imgBroken":  false
+               }
+    },
+    {
+        "ts":  "2026-07-14T23:14:35.018Z",
+        "dsstore":  {
+                        "ok":  true,
+                        "elapsed":  6520,
+                        "slow":  false,
+                        "imgBroken":  false
+                    },
+        "dotcom":  {
+                       "ok":  true,
+                       "elapsed":  1370,
+                       "slow":  false,
+                       "imgBroken":  false
+                   },
+        "dl":  {
+                   "ok":  true,
+                   "elapsed":  1172,
+                   "slow":  false,
+                   "imgBroken":  false
+               }
+    },
+    {
+        "ts":  "2026-07-14T23:12:37.243Z",
+        "dsstore":  {
+                        "ok":  true,
+                        "elapsed":  7356,
+                        "slow":  false,
+                        "imgBroken":  false
+                    },
+        "dotcom":  {
+                       "ok":  true,
+                       "elapsed":  1656,
+                       "slow":  false,
+                       "imgBroken":  false
+                   },
+        "dl":  {
+                   "ok":  true,
+                   "elapsed":  1333,
+                   "slow":  false,
+                   "imgBroken":  false
+               }
+    },
+    {
+        "ts":  "2026-07-14T22:44:31.068Z",
+        "dsstore":  {
+                        "ok":  true,
+                        "elapsed":  5415,
+                        "slow":  false,
+                        "imgBroken":  false
+                    },
+        "dotcom":  {
+                       "ok":  true,
+                       "elapsed":  2120,
+                       "slow":  false,
+                       "imgBroken":  false
+                   },
+        "dl":  {
+                   "ok":  true,
+                   "elapsed":  1314,
+                   "slow":  false,
+                   "imgBroken":  false
+               }
+    },
+    {
+        "ts":  "2026-07-14T22:13:52.174Z",
+        "dsstore":  {
+                        "ok":  true,
+                        "elapsed":  7265,
+                        "slow":  false,
+                        "imgBroken":  false
+                    },
+        "dotcom":  {
+                       "ok":  true,
+                       "elapsed":  1816,
+                       "slow":  false,
+                       "imgBroken":  false
+                   },
+        "dl":  {
+                   "ok":  true,
+                   "elapsed":  1396,
+                   "slow":  false,
+                   "imgBroken":  false
+               }
+    },
+    {
+        "ts":  "2026-07-14T21:44:42.503Z",
+        "dsstore":  {
+                        "ok":  true,
+                        "elapsed":  6329,
+                        "slow":  false,
+                        "imgBroken":  false
+                    },
+        "dotcom":  {
+                       "ok":  true,
+                       "elapsed":  1432,
+                       "slow":  false,
+                       "imgBroken":  false
+                   },
+        "dl":  {
+                   "ok":  true,
+                   "elapsed":  1259,
+                   "slow":  false,
+                   "imgBroken":  false
+               }
+    },
+    {
+        "ts":  "2026-07-14T21:14:26.476Z",
+        "dsstore":  {
+                        "ok":  true,
+                        "elapsed":  5361,
+                        "slow":  false,
+                        "imgBroken":  false
+                    },
+        "dotcom":  {
+                       "ok":  true,
+                       "elapsed":  2276,
+                       "slow":  false,
+                       "imgBroken":  false
+                   },
+        "dl":  {
+                   "ok":  true,
+                   "elapsed":  1600,
+                   "slow":  false,
+                   "imgBroken":  false
+               }
+    },
+    {
+        "ts":  "2026-07-14T21:11:18.731Z",
+        "dsstore":  {
+                        "ok":  true,
+                        "elapsed":  4932,
+                        "slow":  false,
+                        "imgBroken":  false
+                    },
+        "dotcom":  {
+                       "ok":  true,
+                       "elapsed":  1971,
+                       "slow":  false,
+                       "imgBroken":  false
+                   },
+        "dl":  {
+                   "ok":  true,
+                   "elapsed":  1522,
+                   "slow":  false,
+                   "imgBroken":  false
+               }
+    },
+    {
+        "ts":  "2026-07-14T20:44:33.550Z",
+        "dsstore":  {
+                        "ok":  true,
+                        "elapsed":  5262,
+                        "slow":  false,
+                        "imgBroken":  false
+                    },
+        "dotcom":  {
+                       "ok":  true,
+                       "elapsed":  1862,
+                       "slow":  false,
+                       "imgBroken":  false
+                   },
+        "dl":  {
+                   "ok":  true,
+                   "elapsed":  1489,
+                   "slow":  false,
+                   "imgBroken":  false
+               }
+    },
+    {
+        "ts":  "2026-07-14T20:14:30.833Z",
+        "dsstore":  {
+                        "ok":  true,
+                        "elapsed":  5101,
+                        "slow":  false,
+                        "imgBroken":  false
+                    },
+        "dotcom":  {
+                       "ok":  true,
+                       "elapsed":  1815,
+                       "slow":  false,
+                       "imgBroken":  false
+                   },
+        "dl":  {
+                   "ok":  true,
+                   "elapsed":  1449,
+                   "slow":  false,
+                   "imgBroken":  false
+               }
+    },
+    {
+        "ts":  "2026-07-14T19:45:00.837Z",
+        "dsstore":  {
+                        "ok":  true,
+                        "elapsed":  4364,
+                        "slow":  false,
+                        "imgBroken":  false
+                    },
+        "dotcom":  {
+                       "ok":  true,
+                       "elapsed":  1362,
+                       "slow":  false,
+                       "imgBroken":  false
+                   },
+        "dl":  {
+                   "ok":  true,
+                   "elapsed":  1109,
+                   "slow":  false,
+                   "imgBroken":  false
+               }
+    },
+    {
+        "ts":  "2026-07-14T19:14:37.685Z",
+        "dsstore":  {
+                        "ok":  true,
+                        "elapsed":  8585,
+                        "slow":  false,
+                        "imgBroken":  false
+                    },
+        "dotcom":  {
+                       "ok":  true,
+                       "elapsed":  1978,
+                       "slow":  false,
+                       "imgBroken":  false
+                   },
+        "dl":  {
+                   "ok":  true,
+                   "elapsed":  1564,
+                   "slow":  false,
+                   "imgBroken":  false
+               }
+    },
+    {
+        "ts":  "2026-07-14T18:44:50.281Z",
+        "dsstore":  {
+                        "ok":  true,
+                        "elapsed":  6088,
+                        "slow":  false,
+                        "imgBroken":  false
+                    },
+        "dotcom":  {
+                       "ok":  true,
+                       "elapsed":  1673,
+                       "slow":  false,
+                       "imgBroken":  false
+                   },
+        "dl":  {
+                   "ok":  true,
+                   "elapsed":  1114,
+                   "slow":  false,
+                   "imgBroken":  false
+               }
+    },
+    {
+        "ts":  "2026-07-14T18:14:37.587Z",
+        "dsstore":  {
+                        "ok":  true,
+                        "elapsed":  7556,
+                        "slow":  false,
+                        "imgBroken":  false
+                    },
+        "dotcom":  {
+                       "ok":  true,
+                       "elapsed":  7276,
+                       "slow":  false,
+                       "imgBroken":  false
+                   },
+        "dl":  {
+                   "ok":  true,
+                   "elapsed":  1414,
+                   "slow":  false,
+                   "imgBroken":  false
+               }
+    },
+    {
+        "ts":  "2026-07-14T17:44:36.298Z",
+        "dsstore":  {
+                        "ok":  true,
+                        "elapsed":  6683,
+                        "slow":  false,
+                        "imgBroken":  false
+                    },
+        "dotcom":  {
+                       "ok":  true,
+                       "elapsed":  1533,
+                       "slow":  false,
+                       "imgBroken":  false
+                   },
+        "dl":  {
+                   "ok":  true,
+                   "elapsed":  1151,
+                   "slow":  false,
+                   "imgBroken":  false
+               }
+    },
+    {
+        "ts":  "2026-07-14T17:14:35.386Z",
+        "dsstore":  {
+                        "ok":  true,
+                        "elapsed":  4812,
+                        "slow":  false,
+                        "imgBroken":  false
+                    },
+        "dotcom":  {
+                       "ok":  true,
+                       "elapsed":  1600,
+                       "slow":  false,
+                       "imgBroken":  false
+                   },
+        "dl":  {
+                   "ok":  true,
+                   "elapsed":  1419,
+                   "slow":  false,
+                   "imgBroken":  false
+               }
+    },
+    {
+        "ts":  "2026-07-14T16:44:25.879Z",
+        "dsstore":  {
+                        "ok":  true,
+                        "elapsed":  5147,
+                        "slow":  false,
+                        "imgBroken":  false
+                    },
+        "dotcom":  {
+                       "ok":  true,
+                       "elapsed":  2077,
+                       "slow":  false,
+                       "imgBroken":  false
+                   },
+        "dl":  {
+                   "ok":  true,
+                   "elapsed":  1636,
+                   "slow":  false,
+                   "imgBroken":  false
+               }
+    },
+    {
+        "ts":  "2026-07-14T16:14:57.134Z",
+        "dsstore":  {
+                        "ok":  true,
+                        "elapsed":  6443,
+                        "slow":  false,
+                        "imgBroken":  false
+                    },
+        "dotcom":  {
+                       "ok":  true,
+                       "elapsed":  1478,
+                       "slow":  false,
+                       "imgBroken":  false
+                   },
+        "dl":  {
+                   "ok":  true,
+                   "elapsed":  1066,
+                   "slow":  false,
+                   "imgBroken":  false
+               }
+    },
+    {
+        "ts":  "2026-07-14T15:44:33.056Z",
+        "dsstore":  {
+                        "ok":  true,
+                        "elapsed":  8123,
+                        "slow":  false,
+                        "imgBroken":  false
+                    },
+        "dotcom":  {
+                       "ok":  true,
+                       "elapsed":  1946,
+                       "slow":  false,
+                       "imgBroken":  false
+                   },
+        "dl":  {
+                   "ok":  true,
+                   "elapsed":  1707,
+                   "slow":  false,
+                   "imgBroken":  false
+               }
+    },
+    {
+        "ts":  "2026-07-14T15:14:42.435Z",
+        "dsstore":  {
+                        "ok":  true,
+                        "elapsed":  5762,
+                        "slow":  false,
+                        "imgBroken":  false
+                    },
+        "dotcom":  {
+                       "ok":  true,
+                       "elapsed":  1407,
+                       "slow":  false,
+                       "imgBroken":  false
+                   },
+        "dl":  {
+                   "ok":  true,
+                   "elapsed":  1093,
+                   "slow":  false,
+                   "imgBroken":  false
+               }
+    },
+    {
+        "ts":  "2026-07-14T14:44:30.275Z",
+        "dsstore":  {
+                        "ok":  true,
+                        "elapsed":  5459,
+                        "slow":  false,
+                        "imgBroken":  false
+                    },
+        "dotcom":  {
+                       "ok":  true,
+                       "elapsed":  2155,
+                       "slow":  false,
+                       "imgBroken":  false
+                   },
+        "dl":  {
+                   "ok":  true,
+                   "elapsed":  1635,
+                   "slow":  false,
+                   "imgBroken":  false
+               }
+    },
+    {
+        "ts":  "2026-07-14T14:15:02.411Z",
+        "dsstore":  {
+                        "ok":  true,
+                        "elapsed":  6840,
+                        "slow":  false,
+                        "imgBroken":  false
+                    },
+        "dotcom":  {
+                       "ok":  true,
+                       "elapsed":  1721,
+                       "slow":  false,
+                       "imgBroken":  false
+                   },
+        "dl":  {
+                   "ok":  true,
+                   "elapsed":  1353,
+                   "slow":  false,
+                   "imgBroken":  false
+               }
+    },
+    {
+        "ts":  "2026-07-14T13:44:32.571Z",
+        "dsstore":  {
+                        "ok":  true,
+                        "elapsed":  7331,
+                        "slow":  false,
+                        "imgBroken":  false
+                    },
+        "dotcom":  {
+                       "ok":  true,
+                       "elapsed":  1783,
+                       "slow":  false,
+                       "imgBroken":  false
+                   },
+        "dl":  {
+                   "ok":  true,
+                   "elapsed":  1463,
+                   "slow":  false,
+                   "imgBroken":  false
+               }
+    },
+    {
+        "ts":  "2026-07-14T13:14:33.494Z",
+        "dsstore":  {
+                        "ok":  true,
+                        "elapsed":  7982,
+                        "slow":  false,
+                        "imgBroken":  false
+                    },
+        "dotcom":  {
+                       "ok":  true,
+                       "elapsed":  2018,
+                       "slow":  false,
+                       "imgBroken":  false
+                   },
+        "dl":  {
+                   "ok":  true,
+                   "elapsed":  1588,
+                   "slow":  false,
+                   "imgBroken":  false
+               }
+    },
+    {
+        "ts":  "2026-07-14T12:44:39.049Z",
+        "dsstore":  {
+                        "ok":  true,
+                        "elapsed":  6039,
+                        "slow":  false,
+                        "imgBroken":  false
+                    },
+        "dotcom":  {
+                       "ok":  true,
+                       "elapsed":  1446,
+                       "slow":  false,
+                       "imgBroken":  false
+                   },
+        "dl":  {
+                   "ok":  true,
+                   "elapsed":  1055,
+                   "slow":  false,
+                   "imgBroken":  false
+               }
+    },
+    {
+        "ts":  "2026-07-14T12:14:30.946Z",
+        "dsstore":  {
+                        "ok":  true,
+                        "elapsed":  5353,
+                        "slow":  false,
+                        "imgBroken":  false
+                    },
+        "dotcom":  {
+                       "ok":  true,
+                       "elapsed":  1820,
+                       "slow":  false,
+                       "imgBroken":  false
+                   },
+        "dl":  {
+                   "ok":  true,
+                   "elapsed":  1375,
+                   "slow":  false,
+                   "imgBroken":  false
+               }
+    },
+    {
+        "ts":  "2026-07-14T11:44:33.448Z",
+        "dsstore":  {
+                        "ok":  true,
+                        "elapsed":  4823,
+                        "slow":  false,
+                        "imgBroken":  false
+                    },
+        "dotcom":  {
+                       "ok":  true,
+                       "elapsed":  1741,
+                       "slow":  false,
+                       "imgBroken":  false
+                   },
+        "dl":  {
+                   "ok":  true,
+                   "elapsed":  1402,
+                   "slow":  false,
+                   "imgBroken":  false
+               }
+    },
+    {
+        "ts":  "2026-07-14T11:14:28.698Z",
+        "dsstore":  {
+                        "ok":  true,
+                        "elapsed":  5304,
+                        "slow":  false,
+                        "imgBroken":  false
+                    },
+        "dotcom":  {
+                       "ok":  true,
+                       "elapsed":  2221,
+                       "slow":  false,
+                       "imgBroken":  false
+                   },
+        "dl":  {
+                   "ok":  true,
+                   "elapsed":  1480,
+                   "slow":  false,
+                   "imgBroken":  false
+               }
+    },
+    {
+        "ts":  "2026-07-14T10:44:44.308Z",
+        "dsstore":  {
+                        "ok":  true,
+                        "elapsed":  5441,
+                        "slow":  false,
+                        "imgBroken":  false
+                    },
+        "dotcom":  {
+                       "ok":  true,
+                       "elapsed":  2022,
+                       "slow":  false,
+                       "imgBroken":  false
+                   },
+        "dl":  {
+                   "ok":  true,
+                   "elapsed":  1557,
+                   "slow":  false,
+                   "imgBroken":  false
+               }
+    },
+    {
+        "ts":  "2026-07-14T10:14:51.999Z",
+        "dsstore":  {
+                        "ok":  true,
+                        "elapsed":  5747,
+                        "slow":  false,
+                        "imgBroken":  false
+                    },
+        "dotcom":  {
+                       "ok":  true,
+                       "elapsed":  1559,
+                       "slow":  false,
+                       "imgBroken":  false
+                   },
+        "dl":  {
+                   "ok":  true,
+                   "elapsed":  1062,
+                   "slow":  false,
+                   "imgBroken":  false
+               }
+    },
+    {
+        "ts":  "2026-07-14T09:44:31.712Z",
+        "dsstore":  {
+                        "ok":  true,
+                        "elapsed":  7748,
+                        "slow":  false,
+                        "imgBroken":  false
+                    },
+        "dotcom":  {
+                       "ok":  true,
+                       "elapsed":  1967,
+                       "slow":  false,
+                       "imgBroken":  false
+                   },
+        "dl":  {
+                   "ok":  true,
+                   "elapsed":  1549,
+                   "slow":  false,
+                   "imgBroken":  false
+               }
+    },
+    {
+        "ts":  "2026-07-14T09:14:27.687Z",
+        "dsstore":  {
+                        "ok":  true,
+                        "elapsed":  5116,
+                        "slow":  false,
+                        "imgBroken":  false
+                    },
+        "dotcom":  {
+                       "ok":  true,
+                       "elapsed":  1867,
+                       "slow":  false,
+                       "imgBroken":  false
+                   },
+        "dl":  {
+                   "ok":  true,
+                   "elapsed":  1444,
+                   "slow":  false,
+                   "imgBroken":  false
+               }
+    },
+    {
+        "ts":  "2026-07-14T08:44:30.517Z",
+        "dsstore":  {
+                        "ok":  true,
+                        "elapsed":  8027,
+                        "slow":  false,
+                        "imgBroken":  false
+                    },
+        "dotcom":  {
+                       "ok":  true,
+                       "elapsed":  1962,
+                       "slow":  false,
+                       "imgBroken":  false
+                   },
+        "dl":  {
+                   "ok":  true,
+                   "elapsed":  1570,
+                   "slow":  false,
+                   "imgBroken":  false
+               }
+    },
+    {
+        "ts":  "2026-07-14T08:14:41.372Z",
+        "dsstore":  {
+                        "ok":  true,
+                        "elapsed":  6335,
+                        "slow":  false,
+                        "imgBroken":  false
+                    },
+        "dotcom":  {
+                       "ok":  true,
+                       "elapsed":  1660,
+                       "slow":  false,
+                       "imgBroken":  false
+                   },
+        "dl":  {
+                   "ok":  true,
+                   "elapsed":  1137,
+                   "slow":  false,
+                   "imgBroken":  false
+               }
+    },
+    {
+        "ts":  "2026-07-14T07:44:35.998Z",
+        "dsstore":  {
+                        "ok":  true,
+                        "elapsed":  5024,
+                        "slow":  false,
+                        "imgBroken":  false
+                    },
+        "dotcom":  {
+                       "ok":  true,
+                       "elapsed":  2197,
+                       "slow":  false,
+                       "imgBroken":  false
+                   },
+        "dl":  {
+                   "ok":  true,
+                   "elapsed":  1562,
+                   "slow":  false,
+                   "imgBroken":  false
+               }
+    },
+    {
+        "ts":  "2026-07-14T07:14:29.238Z",
+        "dsstore":  {
+                        "ok":  true,
+                        "elapsed":  8042,
+                        "slow":  false,
+                        "imgBroken":  false
+                    },
+        "dotcom":  {
+                       "ok":  true,
+                       "elapsed":  1945,
+                       "slow":  false,
+                       "imgBroken":  false
+                   },
+        "dl":  {
+                   "ok":  true,
+                   "elapsed":  1676,
+                   "slow":  false,
+                   "imgBroken":  false
+               }
+    },
+    {
+        "ts":  "2026-07-14T06:44:33.085Z",
+        "dsstore":  {
+                        "ok":  true,
+                        "elapsed":  7810,
+                        "slow":  false,
+                        "imgBroken":  false
+                    },
+        "dotcom":  {
+                       "ok":  true,
+                       "elapsed":  2120,
+                       "slow":  false,
+                       "imgBroken":  false
+                   },
+        "dl":  {
+                   "ok":  true,
+                   "elapsed":  1558,
+                   "slow":  false,
+                   "imgBroken":  false
+               }
+    },
+    {
+        "ts":  "2026-07-14T06:14:39.535Z",
+        "dsstore":  {
+                        "ok":  true,
+                        "elapsed":  5470,
+                        "slow":  false,
+                        "imgBroken":  false
+                    },
+        "dotcom":  {
+                       "ok":  true,
+                       "elapsed":  2056,
+                       "slow":  false,
+                       "imgBroken":  false
+                   },
+        "dl":  {
+                   "ok":  true,
+                   "elapsed":  1487,
+                   "slow":  false,
+                   "imgBroken":  false
+               }
+    },
+    {
+        "ts":  "2026-07-14T05:44:37.380Z",
+        "dsstore":  {
+                        "ok":  true,
+                        "elapsed":  6744,
+                        "slow":  false,
+                        "imgBroken":  false
+                    },
+        "dotcom":  {
+                       "ok":  true,
+                       "elapsed":  1596,
+                       "slow":  false,
+                       "imgBroken":  false
+                   },
+        "dl":  {
+                   "ok":  true,
+                   "elapsed":  1127,
+                   "slow":  false,
+                   "imgBroken":  false
+               }
+    },
+    {
+        "ts":  "2026-07-14T05:14:37.261Z",
+        "dsstore":  {
+                        "ok":  true,
+                        "elapsed":  5202,
+                        "slow":  false,
+                        "imgBroken":  false
+                    },
+        "dotcom":  {
+                       "ok":  true,
+                       "elapsed":  2024,
+                       "slow":  false,
+                       "imgBroken":  false
+                   },
+        "dl":  {
+                   "ok":  true,
+                   "elapsed":  1491,
+                   "slow":  false,
+                   "imgBroken":  false
+               }
+    },
+    {
+        "ts":  "2026-07-14T04:44:29.803Z",
+        "dsstore":  {
+                        "ok":  true,
+                        "elapsed":  7799,
+                        "slow":  false,
+                        "imgBroken":  false
+                    },
+        "dotcom":  {
+                       "ok":  true,
+                       "elapsed":  1989,
+                       "slow":  false,
+                       "imgBroken":  false
+                   },
+        "dl":  {
+                   "ok":  true,
+                   "elapsed":  1454,
+                   "slow":  false,
+                   "imgBroken":  false
+               }
+    },
+    {
+        "ts":  "2026-07-14T04:14:32.890Z",
+        "dsstore":  {
+                        "ok":  true,
+                        "elapsed":  7909,
+                        "slow":  false,
+                        "imgBroken":  false
+                    },
+        "dotcom":  {
+                       "ok":  true,
+                       "elapsed":  1871,
+                       "slow":  false,
+                       "imgBroken":  false
+                   },
+        "dl":  {
+                   "ok":  true,
+                   "elapsed":  1461,
+                   "slow":  false,
+                   "imgBroken":  false
+               }
+    },
+    {
+        "ts":  "2026-07-14T04:12:18.207Z",
+        "dsstore":  {
+                        "ok":  true,
+                        "elapsed":  6587,
+                        "slow":  false,
+                        "imgBroken":  false
+                    },
+        "dotcom":  {
+                       "ok":  true,
+                       "elapsed":  1450,
+                       "slow":  false,
+                       "imgBroken":  false
+                   },
+        "dl":  {
+                   "ok":  true,
+                   "elapsed":  1067,
+                   "slow":  false,
+                   "imgBroken":  false
+               }
+    },
+    {
+        "ts":  "2026-07-14T03:44:35.244Z",
+        "dsstore":  {
+                        "ok":  true,
+                        "elapsed":  8892,
+                        "slow":  false,
+                        "imgBroken":  false
+                    },
+        "dotcom":  {
+                       "ok":  true,
+                       "elapsed":  2082,
+                       "slow":  false,
+                       "imgBroken":  false
+                   },
+        "dl":  {
+                   "ok":  true,
+                   "elapsed":  2116,
+                   "slow":  false,
+                   "imgBroken":  false
+               }
+    },
+    {
+        "ts":  "2026-07-14T03:14:38.470Z",
+        "dsstore":  {
+                        "ok":  true,
+                        "elapsed":  6430,
+                        "slow":  false,
+                        "imgBroken":  false
+                    },
+        "dotcom":  {
+                       "ok":  true,
+                       "elapsed":  1511,
+                       "slow":  false,
+                       "imgBroken":  false
+                   },
+        "dl":  {
+                   "ok":  true,
+                   "elapsed":  1067,
+                   "slow":  false,
+                   "imgBroken":  false
+               }
+    },
+    {
+        "ts":  "2026-07-14T02:44:34.379Z",
+        "dsstore":  {
+                        "ok":  true,
+                        "elapsed":  7009,
+                        "slow":  false,
+                        "imgBroken":  false
+                    },
+        "dotcom":  {
+                       "ok":  true,
+                       "elapsed":  1831,
+                       "slow":  false,
+                       "imgBroken":  false
+                   },
+        "dl":  {
+                   "ok":  true,
+                   "elapsed":  1347,
+                   "slow":  false,
+                   "imgBroken":  false
+               }
+    },
+    {
+        "ts":  "2026-07-14T02:14:32.442Z",
+        "dsstore":  {
+                        "ok":  true,
+                        "elapsed":  7923,
+                        "slow":  false,
+                        "imgBroken":  false
+                    },
+        "dotcom":  {
+                       "ok":  true,
+                       "elapsed":  2062,
+                       "slow":  false,
+                       "imgBroken":  false
+                   },
+        "dl":  {
+                   "ok":  true,
+                   "elapsed":  1554,
+                   "slow":  false,
+                   "imgBroken":  false
+               }
+    },
+    {
+        "ts":  "2026-07-14T01:44:29.491Z",
+        "dsstore":  {
+                        "ok":  true,
+                        "elapsed":  7029,
+                        "slow":  false,
+                        "imgBroken":  false
+                    },
+        "dotcom":  {
+                       "ok":  true,
+                       "elapsed":  1607,
+                       "slow":  false,
+                       "imgBroken":  false
+                   },
+        "dl":  {
+                   "ok":  true,
+                   "elapsed":  1313,
+                   "slow":  false,
+                   "imgBroken":  false
+               }
+    },
+    {
+        "ts":  "2026-07-14T01:14:30.421Z",
+        "dsstore":  {
+                        "ok":  true,
+                        "elapsed":  5971,
+                        "slow":  false,
+                        "imgBroken":  false
+                    },
+        "dotcom":  {
+                       "ok":  true,
+                       "elapsed":  1761,
+                       "slow":  false,
+                       "imgBroken":  false
+                   },
+        "dl":  {
+                   "ok":  true,
+                   "elapsed":  1336,
+                   "slow":  false,
+                   "imgBroken":  false
+               }
     }
-  },
-  {
-    "ts": "2026-07-15T00:14:31.009Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 5407,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1903,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1534,
-      "slow": false,
-      "imgBroken": false
-    }
-  },
-  {
-    "ts": "2026-07-14T23:44:31.484Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 8240,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1830,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1383,
-      "slow": false,
-      "imgBroken": false
-    }
-  },
-  {
-    "ts": "2026-07-14T23:14:35.018Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 6520,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1370,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1172,
-      "slow": false,
-      "imgBroken": false
-    }
-  },
-  {
-    "ts": "2026-07-14T23:12:37.243Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 7356,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1656,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1333,
-      "slow": false,
-      "imgBroken": false
-    }
-  },
-  {
-    "ts": "2026-07-14T22:44:31.068Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 5415,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 2120,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1314,
-      "slow": false,
-      "imgBroken": false
-    }
-  }
 ]

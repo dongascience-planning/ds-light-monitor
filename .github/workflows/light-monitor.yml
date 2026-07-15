@@ -5,7 +5,12 @@ on:
     # 시간당 6회 발사 (공개 레포 = Actions 무료) — GitHub 크론 누락 대비 중복 트리거.
     # 사전 체크의 dedup 가드(25분)가 실제 점검을 30분당 1회로 제한한다 (슬롯당 본 트리거 1 + 예비 2).
     - cron: '7,17,27,37,47,57 * * * *'
-  workflow_dispatch:   # 수동 실행 (테스트용)
+  workflow_dispatch:   # Apps Script 주 발사 + 수동 실행
+    inputs:
+      force:
+        description: '강제 실행 (dedup 가드 무시 — 수동 테스트용)'
+        type: boolean
+        default: false
 
 # 동시 실행 방지 — 예약·수동 실행이 겹치면 결과 커밋 단계에서 rebase 충돌 마커가
 # history-light.json에 그대로 커밋되는 사고가 있었음 (2026-07-11)
@@ -28,11 +33,19 @@ jobs:
 
       - name: 실행 여부 사전 체크
         id: precheck
-        if: github.event_name == 'schedule'
         run: |
           HOUR=$(TZ=Asia/Seoul date +%-H)
 
+          # 수동 강제 실행이면 dedup 무시 (Apps Script 발사는 force 없이 호출 → dedup 적용)
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ] && [ "${{ inputs.force }}" = "true" ]; then
+            echo "skip=false" >> $GITHUB_OUTPUT
+            echo "[사전 체크] 강제 실행 → dedup 무시"
+            exit 0
+          fi
+
           # dedup 가드: 최근 25분 내 점검 이력이 있으면 건너뜀 (파싱 실패 시 실행)
+          # 2026-07-15 사고 재발 방지: 백업 크론과 Apps Script 발사가 몇 분 차이로 겹치면
+          # 둘 다 실제 점검을 돌면서 커밋 경합 → dispatch에도 dedup을 적용해 중복 실행 차단
           LAST_TS=$(python3 -c "import json;d=json.load(open('docs/data/history-light.json'));print(d[0]['ts'] if d else '')" 2>/dev/null || echo "")
           if [ -n "$LAST_TS" ]; then
             LAST_EPOCH=$(date -d "$LAST_TS" +%s 2>/dev/null || echo 0)
@@ -96,20 +109,56 @@ jobs:
       - name: 점검 결과 커밋
         if: always() && steps.precheck.outputs.skip != 'true'
         run: |
+          # rebase/autostash 충돌로 충돌 마커가 JSON에 커밋되는 사고(2026-07-11, 07-15) 원천 차단:
+          # 내 결과를 따로 보관 → 원격 최신으로 리셋 → 파이썬으로 병합(ts 기준 dedup) → 검증 후 커밋
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git pull --rebase --autostash origin main
-          git add docs/data/history-light.json
-          if git diff --cached --quiet; then
-            echo "변경 없음, 커밋·푸시 건너뜀"
-          else
+          cp docs/data/history-light.json /tmp/ours.json
+
+          cat > /tmp/merge.py <<'EOF'
+          import json
+          from datetime import datetime, timezone
+
+          def load(p):
+              try:
+                  with open(p) as f:
+                      d = json.load(f)
+                      return d if isinstance(d, list) else []
+              except Exception:
+                  return []
+
+          def epoch(ts):
+              try:
+                  return datetime.fromisoformat(ts.replace('Z', '+00:00')).timestamp()
+              except Exception:
+                  return 0
+
+          seen, merged = set(), []
+          for e in load('/tmp/ours.json') + load('docs/data/history-light.json'):
+              ts = e.get('ts')
+              if not ts or ts in seen:
+                  continue
+              seen.add(ts)
+              merged.append(e)
+          merged.sort(key=lambda e: e['ts'], reverse=True)
+          cutoff = datetime.now(timezone.utc).timestamp() - 24 * 3600
+          merged = [e for e in merged if epoch(e['ts']) >= cutoff]
+          with open('docs/data/history-light.json', 'w') as f:
+              json.dump(merged, f, ensure_ascii=False, indent=2)
+          EOF
+
+          for i in 1 2 3; do
+            git fetch origin main
+            git reset --hard origin/main
+            python3 /tmp/merge.py
+            python3 -m json.tool docs/data/history-light.json > /dev/null || { echo "병합 결과 JSON 손상 — 중단"; exit 1; }
+            git add docs/data/history-light.json
+            if git diff --cached --quiet; then
+              echo "변경 없음, 커밋·푸시 건너뜀"
+              break
+            fi
             git commit -m "chore: 경량 점검 결과 업데이트 [skip ci]"
-            # push 재시도: concurrency 도입으로 워크플로우 간 경합은 없어졌지만,
-            # 사람이 직접 push하는 경우 대비 안전망으로 유지
-            for i in 1 2 3; do
-              git push origin main && break
-              echo "push 실패 (${i}회차), rebase 후 재시도..."
-              git pull --rebase --autostash origin main
-              sleep 3
-            done
-          fi
+            git push origin main && break
+            echo "push 실패 (${i}회차) → 원격 재병합 후 재시도"
+            sleep 3
+          done
