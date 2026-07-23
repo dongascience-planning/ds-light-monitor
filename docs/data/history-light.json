@@ -1,5 +1,26 @@
 [
   {
+    "ts": "2026-07-23T07:45:48.426Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 5648,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1522,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1091,
+      "slow": false,
+      "imgBroken": false
+    }
+  },
+  {
     "ts": "2026-07-23T07:44:32.232Z",
     "dsstore": {
       "ok": true,
