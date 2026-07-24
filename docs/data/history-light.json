@@ -1006,26 +1006,5 @@
       "slow": false,
       "imgBroken": false
     }
-  },
-  {
-    "ts": "2026-07-23T09:14:43.031Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 7774,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 2101,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1504,
-      "slow": false,
-      "imgBroken": false
-    }
   }
 ]
