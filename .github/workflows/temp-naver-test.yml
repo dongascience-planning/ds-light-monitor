@@ -8,9 +8,25 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 2
     steps:
-      - name: 접속 테스트
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: 의존성 설치
+        run: npm install axios
+      - name: 접속 테스트 (실제 코드와 동일한 axios.get, 5000ms 타임아웃)
         run: |
-          for url in https://www.naver.com https://www.daum.net https://www.google.com https://www.cloudflare.com; do
-            echo "=== $url ==="
-            curl -s -o /dev/null -w "HTTP %{http_code} / %{time_total}초\n" --max-time 10 "$url" || echo "실패"
-          done
+          node -e "
+          const axios = require('axios');
+          const urls = ['https://www.naver.com','https://www.daum.net','https://www.google.com','https://www.cloudflare.com'];
+          (async () => {
+            for (const url of urls) {
+              const start = Date.now();
+              try {
+                const r = await axios.get(url, { timeout: 5000 });
+                console.log(url, 'OK', r.status, (Date.now()-start)+'ms');
+              } catch (err) {
+                console.log(url, 'FAIL', err.response ? err.response.status : err.message, (Date.now()-start)+'ms');
+              }
+            }
+          })();
+          "
