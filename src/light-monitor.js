@@ -66,15 +66,25 @@ const hardTimer = setTimeout(async () => {
 }, HARD_TIMEOUT_MS);
 
 // ── 러너 네트워크 자가진단 ──────────────────────────────────────
-// 서비스 이상 감지 시 외부 기준 사이트 2곳을 확인해 GitHub 러너 쪽
-// 네트워크 문제를 걸러낸다. 두 곳 모두 실패해야 러너 문제로 판정
-// (보수적 기준 — 애매하면 서비스 이상으로 보고 알림 발송).
+// 2026-07-27 실사고: google·cloudflare(미국 인프라)는 정상인데 동아사이언스
+// 3개 도메인(한국 인프라)이 동시에 타임아웃 → 기존 글로벌 캐너리만으로는
+// "한국 라우팅 경로만 막힌" 상황을 잡아내지 못해 서비스 이상으로 오판.
+// 글로벌 그룹·한국 그룹으로 나눠 각 그룹에서 둘 다 실패해야 해당 그룹이
+// "막힘"으로 판정되고, 두 그룹 중 하나라도 막히면 러너/경로 문제로 간주한다
+// (보수적 기준 유지 — 애매하면 서비스 이상으로 보고 알림 발송).
 async function isRunnerNetworkIssue() {
-  const canaries = ['https://www.google.com', 'https://www.cloudflare.com'];
-  const checks = await Promise.all(canaries.map((url) =>
-    axios.get(url, { timeout: 5000 }).then(() => true).catch(() => false)
-  ));
-  return checks.every((ok) => !ok);
+  const check = (url) => axios.get(url, { timeout: 5000 }).then(() => true).catch(() => false);
+  const globalCanaries = ['https://www.google.com', 'https://www.cloudflare.com'];
+  const koreaCanaries = ['https://www.naver.com', 'https://www.daum.net'];
+
+  const [globalUp, koreaUp] = await Promise.all([
+    Promise.all(globalCanaries.map(check)).then((rs) => rs.some(Boolean)),
+    Promise.all(koreaCanaries.map(check)).then((rs) => rs.some(Boolean)),
+  ]);
+
+  if (!globalUp) return '글로벌(google·cloudflare) 전체 실패';
+  if (!koreaUp) return '한국(naver·daum) 전체 실패';
+  return null;
 }
 
 // 정상 경로·하드 타임아웃 경로 중 먼저 도달한 쪽만 저장·알림 수행
@@ -86,9 +96,10 @@ async function finalize(res) {
   const anyError = SERVICES.some((s) => res[s.key] && !res[s.key].ok);
   let runnerIssue = false;
   if (anyError) {
-    runnerIssue = await isRunnerNetworkIssue();
+    const reason = await isRunnerNetworkIssue();
+    runnerIssue = reason !== null;
     if (runnerIssue) {
-      console.log('[진단] 외부 기준 사이트도 모두 실패 → 러너 네트워크 문제로 판정, 잔디 알림 생략');
+      console.log(`[진단] ${reason} → 러너 네트워크 문제로 판정, 잔디 알림 생략`);
       for (const svc of SERVICES) {
         const r = res[svc.key];
         if (r && !r.ok) r.error = `${r.error || '오류'} · 러너 네트워크 이상 의심`;
