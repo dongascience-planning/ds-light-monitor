@@ -312,7 +312,8 @@ jobs:
             "connectColor": "#FF9500",
             "connectInfo": [
               { "title": "상태", "description": "1차 러너가 이상을 감지했으나 재점검 잡이 완주하지 못해 이상 여부 미확정입니다. 다음 회차(≤30분)에서 자동 재확인됩니다." },
-              { "title": "🔗 Actions 로그", "description": "${RUN_URL}" }
+              { "title": "🔗 Actions 로그", "description": "${RUN_URL}" },
+              { "title": "※ 참고", "description": "GitHub 점검 서버(러너) 문제로 실제 장애가 아니어도 발송될 수 있습니다 — 서비스 직접 접속으로 교차 확인해 주세요." }
             ]
           }
           EOF

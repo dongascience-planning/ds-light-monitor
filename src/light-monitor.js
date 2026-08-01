@@ -422,6 +422,14 @@ async function sendAlert(results, opts = {}) {
   const runUrl = process.env.GITHUB_RUN_URL;
   if (runUrl) connectInfo.push({ title: '🔗 Actions 로그', description: runUrl });
 
+  // 러너 이슈 주의 문구 (2026-08-01 사용자 요청) — 이 함수는 이상일 때만 발송됨
+  connectInfo.push({
+    title: '※ 참고',
+    description: opts.crossChecked
+      ? '러너 2대 교차 확인을 거친 알림이지만, 드물게 러너·네트워크 문제가 장애처럼 보일 수 있습니다 — 서비스 직접 접속으로 최종 확인해 주세요.'
+      : 'GitHub 점검 서버(러너) 문제로 실제 장애가 아니어도 발송될 수 있습니다 — 서비스 직접 접속으로 교차 확인해 주세요.',
+  });
+
   try {
     await axios.post(WEBHOOK_URL, { body, connectColor: '#FF3B30', connectInfo }, { timeout: 10000 });
     console.log('[Alert] 잔디 이상 알림 전송 완료');
