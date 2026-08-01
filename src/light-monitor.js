@@ -42,7 +42,7 @@ const SERVICES = [
   },
 ];
 
-const THRESHOLD_WARN = 12000;
+const THRESHOLD_WARN = 16000; // 2026-08-01 느림 12→16초 상향 (러너 편차 잡음 감소, 사용자 결정)
 const TIMEOUT_MS = 20000;
 const WEBHOOK_URL = process.env.JANDI_WEBHOOK_URL;
 const SCREENSHOT_DIR = path.join(__dirname, '..', 'screenshots-light');
