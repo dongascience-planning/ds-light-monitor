@@ -26,6 +26,11 @@ jobs:
       contents: write
     env:
       FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+    # 교차 재점검 연계 (2026-08-01 오탐 대응): 이상 감지 시 알림을 보류하고
+    # 별도 러너의 recheck 잡으로 재현 확인 — 스크립트가 GITHUB_OUTPUT으로 요청
+    outputs:
+      needs_recheck: ${{ steps.monitoring.outputs.needs_recheck }}
+      pending_ts: ${{ steps.monitoring.outputs.pending_ts }}
 
     steps:
       - name: 저장소 체크아웃
@@ -162,3 +167,152 @@ jobs:
             echo "push 실패 (${i}회차) → 원격 재병합 후 재시도"
             sleep 3
           done
+
+  # ── 교차 재점검 (2026-08-01 오탐 대응) ────────────────────────────
+  # 1차 러너가 알림감 이상을 감지하면 여기서 별도 러너로 같은 점검을 반복한다.
+  # 이상 재현 시에만 알림 발송, 미재현이면 1차 기록을 러너 경로 문제로 확정.
+  # dedup 사전 체크는 하지 않는다 — 재점검은 항상 실행되어야 의미가 있음.
+  recheck:
+    needs: monitor
+    if: needs.monitor.outputs.needs_recheck == 'true'
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    permissions:
+      contents: write
+    env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+    # completed는 스크립트가 판정 확정 직후 직접 남기는 마커 — 유실 안전망의 판단 기준
+    outputs:
+      completed: ${{ steps.recheck-run.outputs.completed }}
+
+    steps:
+      - name: 저장소 체크아웃
+        uses: actions/checkout@v4
+
+      - name: Node.js 설정
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: 'npm'
+
+      - name: 의존성 설치
+        run: npm install
+
+      - name: Playwright 캐시
+        uses: actions/cache@v4
+        id: playwright-cache
+        with:
+          path: ~/.cache/ms-playwright
+          key: playwright-chromium-${{ runner.os }}-${{ hashFiles('package-lock.json') }}
+
+      - name: Playwright Chromium 설치 (캐시 미스)
+        if: steps.playwright-cache.outputs.cache-hit != 'true'
+        run: npx playwright install chromium --with-deps
+
+      - name: Playwright 시스템 의존성 (캐시 히트)
+        if: steps.playwright-cache.outputs.cache-hit == 'true'
+        run: npx playwright install-deps chromium
+
+      - name: 교차 재점검 실행
+        id: recheck-run
+        continue-on-error: true
+        env:
+          JANDI_WEBHOOK_URL: ${{ secrets.JANDI_WEBHOOK_URL }}
+          GITHUB_RUN_URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+          RECHECK_MODE: '1'
+          PENDING_TS: ${{ needs.monitor.outputs.pending_ts }}
+        run: node src/light-monitor.js
+
+      - name: 스크린샷 업로드
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: light-screenshots-recheck-${{ github.run_id }}
+          path: screenshots-light/
+          retention-days: 7
+          if-no-files-found: ignore
+
+      - name: 점검 결과 커밋
+        if: always()
+        run: |
+          # monitor 잡의 커밋 스크립트와 동일 (ts 기준 병합 — 로컬 우선이라
+          # 재점검이 갱신한 1차 기록이 원격의 원본을 덮어쓴다)
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          cp docs/data/history-light.json /tmp/ours.json
+
+          cat > /tmp/merge.py <<'EOF'
+          import json
+          from datetime import datetime, timezone
+
+          def load(p):
+              try:
+                  with open(p) as f:
+                      d = json.load(f)
+                      return d if isinstance(d, list) else []
+              except Exception:
+                  return []
+
+          def epoch(ts):
+              try:
+                  return datetime.fromisoformat(ts.replace('Z', '+00:00')).timestamp()
+              except Exception:
+                  return 0
+
+          seen, merged = set(), []
+          for e in load('/tmp/ours.json') + load('docs/data/history-light.json'):
+              ts = e.get('ts')
+              if not ts or ts in seen:
+                  continue
+              seen.add(ts)
+              merged.append(e)
+          merged.sort(key=lambda e: e['ts'], reverse=True)
+          cutoff = datetime.now(timezone.utc).timestamp() - 24 * 3600
+          merged = [e for e in merged if epoch(e['ts']) >= cutoff]
+          with open('docs/data/history-light.json', 'w') as f:
+              json.dump(merged, f, ensure_ascii=False, indent=2)
+          EOF
+
+          for i in 1 2 3; do
+            git fetch origin main
+            git reset --hard origin/main
+            python3 /tmp/merge.py
+            python3 -m json.tool docs/data/history-light.json > /dev/null || { echo "병합 결과 JSON 손상 — 중단"; exit 1; }
+            git add docs/data/history-light.json
+            if git diff --cached --quiet; then
+              echo "변경 없음, 커밋·푸시 건너뜀"
+              break
+            fi
+            git commit -m "chore: 경량 재점검 결과 업데이트 [skip ci]"
+            git push origin main && break
+            echo "push 실패 (${i}회차) → 원격 재병합 후 재시도"
+            sleep 3
+          done
+
+  # ── 재점검 유실 안전망 ─────────────────────────────────────────────
+  # 1차가 이상을 감지해 알림을 보류했는데 recheck 잡 자체가 인프라 문제로
+  # 완주하지 못하면, 이상이 소리 없이 사라진다 — 최소한 ⚠️로 통보한다.
+  # (pg-check의 회차 유실 폴백과 동일 철학: "무응답 감시자가 무응답"이면 안 됨)
+  recheck-lost:
+    needs: [monitor, recheck]
+    if: always() && needs.monitor.outputs.needs_recheck == 'true' && needs.recheck.outputs.completed != 'true'
+    runs-on: ubuntu-latest
+    timeout-minutes: 3
+    steps:
+      - name: 재점검 유실 통보
+        env:
+          WEBHOOK: ${{ secrets.JANDI_WEBHOOK_URL }}
+          RUN_URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+        run: |
+          [ -z "$WEBHOOK" ] && { echo "웹훅 미설정 → 건너뜀"; exit 0; }
+          TS=$(TZ=Asia/Seoul date '+%Y. %m. %d. %H:%M')
+          curl -sf -X POST "$WEBHOOK" -H 'Content-Type: application/json' -d @- <<EOF || echo "통보 발송 실패 (기록만 남김)"
+          {
+            "body": "⚠️ 경량 모니터링 — 1차 이상 감지 후 교차 재점검 실행 실패 — ${TS}",
+            "connectColor": "#FF9500",
+            "connectInfo": [
+              { "title": "상태", "description": "1차 러너가 이상을 감지했으나 재점검 잡이 완주하지 못해 이상 여부 미확정입니다. 다음 회차(≤30분)에서 자동 재확인됩니다." },
+              { "title": "🔗 Actions 로그", "description": "${RUN_URL}" }
+            ]
+          }
+          EOF
