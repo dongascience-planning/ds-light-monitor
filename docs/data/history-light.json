@@ -1,5 +1,30 @@
 [
   {
+    "ts": "2026-08-02T05:48:55.470Z",
+    "recheckPending": true,
+    "dsstore": {
+      "ok": false,
+      "elapsed": null,
+      "slow": false,
+      "imgBroken": false,
+      "error": "타임아웃 (20초 초과)"
+    },
+    "dotcom": {
+      "ok": false,
+      "elapsed": null,
+      "slow": false,
+      "imgBroken": false,
+      "error": "타임아웃 (20초 초과)"
+    },
+    "dl": {
+      "ok": false,
+      "elapsed": null,
+      "slow": false,
+      "imgBroken": false,
+      "error": "점검 미완료 (하드 타임아웃으로 중단)"
+    }
+  },
+  {
     "ts": "2026-08-02T05:14:36.959Z",
     "dsstore": {
       "ok": true,
@@ -1003,27 +1028,6 @@
     "dl": {
       "ok": true,
       "elapsed": 1072,
-      "slow": false,
-      "imgBroken": false
-    }
-  },
-  {
-    "ts": "2026-08-01T05:44:36.884Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 7574,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1605,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1009,
       "slow": false,
       "imgBroken": false
     }
