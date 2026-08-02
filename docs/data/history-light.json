@@ -1,5 +1,26 @@
 [
   {
+    "ts": "2026-08-02T01:44:36.391Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 9712,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 2146,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1366,
+      "slow": false,
+      "imgBroken": false
+    }
+  },
+  {
     "ts": "2026-08-02T01:10:49.969Z",
     "dsstore": {
       "ok": true,
@@ -984,30 +1005,6 @@
       "elapsed": 1989,
       "slow": false,
       "imgBroken": false
-    }
-  },
-  {
-    "ts": "2026-08-01T01:19:10.349Z",
-    "dsstore": {
-      "ok": false,
-      "elapsed": null,
-      "slow": false,
-      "imgBroken": false,
-      "error": "타임아웃 (20초 초과)"
-    },
-    "dotcom": {
-      "ok": false,
-      "elapsed": null,
-      "slow": false,
-      "imgBroken": false,
-      "error": "타임아웃 (20초 초과)"
-    },
-    "dl": {
-      "ok": false,
-      "elapsed": null,
-      "slow": false,
-      "imgBroken": false,
-      "error": "점검 미완료 (하드 타임아웃으로 중단)"
     }
   }
 ]
