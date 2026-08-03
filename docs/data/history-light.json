@@ -1,5 +1,26 @@
 [
   {
+    "ts": "2026-08-03T06:15:16.950Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 7444,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1366,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1107,
+      "slow": false,
+      "imgBroken": false
+    }
+  },
+  {
     "ts": "2026-08-03T05:44:45.747Z",
     "dsstore": {
       "ok": true,
@@ -1005,52 +1026,6 @@
       "elapsed": 1864,
       "slow": false,
       "imgBroken": false
-    }
-  },
-  {
-    "ts": "2026-08-02T05:50:00.948Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 9381,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 2173,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1616,
-      "slow": false,
-      "imgBroken": false
-    }
-  },
-  {
-    "ts": "2026-08-02T05:48:55.470Z",
-    "recheckPending": true,
-    "dsstore": {
-      "ok": false,
-      "elapsed": null,
-      "slow": false,
-      "imgBroken": false,
-      "error": "타임아웃 (20초 초과)"
-    },
-    "dotcom": {
-      "ok": false,
-      "elapsed": null,
-      "slow": false,
-      "imgBroken": false,
-      "error": "타임아웃 (20초 초과)"
-    },
-    "dl": {
-      "ok": false,
-      "elapsed": null,
-      "slow": false,
-      "imgBroken": false,
-      "error": "점검 미완료 (하드 타임아웃으로 중단)"
     }
   }
 ]
