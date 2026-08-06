@@ -1,5 +1,26 @@
 [
   {
+    "ts": "2026-08-06T23:15:41.358Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 8990,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 2232,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1617,
+      "slow": false,
+      "imgBroken": false
+    }
+  },
+  {
     "ts": "2026-08-06T22:45:13.470Z",
     "dsstore": {
       "ok": true,
@@ -793,48 +814,6 @@
     "dl": {
       "ok": true,
       "elapsed": 1505,
-      "slow": false,
-      "imgBroken": false
-    }
-  },
-  {
-    "ts": "2026-08-05T23:14:42.266Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 7560,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1416,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1134,
-      "slow": false,
-      "imgBroken": false
-    }
-  },
-  {
-    "ts": "2026-08-05T22:45:38.309Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 9888,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 2781,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1913,
       "slow": false,
       "imgBroken": false
     }
