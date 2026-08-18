@@ -1094,26 +1094,5 @@
       "slow": false,
       "imgBroken": false
     }
-  },
-  {
-    "ts": "2026-08-17T01:14:39.743Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 6386,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1478,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1422,
-      "slow": false,
-      "imgBroken": false
-    }
   }
 ]
