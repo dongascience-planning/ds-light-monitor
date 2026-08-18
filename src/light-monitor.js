@@ -46,6 +46,25 @@ const THRESHOLD_WARN = 16000; // 2026-08-01 느림 12→16초 상향 (러너 편
 const TIMEOUT_MS = 20000;
 const WEBHOOK_URL = process.env.JANDI_WEBHOOK_URL;
 const SCREENSHOT_DIR = path.join(__dirname, '..', 'screenshots-light');
+const HISTORY_PATH = path.join(__dirname, '..', 'docs', 'data', 'history-light.json');
+
+// ── 영문 번역 미적용 점검 (2026-08-14) ──────────────────────────
+// 닷컴 /en 뉴스 헤드라인의 한글 비율로 "번역 안 되고 한국어 원문 노출"을 감지.
+// 본문은 안 열고 헤드라인만 봄(경량 철학 유지). 실측: 정상 영문 0% vs 깨짐 96%로
+// 간격이 커서 40% 임계값이면 양방향 안전. up/down 판정과 독립이며, 상태 전환
+// (정상↔깨짐) 시에만 별도 ⚠️/✅를 발송해 장기 장애 중 30분마다 알림 폭탄을 막는다.
+// 전환 판정 상태는 history-light.json 항목의 dotcomEn 필드로 보존(별도 상태파일 불필요).
+// 배경: 번역 서버↔동아사이언스 서버 연동 계정 비번 만료로 /en 전체가 한글 노출된 사고.
+const EN_NEWS_URL = 'https://www.dongascience.com/en/news';
+const EN_NEWS_PATTERN = '/en/news/';
+const EN_HANGUL_THRESHOLD = 0.4;
+const EN_MIN_CHARS = 100; // 헤드라인 글자 수가 이보다 적으면 판정 보류 (잡음 방지)
+function hangulRatio(text) {
+  const hangul = (text.match(/[가-힣]/g) || []).length;
+  const latin = (text.match(/[A-Za-z]/g) || []).length;
+  const denom = hangul + latin;
+  return { ratio: denom === 0 ? 0 : hangul / denom, denom };
+}
 
 // ── 교차 재점검 (2026-08-01 오탐 대응) ──────────────────────────
 // 실사고: 특정 러너에서 동아사이언스 3도메인만 막히고 카나리(구글·네이버 등)는
@@ -59,9 +78,12 @@ const RECHECK_MODE = process.env.RECHECK_MODE === '1';
 const PENDING_TS = process.env.PENDING_TS || null;
 
 // ── 하드 타임아웃 (5분) ──────────────────────────────────────────
-// 최악 케이스: 3서비스 × (goto 20초 + ready 15초 + 재시도) ≈ 4.7분 → 5분으로 커버.
-// 강제 종료 전에 그 시점까지의 부분 결과를 저장·알림하고 종료한다
-// (타임아웃 순간이 곧 장애 순간이므로 기록·알림이 반드시 남아야 함).
+// 5분 유지: YAML timeout-minutes:8 = 셋업(캐시미스 ~2분) + 스크립트 5분 + 안전망 30초 +
+// 커밋 버퍼로 이미 꽉 참 — 여기를 올리면 YAML이 먼저 잘린다.
+// 정상 회차는 3서비스+번역 점검 모두 합쳐 ~1분 이내라 문제없음. 최악(3서비스 전부
+// goto/ready 타임아웃+재시도 ≈4.7분)에 번역 점검(SERVICES 루프 뒤 실행)이 겹치면 5분을
+// 넘길 수 있으나, 그땐 이미 up/down 이상이라 finalize가 그 부분 결과로 알림을 내보내고
+// 번역 판정만 그 회차에서 누락된다(best-effort, graceful — 30분 뒤 회차가 재판정).
 const HARD_TIMEOUT_MS = Number(process.env.HARD_TIMEOUT_MS) || 5 * 60 * 1000;
 const results = {};
 const hardTimer = setTimeout(async () => {
@@ -402,6 +424,10 @@ function saveHistory(results, runnerIssue = false, recheckPending = false) {
         ...(r.error ? { error: r.error } : {}),
       };
     }
+    // 영문 번역 판정 임베드 — 전환 감지가 이 필드로 직전 상태를 되찾는다 (별도 상태파일 불필요)
+    if (results.__dotcomEn && results.__dotcomEn.checked) {
+      entry.dotcomEn = { untranslated: results.__dotcomEn.untranslated, ratio: results.__dotcomEn.ratio };
+    }
 
     const cutoff = Date.now() - 24 * 60 * 60 * 1000;
     const updated = [entry, ...existing].filter((e) => new Date(e.ts).getTime() >= cutoff);
@@ -512,6 +538,92 @@ async function sendAlert(results, opts = {}) {
   }
 }
 
+// ── 영문 번역 미적용 점검 ───────────────────────────────────────
+// /en 뉴스 헤드라인만 읽어 한글 비율 측정 (본문 안 엶). { ratio, denom } 반환.
+async function readEnHeadlineRatio(page) {
+  await page.goto(EN_NEWS_URL, { waitUntil: 'domcontentloaded', timeout: TIMEOUT_MS });
+  await page.waitForFunction(
+    (p) => document.querySelectorAll(`a[href*="${p}"]`).length > 0,
+    EN_NEWS_PATTERN, { timeout: 10000 }
+  );
+  await delay(1000);
+  const text = await page.$$eval(
+    `a[href*="${EN_NEWS_PATTERN}"]`,
+    (as) => as.map((a) => (a.innerText || '').trim()).filter((t) => t.length > 4).join(' ')
+  );
+  return hangulRatio(text);
+}
+
+// { checked, untranslated, ratio } 반환. 로드 실패·텍스트 부족 시 checked:false (판정 보류).
+// 깨짐으로 읽히면 1회 새로고침 재확인 후 둘 다 깨졌을 때만 확정 (일시 오독 방지).
+async function checkEnTranslation(page) {
+  try {
+    let { ratio, denom } = await readEnHeadlineRatio(page);
+    if (denom < EN_MIN_CHARS) {
+      console.log(`  ⚠️ 영문 헤드라인 텍스트 부족(${denom}자) → 번역 판정 보류`);
+      return { checked: false };
+    }
+    let untranslated = ratio >= EN_HANGUL_THRESHOLD;
+    if (untranslated) {
+      await delay(1500);
+      const second = await readEnHeadlineRatio(page);
+      // 2차도 텍스트가 충분할 때만 판정 갱신. 2차가 부족하면 정상으로 단정하지 말고
+      // 판정 보류 — 진짜 깨진 상태를 '복구'로 오판해 거짓 ✅→다음 회차 거짓 ⚠️ 재발하는
+      // 스팸 벡터 차단 (2026-08-14 full-audit H2).
+      if (second.denom < EN_MIN_CHARS) {
+        console.log(`  ⚠️ 영문 번역 재확인 2차 텍스트 부족(${second.denom}자) → 판정 보류`);
+        return { checked: false };
+      }
+      ratio = second.ratio;
+      untranslated = second.ratio >= EN_HANGUL_THRESHOLD;
+      if (!untranslated) console.log('  ↩️ 영문 번역 재확인: 2차 정상 → 1차는 일시 오독으로 간주');
+    }
+    console.log(`  ${untranslated ? '❌' : '✅'} 영문 번역: 헤드라인 한글 ${(ratio * 100).toFixed(0)}%`);
+    return { checked: true, untranslated, ratio };
+  } catch (err) {
+    console.log(`  ⚠️ 영문 번역 점검 로드 실패 → 판정 보류: ${fmtError(err)}`);
+    return { checked: false };
+  }
+}
+
+// history-light.json에서 가장 최근의 유효한 영문 번역 판정을 찾아 직전 상태 반환.
+// checked:false·runnerIssue 등 dotcomEn 없는 회차는 건너뛴다 (누락·러너 공백에 강함).
+// 판정 이력이 없으면 null.
+function lastKnownEnUntranslated() {
+  try {
+    const history = JSON.parse(fs.readFileSync(HISTORY_PATH, 'utf8'));
+    for (const e of history) {
+      if (e.dotcomEn && typeof e.dotcomEn.untranslated === 'boolean') return e.dotcomEn.untranslated;
+    }
+  } catch {}
+  return null;
+}
+
+// 상태 전환 시에만 발송 (broken=true: ⚠️ 미적용 / false: ✅ 복구). up/down 알림과 별개.
+// 반환: 전달 성공(또는 발송 불필요) true / 3회 재시도 관통 실패 false — 호출부가
+// 실패 시 상태를 확정 기록하지 않아 다음 회차가 재발송하게 한다 (H2b).
+async function sendTranslationAlert(ratio, broken) {
+  if (!WEBHOOK_URL) { console.log('[Alert] JANDI_WEBHOOK_URL 미설정 → 건너뜀'); return true; }
+  const ts = new Date().toLocaleString('ko-KR', {
+    timeZone: 'Asia/Seoul', year: 'numeric', month: '2-digit', day: '2-digit', hour: '2-digit', minute: '2-digit',
+  });
+  const pct = (ratio * 100).toFixed(0);
+  const runInfo = process.env.GITHUB_RUN_URL ? [{ title: '🔗 Actions 로그', description: process.env.GITHUB_RUN_URL }] : [];
+  if (broken) {
+    const connectInfo = [
+      { title: '상태', description: `동아사이언스 닷컴 영문(/en)이 번역되지 않고 한국어 원문으로 노출되고 있습니다 (헤드라인 한글 ${pct}%). 번역 서버↔동아사이언스 서버 연동을 확인해 주세요.` },
+      ...runInfo,
+      { title: '※ 참고', description: '접속 장애가 아니라 콘텐츠(번역) 이상입니다 — 사이트 자체는 정상일 수 있습니다. 복구되면 자동으로 해제(✅) 알림이 갑니다.' },
+    ];
+    return await postJandi({ body: `⚠️ 닷컴 영문 번역 미적용 감지 — ${ts}`, connectColor: '#FF9500', connectInfo }, '영문 번역 이상 알림');
+  }
+  const connectInfo = [
+    { title: '상태', description: `동아사이언스 닷컴 영문(/en) 번역이 정상으로 복구됐습니다 (헤드라인 한글 ${pct}%).` },
+    ...runInfo,
+  ];
+  return await postJandi({ body: `✅ 닷컴 영문 번역 복구 확인 — ${ts}`, connectColor: '#34C759', connectInfo }, '영문 번역 복구 알림');
+}
+
 // ── 메인 ────────────────────────────────────────────────────────
 async function main() {
   console.log(`[${nowKST()}] 경량 모니터링 시작${RECHECK_MODE ? ' (교차 재점검 — 1차 이상의 재현 확인)' : ''}`);
@@ -542,6 +654,27 @@ async function main() {
     for (const svc of SERVICES) {
       results[svc.key] = await withRetry(() => checkMain(page, svc), svc.name);
       await delay(1000);
+    }
+
+    // 영문 번역 미적용 점검 — up/down·재점검 흐름과 독립. 상태 전환 시에만 별도 발송.
+    // 재점검(2차) 러너는 up/down 재현 확인용이므로 번역 점검 생략(1차에서 이미 처리).
+    if (!RECHECK_MODE) {
+      const en = await checkEnTranslation(page);
+      if (en.checked) {
+        const prev = lastKnownEnUntranslated(); // 이번 회차 저장 전이라 직전 상태를 반영
+        const isTransition = (en.untranslated && prev !== true) || (!en.untranslated && prev === true);
+        let persist = true;
+        if (isTransition) {
+          const delivered = await sendTranslationAlert(en.ratio, en.untranslated);
+          if (!delivered) {
+            // 전환 알림 전달 실패 → 이 상태를 확정 기록하지 않는다. 그래야 다음 회차가
+            // 같은 전환을 다시 감지해 재발송 (H2b — 알림 유실 방지). 이번 회차 대시보드 표시는 포기.
+            console.log('  ⚠️ 영문 번역 전환 알림 전달 실패 → 상태 미확정 (다음 회차 재시도)');
+            persist = false;
+          }
+        }
+        if (persist) results.__dotcomEn = { checked: true, untranslated: en.untranslated, ratio: en.ratio };
+      }
     }
   } catch (err) {
     console.error('[FATAL]', err.message);
