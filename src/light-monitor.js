@@ -555,31 +555,29 @@ async function readEnHeadlineRatio(page) {
 }
 
 // { checked, untranslated, ratio } 반환. 로드 실패·텍스트 부족 시 checked:false (판정 보류).
-// 깨짐으로 읽히면 1회 새로고침 재확인 후 둘 다 깨졌을 때만 확정 (일시 오독 방지).
+// 항상 2회 읽어 두 판정이 일치할 때만 확정한다 — 깨짐·복구 양방향 모두 일시 오독으로 인한
+// 거짓 전환(⚠️/✅ 스팸)을 차단 (2026-08-14 full-audit H2, 2026-08-18 대칭 재확인으로 확장).
 async function checkEnTranslation(page) {
   try {
-    let { ratio, denom } = await readEnHeadlineRatio(page);
-    if (denom < EN_MIN_CHARS) {
-      console.log(`  ⚠️ 영문 헤드라인 텍스트 부족(${denom}자) → 번역 판정 보류`);
+    const first = await readEnHeadlineRatio(page);
+    if (first.denom < EN_MIN_CHARS) {
+      console.log(`  ⚠️ 영문 헤드라인 텍스트 부족(${first.denom}자) → 번역 판정 보류`);
       return { checked: false };
     }
-    let untranslated = ratio >= EN_HANGUL_THRESHOLD;
-    if (untranslated) {
-      await delay(1500);
-      const second = await readEnHeadlineRatio(page);
-      // 2차도 텍스트가 충분할 때만 판정 갱신. 2차가 부족하면 정상으로 단정하지 말고
-      // 판정 보류 — 진짜 깨진 상태를 '복구'로 오판해 거짓 ✅→다음 회차 거짓 ⚠️ 재발하는
-      // 스팸 벡터 차단 (2026-08-14 full-audit H2).
-      if (second.denom < EN_MIN_CHARS) {
-        console.log(`  ⚠️ 영문 번역 재확인 2차 텍스트 부족(${second.denom}자) → 판정 보류`);
-        return { checked: false };
-      }
-      ratio = second.ratio;
-      untranslated = second.ratio >= EN_HANGUL_THRESHOLD;
-      if (!untranslated) console.log('  ↩️ 영문 번역 재확인: 2차 정상 → 1차는 일시 오독으로 간주');
+    await delay(1500);
+    const second = await readEnHeadlineRatio(page);
+    if (second.denom < EN_MIN_CHARS) {
+      console.log(`  ⚠️ 영문 번역 재확인 2차 텍스트 부족(${second.denom}자) → 판정 보류`);
+      return { checked: false };
     }
-    console.log(`  ${untranslated ? '❌' : '✅'} 영문 번역: 헤드라인 한글 ${(ratio * 100).toFixed(0)}%`);
-    return { checked: true, untranslated, ratio };
+    const u1 = first.ratio >= EN_HANGUL_THRESHOLD;
+    const u2 = second.ratio >= EN_HANGUL_THRESHOLD;
+    if (u1 !== u2) {
+      console.log(`  ↔️ 영문 번역 1·2차 판정 불일치(${(first.ratio * 100).toFixed(0)}% vs ${(second.ratio * 100).toFixed(0)}%) → 판정 보류`);
+      return { checked: false };
+    }
+    console.log(`  ${u2 ? '❌' : '✅'} 영문 번역: 헤드라인 한글 ${(second.ratio * 100).toFixed(0)}%`);
+    return { checked: true, untranslated: u2, ratio: second.ratio };
   } catch (err) {
     console.log(`  ⚠️ 영문 번역 점검 로드 실패 → 판정 보류: ${fmtError(err)}`);
     return { checked: false };
