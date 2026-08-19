@@ -948,30 +948,5 @@
       "untranslated": false,
       "ratio": 0
     }
-  },
-  {
-    "ts": "2026-08-18T09:14:39.838Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 5008,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 2112,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1606,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.02156150703586019
-    }
   }
 ]
