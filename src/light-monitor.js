@@ -547,10 +547,15 @@ async function readEnHeadlineRatio(page) {
     EN_NEWS_PATTERN, { timeout: 10000 }
   );
   await delay(1000);
-  const text = await page.$$eval(
+  const texts = await page.$$eval(
     `a[href*="${EN_NEWS_PATTERN}"]`,
-    (as) => as.map((a) => (a.innerText || '').trim()).filter((t) => t.length > 4).join(' ')
+    (as) => as.map((a) => (a.innerText || '').trim()).filter((t) => t.length > 4)
   );
+  // [인사]·[부고]는 /en에서도 국문 노출이 일상(번역 지연/제외 대상)이라 합산에서 제외 —
+  // 인사철 등 몰릴 때 번역 정상인데 임계를 넘는 오탐 방지. 제외해도 전면 붕괴는
+  // 나머지 헤드라인이 전부 한글이라 판정 불변. ※ ds-monitor src/translation-check.js의
+  // EN_HEADLINE_EXCLUDE와 동일 규칙 — 변경 시 함께 수정
+  const text = texts.filter((t) => !/^\[(인사|부고)\]/.test(t)).join(' ');
   return hangulRatio(text);
 }
 
