@@ -1,5 +1,42 @@
 [
   {
+    "ts": "2026-09-01T06:44:36.477Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 7523,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1958,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1562,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.05304286052569263,
+      "koArticles": {
+        "79701": {
+          "since": "2026-09-01T06:44:36.418Z",
+          "alerted": false,
+          "title": "\"세상의 질문에 화학으로 답한다\"…창립 50주년 한국화학연구원"
+        },
+        "79702": {
+          "since": "2026-09-01T06:44:36.418Z",
+          "alerted": false,
+          "title": "[의학바이오게시판] 질병청, 2027년도 예산안 1조4347억 편성 外"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-09-01T06:14:55.691Z",
     "dsstore": {
       "ok": true,
@@ -1270,31 +1307,6 @@
     "dl": {
       "ok": true,
       "elapsed": 1508,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0
-    }
-  },
-  {
-    "ts": "2026-08-31T06:15:00.920Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 8439,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 2065,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1641,
       "slow": false,
       "imgBroken": false
     },
