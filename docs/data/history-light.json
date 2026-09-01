@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-09-01T07:44:43.034Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 7280,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1997,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1451,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.021581046211588083,
+      "koArticles": {
+        "79705": {
+          "since": "2026-09-01T07:44:42.991Z",
+          "alerted": false,
+          "title": "창립 50주년 ETRI, AI 과학자와 함께 연구하는 미래 비전 발표"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-09-01T07:14:33.493Z",
     "dsstore": {
       "ok": true,
@@ -1295,31 +1327,6 @@
     "dotcomEn": {
       "untranslated": false,
       "ratio": 0
-    }
-  },
-  {
-    "ts": "2026-08-31T07:14:36.125Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 8777,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1907,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1605,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.02292849035187287
     }
   }
 ]
