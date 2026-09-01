@@ -57,8 +57,23 @@ const HISTORY_PATH = path.join(__dirname, '..', 'docs', 'data', 'history-light.j
 // 배경: 번역 서버↔동아사이언스 서버 연동 계정 비번 만료로 /en 전체가 한글 노출된 사고.
 const EN_NEWS_URL = 'https://www.dongascience.com/en/news';
 const EN_NEWS_PATTERN = '/en/news/';
-const EN_HANGUL_THRESHOLD = 0.4;
+// 합산 임계 0.4→0.2 인하 (2026-09-01): 15일 실측(판정 ~730건)에서 정상 최대 11.8%
+// (그마저 개별 기사 미번역+[인사] 중첩 사건 기간), 중앙값 0%. [인사]·[부고] 제외로
+// 바닥이 더 낮아져 20%면 오탐 여유 충분 + 부분 장애(기사 5~6건 동시 미번역)를 새로 잡음.
+// 전면 붕괴는 94~96%라 양방향 안전. ※ ds-monitor translation-check.js와 함께 수정
+const EN_HANGUL_THRESHOLD = 0.2;
 const EN_MIN_CHARS = 100; // 헤드라인 글자 수가 이보다 적으면 판정 보류 (잡음 방지)
+
+// ── 개별 기사 번역 미적용 추적 (2026-09-01) ──
+// 배경: 주요 기사 1건이 수 시간 미번역돼도(09-01 실제 문의, 기사 79675) 합산 비율은
+// 3~4%밖에 안 움직여 원리적으로 미탐 — 기사 단위 지속 추적으로 보완한다.
+// 15일 실측에서 평상시 한글 헤드라인 0건(중앙값 0%)이라, "동일 기사가 지속 시간 이상
+// 계속 한글"은 드문 이상 신호 = 스팸 위험 낮음. 일상적 번역 지연(발행 직후 잠깐)은
+// 지속 조건에 안 걸린다.
+const EN_ARTICLE_KO_THRESHOLD = 0.5;          // 헤드라인 1건이 "한글"로 판정되는 비율 (과반)
+const EN_ARTICLE_MIN_CHARS = 10;              // 이보다 짧은 헤드라인은 개별 판정 보류
+const EN_ARTICLE_PERSIST_MS = 2 * 3600 * 1000; // 같은 기사가 이 시간 이상 지속 한글이면 알림
+const EN_ARTICLE_MAX_TRACK = 40;              // 추적 맵 크기 상한 (안전판)
 function hangulRatio(text) {
   const hangul = (text.match(/[가-힣]/g) || []).length;
   const latin = (text.match(/[A-Za-z]/g) || []).length;
@@ -427,6 +442,8 @@ function saveHistory(results, runnerIssue = false, recheckPending = false) {
     // 영문 번역 판정 임베드 — 전환 감지가 이 필드로 직전 상태를 되찾는다 (별도 상태파일 불필요)
     if (results.__dotcomEn && results.__dotcomEn.checked) {
       entry.dotcomEn = { untranslated: results.__dotcomEn.untranslated, ratio: results.__dotcomEn.ratio };
+      // 개별 기사 추적 맵 — 다음 회차가 since(최초 한글 관측)·alerted(중복 알림 방지)를 이어받는다
+      if (results.__dotcomEn.koArticles) entry.dotcomEn.koArticles = results.__dotcomEn.koArticles;
     }
 
     const cutoff = Date.now() - 24 * 60 * 60 * 1000;
@@ -539,24 +556,41 @@ async function sendAlert(results, opts = {}) {
 }
 
 // ── 영문 번역 미적용 점검 ───────────────────────────────────────
-// /en 뉴스 헤드라인만 읽어 한글 비율 측정 (본문 안 엶). { ratio, denom } 반환.
-async function readEnHeadlineRatio(page) {
+// /en 뉴스 헤드라인만 읽어(본문 안 엶) 합산 비율 + 기사별 항목을 반환.
+// { ratio, denom, items: [{id, text}] }
+async function readEnHeadlines(page) {
   await page.goto(EN_NEWS_URL, { waitUntil: 'domcontentloaded', timeout: TIMEOUT_MS });
   await page.waitForFunction(
     (p) => document.querySelectorAll(`a[href*="${p}"]`).length > 0,
     EN_NEWS_PATTERN, { timeout: 10000 }
   );
   await delay(1000);
-  const texts = await page.$$eval(
+  const raw = await page.$$eval(
     `a[href*="${EN_NEWS_PATTERN}"]`,
-    (as) => as.map((a) => (a.innerText || '').trim()).filter((t) => t.length > 4)
+    (as) => as.map((a) => ({ href: a.getAttribute('href') || '', text: (a.innerText || '').trim() }))
+             .filter((x) => x.text.length > 4)
   );
-  // [인사]·[부고]는 /en에서도 국문 노출이 일상(번역 지연/제외 대상)이라 합산에서 제외 —
-  // 인사철 등 몰릴 때 번역 정상인데 임계를 넘는 오탐 방지. 제외해도 전면 붕괴는
-  // 나머지 헤드라인이 전부 한글이라 판정 불변. ※ ds-monitor src/translation-check.js의
-  // EN_HEADLINE_EXCLUDE와 동일 규칙 — 변경 시 함께 수정
-  const text = texts.filter((t) => !/^\[(인사|부고)\]/.test(t)).join(' ');
-  return hangulRatio(text);
+  // [인사]·[부고]는 /en에서도 국문 노출이 일상(번역 지연/제외 대상)이라 합산·개별 추적
+  // 모두에서 제외 — 인사철 등 몰릴 때 번역 정상인데 임계를 넘는 오탐 방지. 제외해도
+  // 전면 붕괴는 나머지 헤드라인이 전부 한글이라 판정 불변. ※ ds-monitor
+  // src/translation-check.js의 EN_HEADLINE_EXCLUDE와 동일 규칙 — 변경 시 함께 수정
+  const items = [];
+  const seen = new Set();
+  for (const { href, text } of raw) {
+    const m = href.match(/\/en\/news\/(\d+)/);
+    if (!m || seen.has(m[1])) continue;
+    if (/^\[(인사|부고)\]/.test(text)) continue;
+    seen.add(m[1]);
+    items.push({ id: m[1], text });
+  }
+  const { ratio, denom } = hangulRatio(items.map((i) => i.text).join(' '));
+  return { ratio, denom, items };
+}
+
+// 헤드라인 1건이 "한글 원문"인지 (짧으면 판정 보류 → false)
+function isKoHeadline(text) {
+  const { ratio, denom } = hangulRatio(text || '');
+  return denom >= EN_ARTICLE_MIN_CHARS && ratio >= EN_ARTICLE_KO_THRESHOLD;
 }
 
 // { checked, untranslated, ratio } 반환. 로드 실패·텍스트 부족 시 checked:false (판정 보류).
@@ -564,13 +598,13 @@ async function readEnHeadlineRatio(page) {
 // 거짓 전환(⚠️/✅ 스팸)을 차단 (2026-08-14 full-audit H2, 2026-08-18 대칭 재확인으로 확장).
 async function checkEnTranslation(page) {
   try {
-    const first = await readEnHeadlineRatio(page);
+    const first = await readEnHeadlines(page);
     if (first.denom < EN_MIN_CHARS) {
       console.log(`  ⚠️ 영문 헤드라인 텍스트 부족(${first.denom}자) → 번역 판정 보류`);
       return { checked: false };
     }
     await delay(1500);
-    const second = await readEnHeadlineRatio(page);
+    const second = await readEnHeadlines(page);
     if (second.denom < EN_MIN_CHARS) {
       console.log(`  ⚠️ 영문 번역 재확인 2차 텍스트 부족(${second.denom}자) → 판정 보류`);
       return { checked: false };
@@ -582,11 +616,73 @@ async function checkEnTranslation(page) {
       return { checked: false };
     }
     console.log(`  ${u2 ? '❌' : '✅'} 영문 번역: 헤드라인 한글 ${(second.ratio * 100).toFixed(0)}%`);
-    return { checked: true, untranslated: u2, ratio: second.ratio };
+    // 기사별 한글 확정: 1·2차 모두 한글로 읽힌 기사만 (일시 오독 차단 — 합산 2회 확인과 동일 철학)
+    const firstKo = new Set(first.items.filter((i) => isKoHeadline(i.text)).map((i) => i.id));
+    const koArticles = second.items.filter((i) => firstKo.has(i.id) && isKoHeadline(i.text));
+    return { checked: true, untranslated: u2, ratio: second.ratio, koArticles };
   } catch (err) {
     console.log(`  ⚠️ 영문 번역 점검 로드 실패 → 판정 보류: ${fmtError(err)}`);
     return { checked: false };
   }
+}
+
+// ── 개별 기사 지속 추적 (순수 함수 — 테스트 용이성 위해 부수효과 없음) ──
+// prevMap: 직전 회차의 추적 맵 { id: { since, alerted, title } }
+// koArticles: 이번 회차 한글 확정 기사 [{ id, text }]
+// 반환: { map: 새 추적 맵, due: 알림 대상 [{ id, since, title }] }
+// - 이번 회차에 안 보이는 기사(번역됨/목록 이탈)는 맵에서 제거 (조용한 해소)
+// - 지속 시간 미달·이미 알림된 기사는 due에 안 들어감
+function trackEnKoArticles(prevMap, koArticles, nowMs) {
+  const map = {};
+  const due = [];
+  for (const { id, text } of koArticles.slice(0, EN_ARTICLE_MAX_TRACK)) {
+    const prev = prevMap && prevMap[id];
+    const since = prev && prev.since ? prev.since : new Date(nowMs).toISOString();
+    const alerted = !!(prev && prev.alerted);
+    // 앵커 innerText에 제목 뒤 개행+본문 미리보기가 딸려오므로 첫 줄만 취해 정규화
+    const title = String(text).split('\n').shift().replace(/\s+/g, ' ').trim().slice(0, 80);
+    map[id] = { since, alerted, title };
+    if (!alerted && nowMs - new Date(since).getTime() >= EN_ARTICLE_PERSIST_MS) {
+      due.push({ id, since, title: map[id].title });
+    }
+  }
+  return { map, due };
+}
+
+// history-light.json에서 가장 최근의 개별 기사 추적 맵을 찾는다 (없으면 빈 맵).
+// dotcomEn이 있는 최신 회차 기준 — 구형 회차(koArticles 없음)는 빈 맵 취급.
+function lastKnownEnKoArticles() {
+  try {
+    const history = JSON.parse(fs.readFileSync(HISTORY_PATH, 'utf8'));
+    for (const e of history) {
+      if (e.dotcomEn && typeof e.dotcomEn.untranslated === 'boolean') {
+        return e.dotcomEn.koArticles || {};
+      }
+    }
+  } catch {}
+  return {};
+}
+
+// 개별 기사 미번역 알림 (여러 건이면 한 메시지로 묶음). 전달 성공 여부 반환 —
+// 실패 시 호출부가 alerted를 기록하지 않아 다음 회차 재발송 (H2b와 동일 철학).
+async function sendEnArticleAlert(due) {
+  if (!WEBHOOK_URL) { console.log('[Alert] JANDI_WEBHOOK_URL 미설정 → 건너뜀'); return true; }
+  const ts = new Date().toLocaleString('ko-KR', {
+    timeZone: 'Asia/Seoul', year: 'numeric', month: '2-digit', day: '2-digit', hour: '2-digit', minute: '2-digit',
+  });
+  const lines = due.map((a) => {
+    const hours = ((Date.now() - new Date(a.since).getTime()) / 3600000).toFixed(1);
+    return `· ${a.title}
+  ${hours}시간째 국문 노출 — https://www.dongascience.com/en/news/${a.id}`;
+  });
+  const connectInfo = [
+    { title: `대상 기사 ${due.length}건`, description: lines.join('\n') },
+    { title: '※ 참고', description: `사이트 전체 번역은 정상인데 이 기사만 ${(EN_ARTICLE_PERSIST_MS / 3600000).toFixed(0)}시간 이상 번역이 붙지 않고 있습니다. 번역 파이프라인에서 해당 기사 처리 상태를 확인해 주세요. 기사당 1회만 알립니다(번역되면 별도 알림 없이 종료).` },
+  ];
+  return await postJandi(
+    { body: `⚠️ 닷컴 영문 개별 기사 번역 미적용 — ${ts}`, connectColor: '#FF9500', connectInfo },
+    '개별 기사 번역 알림'
+  );
 }
 
 // history-light.json에서 가장 최근의 유효한 영문 번역 판정을 찾아 직전 상태 반환.
@@ -676,7 +772,28 @@ async function main() {
             persist = false;
           }
         }
-        if (persist) results.__dotcomEn = { checked: true, untranslated: en.untranslated, ratio: en.ratio };
+        if (persist) {
+          results.__dotcomEn = { checked: true, untranslated: en.untranslated, ratio: en.ratio };
+
+          // ── 개별 기사 지속 추적 ──
+          // 사이트 전체 미적용 중엔 개별 추적이 무의미(전부 한글) → 직전 맵을 그대로
+          // 유지해 상태만 보존하고 알림은 안 한다 (전체 복구 후 남은 기사부터 재개)
+          const prevMap = lastKnownEnKoArticles();
+          if (en.untranslated) {
+            results.__dotcomEn.koArticles = prevMap;
+          } else {
+            const { map, due } = trackEnKoArticles(prevMap, en.koArticles || [], Date.now());
+            if (due.length) {
+              console.log(`  ⚠️ 개별 기사 번역 미적용 ${due.length}건 (지속 ${(EN_ARTICLE_PERSIST_MS / 3600000).toFixed(0)}시간+) → 알림`);
+              const sent = await sendEnArticleAlert(due);
+              // 전달 성공한 경우에만 alerted 기록 — 실패 시 다음 회차 재발송 (H2b)
+              if (sent) due.forEach((a) => { if (map[a.id]) map[a.id].alerted = true; });
+            } else if (Object.keys(map).length) {
+              console.log(`  👀 개별 기사 한글 ${Object.keys(map).length}건 추적 중 (지속 시간 미달 또는 알림 완료)`);
+            }
+            results.__dotcomEn.koArticles = map;
+          }
+        }
       }
     }
   } catch (err) {
