@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-09-01T05:44:36.254Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 2824,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1410,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1058,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.030032095369096744,
+      "koArticles": {
+        "79700": {
+          "since": "2026-09-01T05:44:36.197Z",
+          "alerted": false,
+          "title": "금성에도 생명체가?…극산성 환경서 펩타이드 3차원 구조 유지"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-09-01T05:14:36.059Z",
     "dsstore": {
       "ok": true,
@@ -1243,56 +1275,6 @@
     "dotcomEn": {
       "untranslated": false,
       "ratio": 0
-    }
-  },
-  {
-    "ts": "2026-08-31T05:44:35.722Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 8307,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1885,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1552,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0
-    }
-  },
-  {
-    "ts": "2026-08-31T05:14:40.384Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 7184,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1834,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1596,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.02921040620721132
     }
   }
 ]
