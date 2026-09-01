@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-09-01T07:14:33.493Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 4966,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 2052,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1856,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.03034547152194211,
+      "koArticles": {
+        "79704": {
+          "since": "2026-09-01T07:14:33.373Z",
+          "alerted": false,
+          "title": "중국산 배추 파문…'포름알데히드', 급성 독성 일으킬 수도"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-09-01T06:44:36.477Z",
     "dsstore": {
       "ok": true,
@@ -1288,31 +1320,6 @@
     "dotcomEn": {
       "untranslated": false,
       "ratio": 0.02292849035187287
-    }
-  },
-  {
-    "ts": "2026-08-31T06:44:54.088Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 8569,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1533,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1508,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0
     }
   }
 ]
