@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-09-01T01:44:34.983Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 7431,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1865,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1698,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.028317734581233503,
+      "koArticles": {
+        "79694": {
+          "since": "2026-09-01T01:44:34.902Z",
+          "alerted": false,
+          "title": "韓 연구팀, 차세대 태양전지 효율 26.7%로 세계 신기록"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-09-01T01:14:40.782Z",
     "dsstore": {
       "ok": true,
@@ -1216,31 +1248,6 @@
     "dl": {
       "ok": true,
       "elapsed": 1415,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0
-    }
-  },
-  {
-    "ts": "2026-08-31T01:14:48.306Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 8089,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 2001,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1567,
       "slow": false,
       "imgBroken": false
     },
