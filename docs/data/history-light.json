@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-09-01T04:44:33.882Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 8033,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1816,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1608,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.023618436138500343,
+      "koArticles": {
+        "79699": {
+          "since": "2026-09-01T04:44:33.795Z",
+          "alerted": false,
+          "title": "가전제품 속 과학원리를 찾아라…'Hi(하이) 과학콘서트' 성료"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-09-01T04:14:43.471Z",
     "dsstore": {
       "ok": true,
@@ -1254,31 +1286,6 @@
     "dl": {
       "ok": true,
       "elapsed": 1214,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0
-    }
-  },
-  {
-    "ts": "2026-08-31T04:14:58.416Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 7190,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1762,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1481,
       "slow": false,
       "imgBroken": false
     },
