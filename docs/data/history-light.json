@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-09-02T01:44:54.695Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 7558,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1814,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1858,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-09-02T01:14:36.570Z",
     "dsstore": {
       "ok": true,
@@ -1347,63 +1373,6 @@
       "untranslated": false,
       "ratio": 0,
       "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-09-01T01:44:34.983Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 7431,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1865,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1698,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.028317734581233503,
-      "koArticles": {
-        "79694": {
-          "since": "2026-09-01T01:44:34.902Z",
-          "alerted": false,
-          "title": "韓 연구팀, 차세대 태양전지 효율 26.7%로 세계 신기록"
-        }
-      }
-    }
-  },
-  {
-    "ts": "2026-09-01T01:14:40.782Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 7378,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1521,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1154,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0
     }
   }
 ]
