@@ -1,5 +1,42 @@
 [
   {
+    "ts": "2026-09-02T05:14:37.529Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 6404,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1405,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1377,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.05063879210220674,
+      "koArticles": {
+        "79725": {
+          "since": "2026-09-02T05:14:37.448Z",
+          "alerted": false,
+          "title": "KAIST·포스텍·UNIST·조선대, 석박사급 AI 창업인재 육성 거점 운영"
+        },
+        "79726": {
+          "since": "2026-09-02T05:14:37.448Z",
+          "alerted": false,
+          "title": "물고기도 어려운 환경서 경쟁보다 '연대' 택한다"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-09-02T04:45:07.922Z",
     "dsstore": {
       "ok": true,
@@ -1343,32 +1380,6 @@
           "title": "금성에도 생명체가?…극산성 환경서 펩타이드 3차원 구조 유지"
         }
       }
-    }
-  },
-  {
-    "ts": "2026-09-01T05:14:36.059Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 4884,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1602,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1444,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
     }
   }
 ]
