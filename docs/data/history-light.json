@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-09-02T04:14:44.491Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 5968,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1474,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1129,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-09-02T03:44:47.545Z",
     "dsstore": {
       "ok": true,
@@ -1338,32 +1364,6 @@
           "title": "가전제품 속 과학원리를 찾아라…'Hi(하이) 과학콘서트' 성료"
         }
       }
-    }
-  },
-  {
-    "ts": "2026-09-01T04:14:43.471Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 6832,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1916,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1433,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
     }
   }
 ]
