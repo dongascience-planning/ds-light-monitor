@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-09-02T06:44:35.089Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 7896,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 2225,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1517,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-09-02T06:14:38.578Z",
     "dsstore": {
       "ok": true,
@@ -1374,32 +1400,6 @@
           "title": "[의학바이오게시판] 질병청, 2027년도 예산안 1조4347억 편성 外"
         }
       }
-    }
-  },
-  {
-    "ts": "2026-09-01T06:14:55.691Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 6399,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1580,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1104,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
     }
   }
 ]
