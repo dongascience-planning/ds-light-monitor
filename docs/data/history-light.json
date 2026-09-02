@@ -1,5 +1,27 @@
 [
   {
+    "ts": "2026-09-02T12:46:51.057Z",
+    "dsstore": {
+      "ok": false,
+      "elapsed": null,
+      "slow": false,
+      "imgBroken": false,
+      "error": "타임아웃 (20초 초과)"
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1361,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1206,
+      "slow": false,
+      "imgBroken": false
+    }
+  },
+  {
     "ts": "2026-09-02T12:45:08.426Z",
     "recheckPending": true,
     "dsstore": {
