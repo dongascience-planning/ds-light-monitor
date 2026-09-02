@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-09-02T09:14:32.653Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 4904,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 2167,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1490,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.0272789270288702,
+      "koArticles": {
+        "79734": {
+          "since": "2026-09-02T09:14:32.593Z",
+          "alerted": false,
+          "title": "실제 고기처럼 근육 구성된 배양육 키웠다"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-09-02T08:44:52.971Z",
     "dsstore": {
       "ok": true,
@@ -1366,32 +1398,6 @@
     "dl": {
       "ok": true,
       "elapsed": 1066,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-09-01T08:45:29.902Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 7885,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 2149,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1827,
       "slow": false,
       "imgBroken": false
     },
