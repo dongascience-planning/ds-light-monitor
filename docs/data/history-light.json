@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-09-02T20:44:41.576Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 6289,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1450,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1086,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-09-02T20:14:53.498Z",
     "dsstore": {
       "ok": true,
@@ -1341,32 +1367,6 @@
           "title": "[기초과학의 시간] ⑤\"우주 비밀 찾는 '예미랩', 연구비만으로 되는 것 아냐\""
         }
       }
-    }
-  },
-  {
-    "ts": "2026-09-01T20:44:39.387Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 6895,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1905,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1354,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
     }
   }
 ]
