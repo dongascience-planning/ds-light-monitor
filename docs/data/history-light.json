@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-09-02T03:44:47.545Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 6100,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1488,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1136,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-09-02T03:14:38.745Z",
     "dsstore": {
       "ok": true,
@@ -1338,84 +1364,6 @@
       "untranslated": false,
       "ratio": 0,
       "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-09-01T03:44:46.813Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 5856,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1617,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1292,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-09-01T03:14:49.290Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 6222,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1663,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1262,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.143520782396088,
-      "koArticles": {
-        "79686": {
-          "since": "2026-09-01T03:14:49.232Z",
-          "alerted": false,
-          "title": "[2027년 예산안] 원안위 R&D에 705억원 책정해 SMR 규제 마련 주력"
-        },
-        "79693": {
-          "since": "2026-09-01T03:14:49.232Z",
-          "alerted": false,
-          "title": "[2027년 예산안] R&D 역대 최대 39.5조원…AI예산 69%↑, 풀뿌리 기본연구 2배"
-        },
-        "79695": {
-          "since": "2026-09-01T03:14:49.232Z",
-          "alerted": false,
-          "title": "단풍·낙엽 왜곡 없앴다…산불 피해만 가려내는 분석 기술"
-        },
-        "79696": {
-          "since": "2026-09-01T03:14:49.232Z",
-          "alerted": false,
-          "title": "[2027년 예산안] AI 대전환 가속…과기정통부 예산 29.6조원 '역대 최대 증가폭'"
-        },
-        "79698": {
-          "since": "2026-09-01T03:14:49.232Z",
-          "alerted": false,
-          "title": "IBS 양자물질 극한물성 연구단 출범…단장에 김준성 포스텍 교수"
-        }
-      }
     }
   }
 ]
