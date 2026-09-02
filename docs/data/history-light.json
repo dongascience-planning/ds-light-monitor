@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-09-02T07:14:35.273Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 5298,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 2026,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1720,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-09-02T06:44:35.089Z",
     "dsstore": {
       "ok": true,
@@ -1329,75 +1355,6 @@
           "since": "2026-09-01T07:44:42.991Z",
           "alerted": false,
           "title": "창립 50주년 ETRI, AI 과학자와 함께 연구하는 미래 비전 발표"
-        }
-      }
-    }
-  },
-  {
-    "ts": "2026-09-01T07:14:33.493Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 4966,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 2052,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1856,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.03034547152194211,
-      "koArticles": {
-        "79704": {
-          "since": "2026-09-01T07:14:33.373Z",
-          "alerted": false,
-          "title": "중국산 배추 파문…'포름알데히드', 급성 독성 일으킬 수도"
-        }
-      }
-    }
-  },
-  {
-    "ts": "2026-09-01T06:44:36.477Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 7523,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1958,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1562,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.05304286052569263,
-      "koArticles": {
-        "79701": {
-          "since": "2026-09-01T06:44:36.418Z",
-          "alerted": false,
-          "title": "\"세상의 질문에 화학으로 답한다\"…창립 50주년 한국화학연구원"
-        },
-        "79702": {
-          "since": "2026-09-01T06:44:36.418Z",
-          "alerted": false,
-          "title": "[의학바이오게시판] 질병청, 2027년도 예산안 1조4347억 편성 外"
         }
       }
     }
