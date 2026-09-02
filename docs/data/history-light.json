@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-09-02T12:14:38.845Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 7342,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1703,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1269,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-09-02T11:44:33.686Z",
     "dsstore": {
       "ok": true,
@@ -1353,58 +1379,6 @@
           "title": "[사이언스게시판] 과기정통부, 국제천체투영관영화제 IPMF 개최 外"
         }
       }
-    }
-  },
-  {
-    "ts": "2026-09-01T12:14:35.346Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 3246,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1936,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1316,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-09-01T11:44:38.619Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 6621,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1654,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1391,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
     }
   }
 ]
