@@ -48,13 +48,12 @@
   },
   {
     "ts": "2026-09-02T14:15:06.046Z",
-    "recheckPending": true,
     "dsstore": {
       "ok": false,
       "elapsed": null,
       "slow": false,
       "imgBroken": false,
-      "error": "타임아웃 (20초 초과)"
+      "error": "타임아웃 (20초 초과) · 교차 재점검 통과 → 러너 경로 문제 또는 단기 자연복구로 판정 (사후 정정 09-02)"
     },
     "dotcom": {
       "ok": true,
@@ -72,7 +71,8 @@
       "untranslated": false,
       "ratio": 0,
       "koArticles": {}
-    }
+    },
+    "runnerIssue": true
   },
   {
     "ts": "2026-09-02T13:44:43.369Z",
@@ -127,30 +127,7 @@
     }
   },
   {
-    "ts": "2026-09-02T12:46:51.057Z",
-    "dsstore": {
-      "ok": false,
-      "elapsed": null,
-      "slow": false,
-      "imgBroken": false,
-      "error": "타임아웃 (20초 초과)"
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1361,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1206,
-      "slow": false,
-      "imgBroken": false
-    }
-  },
-  {
     "ts": "2026-09-02T12:45:08.426Z",
-    "recheckPending": true,
     "dsstore": {
       "ok": false,
       "elapsed": null,
@@ -174,7 +151,8 @@
       "untranslated": false,
       "ratio": 0,
       "koArticles": {}
-    }
+    },
+    "recheckConfirmed": true
   },
   {
     "ts": "2026-09-02T12:14:38.845Z",
