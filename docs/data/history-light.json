@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-09-02T02:44:49.292Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 5048,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1532,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1458,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.03138075313807531,
+      "koArticles": {
+        "79718": {
+          "since": "2026-09-02T02:14:53.180Z",
+          "alerted": false,
+          "title": "물범이 탐사한 겨울 남극 바다…온난 심층수 유입 확인"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-09-02T02:14:53.269Z",
     "dsstore": {
       "ok": true,
@@ -1358,32 +1390,6 @@
           "title": "IBS 양자물질 극한물성 연구단 출범…단장에 김준성 포스텍 교수"
         }
       }
-    }
-  },
-  {
-    "ts": "2026-09-01T02:44:32.449Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 4907,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1786,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1489,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
     }
   }
 ]
