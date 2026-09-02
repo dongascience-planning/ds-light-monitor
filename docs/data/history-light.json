@@ -1,5 +1,42 @@
 [
   {
+    "ts": "2026-09-02T04:45:07.922Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 5914,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1716,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1273,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.059080459770114946,
+      "koArticles": {
+        "79721": {
+          "since": "2026-09-02T04:45:07.876Z",
+          "alerted": false,
+          "title": "피 정화해 암 퍼지는 길목 막는다…UNIST, 암 전이 억제 도전"
+        },
+        "79722": {
+          "since": "2026-09-02T04:45:07.876Z",
+          "alerted": false,
+          "title": "햇빛부터 실내조명까지…낮밤 없이 충전되는 '광충전 배터리'"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-09-02T04:14:44.491Z",
     "dsstore": {
       "ok": true,
@@ -1332,38 +1369,6 @@
       "untranslated": false,
       "ratio": 0,
       "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-09-01T04:44:33.882Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 8033,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1816,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1608,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.023618436138500343,
-      "koArticles": {
-        "79699": {
-          "since": "2026-09-01T04:44:33.795Z",
-          "alerted": false,
-          "title": "가전제품 속 과학원리를 찾아라…'Hi(하이) 과학콘서트' 성료"
-        }
-      }
     }
   }
 ]
