@@ -1,5 +1,33 @@
 [
   {
+    "ts": "2026-09-02T12:45:08.426Z",
+    "recheckPending": true,
+    "dsstore": {
+      "ok": false,
+      "elapsed": null,
+      "slow": false,
+      "imgBroken": false,
+      "error": "타임아웃 (20초 초과)"
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1872,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1606,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-09-02T12:14:38.845Z",
     "dsstore": {
       "ok": true,
@@ -1342,43 +1370,6 @@
       "untranslated": false,
       "ratio": 0,
       "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-09-01T12:44:39.516Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 6741,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1697,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1310,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.04823304680038205,
-      "koArticles": {
-        "79710": {
-          "since": "2026-09-01T12:44:39.465Z",
-          "alerted": false,
-          "title": "[과기원NOW] KAIST, AI로 6배 늘어나는 3D프린팅 소재 개발 外"
-        },
-        "79711": {
-          "since": "2026-09-01T12:44:39.465Z",
-          "alerted": false,
-          "title": "[사이언스게시판] 과기정통부, 국제천체투영관영화제 IPMF 개최 外"
-        }
-      }
     }
   }
 ]
