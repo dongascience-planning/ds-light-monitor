@@ -33,8 +33,12 @@ jobs:
       pending_ts: ${{ steps.monitoring.outputs.pending_ts }}
 
     steps:
+      # ref: main — 기본값(트리거 시점 커밋)은 대기열 지연 시 낡은 이력을 읽어
+      # dedup 오판 가능 (2026-09-02 발견된 재점검 미발견 버그와 동일 원리)
       - name: 저장소 체크아웃
         uses: actions/checkout@v4
+        with:
+          ref: main
 
       - name: 실행 여부 사전 체크
         id: precheck
@@ -186,8 +190,15 @@ jobs:
       completed: ${{ steps.recheck-run.outputs.completed }}
 
     steps:
+      # ⚠️ ref: main 필수 (2026-09-02 버그 수정) — 기본값은 워크플로우 트리거 시점
+      # 커밋이라, monitor 잡이 방금 push한 1차 기록(recheckPending)이 체크아웃에 없어
+      # resolvePendingRecord가 "1차 기록 미발견"으로 매번 건너뛰었다. 그 결과
+      # 오탐이 runnerIssue로 정정되지 않고(요약·대시보드 오염), 확정 케이스는
+      # 이중 계상됐다. ref: main이면 잡 시작 시점의 최신 main(1차 push 포함)을 읽는다
       - name: 저장소 체크아웃
         uses: actions/checkout@v4
+        with:
+          ref: main
 
       - name: Node.js 설정
         uses: actions/setup-node@v4
