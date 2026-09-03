@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-09-03T08:44:36.394Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 5755,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1505,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1076,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-09-03T08:14:45.587Z",
     "dsstore": {
       "ok": true,
@@ -1306,48 +1332,6 @@
       "untranslated": false,
       "ratio": 0,
       "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-09-02T08:14:58.914Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 6334,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1888,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1601,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.08547794117647059,
-      "koArticles": {
-        "79731": {
-          "since": "2026-09-02T08:14:58.854Z",
-          "alerted": false,
-          "title": "[의학바이오게시판] 삼성서울병원, 위암 로봇수술 1500례 달성"
-        },
-        "79732": {
-          "since": "2026-09-02T08:14:58.854Z",
-          "alerted": false,
-          "title": "[과기원NOW] GIST-DGIST, 적색광·근적외선 따로 읽는 웨어러블 광센서 개발 外"
-        },
-        "79733": {
-          "since": "2026-09-02T08:14:58.854Z",
-          "alerted": false,
-          "title": "[사이언스게시판] 과기정통부, 제3회 특별성과 포상금제 수상자 발표 外"
-        }
-      }
     }
   }
 ]
