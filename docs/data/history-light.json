@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-09-03T07:44:45.510Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 6129,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1515,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1237,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.026227303295225286,
+      "koArticles": {
+        "79756": {
+          "since": "2026-09-03T07:44:45.449Z",
+          "alerted": false,
+          "title": "[의학바이오게시판] 7일부터 지역의사 첫 수시 모집…이사·전학 요건 확인해야"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-09-03T07:14:38.182Z",
     "dsstore": {
       "ok": true,
@@ -1288,38 +1320,6 @@
           "since": "2026-09-02T08:14:58.854Z",
           "alerted": false,
           "title": "[사이언스게시판] 과기정통부, 제3회 특별성과 포상금제 수상자 발표 外"
-        }
-      }
-    }
-  },
-  {
-    "ts": "2026-09-02T07:44:37.413Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 8529,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 2025,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1823,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.02723385100157551,
-      "koArticles": {
-        "79730": {
-          "since": "2026-09-02T07:44:37.357Z",
-          "alerted": false,
-          "title": "생리통·산후우울증…여성 위한 '뇌 자극 치료' 시대 열리나"
         }
       }
     }
