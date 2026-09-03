@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-09-03T07:14:38.182Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 5919,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1497,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1144,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-09-03T06:44:52.789Z",
     "dsstore": {
       "ok": true,
@@ -1296,32 +1322,6 @@
           "title": "생리통·산후우울증…여성 위한 '뇌 자극 치료' 시대 열리나"
         }
       }
-    }
-  },
-  {
-    "ts": "2026-09-02T07:14:35.273Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 5298,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 2026,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1720,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
     }
   }
 ]
