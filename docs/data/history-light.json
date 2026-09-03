@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-09-03T05:14:43.064Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 6504,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1426,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1301,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-09-03T04:44:36.672Z",
     "dsstore": {
       "ok": true,
@@ -1296,80 +1322,6 @@
       "untranslated": false,
       "ratio": 0,
       "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-09-02T05:14:37.529Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 6404,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1405,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1377,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.05063879210220674,
-      "koArticles": {
-        "79725": {
-          "since": "2026-09-02T05:14:37.448Z",
-          "alerted": false,
-          "title": "KAIST·포스텍·UNIST·조선대, 석박사급 AI 창업인재 육성 거점 운영"
-        },
-        "79726": {
-          "since": "2026-09-02T05:14:37.448Z",
-          "alerted": false,
-          "title": "물고기도 어려운 환경서 경쟁보다 '연대' 택한다"
-        }
-      }
-    }
-  },
-  {
-    "ts": "2026-09-02T04:45:07.922Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 5914,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1716,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1273,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.059080459770114946,
-      "koArticles": {
-        "79721": {
-          "since": "2026-09-02T04:45:07.876Z",
-          "alerted": false,
-          "title": "피 정화해 암 퍼지는 길목 막는다…UNIST, 암 전이 억제 도전"
-        },
-        "79722": {
-          "since": "2026-09-02T04:45:07.876Z",
-          "alerted": false,
-          "title": "햇빛부터 실내조명까지…낮밤 없이 충전되는 '광충전 배터리'"
-        }
-      }
     }
   }
 ]
