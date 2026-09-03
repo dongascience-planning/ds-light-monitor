@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-09-03T14:15:07.039Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 6742,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1556,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1097,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-09-03T13:44:43.381Z",
     "dsstore": {
       "ok": true,
@@ -1287,33 +1313,5 @@
       "slow": false,
       "imgBroken": false
     }
-  },
-  {
-    "ts": "2026-09-02T14:15:06.046Z",
-    "dsstore": {
-      "ok": false,
-      "elapsed": null,
-      "slow": false,
-      "imgBroken": false,
-      "error": "타임아웃 (20초 초과) · 교차 재점검 통과 → 러너 경로 문제 또는 단기 자연복구로 판정 (사후 정정 09-02)"
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1640,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1718,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    },
-    "runnerIssue": true
   }
 ]
