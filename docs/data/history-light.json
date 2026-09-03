@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-09-03T04:14:35.677Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 7642,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1724,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1461,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.028299750962191533,
+      "koArticles": {
+        "79748": {
+          "since": "2026-09-03T04:14:35.617Z",
+          "alerted": false,
+          "title": "'탈모 유전자' 보유 男, 위고비 맞으면 탈모 가능성 7% ↑"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-09-03T03:44:37.702Z",
     "dsstore": {
       "ok": true,
@@ -1331,32 +1363,6 @@
     "dl": {
       "ok": true,
       "elapsed": 1129,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-09-02T03:44:47.545Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 6100,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1488,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1136,
       "slow": false,
       "imgBroken": false
     },
