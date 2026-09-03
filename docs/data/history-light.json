@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-09-03T04:44:36.672Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 7121,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1754,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1189,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-09-03T04:14:35.677Z",
     "dsstore": {
       "ok": true,
@@ -1344,32 +1370,6 @@
           "title": "햇빛부터 실내조명까지…낮밤 없이 충전되는 '광충전 배터리'"
         }
       }
-    }
-  },
-  {
-    "ts": "2026-09-02T04:14:44.491Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 5968,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1474,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1129,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
     }
   }
 ]
