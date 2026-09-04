@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-09-04T03:51:20.778Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 5859,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1675,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1233,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.026003649635036496,
+      "koArticles": {
+        "79771": {
+          "since": "2026-09-04T03:51:20.677Z",
+          "alerted": false,
+          "title": "표준연 “2032년 IBM 양자컴퓨터 따라잡겠다”"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-09-04T03:15:08.978Z",
     "dsstore": {
       "ok": true,
@@ -1192,32 +1224,6 @@
           "title": "'탈모 유전자' 보유 男, 위고비 맞으면 탈모 가능성 7% ↑"
         }
       }
-    }
-  },
-  {
-    "ts": "2026-09-03T03:44:37.702Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 6116,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1790,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1132,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
     }
   }
 ]
