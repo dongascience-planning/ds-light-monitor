@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-09-04T06:16:17.070Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 7478,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1826,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1962,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.027639329406434075,
+      "koArticles": {
+        "79775": {
+          "since": "2026-09-04T06:16:17.022Z",
+          "alerted": false,
+          "title": "도심 수소충전소 고압설비 지하로…폭발 위험 50% 낮춘다"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-09-04T05:46:23.544Z",
     "dsstore": {
       "ok": true,
@@ -1159,32 +1191,6 @@
     "dl": {
       "ok": true,
       "elapsed": 1241,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-09-03T06:15:16.514Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 7324,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1588,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1594,
       "slow": false,
       "imgBroken": false
     },
