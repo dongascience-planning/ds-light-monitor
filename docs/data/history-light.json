@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-09-04T01:46:53.391Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 6882,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1525,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1232,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.030109489051094892,
+      "koArticles": {
+        "79764": {
+          "since": "2026-09-04T01:46:53.335Z",
+          "alerted": false,
+          "title": "시운전 중 조작 실수로 자동정지된 새울 3호기 원전 재가동 승인"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-09-04T00:50:13.839Z",
     "dsstore": {
       "ok": true,
@@ -1187,58 +1219,6 @@
           "title": "KAIST·삼성, 이산화탄소 6000배 '반도체 온실가스' 분해 촉매 개발"
         }
       }
-    }
-  },
-  {
-    "ts": "2026-09-03T01:44:55.305Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 6383,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1965,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1070,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-09-03T01:14:41.895Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 6792,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1525,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1255,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
     }
   }
 ]
