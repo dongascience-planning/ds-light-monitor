@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-09-04T08:51:34.976Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 5282,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1936,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 2085,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.027784103848781598,
+      "koArticles": {
+        "79780": {
+          "since": "2026-09-04T08:51:34.920Z",
+          "alerted": false,
+          "title": "슈퍼커패시터 '기공 막힘' 줄였다…급속 충·방전에도 용량 92% 유지"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-09-04T07:51:37.754Z",
     "dsstore": {
       "ok": true,
@@ -1120,58 +1152,6 @@
           "title": "차세대 초저전력 소자 후보 '엑시톤 응축체' 정밀 관측·제어 방법 제시"
         }
       }
-    }
-  },
-  {
-    "ts": "2026-09-03T08:44:36.394Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 5755,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1505,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1076,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-09-03T08:14:45.587Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 4906,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 2160,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1500,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
     }
   }
 ]
