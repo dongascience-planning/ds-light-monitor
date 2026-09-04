@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-09-04T07:51:37.754Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 7580,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 2207,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1155,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-09-04T06:51:34.154Z",
     "dsstore": {
       "ok": true,
@@ -1139,64 +1165,6 @@
     "dl": {
       "ok": true,
       "elapsed": 1500,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-09-03T07:44:45.510Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 6129,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1515,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1237,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.026227303295225286,
-      "koArticles": {
-        "79756": {
-          "since": "2026-09-03T07:44:45.449Z",
-          "alerted": false,
-          "title": "[의학바이오게시판] 7일부터 지역의사 첫 수시 모집…이사·전학 요건 확인해야"
-        }
-      }
-    }
-  },
-  {
-    "ts": "2026-09-03T07:14:38.182Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 5919,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1497,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1144,
       "slow": false,
       "imgBroken": false
     },
