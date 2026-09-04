@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-09-04T09:49:50.442Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 5179,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 2128,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1339,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-09-04T08:51:34.976Z",
     "dsstore": {
       "ok": true,
@@ -1084,74 +1110,6 @@
       "untranslated": false,
       "ratio": 0,
       "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-09-03T09:44:48.246Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 9066,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1711,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1206,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-09-03T09:14:47.099Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 8194,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 2067,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1760,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.07302464869845658,
-      "koArticles": {
-        "79752": {
-          "since": "2026-09-03T09:14:47.008Z",
-          "alerted": false,
-          "title": "[과기원NOW] UNIST, 로봇 거리 추정 학습 기술 '페뎁스' 개발 外"
-        },
-        "79759": {
-          "since": "2026-09-03T09:14:47.008Z",
-          "alerted": false,
-          "title": "[사이언스게시판] NST, 딥테크 기획창업 투자·사업화 위한 ‘2026 ITX’ 개최 外"
-        },
-        "79760": {
-          "since": "2026-09-03T09:14:47.008Z",
-          "alerted": false,
-          "title": "차세대 초저전력 소자 후보 '엑시톤 응축체' 정밀 관측·제어 방법 제시"
-        }
-      }
     }
   }
 ]
