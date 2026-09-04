@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-09-04T03:15:08.978Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 5848,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1514,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1156,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.028216704288939052,
+      "koArticles": {
+        "79768": {
+          "since": "2026-09-04T03:15:08.885Z",
+          "alerted": false,
+          "title": "KIST, 출연연 기술 해외로 잇는다…\"美 거점 이어 '아시아판 호라이즌 유럽' 구상\""
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-09-04T02:44:48.115Z",
     "dsstore": {
       "ok": true,
@@ -1186,38 +1218,6 @@
       "untranslated": false,
       "ratio": 0,
       "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-09-03T03:14:44.523Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 8628,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1756,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1793,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.02896237172177879,
-      "koArticles": {
-        "79747": {
-          "since": "2026-09-03T03:14:44.429Z",
-          "alerted": false,
-          "title": "후텁지근한 날씨는 끝…서쪽·내륙 맑고 동해안·제주는 비"
-        }
-      }
     }
   }
 ]
