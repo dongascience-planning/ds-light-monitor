@@ -1,5 +1,42 @@
 [
   {
+    "ts": "2026-09-04T02:17:21.019Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 8291,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 2094,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1713,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.05834495583449558,
+      "koArticles": {
+        "79765": {
+          "since": "2026-09-04T02:17:20.965Z",
+          "alerted": false,
+          "title": "박남규 교수 연구팀, 차세대 태양전지 수명 대폭 늘리고 최고 효율 달성"
+        },
+        "79767": {
+          "since": "2026-09-04T02:17:20.965Z",
+          "alerted": false,
+          "title": "韓 용융염원자로 기술 덴마크에 수출…30억원 규모"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-09-04T01:46:53.391Z",
     "dsstore": {
       "ok": true,
@@ -1185,38 +1222,6 @@
           "since": "2026-09-03T02:44:37.448Z",
           "alerted": false,
           "title": "위성영상으로 산불피해 면적 10분내 분석하는 AI 챗봇"
-        }
-      }
-    }
-  },
-  {
-    "ts": "2026-09-03T02:14:32.261Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 5203,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 2160,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 2009,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.027039007092198582,
-      "koArticles": {
-        "79743": {
-          "since": "2026-09-03T02:14:32.202Z",
-          "alerted": false,
-          "title": "KAIST·삼성, 이산화탄소 6000배 '반도체 온실가스' 분해 촉매 개발"
         }
       }
     }
