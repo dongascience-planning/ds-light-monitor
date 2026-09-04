@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-09-04T02:44:48.115Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 5226,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1881,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1599,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-09-04T02:17:21.019Z",
     "dsstore": {
       "ok": true,
@@ -1190,38 +1216,6 @@
           "since": "2026-09-03T03:14:44.429Z",
           "alerted": false,
           "title": "후텁지근한 날씨는 끝…서쪽·내륙 맑고 동해안·제주는 비"
-        }
-      }
-    }
-  },
-  {
-    "ts": "2026-09-03T02:44:37.538Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 7730,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1770,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1452,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.027888446215139442,
-      "koArticles": {
-        "79745": {
-          "since": "2026-09-03T02:44:37.448Z",
-          "alerted": false,
-          "title": "위성영상으로 산불피해 면적 10분내 분석하는 AI 챗봇"
         }
       }
     }
