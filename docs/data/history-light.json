@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-09-05T04:14:32.568Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 5649,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1810,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1670,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-09-05T03:44:40.123Z",
     "dsstore": {
       "ok": true,
@@ -1107,38 +1133,6 @@
       "untranslated": false,
       "ratio": 0,
       "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-09-04T03:51:20.778Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 5859,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1675,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1233,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.026003649635036496,
-      "koArticles": {
-        "79771": {
-          "since": "2026-09-04T03:51:20.677Z",
-          "alerted": false,
-          "title": "표준연 “2032년 IBM 양자컴퓨터 따라잡겠다”"
-        }
-      }
     }
   }
 ]
