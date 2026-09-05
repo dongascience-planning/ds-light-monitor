@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-09-05T02:44:35.433Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 7586,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1969,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 2019,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-09-05T02:14:37.782Z",
     "dsstore": {
       "ok": true,
@@ -1119,43 +1145,6 @@
       "untranslated": false,
       "ratio": 0,
       "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-09-04T02:17:21.019Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 8291,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 2094,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1713,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.05834495583449558,
-      "koArticles": {
-        "79765": {
-          "since": "2026-09-04T02:17:20.965Z",
-          "alerted": false,
-          "title": "박남규 교수 연구팀, 차세대 태양전지 수명 대폭 늘리고 최고 효율 달성"
-        },
-        "79767": {
-          "since": "2026-09-04T02:17:20.965Z",
-          "alerted": false,
-          "title": "韓 용융염원자로 기술 덴마크에 수출…30억원 규모"
-        }
-      }
     }
   }
 ]
