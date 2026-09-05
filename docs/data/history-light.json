@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-09-05T03:14:34.482Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 8730,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 2053,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1648,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-09-05T02:44:35.433Z",
     "dsstore": {
       "ok": true,
@@ -1119,32 +1145,6 @@
           "title": "KIST, 출연연 기술 해외로 잇는다…\"美 거점 이어 '아시아판 호라이즌 유럽' 구상\""
         }
       }
-    }
-  },
-  {
-    "ts": "2026-09-04T02:44:48.115Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 5226,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1881,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1599,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
     }
   }
 ]
