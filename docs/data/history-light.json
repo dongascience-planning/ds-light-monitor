@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-09-05T09:44:46.358Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 8390,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 2052,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1547,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.025844004656577414,
+      "koArticles": {
+        "79785": {
+          "since": "2026-09-05T09:44:46.257Z",
+          "alerted": false,
+          "title": "[과기원NOW] KAIST, 틀린 곳만 고치는 AI 비서 'SafeQL' 개발 外"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-09-05T09:14:36.803Z",
     "dsstore": {
       "ok": true,
