@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-09-05T09:14:36.803Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 8769,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1957,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1477,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.04516434145187988,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-09-05T08:44:44.614Z",
     "dsstore": {
       "ok": true,
@@ -1167,38 +1193,6 @@
       "untranslated": false,
       "ratio": 0,
       "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-09-04T08:51:34.976Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 5282,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1936,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 2085,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.027784103848781598,
-      "koArticles": {
-        "79780": {
-          "since": "2026-09-04T08:51:34.920Z",
-          "alerted": false,
-          "title": "슈퍼커패시터 '기공 막힘' 줄였다…급속 충·방전에도 용량 92% 유지"
-        }
-      }
     }
   }
 ]
