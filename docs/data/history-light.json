@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-09-05T07:14:29.890Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 4860,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 2120,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1802,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-09-05T06:44:31.469Z",
     "dsstore": {
       "ok": true,
@@ -1121,38 +1147,6 @@
       "untranslated": false,
       "ratio": 0,
       "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-09-04T06:51:34.154Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 5098,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 2043,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1740,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.026758938869665513,
-      "koArticles": {
-        "79778": {
-          "since": "2026-09-04T06:51:34.097Z",
-          "alerted": false,
-          "title": "'꿈과 창의성' 파고든 김재경 KAIST 교수, 아시아 젊은 과학자 선정"
-        }
-      }
     }
   }
 ]
