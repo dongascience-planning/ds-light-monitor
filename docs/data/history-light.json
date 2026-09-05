@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-09-05T01:14:46.830Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 6466,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1524,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1360,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-09-05T00:44:41.249Z",
     "dsstore": {
       "ok": true,
@@ -1110,32 +1136,6 @@
           "title": "시운전 중 조작 실수로 자동정지된 새울 3호기 원전 재가동 승인"
         }
       }
-    }
-  },
-  {
-    "ts": "2026-09-04T00:50:13.839Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 5768,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1474,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1246,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
     }
   }
 ]
