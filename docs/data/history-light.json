@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-09-06T09:14:47.846Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 5871,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1514,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1084,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.031746031746031744,
+      "koArticles": {
+        "79682": {
+          "since": "2026-09-06T09:14:47.789Z",
+          "alerted": false,
+          "title": "지구 자기장, 오래된 도자기 나이 알려준다"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-09-06T08:44:38.266Z",
     "dsstore": {
       "ok": true,
@@ -1261,58 +1293,6 @@
           "title": "[과기원NOW] KAIST, 틀린 곳만 고치는 AI 비서 'SafeQL' 개발 外"
         }
       }
-    }
-  },
-  {
-    "ts": "2026-09-05T09:14:36.803Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 8769,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1957,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1477,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.04516434145187988,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-09-05T08:44:44.614Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 2973,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1617,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1417,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
     }
   }
 ]
