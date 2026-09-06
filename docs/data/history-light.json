@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-09-06T23:44:32.712Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 4523,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1647,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1222,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-09-06T23:14:39.854Z",
     "dsstore": {
       "ok": true,
@@ -1317,32 +1343,6 @@
           "title": "[표지로 읽는 과학] 더 물러날 곳 없는 고산지대 식물"
         }
       }
-    }
-  },
-  {
-    "ts": "2026-09-05T23:14:51.343Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 6479,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1671,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1567,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
     }
   }
 ]
