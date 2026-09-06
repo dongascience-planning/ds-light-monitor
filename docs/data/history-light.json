@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-09-06T11:14:38.705Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 6405,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1514,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1232,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.03181595692608909,
+      "koArticles": {
+        "79682": {
+          "since": "2026-09-06T09:14:47.789Z",
+          "alerted": false,
+          "title": "지구 자기장, 오래된 도자기 나이 알려준다"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-09-06T10:44:31.976Z",
     "dsstore": {
       "ok": true,
@@ -1272,58 +1304,6 @@
     "dl": {
       "ok": true,
       "elapsed": 1343,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-09-05T11:14:36.146Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 5796,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1948,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1772,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-09-05T10:44:34.438Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 8392,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 2204,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1916,
       "slow": false,
       "imgBroken": false
     },
