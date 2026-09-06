@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-09-06T09:44:34.776Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 8494,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 2405,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1583,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.031746031746031744,
+      "koArticles": {
+        "79682": {
+          "since": "2026-09-06T09:14:47.789Z",
+          "alerted": false,
+          "title": "지구 자기장, 오래된 도자기 나이 알려준다"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-09-06T09:14:47.846Z",
     "dsstore": {
       "ok": true,
