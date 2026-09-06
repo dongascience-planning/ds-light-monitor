@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-09-06T10:14:40.235Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 6009,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1439,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1693,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.03181595692608909,
+      "koArticles": {
+        "79682": {
+          "since": "2026-09-06T09:14:47.789Z",
+          "alerted": false,
+          "title": "지구 자기장, 오래된 도자기 나이 알려준다"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-09-06T09:44:34.776Z",
     "dsstore": {
       "ok": true,
@@ -1267,64 +1299,6 @@
       "untranslated": false,
       "ratio": 0,
       "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-09-05T10:14:37.640Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 6383,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1558,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1330,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-09-05T09:44:46.358Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 8390,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 2052,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1547,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.025844004656577414,
-      "koArticles": {
-        "79785": {
-          "since": "2026-09-05T09:44:46.257Z",
-          "alerted": false,
-          "title": "[과기원NOW] KAIST, 틀린 곳만 고치는 AI 비서 'SafeQL' 개발 外"
-        }
-      }
     }
   }
 ]
