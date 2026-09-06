@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-09-06T04:14:33.718Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 4905,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1860,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1512,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.020803782505910164,
+      "koArticles": {
+        "79792": {
+          "since": "2026-09-06T04:14:33.664Z",
+          "alerted": false,
+          "title": "[과기원NOW] GIST, '2026 GIST 청렴집중주간‘ 운영"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-09-06T03:44:51.832Z",
     "dsstore": {
       "ok": true,
@@ -1248,32 +1280,6 @@
     "dl": {
       "ok": true,
       "elapsed": 1247,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-09-05T04:14:32.568Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 5649,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1810,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1670,
       "slow": false,
       "imgBroken": false
     },
