@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-09-07T02:44:34.864Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 6141,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 2155,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1768,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-09-07T02:14:43.657Z",
     "dsstore": {
       "ok": true,
@@ -1299,32 +1325,6 @@
           "title": "차세대 심장약, 임상3상 실패에 학계 충격"
         }
       }
-    }
-  },
-  {
-    "ts": "2026-09-06T02:14:56.551Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 4861,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 2018,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1257,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
     }
   }
 ]
