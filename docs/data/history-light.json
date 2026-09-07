@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-09-07T07:44:38.109Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 7393,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 2002,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1376,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.026284060766819387,
+      "koArticles": {
+        "79805": {
+          "since": "2026-09-07T07:44:38.027Z",
+          "alerted": false,
+          "title": "원자력 안전·SMR 논하는 국제방사선차폐학회 10월 제주서 열린다"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-09-07T07:14:33.620Z",
     "dsstore": {
       "ok": true,
@@ -1271,58 +1303,6 @@
     "dl": {
       "ok": true,
       "elapsed": 1698,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-09-06T07:44:36.171Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 5451,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1880,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1458,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-09-06T07:14:48.078Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 7691,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1536,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1984,
       "slow": false,
       "imgBroken": false
     },
