@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-09-07T00:14:37.901Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 6563,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1628,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1193,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-09-06T23:44:32.712Z",
     "dsstore": {
       "ok": true,
@@ -1309,38 +1335,6 @@
           "since": "2026-09-06T00:14:45.590Z",
           "alerted": false,
           "title": "\"4~8년 뒤 시간 표준 원자시계에서 광시계로…한국이 중심 역할\""
-        }
-      }
-    }
-  },
-  {
-    "ts": "2026-09-05T23:44:40.965Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 4592,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1571,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1578,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.029686377783097916,
-      "koArticles": {
-        "79783": {
-          "since": "2026-09-05T23:44:40.922Z",
-          "alerted": false,
-          "title": "[표지로 읽는 과학] 더 물러날 곳 없는 고산지대 식물"
         }
       }
     }
