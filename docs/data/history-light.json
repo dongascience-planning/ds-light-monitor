@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-09-07T02:14:43.657Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 6152,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1329,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1232,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-09-07T01:44:35.367Z",
     "dsstore": {
       "ok": true,
@@ -1299,38 +1325,6 @@
       "untranslated": false,
       "ratio": 0,
       "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-09-06T01:44:39.723Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 6509,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1533,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1218,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.02888086642599278,
-      "koArticles": {
-        "79788": {
-          "since": "2026-09-06T01:44:39.624Z",
-          "alerted": false,
-          "title": "돼지 신장으로 버티고 인간 신장 이식…'가교 치료' 첫 성공"
-        }
-      }
     }
   }
 ]
