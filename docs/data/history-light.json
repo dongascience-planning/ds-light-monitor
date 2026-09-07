@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-09-07T05:44:37.894Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 6706,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1675,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1509,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.02516522623284189,
+      "koArticles": {
+        "79799": {
+          "since": "2026-09-07T05:44:37.816Z",
+          "alerted": false,
+          "title": "유럽 첫 상업용 로켓 궤도 진입 성공…뉴스페이스 중심 옮겨갈까"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-09-07T05:14:36.309Z",
     "dsstore": {
       "ok": true,
