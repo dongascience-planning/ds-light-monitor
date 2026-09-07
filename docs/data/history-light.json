@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-09-07T00:44:39.446Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 6287,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1527,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1131,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-09-07T00:14:37.901Z",
     "dsstore": {
       "ok": true,
@@ -1279,64 +1305,6 @@
       "untranslated": false,
       "ratio": 0,
       "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-09-06T00:44:33.152Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 5419,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 2003,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1771,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-09-06T00:14:45.649Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 5659,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 2029,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1782,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.02926481084939329,
-      "koArticles": {
-        "79781": {
-          "since": "2026-09-06T00:14:45.590Z",
-          "alerted": false,
-          "title": "\"4~8년 뒤 시간 표준 원자시계에서 광시계로…한국이 중심 역할\""
-        }
-      }
     }
   }
 ]
