@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-09-07T08:44:53.142Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 7066,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1669,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1387,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-09-07T08:14:37.404Z",
     "dsstore": {
       "ok": true,
@@ -1284,32 +1310,6 @@
           "title": "지구 자기장, 오래된 도자기 나이 알려준다"
         }
       }
-    }
-  },
-  {
-    "ts": "2026-09-06T08:44:38.266Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 6181,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 2023,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1206,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
     }
   }
 ]
