@@ -1,5 +1,42 @@
 [
   {
+    "ts": "2026-09-07T03:14:38.839Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 7615,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1983,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1483,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.056490082852121516,
+      "koArticles": {
+        "79796": {
+          "since": "2026-09-07T03:14:38.785Z",
+          "alerted": false,
+          "title": "저렴한 망간 배터리, 전기차용 대형 배터리 상용화 가능성 높여"
+        },
+        "79797": {
+          "since": "2026-09-07T03:14:38.785Z",
+          "alerted": false,
+          "title": "배터리 '가짜 신호' 잡는 나노 분석 기술 개발"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-09-07T02:44:34.864Z",
     "dsstore": {
       "ok": true,
@@ -1291,38 +1328,6 @@
           "since": "2026-09-06T03:14:41.630Z",
           "alerted": false,
           "title": "‘꿈의 소재’ 초전도 선재 정밀·연속 측정하는 비접촉 기술"
-        }
-      }
-    }
-  },
-  {
-    "ts": "2026-09-06T02:44:36.134Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 6263,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1566,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1219,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.030310319942266056,
-      "koArticles": {
-        "79789": {
-          "since": "2026-09-06T02:44:36.088Z",
-          "alerted": false,
-          "title": "차세대 심장약, 임상3상 실패에 학계 충격"
         }
       }
     }
