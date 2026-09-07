@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-09-07T09:14:43.617Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 6310,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1699,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1318,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.028501827040194883,
+      "koArticles": {
+        "79807": {
+          "since": "2026-09-07T09:14:43.554Z",
+          "alerted": false,
+          "title": "\"조마조마한 모습 끝낸다\"…기계연 휴머노이드 '카이로스' 내년 V1 완성"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-09-07T08:44:53.142Z",
     "dsstore": {
       "ok": true,
