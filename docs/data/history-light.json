@@ -1,5 +1,42 @@
 [
   {
+    "ts": "2026-09-08T05:14:43.531Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 6221,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1591,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1268,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.05733397037744864,
+      "koArticles": {
+        "79816": {
+          "since": "2026-09-08T05:14:43.441Z",
+          "alerted": false,
+          "title": "AI로 설계한 폐질환 신약, 노화 늦췄다"
+        },
+        "79818": {
+          "since": "2026-09-08T05:14:43.441Z",
+          "alerted": false,
+          "title": "100세 최고령 환자, 서울아산병원서 대동맥 박리 수술 후 건강히 퇴원"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-09-08T04:44:38.969Z",
     "dsstore": {
       "ok": true,
@@ -1206,64 +1243,6 @@
           "since": "2026-09-07T05:44:37.816Z",
           "alerted": false,
           "title": "유럽 첫 상업용 로켓 궤도 진입 성공…뉴스페이스 중심 옮겨갈까"
-        }
-      }
-    }
-  },
-  {
-    "ts": "2026-09-07T05:14:36.309Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 6545,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1638,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1211,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-09-07T04:44:47.173Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 7354,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1882,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1480,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.029938650306748468,
-      "koArticles": {
-        "79798": {
-          "since": "2026-09-07T04:44:47.117Z",
-          "alerted": false,
-          "title": "'원자 한 개 두께' 2차원 반도체 성능 260배 끌어올렸다"
         }
       }
     }
