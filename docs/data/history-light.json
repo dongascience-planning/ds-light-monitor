@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-09-08T03:44:54.021Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 5999,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1638,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1326,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.03167311411992263,
+      "koArticles": {
+        "79813": {
+          "since": "2026-09-08T03:44:53.966Z",
+          "alerted": false,
+          "title": "연구부정 연구자, 국가연구개발활동 참여제한 10년→20년"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-09-08T03:14:36.419Z",
     "dsstore": {
       "ok": true,
@@ -1208,69 +1240,6 @@
       "untranslated": false,
       "ratio": 0,
       "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-09-07T03:44:33.973Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 5088,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1869,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1914,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-09-07T03:14:38.839Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 7615,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1983,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1483,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.056490082852121516,
-      "koArticles": {
-        "79796": {
-          "since": "2026-09-07T03:14:38.785Z",
-          "alerted": false,
-          "title": "저렴한 망간 배터리, 전기차용 대형 배터리 상용화 가능성 높여"
-        },
-        "79797": {
-          "since": "2026-09-07T03:14:38.785Z",
-          "alerted": false,
-          "title": "배터리 '가짜 신호' 잡는 나노 분석 기술 개발"
-        }
-      }
     }
   }
 ]
