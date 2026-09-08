@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-09-08T10:44:40.353Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 8714,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1952,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1459,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-09-08T10:14:35.575Z",
     "dsstore": {
       "ok": true,
@@ -1240,69 +1266,6 @@
       "untranslated": false,
       "ratio": 0,
       "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-09-07T10:44:38.813Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 6650,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1601,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1243,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-09-07T10:14:50.353Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 5942,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1705,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1654,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.04965243296921549,
-      "koArticles": {
-        "79808": {
-          "since": "2026-09-07T10:14:50.305Z",
-          "alerted": false,
-          "title": "[사이언스게시판] 과기정통부 '2026 기술개발인의 날' 기념식 개최 外"
-        },
-        "79809": {
-          "since": "2026-09-07T10:14:50.305Z",
-          "alerted": false,
-          "title": "[과기원NOW] GIST, 배터리산업 미래 짚는 '배터리X전남·광주 2026' 개최 外"
-        }
-      }
     }
   }
 ]
