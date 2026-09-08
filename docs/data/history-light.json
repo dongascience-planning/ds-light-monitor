@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-09-08T02:44:35.336Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 6532,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1558,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1139,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-09-08T02:14:39.734Z",
     "dsstore": {
       "ok": true,
@@ -1219,58 +1245,6 @@
           "title": "배터리 '가짜 신호' 잡는 나노 분석 기술 개발"
         }
       }
-    }
-  },
-  {
-    "ts": "2026-09-07T02:44:34.864Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 6141,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 2155,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1768,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-09-07T02:14:43.657Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 6152,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1329,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1232,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
     }
   }
 ]
