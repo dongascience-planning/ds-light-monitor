@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-09-08T08:44:33.730Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 5150,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1918,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1468,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.02368237752495937,
+      "koArticles": {
+        "79822": {
+          "since": "2026-09-08T08:44:33.672Z",
+          "alerted": false,
+          "title": "AI 클로드, 10년 걸릴 '페르마의 마지막 정리' 증명 검증 11일 만에"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-09-08T08:14:53.997Z",
     "dsstore": {
       "ok": true,
