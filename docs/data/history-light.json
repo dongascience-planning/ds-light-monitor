@@ -1,5 +1,47 @@
 [
   {
+    "ts": "2026-09-08T09:14:37.092Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 6917,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1666,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1326,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.08837890625,
+      "koArticles": {
+        "79825": {
+          "since": "2026-09-08T09:14:37.029Z",
+          "alerted": false,
+          "title": "[사이언스게시판] 우주항공청, 국제 거대전파망원경 사업 본격 추진 外"
+        },
+        "79826": {
+          "since": "2026-09-08T09:14:37.029Z",
+          "alerted": false,
+          "title": "전력 소모 100분의 1로 낮춘 차세대 메모리"
+        },
+        "79828": {
+          "since": "2026-09-08T09:14:37.029Z",
+          "alerted": false,
+          "title": "[과기원NOW] DGIST, 동대구벤처밸리 내 '대구 딥테크 창업허브' 조성 착수 外"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-09-08T08:44:33.730Z",
     "dsstore": {
       "ok": true,
@@ -1273,32 +1315,6 @@
           "title": "\"조마조마한 모습 끝낸다\"…기계연 휴머노이드 '카이로스' 내년 V1 완성"
         }
       }
-    }
-  },
-  {
-    "ts": "2026-09-07T08:44:53.142Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 7066,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1669,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1387,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
     }
   }
 ]
