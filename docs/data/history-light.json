@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-09-08T04:14:43.748Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 6576,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1564,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1089,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-09-08T03:44:54.021Z",
     "dsstore": {
       "ok": true,
@@ -1214,32 +1240,6 @@
           "title": "'원자 한 개 두께' 2차원 반도체 성능 260배 끌어올렸다"
         }
       }
-    }
-  },
-  {
-    "ts": "2026-09-07T04:14:32.453Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 5181,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 2237,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1541,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
     }
   }
 ]
