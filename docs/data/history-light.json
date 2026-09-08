@@ -1,5 +1,42 @@
 [
   {
+    "ts": "2026-09-08T05:44:37.134Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 6547,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1759,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1425,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.05635148042024833,
+      "koArticles": {
+        "79816": {
+          "since": "2026-09-08T05:14:43.441Z",
+          "alerted": false,
+          "title": "AI로 설계한 폐질환 신약, 노화 늦췄다"
+        },
+        "79817": {
+          "since": "2026-09-08T05:44:37.041Z",
+          "alerted": false,
+          "title": "포스트 PBS 시대, 출연연 핵심임무 연내 대국민 공개"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-09-08T05:14:43.531Z",
     "dsstore": {
       "ok": true,
@@ -1213,38 +1250,6 @@
       "untranslated": false,
       "ratio": 0,
       "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-09-07T05:44:37.894Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 6706,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1675,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1509,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.02516522623284189,
-      "koArticles": {
-        "79799": {
-          "since": "2026-09-07T05:44:37.816Z",
-          "alerted": false,
-          "title": "유럽 첫 상업용 로켓 궤도 진입 성공…뉴스페이스 중심 옮겨갈까"
-        }
-      }
     }
   }
 ]
