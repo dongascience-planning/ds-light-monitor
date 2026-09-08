@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-09-08T07:44:38.522Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 7266,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1820,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1504,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-09-08T07:14:37.278Z",
     "dsstore": {
       "ok": true,
@@ -1241,38 +1267,6 @@
       "untranslated": false,
       "ratio": 0,
       "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-09-07T07:44:38.109Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 7393,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 2002,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1376,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.026284060766819387,
-      "koArticles": {
-        "79805": {
-          "since": "2026-09-07T07:44:38.027Z",
-          "alerted": false,
-          "title": "원자력 안전·SMR 논하는 국제방사선차폐학회 10월 제주서 열린다"
-        }
-      }
     }
   }
 ]
