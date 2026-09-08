@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-09-08T09:44:34.338Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 3189,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1500,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1132,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-09-08T09:14:37.092Z",
     "dsstore": {
       "ok": true,
@@ -1249,70 +1275,6 @@
           "since": "2026-09-07T10:14:50.305Z",
           "alerted": false,
           "title": "[과기원NOW] GIST, 배터리산업 미래 짚는 '배터리X전남·광주 2026' 개최 外"
-        }
-      }
-    }
-  },
-  {
-    "ts": "2026-09-07T09:44:35.648Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 8087,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1961,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1904,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.028501827040194883,
-      "koArticles": {
-        "79807": {
-          "since": "2026-09-07T09:14:43.554Z",
-          "alerted": false,
-          "title": "\"조마조마한 모습 끝낸다\"…기계연 휴머노이드 '카이로스' 내년 V1 완성"
-        }
-      }
-    }
-  },
-  {
-    "ts": "2026-09-07T09:14:43.617Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 6310,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1699,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1318,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.028501827040194883,
-      "koArticles": {
-        "79807": {
-          "since": "2026-09-07T09:14:43.554Z",
-          "alerted": false,
-          "title": "\"조마조마한 모습 끝낸다\"…기계연 휴머노이드 '카이로스' 내년 V1 완성"
         }
       }
     }
