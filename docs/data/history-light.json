@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-09-09T03:14:46.985Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 6025,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1577,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1419,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": true,
+      "ratio": 0.20499060906895628,
+      "koArticles": {
+        "79836": {
+          "since": "2026-09-09T02:14:51.704Z",
+          "alerted": false,
+          "title": "8월부터 퍼진 독감에 코로나19까지…\"가을·겨울까지 이어질 수도\""
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-09-09T02:44:44.202Z",
     "dsstore": {
       "ok": true,
@@ -1304,32 +1336,6 @@
           "title": "연구부정 연구자, 국가연구개발활동 참여제한 10년→20년"
         }
       }
-    }
-  },
-  {
-    "ts": "2026-09-08T03:14:36.419Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 7105,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 2358,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 2009,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
     }
   }
 ]
