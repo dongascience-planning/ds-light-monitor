@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-09-09T05:44:36.259Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 4875,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1711,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1527,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-09-09T05:14:41.450Z",
     "dsstore": {
       "ok": true,
@@ -1304,80 +1330,6 @@
           "since": "2026-09-08T06:14:33.305Z",
           "alerted": false,
           "title": "내년 창립 50돌 맞는 한국연구재단…AI 시대 R&D 혁신 논의"
-        }
-      }
-    }
-  },
-  {
-    "ts": "2026-09-08T05:44:37.134Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 6547,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1759,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1425,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.05635148042024833,
-      "koArticles": {
-        "79816": {
-          "since": "2026-09-08T05:14:43.441Z",
-          "alerted": false,
-          "title": "AI로 설계한 폐질환 신약, 노화 늦췄다"
-        },
-        "79817": {
-          "since": "2026-09-08T05:44:37.041Z",
-          "alerted": false,
-          "title": "포스트 PBS 시대, 출연연 핵심임무 연내 대국민 공개"
-        }
-      }
-    }
-  },
-  {
-    "ts": "2026-09-08T05:14:43.531Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 6221,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1591,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1268,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.05733397037744864,
-      "koArticles": {
-        "79816": {
-          "since": "2026-09-08T05:14:43.441Z",
-          "alerted": false,
-          "title": "AI로 설계한 폐질환 신약, 노화 늦췄다"
-        },
-        "79818": {
-          "since": "2026-09-08T05:14:43.441Z",
-          "alerted": false,
-          "title": "100세 최고령 환자, 서울아산병원서 대동맥 박리 수술 후 건강히 퇴원"
         }
       }
     }
