@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-09-09T06:44:42.687Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 6832,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1987,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1617,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.024772143024071044,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-09-09T06:14:38.049Z",
     "dsstore": {
       "ok": true,
@@ -1292,38 +1318,6 @@
           "since": "2026-09-08T07:14:37.216Z",
           "alerted": false,
           "title": "\"과총 '황제 의전' 출장 매뉴얼 즉각 폐기해야\""
-        }
-      }
-    }
-  },
-  {
-    "ts": "2026-09-08T06:44:43.890Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 8565,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1877,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1572,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.02485345838218054,
-      "koArticles": {
-        "79819": {
-          "since": "2026-09-08T06:14:33.305Z",
-          "alerted": false,
-          "title": "내년 창립 50돌 맞는 한국연구재단…AI 시대 R&D 혁신 논의"
         }
       }
     }
