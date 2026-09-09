@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-09-09T06:14:38.049Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 6831,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1808,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1230,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-09-09T05:44:36.259Z",
     "dsstore": {
       "ok": true,
@@ -1287,38 +1313,6 @@
     "dl": {
       "ok": true,
       "elapsed": 1572,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.02485345838218054,
-      "koArticles": {
-        "79819": {
-          "since": "2026-09-08T06:14:33.305Z",
-          "alerted": false,
-          "title": "내년 창립 50돌 맞는 한국연구재단…AI 시대 R&D 혁신 논의"
-        }
-      }
-    }
-  },
-  {
-    "ts": "2026-09-08T06:14:33.363Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 5001,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1707,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1541,
       "slow": false,
       "imgBroken": false
     },
