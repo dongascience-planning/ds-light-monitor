@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-09-09T07:14:47.046Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 5017,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1675,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1363,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.03266913809082484,
+      "koArticles": {
+        "79843": {
+          "since": "2026-09-09T07:14:46.989Z",
+          "alerted": false,
+          "title": "뇌 신경망 독성평가 표준화한다…독성연, 다중전극칩 데이터, 동일 기준으로 분석"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-09-09T06:44:42.687Z",
     "dsstore": {
       "ok": true,
@@ -1283,43 +1315,6 @@
       "untranslated": false,
       "ratio": 0,
       "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-09-08T07:14:37.278Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 8157,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1940,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1931,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.056407835732829835,
-      "koArticles": {
-        "79820": {
-          "since": "2026-09-08T07:14:37.216Z",
-          "alerted": false,
-          "title": "비만치료제 성분 '세마글루타이드', 천식 발작 위험도 줄인다"
-        },
-        "79821": {
-          "since": "2026-09-08T07:14:37.216Z",
-          "alerted": false,
-          "title": "\"과총 '황제 의전' 출장 매뉴얼 즉각 폐기해야\""
-        }
-      }
     }
   }
 ]
