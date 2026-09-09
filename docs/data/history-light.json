@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-09-09T21:44:34.787Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 6089,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1737,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1103,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.025240936209270308,
+      "koArticles": {
+        "79846": {
+          "since": "2026-09-09T21:44:34.745Z",
+          "alerted": false,
+          "title": "中 남서부 동굴서 데니소바인 화석 발견"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-09-09T21:14:53.422Z",
     "dsstore": {
       "ok": true,
