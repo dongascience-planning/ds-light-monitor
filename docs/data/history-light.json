@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-09-10T07:44:40.267Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 6030,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1500,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1266,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-09-10T07:14:40.258Z",
     "dsstore": {
       "ok": true,
@@ -1251,64 +1277,6 @@
       "untranslated": false,
       "ratio": 0,
       "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-09-09T07:44:37.776Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 4680,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1629,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1265,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-09-09T07:14:47.046Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 5017,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1675,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1363,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.03266913809082484,
-      "koArticles": {
-        "79843": {
-          "since": "2026-09-09T07:14:46.989Z",
-          "alerted": false,
-          "title": "뇌 신경망 독성평가 표준화한다…독성연, 다중전극칩 데이터, 동일 기준으로 분석"
-        }
-      }
     }
   }
 ]
