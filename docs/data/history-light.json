@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-09-10T01:44:35.625Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 6315,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1540,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1178,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.02760036496350365,
+      "koArticles": {
+        "79856": {
+          "since": "2026-09-10T01:44:35.580Z",
+          "alerted": false,
+          "title": "국내 첫 동물용 방사성의약품 '싸이로키티' 승인"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-09-10T01:14:37.938Z",
     "dsstore": {
       "ok": true,
@@ -1275,58 +1307,6 @@
           "title": "8월부터 퍼진 독감에 코로나19까지…\"가을·겨울까지 이어질 수도\""
         }
       }
-    }
-  },
-  {
-    "ts": "2026-09-09T01:44:32.508Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 5187,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 2246,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1561,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-09-09T01:16:46.004Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 3254,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1626,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1235,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
     }
   }
 ]
