@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-09-10T06:14:32.035Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 3147,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1608,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1285,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.027268560953253897,
+      "koArticles": {
+        "79860": {
+          "since": "2026-09-10T06:14:31.953Z",
+          "alerted": false,
+          "title": "졸다 쓰러진 개·쥐로 '수면' 비밀 밝힌 과학자들 '래스커상' 수상"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-09-10T05:44:43.524Z",
     "dsstore": {
       "ok": true,
