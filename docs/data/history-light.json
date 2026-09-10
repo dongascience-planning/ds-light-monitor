@@ -1,5 +1,42 @@
 [
   {
+    "ts": "2026-09-10T13:14:55.325Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 8679,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 2078,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1699,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.05264434740417273,
+      "koArticles": {
+        "79863": {
+          "since": "2026-09-10T13:14:55.230Z",
+          "alerted": false,
+          "title": "[과기원NOW] UNIST, 사용자 취향 반영해 답변 내놓는 AI 개발했다 外"
+        },
+        "79864": {
+          "since": "2026-09-10T13:14:55.230Z",
+          "alerted": false,
+          "title": "[사이언스게시판] 과기정통부, 4극3특 지역 자율 R&D 사업 출범 外"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-09-10T12:44:46.571Z",
     "dsstore": {
       "ok": true,
@@ -1228,32 +1265,6 @@
     "dl": {
       "ok": true,
       "elapsed": 1819,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-09-09T13:14:37.312Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 7193,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 2199,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1859,
       "slow": false,
       "imgBroken": false
     },
