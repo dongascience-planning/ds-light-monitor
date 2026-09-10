@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-09-10T08:44:44.785Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 8317,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1857,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1527,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-09-10T08:14:39.368Z",
     "dsstore": {
       "ok": true,
@@ -1235,74 +1261,6 @@
           "title": "올해 첫 일본뇌염 환자 발생…기저질환으로 입원 치료 중"
         }
       }
-    }
-  },
-  {
-    "ts": "2026-09-09T08:44:40.290Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 5604,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1468,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1132,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.07865168539325842,
-      "koArticles": {
-        "79848": {
-          "since": "2026-09-09T08:44:40.230Z",
-          "alerted": false,
-          "title": "[사이언스게시판] NST, 23개 출연연에 ONEST 메신저·지식포털 배포 外"
-        },
-        "79849": {
-          "since": "2026-09-09T08:44:40.230Z",
-          "alerted": false,
-          "title": "[과기원NOW] UNIST, 빗방울보다 적은 물로 45시간 동안 전기 생산 外"
-        },
-        "79850": {
-          "since": "2026-09-09T08:44:40.230Z",
-          "alerted": false,
-          "title": "[의학바이오게시판] 삼성서울병원, 16일 휴머노이드형 수술보조로봇 일반에 첫 공개"
-        }
-      }
-    }
-  },
-  {
-    "ts": "2026-09-09T08:15:13.451Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 8544,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1942,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1604,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
     }
   }
 ]
