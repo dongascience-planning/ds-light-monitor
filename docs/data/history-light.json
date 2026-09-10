@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-09-10T02:15:22.903Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 5953,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1574,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1217,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-09-10T01:44:35.625Z",
     "dsstore": {
       "ok": true,
@@ -1262,38 +1288,6 @@
     "dl": {
       "ok": true,
       "elapsed": 1568,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.033308099924299776,
-      "koArticles": {
-        "79836": {
-          "since": "2026-09-09T02:14:51.704Z",
-          "alerted": false,
-          "title": "8월부터 퍼진 독감에 코로나19까지…\"가을·겨울까지 이어질 수도\""
-        }
-      }
-    }
-  },
-  {
-    "ts": "2026-09-09T02:14:51.761Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 6203,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1640,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1257,
       "slow": false,
       "imgBroken": false
     },
