@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-09-10T09:44:32.645Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 5535,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 2047,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1382,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-09-10T09:14:38.514Z",
     "dsstore": {
       "ok": true,
@@ -1235,64 +1261,6 @@
       "untranslated": false,
       "ratio": 0,
       "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-09-09T09:44:33.102Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 5791,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 2119,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1756,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-09-09T09:14:46.934Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 6376,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1494,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1322,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.026923076923076925,
-      "koArticles": {
-        "79852": {
-          "since": "2026-09-09T09:14:46.877Z",
-          "alerted": false,
-          "title": "올해 첫 일본뇌염 환자 발생…기저질환으로 입원 치료 중"
-        }
-      }
     }
   }
 ]
