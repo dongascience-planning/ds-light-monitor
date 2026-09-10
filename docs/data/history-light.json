@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-09-10T04:44:48.156Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 6800,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1709,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1356,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.05765271105010295,
+      "koArticles": {
+        "79858": {
+          "since": "2026-09-10T04:44:48.081Z",
+          "alerted": false,
+          "title": "韓 공기청정 기술, 미세먼지 심한 인도 열차에 실린다"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-09-10T04:14:32.254Z",
     "dsstore": {
       "ok": true,
@@ -1249,70 +1281,6 @@
           "since": "2026-09-09T05:14:41.331Z",
           "alerted": false,
           "title": "위고비, 아동에게도 허용될까…10명 중 4명 비만 탈출"
-        }
-      }
-    }
-  },
-  {
-    "ts": "2026-09-09T04:44:32.251Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 5291,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 2026,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1688,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": true,
-      "ratio": 0.20499060906895628,
-      "koArticles": {
-        "79836": {
-          "since": "2026-09-09T02:14:51.704Z",
-          "alerted": false,
-          "title": "8월부터 퍼진 독감에 코로나19까지…\"가을·겨울까지 이어질 수도\""
-        }
-      }
-    }
-  },
-  {
-    "ts": "2026-09-09T04:14:39.020Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 6195,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1612,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1651,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": true,
-      "ratio": 0.20499060906895628,
-      "koArticles": {
-        "79836": {
-          "since": "2026-09-09T02:14:51.704Z",
-          "alerted": false,
-          "title": "8월부터 퍼진 독감에 코로나19까지…\"가을·겨울까지 이어질 수도\""
         }
       }
     }
