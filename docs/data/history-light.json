@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-09-10T05:14:47.041Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 6377,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1580,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1257,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-09-10T04:44:48.156Z",
     "dsstore": {
       "ok": true,
@@ -1251,38 +1277,6 @@
       "untranslated": false,
       "ratio": 0,
       "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-09-09T05:14:41.450Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 5716,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1516,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1224,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.024662082048849895,
-      "koArticles": {
-        "79841": {
-          "since": "2026-09-09T05:14:41.331Z",
-          "alerted": false,
-          "title": "위고비, 아동에게도 허용될까…10명 중 4명 비만 탈출"
-        }
-      }
     }
   }
 ]
