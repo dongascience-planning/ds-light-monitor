@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-09-11T04:14:33.662Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 7109,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1491,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1324,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-09-11T03:44:45.839Z",
     "dsstore": {
       "ok": true,
@@ -1266,32 +1292,6 @@
           "title": "韓 공기청정 기술, 미세먼지 심한 인도 열차에 실린다"
         }
       }
-    }
-  },
-  {
-    "ts": "2026-09-10T04:14:32.254Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 5039,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1893,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1638,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
     }
   }
 ]
