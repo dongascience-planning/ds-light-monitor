@@ -1,5 +1,42 @@
 [
   {
+    "ts": "2026-09-11T09:14:46.378Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 6363,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1463,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1294,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.05819222513713332,
+      "koArticles": {
+        "79881": {
+          "since": "2026-09-11T09:14:46.320Z",
+          "alerted": false,
+          "title": "독감은 감기와 달라…\"근육통에 고열 지속되면 병원 가야\""
+        },
+        "79882": {
+          "since": "2026-09-11T09:14:46.320Z",
+          "alerted": false,
+          "title": "[과기원NOW] 한순규 KAIST 교수, '오가닉 신세시스' 편집위원회 위원 선출 外"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-09-11T08:44:51.145Z",
     "dsstore": {
       "ok": true,
@@ -1260,38 +1297,6 @@
       "untranslated": false,
       "ratio": 0,
       "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-09-10T09:14:38.514Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 8151,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1816,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1406,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.029481692819781264,
-      "koArticles": {
-        "79861": {
-          "since": "2026-09-10T09:14:38.455Z",
-          "alerted": false,
-          "title": "[혼돈의 출연연] 닻 올린 행정통합…'기대와 우려' 공존하는 현장"
-        }
-      }
     }
   }
 ]
