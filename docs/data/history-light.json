@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-09-11T23:14:35.110Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 5915,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1496,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1230,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-09-11T22:44:33.975Z",
     "dsstore": {
       "ok": true,
@@ -1292,32 +1318,6 @@
           "title": "[씨즈더퓨처] 연말에 기후재난 또 온다?"
         }
       }
-    }
-  },
-  {
-    "ts": "2026-09-10T22:45:00.411Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 6332,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1516,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1476,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
     }
   }
 ]
