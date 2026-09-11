@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-09-11T05:44:46.324Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 6602,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1778,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1238,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.028347545517400322,
+      "koArticles": {
+        "79875": {
+          "since": "2026-09-11T05:44:46.270Z",
+          "alerted": false,
+          "title": "대한민국 대표 국가과학기술자 20명 뽑는다…연간 1억원 최대 5년 지원"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-09-11T05:14:40.760Z",
     "dsstore": {
       "ok": true,
@@ -1266,58 +1298,6 @@
           "title": "졸다 쓰러진 개·쥐로 '수면' 비밀 밝힌 과학자들 '래스커상' 수상"
         }
       }
-    }
-  },
-  {
-    "ts": "2026-09-10T05:44:43.524Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 6148,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1448,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1258,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-09-10T05:14:47.041Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 6377,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1580,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1257,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
     }
   }
 ]
