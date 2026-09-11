@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-09-11T08:44:51.145Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 6582,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1441,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1112,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-09-11T08:14:40.285Z",
     "dsstore": {
       "ok": true,
@@ -1266,32 +1292,6 @@
           "title": "[혼돈의 출연연] 닻 올린 행정통합…'기대와 우려' 공존하는 현장"
         }
       }
-    }
-  },
-  {
-    "ts": "2026-09-10T08:44:44.785Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 8317,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1857,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1527,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
     }
   }
 ]
