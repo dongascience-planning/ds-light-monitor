@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-09-11T01:14:36.418Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 6283,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1822,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1378,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-09-11T00:45:04.660Z",
     "dsstore": {
       "ok": true,
@@ -1272,32 +1298,6 @@
           "title": "국내 첫 동물용 방사성의약품 '싸이로키티' 승인"
         }
       }
-    }
-  },
-  {
-    "ts": "2026-09-10T01:14:37.938Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 6250,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1655,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1254,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
     }
   }
 ]
