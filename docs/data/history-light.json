@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-09-11T02:44:37.155Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 6797,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1713,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1188,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-09-11T02:14:36.351Z",
     "dsstore": {
       "ok": true,
@@ -1272,58 +1298,6 @@
           "title": "고가 장비 없이 이차전지 연구 한번에…공동활용 플랫폼 공개"
         }
       }
-    }
-  },
-  {
-    "ts": "2026-09-10T02:44:34.656Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 4993,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 2018,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1578,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-09-10T02:15:22.903Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 5953,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1574,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1217,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
     }
   }
 ]
