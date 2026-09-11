@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-09-11T00:45:04.660Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 8925,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1777,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1497,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-09-11T00:14:38.057Z",
     "dsstore": {
       "ok": true,
@@ -1272,64 +1298,6 @@
       "untranslated": false,
       "ratio": 0,
       "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-09-10T00:44:48.037Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 5932,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1476,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1378,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-09-10T00:14:45.248Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 5961,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1458,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1195,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.029458780543503083,
-      "koArticles": {
-        "79853": {
-          "since": "2026-09-10T00:14:45.192Z",
-          "alerted": false,
-          "title": "박테리아 표면에 '금속 도금'해 중증 감염질환 진단"
-        }
-      }
     }
   }
 ]
