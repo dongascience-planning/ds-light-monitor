@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-09-11T13:14:35.321Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 8168,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1915,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1489,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-09-11T12:44:39.891Z",
     "dsstore": {
       "ok": true,
@@ -1303,32 +1329,6 @@
           "title": "[사이언스게시판] 과기정통부, 4극3특 지역 자율 R&D 사업 출범 外"
         }
       }
-    }
-  },
-  {
-    "ts": "2026-09-10T12:44:46.571Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 6206,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1388,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1208,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
     }
   }
 ]
