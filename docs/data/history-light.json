@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-09-11T06:14:36.578Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 8306,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1890,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 2039,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-09-11T05:44:46.324Z",
     "dsstore": {
       "ok": true,
@@ -1266,38 +1292,6 @@
       "untranslated": false,
       "ratio": 0,
       "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-09-10T06:14:32.035Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 3147,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1608,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1285,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.027268560953253897,
-      "koArticles": {
-        "79860": {
-          "since": "2026-09-10T06:14:31.953Z",
-          "alerted": false,
-          "title": "졸다 쓰러진 개·쥐로 '수면' 비밀 밝힌 과학자들 '래스커상' 수상"
-        }
-      }
     }
   }
 ]
