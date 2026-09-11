@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-09-11T05:14:40.760Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 8202,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1907,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1777,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.032114392873886545,
+      "koArticles": {
+        "79874": {
+          "since": "2026-09-11T05:14:40.660Z",
+          "alerted": false,
+          "title": "40년간 이론에 머문 '플라스틱 섞임' 첫 확인…접착제 없이 붙는 플라스틱"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-09-11T04:44:36.007Z",
     "dsstore": {
       "ok": true,
@@ -1286,38 +1318,6 @@
       "untranslated": false,
       "ratio": 0,
       "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-09-10T04:44:48.156Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 6800,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1709,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1356,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.05765271105010295,
-      "koArticles": {
-        "79858": {
-          "since": "2026-09-10T04:44:48.081Z",
-          "alerted": false,
-          "title": "韓 공기청정 기술, 미세먼지 심한 인도 열차에 실린다"
-        }
-      }
     }
   }
 ]
