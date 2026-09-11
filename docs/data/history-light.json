@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-09-11T01:44:40.010Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 6428,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 2181,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1330,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-09-11T01:14:36.418Z",
     "dsstore": {
       "ok": true,
@@ -1266,38 +1292,6 @@
       "untranslated": false,
       "ratio": 0,
       "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-09-10T01:44:35.625Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 6315,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1540,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1178,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.02760036496350365,
-      "koArticles": {
-        "79856": {
-          "since": "2026-09-10T01:44:35.580Z",
-          "alerted": false,
-          "title": "국내 첫 동물용 방사성의약품 '싸이로키티' 승인"
-        }
-      }
     }
   }
 ]
