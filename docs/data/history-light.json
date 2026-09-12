@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-09-12T04:44:50.241Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 5200,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1674,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1550,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-09-12T04:14:36.260Z",
     "dsstore": {
       "ok": true,
@@ -1248,32 +1274,6 @@
           "title": "40년간 이론에 머문 '플라스틱 섞임' 첫 확인…접착제 없이 붙는 플라스틱"
         }
       }
-    }
-  },
-  {
-    "ts": "2026-09-11T04:44:36.007Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 8021,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 2018,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1584,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
     }
   }
 ]
