@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-09-12T02:44:52.464Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 6278,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1570,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1300,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-09-12T02:14:34.335Z",
     "dsstore": {
       "ok": true,
@@ -1248,64 +1274,6 @@
       "untranslated": false,
       "ratio": 0,
       "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-09-11T02:44:37.155Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 6797,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1713,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1188,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-09-11T02:14:36.351Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 4992,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1810,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1554,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.030743956817648438,
-      "koArticles": {
-        "79869": {
-          "since": "2026-09-11T02:14:36.296Z",
-          "alerted": false,
-          "title": "소형모듈원자로 상용화 지원체계 본격 가동…특별법·시행령 시행"
-        }
-      }
     }
   }
 ]
