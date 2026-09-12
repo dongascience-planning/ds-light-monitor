@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-09-12T01:45:26.121Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 6259,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1649,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1232,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-09-12T01:14:35.731Z",
     "dsstore": {
       "ok": true,
@@ -1254,32 +1280,6 @@
           "title": "소형모듈원자로 상용화 지원체계 본격 가동…특별법·시행령 시행"
         }
       }
-    }
-  },
-  {
-    "ts": "2026-09-11T01:44:40.010Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 6428,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 2181,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1330,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
     }
   }
 ]
