@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-09-12T06:14:39.696Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 5997,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1375,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1143,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-09-12T05:44:33.322Z",
     "dsstore": {
       "ok": true,
@@ -1236,64 +1262,6 @@
       "untranslated": false,
       "ratio": 0,
       "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-09-11T06:14:36.578Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 8306,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1890,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 2039,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-09-11T05:44:46.324Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 6602,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1778,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1238,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.028347545517400322,
-      "koArticles": {
-        "79875": {
-          "since": "2026-09-11T05:44:46.270Z",
-          "alerted": false,
-          "title": "대한민국 대표 국가과학기술자 20명 뽑는다…연간 1억원 최대 5년 지원"
-        }
-      }
     }
   }
 ]
