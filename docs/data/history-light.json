@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-09-12T10:14:38.468Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 6640,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1818,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1447,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-09-12T09:44:42.247Z",
     "dsstore": {
       "ok": true,
@@ -1219,38 +1245,6 @@
       "untranslated": false,
       "ratio": 0,
       "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-09-11T10:14:36.686Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 8806,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1915,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1627,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.027947393142320337,
-      "koArticles": {
-        "79883": {
-          "since": "2026-09-11T10:14:36.588Z",
-          "alerted": false,
-          "title": "7년여 검토 거친 고리 3·4호기·한빛 1·2호기 사고관리계획 승인 보류"
-        }
-      }
     }
   }
 ]
