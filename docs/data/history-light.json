@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-09-12T00:14:38.708Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 5786,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1566,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1165,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-09-11T23:44:38.042Z",
     "dsstore": {
       "ok": true,
@@ -1247,64 +1273,6 @@
     "dl": {
       "ok": true,
       "elapsed": 1497,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-09-11T00:14:38.057Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 6306,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1380,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1195,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.02498832321345166,
-      "koArticles": {
-        "79867": {
-          "since": "2026-09-11T00:14:38.001Z",
-          "alerted": false,
-          "title": "공룡 똥에서 나온 깃털…현생 조류의 비밀 밝힐까"
-        }
-      }
-    }
-  },
-  {
-    "ts": "2026-09-10T23:44:43.891Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 7503,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1872,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1431,
       "slow": false,
       "imgBroken": false
     },
