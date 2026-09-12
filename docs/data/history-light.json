@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-09-12T05:44:33.322Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 6301,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1429,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1277,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-09-12T05:14:35.471Z",
     "dsstore": {
       "ok": true,
@@ -1266,38 +1292,6 @@
           "since": "2026-09-11T05:44:46.270Z",
           "alerted": false,
           "title": "대한민국 대표 국가과학기술자 20명 뽑는다…연간 1억원 최대 5년 지원"
-        }
-      }
-    }
-  },
-  {
-    "ts": "2026-09-11T05:14:40.760Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 8202,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1907,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1777,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.032114392873886545,
-      "koArticles": {
-        "79874": {
-          "since": "2026-09-11T05:14:40.660Z",
-          "alerted": false,
-          "title": "40년간 이론에 머문 '플라스틱 섞임' 첫 확인…접착제 없이 붙는 플라스틱"
         }
       }
     }
