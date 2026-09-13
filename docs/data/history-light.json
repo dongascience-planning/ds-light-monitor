@@ -1,5 +1,42 @@
 [
   {
+    "ts": "2026-09-13T05:44:40.285Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 4714,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1446,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1382,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.056465411879736006,
+      "koArticles": {
+        "79892": {
+          "since": "2026-09-13T05:44:40.225Z",
+          "alerted": false,
+          "title": "[사이언스게시판] 우주항공청, 2026 스페이스 해커톤 대회 참가팀 모집"
+        },
+        "79893": {
+          "since": "2026-09-13T05:44:40.225Z",
+          "alerted": false,
+          "title": "[과기원NOW] KAIST, 붙이는 마이크로니들 전자약 개발 外"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-09-13T05:14:42.134Z",
     "dsstore": {
       "ok": true,
@@ -1204,32 +1241,6 @@
     "dl": {
       "ok": true,
       "elapsed": 1143,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-09-12T05:44:33.322Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 6301,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1429,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1277,
       "slow": false,
       "imgBroken": false
     },
