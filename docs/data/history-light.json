@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-09-13T01:44:35.440Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 6767,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1650,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1254,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.029045643153526972,
+      "koArticles": {
+        "79887": {
+          "since": "2026-09-13T01:44:35.377Z",
+          "alerted": false,
+          "title": "앤트로픽 CEO \"AI 개발 속도 늦춰야\"…울트먼·머스크도 동의"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-09-13T01:14:35.245Z",
     "dsstore": {
       "ok": true,
