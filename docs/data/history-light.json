@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-09-13T02:44:52.897Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 5003,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 2047,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1748,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.030499519692603266,
+      "koArticles": {
+        "79888": {
+          "since": "2026-09-13T02:44:52.857Z",
+          "alerted": false,
+          "title": "허준이 등 필즈상 수상자 25명 \"AI 난제풀이 경쟁, 수학 본질 훼손할 수도\""
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-09-13T02:14:35.252Z",
     "dsstore": {
       "ok": true,
@@ -1192,32 +1224,6 @@
     "dl": {
       "ok": true,
       "elapsed": 1692,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-09-12T02:44:52.464Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 6278,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1570,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1300,
       "slow": false,
       "imgBroken": false
     },
