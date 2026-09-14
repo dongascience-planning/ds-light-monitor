@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-09-14T03:44:33.396Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 4103,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 2123,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1987,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-09-14T03:14:30.526Z",
     "dsstore": {
       "ok": true,
@@ -1197,64 +1223,6 @@
     "dl": {
       "ok": true,
       "elapsed": 1732,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-09-13T03:44:31.531Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 6182,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1410,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1098,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.025847759070429216,
-      "koArticles": {
-        "79890": {
-          "since": "2026-09-13T03:44:31.452Z",
-          "alerted": false,
-          "title": "귀뚜라미그룹, UNIST 장학금 첫 지원…50명에게 총 1억원 전달"
-        }
-      }
-    }
-  },
-  {
-    "ts": "2026-09-13T03:15:10.031Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 8072,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1825,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1484,
       "slow": false,
       "imgBroken": false
     },
