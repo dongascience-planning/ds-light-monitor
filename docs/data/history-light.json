@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-09-14T06:44:31.019Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 3771,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1846,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1448,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.03278278278278278,
+      "koArticles": {
+        "79899": {
+          "since": "2026-09-14T06:11:48.134Z",
+          "alerted": false,
+          "title": "\"포유류에도 잘 전파되는 조류독감 변이 만들어줘\"…엔트로픽, 클로드 악용 사례 공개"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-09-14T06:11:48.182Z",
     "dsstore": {
       "ok": true,
@@ -1224,32 +1256,6 @@
     "dl": {
       "ok": true,
       "elapsed": 1288,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-09-13T06:14:39.828Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 7641,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1465,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1261,
       "slow": false,
       "imgBroken": false
     },
