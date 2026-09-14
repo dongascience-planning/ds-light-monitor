@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-09-14T05:44:31.464Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 3609,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 2130,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1891,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-09-14T05:14:34.151Z",
     "dsstore": {
       "ok": true,
@@ -1236,32 +1262,6 @@
           "title": "[과기원NOW] KAIST, 붙이는 마이크로니들 전자약 개발 外"
         }
       }
-    }
-  },
-  {
-    "ts": "2026-09-13T05:14:42.134Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 7625,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1487,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1171,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
     }
   }
 ]
