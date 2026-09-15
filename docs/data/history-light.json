@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-09-15T04:44:35.060Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 5874,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 2016,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1961,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-09-15T04:14:43.919Z",
     "dsstore": {
       "ok": true,
@@ -1276,38 +1302,6 @@
       "untranslated": false,
       "ratio": 0,
       "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-09-14T04:44:33.207Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 3516,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1790,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1689,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.030978934324659233,
-      "koArticles": {
-        "79898": {
-          "since": "2026-09-14T04:44:33.128Z",
-          "alerted": false,
-          "title": "AI, 문장 자연스러워도 사진 구분은 아직…\"GPT5.2도 한계\""
-        }
-      }
     }
   }
 ]
