@@ -1,5 +1,42 @@
 [
   {
+    "ts": "2026-09-15T01:44:32.891Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 3543,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1785,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1573,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.05824755209640974,
+      "koArticles": {
+        "79909": {
+          "since": "2026-09-15T01:44:32.836Z",
+          "alerted": false,
+          "title": "연구재단·과학기술사업화진흥원 통합…지역 과학관 4곳도 하나로"
+        },
+        "79911": {
+          "since": "2026-09-15T01:44:32.836Z",
+          "alerted": false,
+          "title": "AI 로봇 과학자와 협업해 130년 된 화학반응서 '새로운 길' 찾았다"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-09-15T01:14:41.763Z",
     "dsstore": {
       "ok": true,
