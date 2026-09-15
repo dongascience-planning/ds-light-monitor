@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-09-15T09:14:35.650Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 3022,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1593,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1433,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-09-15T08:44:37.691Z",
     "dsstore": {
       "ok": true,
@@ -1307,43 +1333,6 @@
       "untranslated": false,
       "ratio": 0,
       "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-09-14T08:44:39.593Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 6128,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1928,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1256,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.056313131313131315,
-      "koArticles": {
-        "79900": {
-          "since": "2026-09-14T08:14:36.057Z",
-          "alerted": false,
-          "title": "[과기원NOW] KAIST, 신경세포에서 RNA 배송되는 원리 찾았다 外"
-        },
-        "79903": {
-          "since": "2026-09-14T08:14:36.057Z",
-          "alerted": false,
-          "title": "\"통가 화산 대폭발시 서울시 15m 두께로 덮는 물질이 이동\""
-        }
-      }
     }
   }
 ]
