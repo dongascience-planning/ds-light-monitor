@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-09-15T06:14:36.984Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 2932,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1488,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1260,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.028274528757854037,
+      "koArticles": {
+        "79918": {
+          "since": "2026-09-15T06:14:36.920Z",
+          "alerted": false,
+          "title": "역대 최다, 15기 위성 싣고 우주 향하는 누리호…군집위성 5기 동시 발사"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-09-15T05:44:37.535Z",
     "dsstore": {
       "ok": true,
@@ -1263,38 +1295,6 @@
     "dl": {
       "ok": true,
       "elapsed": 1448,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.03278278278278278,
-      "koArticles": {
-        "79899": {
-          "since": "2026-09-14T06:11:48.134Z",
-          "alerted": false,
-          "title": "\"포유류에도 잘 전파되는 조류독감 변이 만들어줘\"…엔트로픽, 클로드 악용 사례 공개"
-        }
-      }
-    }
-  },
-  {
-    "ts": "2026-09-14T06:11:48.182Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 2858,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1784,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1487,
       "slow": false,
       "imgBroken": false
     },
