@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-09-15T06:44:44.040Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 8556,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1992,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1577,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.02458233890214797,
+      "koArticles": {
+        "79919": {
+          "since": "2026-09-15T06:44:43.956Z",
+          "alerted": false,
+          "title": "박은영 포스텍 연구원, 국내 최초 X선 분야 국제 신진연구자상 수상"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-09-15T06:14:36.984Z",
     "dsstore": {
       "ok": true,
@@ -1276,38 +1308,6 @@
       "untranslated": false,
       "ratio": 0,
       "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-09-14T06:44:31.019Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 3771,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1846,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1448,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.03278278278278278,
-      "koArticles": {
-        "79899": {
-          "since": "2026-09-14T06:11:48.134Z",
-          "alerted": false,
-          "title": "\"포유류에도 잘 전파되는 조류독감 변이 만들어줘\"…엔트로픽, 클로드 악용 사례 공개"
-        }
-      }
     }
   }
 ]
