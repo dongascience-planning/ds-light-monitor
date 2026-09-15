@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-09-15T02:14:37.451Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 8656,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 2143,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1740,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.028782287822878228,
+      "koArticles": {
+        "79913": {
+          "since": "2026-09-15T02:14:37.314Z",
+          "alerted": false,
+          "title": "잣나무 잎 추출물, 피로 회복 소재로 부상할까"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-09-15T01:44:32.891Z",
     "dsstore": {
       "ok": true,
@@ -1269,58 +1301,6 @@
     "dl": {
       "ok": true,
       "elapsed": 1755,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-09-14T02:14:31.506Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 3387,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1898,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1611,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-09-14T01:44:36.017Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 3532,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1803,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1505,
       "slow": false,
       "imgBroken": false
     },
