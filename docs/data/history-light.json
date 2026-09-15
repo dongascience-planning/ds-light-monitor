@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-09-15T05:44:37.535Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 2888,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1556,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1066,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.03274741150975199,
+      "koArticles": {
+        "79916": {
+          "since": "2026-09-15T05:44:37.488Z",
+          "alerted": false,
+          "title": "신경세포 손상시키는 '퀴놀린산', 농도 낮추니 '뇌 청소부'로 변신"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-09-15T05:14:50.261Z",
     "dsstore": {
       "ok": true,
@@ -1276,32 +1308,6 @@
           "title": "\"포유류에도 잘 전파되는 조류독감 변이 만들어줘\"…엔트로픽, 클로드 악용 사례 공개"
         }
       }
-    }
-  },
-  {
-    "ts": "2026-09-14T05:44:31.464Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 3609,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 2130,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1891,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
     }
   }
 ]
