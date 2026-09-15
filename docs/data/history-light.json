@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-09-15T00:14:40.298Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 8309,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1734,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1566,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.02718062762540153,
+      "koArticles": {
+        "79908": {
+          "since": "2026-09-15T00:14:40.241Z",
+          "alerted": false,
+          "title": "[사이언스게시판] NST, 공통행정 전문화 인력 1차채용 시작 外"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-09-14T23:44:36.961Z",
     "dsstore": {
       "ok": true,
@@ -1252,32 +1284,6 @@
     "dl": {
       "ok": true,
       "elapsed": 1279,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-09-14T00:14:38.081Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 6216,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1665,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1312,
       "slow": false,
       "imgBroken": false
     },
