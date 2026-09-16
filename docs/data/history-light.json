@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-09-16T08:14:26.650Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 5513,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1757,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1660,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-09-16T07:44:28.217Z",
     "dsstore": {
       "ok": true,
@@ -1295,32 +1321,6 @@
           "title": "[의학바이오게시판] 스트레이 키즈 필릭스, 생일 맞아 서울대어린이병원에 1억원 기부 外"
         }
       }
-    }
-  },
-  {
-    "ts": "2026-09-15T07:44:38.131Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 8097,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 2003,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1642,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
     }
   }
 ]
