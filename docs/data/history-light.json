@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-09-16T07:44:28.217Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 4931,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1564,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1529,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.025869963369963368,
+      "koArticles": {
+        "79943": {
+          "since": "2026-09-16T07:44:28.178Z",
+          "alerted": false,
+          "title": "하지마비 생쥐, 척추 신경 흉터로 신경 재생"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-09-16T07:14:30.142Z",
     "dsstore": {
       "ok": true,
@@ -1282,32 +1314,6 @@
     "dl": {
       "ok": true,
       "elapsed": 1642,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-09-15T07:14:40.466Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 8563,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 2203,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1414,
       "slow": false,
       "imgBroken": false
     },
