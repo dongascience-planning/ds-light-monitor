@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-09-16T01:44:17.489Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 8279,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 2061,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1981,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-09-16T01:14:39.174Z",
     "dsstore": {
       "ok": true,
@@ -1301,32 +1327,6 @@
           "title": "AI 로봇 과학자와 협업해 130년 된 화학반응서 '새로운 길' 찾았다"
         }
       }
-    }
-  },
-  {
-    "ts": "2026-09-15T01:14:41.763Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 5961,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1593,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1190,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
     }
   }
 ]
