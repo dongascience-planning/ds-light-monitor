@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-09-16T04:44:52.528Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 8031,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1778,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1614,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.02922077922077922,
+      "koArticles": {
+        "79938": {
+          "since": "2026-09-16T04:44:52.488Z",
+          "alerted": false,
+          "title": "엄마 장내 유익균, 아이에 정착하는 원리 찾았다"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-09-16T04:14:31.201Z",
     "dsstore": {
       "ok": true,
@@ -1257,58 +1289,6 @@
     "dl": {
       "ok": true,
       "elapsed": 1547,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-09-15T04:44:35.060Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 5874,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 2016,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1961,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-09-15T04:14:43.919Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 4800,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1847,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1299,
       "slow": false,
       "imgBroken": false
     },
