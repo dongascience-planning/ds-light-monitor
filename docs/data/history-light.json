@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-09-16T08:44:28.120Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 5755,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 2090,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1537,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-09-16T08:14:26.650Z",
     "dsstore": {
       "ok": true,
@@ -1274,53 +1300,6 @@
       "untranslated": false,
       "ratio": 0,
       "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-09-15T08:15:00.474Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 6202,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1501,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1275,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.11302032913843175,
-      "koArticles": {
-        "79920": {
-          "since": "2026-09-15T08:15:00.408Z",
-          "alerted": false,
-          "title": "AI·데이터센터 열풍에 '영원한 화학물질' PFAS 생산 늘어난다"
-        },
-        "79922": {
-          "since": "2026-09-15T08:15:00.408Z",
-          "alerted": false,
-          "title": "[과기원NOW] UNIST, 데이터센터 폐열 재활용 기술 개발 外"
-        },
-        "79923": {
-          "since": "2026-09-15T08:15:00.408Z",
-          "alerted": false,
-          "title": "[사이언스게시판] 과기정통부, AI로 전세사기 막는다 外"
-        },
-        "79924": {
-          "since": "2026-09-15T08:15:00.408Z",
-          "alerted": false,
-          "title": "[의학바이오게시판] 스트레이 키즈 필릭스, 생일 맞아 서울대어린이병원에 1억원 기부 外"
-        }
-      }
     }
   }
 ]
