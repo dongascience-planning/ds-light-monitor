@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-09-16T06:14:34.626Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 4593,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1668,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1354,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-09-16T05:44:26.504Z",
     "dsstore": {
       "ok": true,
@@ -1299,38 +1325,6 @@
           "since": "2026-09-15T06:14:36.920Z",
           "alerted": false,
           "title": "역대 최다, 15기 위성 싣고 우주 향하는 누리호…군집위성 5기 동시 발사"
-        }
-      }
-    }
-  },
-  {
-    "ts": "2026-09-15T05:44:37.535Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 2888,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1556,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1066,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.03274741150975199,
-      "koArticles": {
-        "79916": {
-          "since": "2026-09-15T05:44:37.488Z",
-          "alerted": false,
-          "title": "신경세포 손상시키는 '퀴놀린산', 농도 낮추니 '뇌 청소부'로 변신"
         }
       }
     }
