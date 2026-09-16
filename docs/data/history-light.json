@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-09-16T06:44:28.385Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 4798,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1801,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1266,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-09-16T06:14:34.626Z",
     "dsstore": {
       "ok": true,
@@ -1293,38 +1319,6 @@
           "since": "2026-09-15T06:44:43.956Z",
           "alerted": false,
           "title": "박은영 포스텍 연구원, 국내 최초 X선 분야 국제 신진연구자상 수상"
-        }
-      }
-    }
-  },
-  {
-    "ts": "2026-09-15T06:14:36.984Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 2932,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1488,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1260,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.028274528757854037,
-      "koArticles": {
-        "79918": {
-          "since": "2026-09-15T06:14:36.920Z",
-          "alerted": false,
-          "title": "역대 최다, 15기 위성 싣고 우주 향하는 누리호…군집위성 5기 동시 발사"
         }
       }
     }
