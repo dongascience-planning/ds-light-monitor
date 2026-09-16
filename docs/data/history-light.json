@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-09-16T09:14:30.941Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 5840,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1786,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1449,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.02427415516420752,
+      "koArticles": {
+        "79946": {
+          "since": "2026-09-16T09:14:30.865Z",
+          "alerted": false,
+          "title": "혈액검사 한번으로 췌장암 조기 발견…1·2기 환자 87% 식별"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-09-16T08:44:28.120Z",
     "dsstore": {
       "ok": true,
@@ -1267,32 +1299,6 @@
     "dl": {
       "ok": true,
       "elapsed": 1433,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-09-15T08:44:37.691Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 4816,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1853,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1382,
       "slow": false,
       "imgBroken": false
     },
