@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-09-16T02:14:31.505Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 3588,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1826,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1574,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.02878716375648891,
+      "koArticles": {
+        "79930": {
+          "since": "2026-09-16T02:14:31.405Z",
+          "alerted": false,
+          "title": "韓 연구진, 길 찾고 도착 확인하는 AI 로봇 국제대회 휩쓸었다"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-09-16T01:44:17.489Z",
     "dsstore": {
       "ok": true,
@@ -1288,43 +1320,6 @@
           "since": "2026-09-15T02:14:37.314Z",
           "alerted": false,
           "title": "잣나무 잎 추출물, 피로 회복 소재로 부상할까"
-        }
-      }
-    }
-  },
-  {
-    "ts": "2026-09-15T01:44:32.891Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 3543,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1785,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1573,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.05824755209640974,
-      "koArticles": {
-        "79909": {
-          "since": "2026-09-15T01:44:32.836Z",
-          "alerted": false,
-          "title": "연구재단·과학기술사업화진흥원 통합…지역 과학관 4곳도 하나로"
-        },
-        "79911": {
-          "since": "2026-09-15T01:44:32.836Z",
-          "alerted": false,
-          "title": "AI 로봇 과학자와 협업해 130년 된 화학반응서 '새로운 길' 찾았다"
         }
       }
     }
