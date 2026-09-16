@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-09-16T07:14:30.142Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 4898,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 2070,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1940,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-09-16T06:44:28.385Z",
     "dsstore": {
       "ok": true,
@@ -1289,38 +1315,6 @@
       "untranslated": false,
       "ratio": 0,
       "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-09-15T06:44:44.040Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 8556,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1992,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1577,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.02458233890214797,
-      "koArticles": {
-        "79919": {
-          "since": "2026-09-15T06:44:43.956Z",
-          "alerted": false,
-          "title": "박은영 포스텍 연구원, 국내 최초 X선 분야 국제 신진연구자상 수상"
-        }
-      }
     }
   }
 ]
