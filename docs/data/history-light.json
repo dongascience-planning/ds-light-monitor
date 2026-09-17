@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-09-17T10:14:28.089Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 4579,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1693,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1118,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-09-17T09:45:24.797Z",
     "dsstore": {
       "ok": true,
@@ -1366,32 +1392,6 @@
           "title": "[과기원NOW] UNIST, 로봇 정확도·속도 높인 공간 인식 AI 개발 外"
         }
       }
-    }
-  },
-  {
-    "ts": "2026-09-16T10:14:28.736Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 5642,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 2241,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1509,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
     }
   }
 ]
