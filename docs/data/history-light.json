@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-09-17T06:14:34.175Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 4698,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1680,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1180,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.02959010429299054,
+      "koArticles": {
+        "79960": {
+          "since": "2026-09-17T06:14:34.128Z",
+          "alerted": false,
+          "title": "코로나19 예방접종 이제 '필수'…10월 12일부터 70세 이상 접종 시작"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-09-17T05:44:26.305Z",
     "dsstore": {
       "ok": true,
@@ -1337,32 +1369,6 @@
     "dl": {
       "ok": true,
       "elapsed": 1266,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-09-16T06:14:34.626Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 4593,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1668,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1354,
       "slow": false,
       "imgBroken": false
     },
