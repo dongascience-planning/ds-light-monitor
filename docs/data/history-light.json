@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-09-17T02:14:28.849Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 5278,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1687,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1340,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.02827521206409048,
+      "koArticles": {
+        "79956": {
+          "since": "2026-09-17T02:14:28.742Z",
+          "alerted": false,
+          "title": "티라노사우루스 이빨 분석하니 체온 '36도'…인간과 비슷"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-09-17T01:44:29.841Z",
     "dsstore": {
       "ok": true,
