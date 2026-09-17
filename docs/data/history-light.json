@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-09-17T08:44:34.681Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 5674,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1926,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1658,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.026023184291459663,
+      "koArticles": {
+        "79963": {
+          "since": "2026-09-17T08:44:34.635Z",
+          "alerted": false,
+          "title": "\"美中 휴머노이드 강점 있지만 갈길 멀어…한국이 삼분지계 가능\""
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-09-17T08:14:27.564Z",
     "dsstore": {
       "ok": true,
@@ -1355,32 +1387,6 @@
           "title": "혈액검사 한번으로 췌장암 조기 발견…1·2기 환자 87% 식별"
         }
       }
-    }
-  },
-  {
-    "ts": "2026-09-16T08:44:28.120Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 5755,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 2090,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1537,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
     }
   }
 ]
