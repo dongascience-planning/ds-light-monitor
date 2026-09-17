@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-09-17T05:14:33.736Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 4959,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1564,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1428,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.028135431568907965,
+      "koArticles": {
+        "79958": {
+          "since": "2026-09-17T05:14:33.672Z",
+          "alerted": false,
+          "title": "개나리 열매 '연교' 추출물, 대장염·뇌 염증 완화한다"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-09-17T04:44:37.831Z",
     "dsstore": {
       "ok": true,
@@ -1347,64 +1379,6 @@
           "since": "2026-09-16T05:44:26.443Z",
           "alerted": false,
           "title": "임신중지 약물 7년 만에 정식 도입…내년 1분기 목표"
-        }
-      }
-    }
-  },
-  {
-    "ts": "2026-09-16T05:14:22.178Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 4940,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 2190,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1299,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-09-16T04:44:52.528Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 8031,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1778,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1614,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.02922077922077922,
-      "koArticles": {
-        "79938": {
-          "since": "2026-09-16T04:44:52.488Z",
-          "alerted": false,
-          "title": "엄마 장내 유익균, 아이에 정착하는 원리 찾았다"
         }
       }
     }
