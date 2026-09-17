@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-09-17T00:14:24.838Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 5213,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1921,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1526,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.029719061992105875,
+      "koArticles": {
+        "79953": {
+          "since": "2026-09-17T00:14:24.760Z",
+          "alerted": false,
+          "title": "\"출연연별 초임 최대 1800만원 차이…핵융합연 가장 낮아\""
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-09-16T23:44:25.793Z",
     "dsstore": {
       "ok": true,
