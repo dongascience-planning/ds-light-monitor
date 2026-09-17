@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-09-17T14:44:28.559Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 5242,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1844,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1223,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-09-17T14:14:26.849Z",
     "dsstore": {
       "ok": true,
@@ -1326,38 +1352,6 @@
     "dl": {
       "ok": true,
       "elapsed": 1235,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.029974038234599952,
-      "koArticles": {
-        "79949": {
-          "since": "2026-09-16T10:44:31.955Z",
-          "alerted": true,
-          "title": "[사이언스게시판] 우주항공청, 항공우주부품 고도화기술개발사업 성과 발표 外"
-        }
-      }
-    }
-  },
-  {
-    "ts": "2026-09-16T14:14:28.837Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 5966,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1830,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1608,
       "slow": false,
       "imgBroken": false
     },
