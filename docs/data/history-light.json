@@ -1,5 +1,42 @@
 [
   {
+    "ts": "2026-09-17T09:45:24.797Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 5503,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1769,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1298,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.05492203863160344,
+      "koArticles": {
+        "79965": {
+          "since": "2026-09-17T09:45:24.750Z",
+          "alerted": false,
+          "title": "[사이언스게시판] NST, 대구 출연연 지역혁신 간담회 개최 外"
+        },
+        "79967": {
+          "since": "2026-09-17T09:45:24.750Z",
+          "alerted": false,
+          "title": "[과기원NOW] KAIST, 대장균으로 만드는 '접착제 소재' 外"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-09-17T09:14:25.438Z",
     "dsstore": {
       "ok": true,
@@ -1355,64 +1392,6 @@
       "untranslated": false,
       "ratio": 0,
       "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-09-16T09:44:36.767Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 9910,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1972,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1357,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-09-16T09:14:30.941Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 5840,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1786,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1449,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.02427415516420752,
-      "koArticles": {
-        "79946": {
-          "since": "2026-09-16T09:14:30.865Z",
-          "alerted": false,
-          "title": "혈액검사 한번으로 췌장암 조기 발견…1·2기 환자 87% 식별"
-        }
-      }
     }
   }
 ]
