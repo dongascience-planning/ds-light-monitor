@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-09-17T16:14:26.635Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 5558,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 2096,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1597,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-09-17T15:44:25.272Z",
     "dsstore": {
       "ok": true,
@@ -1276,70 +1302,6 @@
     "dl": {
       "ok": true,
       "elapsed": 1176,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.029974038234599952,
-      "koArticles": {
-        "79949": {
-          "since": "2026-09-16T10:44:31.955Z",
-          "alerted": true,
-          "title": "[사이언스게시판] 우주항공청, 항공우주부품 고도화기술개발사업 성과 발표 外"
-        }
-      }
-    }
-  },
-  {
-    "ts": "2026-09-16T16:14:26.465Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 6173,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1911,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1784,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.029974038234599952,
-      "koArticles": {
-        "79949": {
-          "since": "2026-09-16T10:44:31.955Z",
-          "alerted": true,
-          "title": "[사이언스게시판] 우주항공청, 항공우주부품 고도화기술개발사업 성과 발표 外"
-        }
-      }
-    }
-  },
-  {
-    "ts": "2026-09-16T15:44:34.116Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 6577,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1460,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1241,
       "slow": false,
       "imgBroken": false
     },
