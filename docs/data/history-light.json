@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-09-17T05:44:26.305Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 5755,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1946,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1438,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-09-17T05:14:33.736Z",
     "dsstore": {
       "ok": true,
@@ -1344,43 +1370,6 @@
       "untranslated": false,
       "ratio": 0,
       "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-09-16T05:44:26.504Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 6110,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1908,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1661,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.05318898564368087,
-      "koArticles": {
-        "79939": {
-          "since": "2026-09-16T05:44:26.443Z",
-          "alerted": false,
-          "title": "\"과학동아AiR에 묻고, 출처로 검증했다\"…진산중 'AI 활용 탐구 설계 대회'"
-        },
-        "79940": {
-          "since": "2026-09-16T05:44:26.443Z",
-          "alerted": false,
-          "title": "임신중지 약물 7년 만에 정식 도입…내년 1분기 목표"
-        }
-      }
     }
   }
 ]
