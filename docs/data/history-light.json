@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-09-17T11:14:32.587Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 4877,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1540,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1522,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-09-17T10:44:29.741Z",
     "dsstore": {
       "ok": true,
@@ -1347,75 +1373,6 @@
           "since": "2026-09-16T10:44:31.955Z",
           "alerted": false,
           "title": "[사이언스게시판] 우주항공청, 항공우주부품 고도화기술개발사업 성과 발표 外"
-        }
-      }
-    }
-  },
-  {
-    "ts": "2026-09-16T11:14:32.686Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 9947,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1996,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1699,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.029974038234599952,
-      "koArticles": {
-        "79949": {
-          "since": "2026-09-16T10:44:31.955Z",
-          "alerted": false,
-          "title": "[사이언스게시판] 우주항공청, 항공우주부품 고도화기술개발사업 성과 발표 外"
-        }
-      }
-    }
-  },
-  {
-    "ts": "2026-09-16T10:44:32.035Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 6066,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1619,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1483,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.059230952949605925,
-      "koArticles": {
-        "79949": {
-          "since": "2026-09-16T10:44:31.955Z",
-          "alerted": false,
-          "title": "[사이언스게시판] 우주항공청, 항공우주부품 고도화기술개발사업 성과 발표 外"
-        },
-        "79950": {
-          "since": "2026-09-16T10:44:31.955Z",
-          "alerted": false,
-          "title": "[과기원NOW] UNIST, 로봇 정확도·속도 높인 공간 인식 AI 개발 外"
         }
       }
     }
