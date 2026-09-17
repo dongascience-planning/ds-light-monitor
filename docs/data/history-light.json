@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-09-17T01:44:29.841Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 4585,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1592,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1372,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-09-17T01:14:38.748Z",
     "dsstore": {
       "ok": true,
@@ -1349,32 +1375,6 @@
           "title": "韓 연구진, 길 찾고 도착 확인하는 AI 로봇 국제대회 휩쓸었다"
         }
       }
-    }
-  },
-  {
-    "ts": "2026-09-16T01:44:17.489Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 8279,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 2061,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1981,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
     }
   }
 ]
