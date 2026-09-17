@@ -1,5 +1,42 @@
 [
   {
+    "ts": "2026-09-17T06:44:28.992Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 5832,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1934,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1601,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.058353510895883774,
+      "koArticles": {
+        "79959": {
+          "since": "2026-09-17T06:44:28.920Z",
+          "alerted": false,
+          "title": "AI가 대학생 '인지적 항복' 일으켜…美 MIT 보고서 '파장'"
+        },
+        "79961": {
+          "since": "2026-09-17T06:44:28.920Z",
+          "alerted": false,
+          "title": "수소 생산 위한 비싼 귀금속 촉매 대체할 고효율 전극 개발"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-09-17T06:14:34.175Z",
     "dsstore": {
       "ok": true,
@@ -1343,32 +1380,6 @@
     "dl": {
       "ok": true,
       "elapsed": 1940,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-09-16T06:44:28.385Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 4798,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1801,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1266,
       "slow": false,
       "imgBroken": false
     },
