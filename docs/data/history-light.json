@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-09-17T02:44:25.072Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 5102,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1813,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1527,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.031257456454306845,
+      "koArticles": {
+        "79957": {
+          "since": "2026-09-17T02:44:25.013Z",
+          "alerted": false,
+          "title": "환자마다 약효 제각각인 면역항암제 효과 정밀 예측하는 AI"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-09-17T02:14:28.849Z",
     "dsstore": {
       "ok": true,
@@ -1375,38 +1407,6 @@
       "untranslated": false,
       "ratio": 0,
       "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-09-16T02:14:31.505Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 3588,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1826,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1574,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.02878716375648891,
-      "koArticles": {
-        "79930": {
-          "since": "2026-09-16T02:14:31.405Z",
-          "alerted": false,
-          "title": "韓 연구진, 길 찾고 도착 확인하는 AI 로봇 국제대회 휩쓸었다"
-        }
-      }
     }
   }
 ]
