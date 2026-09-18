@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-09-18T10:14:34.319Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 4551,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1547,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1348,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-09-18T09:44:30.628Z",
     "dsstore": {
       "ok": true,
@@ -1247,69 +1273,6 @@
       "untranslated": false,
       "ratio": 0,
       "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-09-17T10:14:28.089Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 4579,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1693,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1118,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-09-17T09:45:24.797Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 5503,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1769,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1298,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.05492203863160344,
-      "koArticles": {
-        "79965": {
-          "since": "2026-09-17T09:45:24.750Z",
-          "alerted": false,
-          "title": "[사이언스게시판] NST, 대구 출연연 지역혁신 간담회 개최 外"
-        },
-        "79967": {
-          "since": "2026-09-17T09:45:24.750Z",
-          "alerted": false,
-          "title": "[과기원NOW] KAIST, 대장균으로 만드는 '접착제 소재' 外"
-        }
-      }
     }
   }
 ]
