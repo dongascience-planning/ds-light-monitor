@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-09-18T00:14:24.965Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 5624,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1781,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1524,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-09-17T23:44:23.775Z",
     "dsstore": {
       "ok": true,
@@ -1264,64 +1290,6 @@
     "dl": {
       "ok": true,
       "elapsed": 1536,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-09-17T00:14:24.838Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 5213,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1921,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1526,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.029719061992105875,
-      "koArticles": {
-        "79953": {
-          "since": "2026-09-17T00:14:24.760Z",
-          "alerted": false,
-          "title": "\"출연연별 초임 최대 1800만원 차이…핵융합연 가장 낮아\""
-        }
-      }
-    }
-  },
-  {
-    "ts": "2026-09-16T23:44:25.793Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 5285,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1952,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1733,
       "slow": false,
       "imgBroken": false
     },
