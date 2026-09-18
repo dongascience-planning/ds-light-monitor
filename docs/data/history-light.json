@@ -1,5 +1,47 @@
 [
   {
+    "ts": "2026-09-18T09:14:32.922Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 4668,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1868,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1284,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.07334785766158315,
+      "koArticles": {
+        "79983": {
+          "since": "2026-09-18T09:14:32.822Z",
+          "alerted": false,
+          "title": "[의학바이오게시판] 삼성서울병원, 美 뉴스위크 평가에서 암 분야 세계 5위"
+        },
+        "79984": {
+          "since": "2026-09-18T09:14:32.822Z",
+          "alerted": false,
+          "title": "[과기원NOW] KAIST-포스텍, '카포전'서 AI·스포츠 대결 外"
+        },
+        "79985": {
+          "since": "2026-09-18T09:14:32.822Z",
+          "alerted": false,
+          "title": "[사이언스게시판] 과기정통부, AI 스타트업 투자 대상 발굴 경진대회 개최 外"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-09-18T08:44:32.744Z",
     "dsstore": {
       "ok": true,
@@ -1234,64 +1276,6 @@
           "since": "2026-09-17T09:45:24.750Z",
           "alerted": false,
           "title": "[과기원NOW] KAIST, 대장균으로 만드는 '접착제 소재' 外"
-        }
-      }
-    }
-  },
-  {
-    "ts": "2026-09-17T09:14:25.438Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 5684,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 2071,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1607,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-09-17T08:44:34.681Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 5674,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1926,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1658,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.026023184291459663,
-      "koArticles": {
-        "79963": {
-          "since": "2026-09-17T08:44:34.635Z",
-          "alerted": false,
-          "title": "\"美中 휴머노이드 강점 있지만 갈길 멀어…한국이 삼분지계 가능\""
         }
       }
     }
