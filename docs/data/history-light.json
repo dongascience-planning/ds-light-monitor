@@ -1,7 +1,6 @@
 [
   {
     "ts": "2026-09-18T17:16:00.503Z",
-    "recheckPending": true,
     "dsstore": {
       "ok": false,
       "elapsed": null,
@@ -26,7 +25,8 @@
       "untranslated": false,
       "ratio": 0,
       "koArticles": {}
-    }
+    },
+    "recheckConfirmed": true
   },
   {
     "ts": "2026-09-18T16:45:33.886Z",
