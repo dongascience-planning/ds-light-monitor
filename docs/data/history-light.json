@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-09-18T07:14:30.786Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 5083,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1525,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1102,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.03023959060246569,
+      "koArticles": {
+        "79979": {
+          "since": "2026-09-18T07:14:30.719Z",
+          "alerted": false,
+          "title": "한국인 혈중 지질 수치 영향주는 새로운 유전자 변이 발견"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-09-18T06:44:41.542Z",
     "dsstore": {
       "ok": true,
@@ -1229,32 +1261,6 @@
     "dl": {
       "ok": true,
       "elapsed": 1270,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-09-17T07:14:24.504Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 5571,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1839,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1547,
       "slow": false,
       "imgBroken": false
     },
