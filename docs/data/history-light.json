@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-09-18T04:45:13.615Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 4748,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1554,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1498,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-09-18T04:14:32.292Z",
     "dsstore": {
       "ok": true,
@@ -1259,32 +1285,6 @@
           "title": "개나리 열매 '연교' 추출물, 대장염·뇌 염증 완화한다"
         }
       }
-    }
-  },
-  {
-    "ts": "2026-09-17T04:44:37.831Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 4658,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1549,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1236,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
     }
   }
 ]
