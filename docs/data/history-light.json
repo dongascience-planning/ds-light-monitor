@@ -1,5 +1,34 @@
 [
   {
+    "ts": "2026-09-18T16:45:33.886Z",
+    "recheckPending": true,
+    "dsstore": {
+      "ok": false,
+      "elapsed": null,
+      "slow": false,
+      "imgBroken": false,
+      "error": "타임아웃 (20초 초과)"
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1860,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": false,
+      "elapsed": null,
+      "slow": false,
+      "imgBroken": false,
+      "error": "타임아웃 (20초 초과)"
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-09-18T16:14:25.275Z",
     "dsstore": {
       "ok": true,
@@ -1240,58 +1269,6 @@
     "dl": {
       "ok": true,
       "elapsed": 1334,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-09-17T16:44:35.373Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 5147,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 2043,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1887,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-09-17T16:14:26.635Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 5558,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 2096,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1597,
       "slow": false,
       "imgBroken": false
     },
