@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-09-18T05:44:54.407Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 4711,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1587,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1470,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-09-18T05:14:27.640Z",
     "dsstore": {
       "ok": true,
@@ -1251,64 +1277,6 @@
           "since": "2026-09-17T06:14:34.128Z",
           "alerted": false,
           "title": "코로나19 예방접종 이제 '필수'…10월 12일부터 70세 이상 접종 시작"
-        }
-      }
-    }
-  },
-  {
-    "ts": "2026-09-17T05:44:26.305Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 5755,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1946,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1438,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-09-17T05:14:33.736Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 4959,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1564,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1428,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.028135431568907965,
-      "koArticles": {
-        "79958": {
-          "since": "2026-09-17T05:14:33.672Z",
-          "alerted": false,
-          "title": "개나리 열매 '연교' 추출물, 대장염·뇌 염증 완화한다"
         }
       }
     }
