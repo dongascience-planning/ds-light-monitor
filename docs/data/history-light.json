@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-09-18T08:14:36.164Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 5719,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1954,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1439,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-09-18T07:44:25.598Z",
     "dsstore": {
       "ok": true,
@@ -1242,58 +1268,6 @@
           "title": "\"美中 휴머노이드 강점 있지만 갈길 멀어…한국이 삼분지계 가능\""
         }
       }
-    }
-  },
-  {
-    "ts": "2026-09-17T08:14:27.564Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 4767,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1681,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1229,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-09-17T07:44:29.444Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 4463,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1599,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1270,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
     }
   }
 ]
