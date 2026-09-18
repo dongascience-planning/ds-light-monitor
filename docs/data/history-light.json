@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-09-18T06:14:36.349Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 4583,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1597,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1361,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-09-18T05:44:54.407Z",
     "dsstore": {
       "ok": true,
@@ -1245,38 +1271,6 @@
           "since": "2026-09-17T06:44:28.920Z",
           "alerted": false,
           "title": "수소 생산 위한 비싼 귀금속 촉매 대체할 고효율 전극 개발"
-        }
-      }
-    }
-  },
-  {
-    "ts": "2026-09-17T06:14:34.175Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 4698,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1680,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1180,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.02959010429299054,
-      "koArticles": {
-        "79960": {
-          "since": "2026-09-17T06:14:34.128Z",
-          "alerted": false,
-          "title": "코로나19 예방접종 이제 '필수'…10월 12일부터 70세 이상 접종 시작"
         }
       }
     }
