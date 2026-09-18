@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-09-18T09:44:30.628Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 5961,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1907,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1526,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.024127430311548372,
+      "koArticles": {
+        "79986": {
+          "since": "2026-09-18T09:44:30.553Z",
+          "alerted": false,
+          "title": "\"AI 통제 실패는 기정 사실…피해자도 존재\""
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-09-18T09:14:32.922Z",
     "dsstore": {
       "ok": true,
