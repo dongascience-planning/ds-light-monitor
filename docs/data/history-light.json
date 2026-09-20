@@ -1,5 +1,52 @@
 [
   {
+    "ts": "2026-09-20T09:44:29.354Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 4753,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1452,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1245,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.12312943029666579,
+      "koArticles": {
+        "79993": {
+          "since": "2026-09-20T09:44:29.271Z",
+          "alerted": false,
+          "title": "\"연구자들 AI 적극적으로 배워 적응해야\""
+        },
+        "79994": {
+          "since": "2026-09-20T09:44:29.271Z",
+          "alerted": false,
+          "title": "루게릭병, 맞춤형 RNA 치료법 나올까…신체기능점수 개선 확인"
+        },
+        "79995": {
+          "since": "2026-09-20T09:44:29.271Z",
+          "alerted": false,
+          "title": "[사이언스게시판] 전기연, 우주 탐사 로버 핵심 기술 확보 나서"
+        },
+        "79996": {
+          "since": "2026-09-20T09:44:29.271Z",
+          "alerted": false,
+          "title": "[과기원NOW] KAIST, 촉매 반응 균형 조절하는 법 찾았다"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-09-20T09:14:25.406Z",
     "dsstore": {
       "ok": true,
@@ -1250,32 +1297,6 @@
     "dl": {
       "ok": true,
       "elapsed": 1415,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-09-19T09:14:54.193Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 5980,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 2044,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1470,
       "slow": false,
       "imgBroken": false
     },
