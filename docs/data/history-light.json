@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-09-20T03:14:32.636Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 4521,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1624,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1208,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.02800201816347124,
+      "koArticles": {
+        "79989": {
+          "since": "2026-09-20T03:14:32.578Z",
+          "alerted": false,
+          "title": "대기업 전문연구요원 부활…LG·삼성 등에서 81명"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-09-20T02:44:29.875Z",
     "dsstore": {
       "ok": true,
@@ -1212,58 +1244,6 @@
     "dl": {
       "ok": true,
       "elapsed": 1343,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-09-19T03:14:28.772Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 4646,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1336,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1216,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-09-19T02:44:46.439Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 5093,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1723,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1291,
       "slow": false,
       "imgBroken": false
     },
