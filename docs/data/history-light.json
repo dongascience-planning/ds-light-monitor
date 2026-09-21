@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-09-21T04:44:26.621Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 4942,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1435,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1159,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.03214723926380368,
+      "koArticles": {
+        "80005": {
+          "since": "2026-09-21T04:44:26.538Z",
+          "alerted": false,
+          "title": "\"오늘 커피 얼마나 마셨어?\" 얇은 패치 한 장 붙여 확인"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-09-21T04:14:33.928Z",
     "dsstore": {
       "ok": true,
@@ -1257,32 +1289,6 @@
     "dl": {
       "ok": true,
       "elapsed": 1139,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-09-20T04:44:24.565Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 5348,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1586,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1511,
       "slow": false,
       "imgBroken": false
     },
