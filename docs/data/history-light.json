@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-09-21T03:14:33.694Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 6055,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1879,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1457,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.02752519046448759,
+      "koArticles": {
+        "80003": {
+          "since": "2026-09-21T03:14:33.642Z",
+          "alerted": false,
+          "title": "\"한국형발사체 '누리호' 성공 위해 가구당 연 10만원 낼 의사 있다\""
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-09-21T02:44:29.332Z",
     "dsstore": {
       "ok": true,
@@ -1252,38 +1284,6 @@
       "untranslated": false,
       "ratio": 0,
       "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-09-20T03:14:32.636Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 4521,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1624,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1208,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.02800201816347124,
-      "koArticles": {
-        "79989": {
-          "since": "2026-09-20T03:14:32.578Z",
-          "alerted": false,
-          "title": "대기업 전문연구요원 부활…LG·삼성 등에서 81명"
-        }
-      }
     }
   }
 ]
