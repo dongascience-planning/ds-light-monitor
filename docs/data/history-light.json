@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-09-21T09:44:47.312Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 4975,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1696,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1496,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.032592950265572185,
+      "koArticles": {
+        "80013": {
+          "since": "2026-09-21T09:44:47.264Z",
+          "alerted": false,
+          "title": "기초지원연·생기원·에너지연 원장에 박성균·손웅희·정학근"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-09-21T09:14:28.921Z",
     "dsstore": {
       "ok": true,
@@ -1255,53 +1287,6 @@
       "untranslated": false,
       "ratio": 0,
       "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-09-20T09:44:29.354Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 4753,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1452,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1245,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.12312943029666579,
-      "koArticles": {
-        "79993": {
-          "since": "2026-09-20T09:44:29.271Z",
-          "alerted": false,
-          "title": "\"연구자들 AI 적극적으로 배워 적응해야\""
-        },
-        "79994": {
-          "since": "2026-09-20T09:44:29.271Z",
-          "alerted": false,
-          "title": "루게릭병, 맞춤형 RNA 치료법 나올까…신체기능점수 개선 확인"
-        },
-        "79995": {
-          "since": "2026-09-20T09:44:29.271Z",
-          "alerted": false,
-          "title": "[사이언스게시판] 전기연, 우주 탐사 로버 핵심 기술 확보 나서"
-        },
-        "79996": {
-          "since": "2026-09-20T09:44:29.271Z",
-          "alerted": false,
-          "title": "[과기원NOW] KAIST, 촉매 반응 균형 조절하는 법 찾았다"
-        }
-      }
     }
   }
 ]
