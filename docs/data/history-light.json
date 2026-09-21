@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-09-21T06:44:32.152Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 4732,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1507,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1168,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-09-21T06:14:26.244Z",
     "dsstore": {
       "ok": true,
@@ -1257,64 +1283,6 @@
     "dl": {
       "ok": true,
       "elapsed": 1640,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-09-20T06:44:23.951Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 5500,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1773,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1516,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.030920245398773007,
-      "koArticles": {
-        "79992": {
-          "since": "2026-09-20T06:44:23.880Z",
-          "alerted": false,
-          "title": "우주팽창 이론 도전받은 노벨상 수상자 \"분석 틀렸다고 보지만 좋은 논쟁\""
-        }
-      }
-    }
-  },
-  {
-    "ts": "2026-09-20T06:14:39.187Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 5198,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1859,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1252,
       "slow": false,
       "imgBroken": false
     },
