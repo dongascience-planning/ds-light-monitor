@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-09-21T12:14:25.252Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 6283,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1534,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1401,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-09-21T11:44:23.006Z",
     "dsstore": {
       "ok": true,
@@ -1280,32 +1306,6 @@
     "dl": {
       "ok": true,
       "elapsed": 1982,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-09-20T11:44:34.011Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 5694,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1881,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1639,
       "slow": false,
       "imgBroken": false
     },
