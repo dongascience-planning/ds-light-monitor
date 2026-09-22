@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-09-22T12:44:32.270Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 4907,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1814,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1186,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-09-22T12:14:30.555Z",
     "dsstore": {
       "ok": true,
@@ -1240,38 +1266,6 @@
       "untranslated": false,
       "ratio": 0,
       "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-09-21T12:44:30.663Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 5589,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1361,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1336,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.0275,
-      "koArticles": {
-        "80014": {
-          "since": "2026-09-21T12:44:30.579Z",
-          "alerted": false,
-          "title": "'좀비세포' 바코드 찍어 신체나이 밝힌다"
-        }
-      }
     }
   }
 ]
