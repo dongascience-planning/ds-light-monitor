@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-09-22T09:14:29.628Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 5273,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1843,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1153,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-09-22T08:44:37.865Z",
     "dsstore": {
       "ok": true,
@@ -1250,38 +1276,6 @@
           "since": "2026-09-21T09:44:47.264Z",
           "alerted": false,
           "title": "기초지원연·생기원·에너지연 원장에 박성균·손웅희·정학근"
-        }
-      }
-    }
-  },
-  {
-    "ts": "2026-09-21T09:14:28.921Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 4605,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1542,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1224,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.02702038811102923,
-      "koArticles": {
-        "80011": {
-          "since": "2026-09-21T08:44:31.599Z",
-          "alerted": false,
-          "title": "KAIST 신임 이사장에 권오현 전 삼성전자 대표이사"
         }
       }
     }
