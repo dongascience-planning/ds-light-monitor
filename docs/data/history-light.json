@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-09-22T08:44:37.865Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 6865,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1326,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1326,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-09-22T08:15:29.903Z",
     "dsstore": {
       "ok": true,
@@ -1251,38 +1277,6 @@
     "dotcomEn": {
       "untranslated": false,
       "ratio": 0.02702038811102923,
-      "koArticles": {
-        "80011": {
-          "since": "2026-09-21T08:44:31.599Z",
-          "alerted": false,
-          "title": "KAIST 신임 이사장에 권오현 전 삼성전자 대표이사"
-        }
-      }
-    }
-  },
-  {
-    "ts": "2026-09-21T08:44:31.685Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 5032,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1838,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1536,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.02653159671972986,
       "koArticles": {
         "80011": {
           "since": "2026-09-21T08:44:31.599Z",
