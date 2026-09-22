@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-09-22T10:14:30.564Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 4869,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1635,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1332,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-09-22T09:44:36.827Z",
     "dsstore": {
       "ok": true,
@@ -1246,64 +1272,6 @@
       "untranslated": false,
       "ratio": 0,
       "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-09-21T10:14:26.314Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 6067,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1921,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1977,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-09-21T09:44:47.312Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 4975,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1696,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1496,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.032592950265572185,
-      "koArticles": {
-        "80013": {
-          "since": "2026-09-21T09:44:47.264Z",
-          "alerted": false,
-          "title": "기초지원연·생기원·에너지연 원장에 박성균·손웅희·정학근"
-        }
-      }
     }
   }
 ]
