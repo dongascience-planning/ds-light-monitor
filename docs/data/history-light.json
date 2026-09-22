@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-09-22T03:14:34.402Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 4505,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1486,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1389,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.03228137798120935,
+      "koArticles": {
+        "80024": {
+          "since": "2026-09-22T03:14:34.333Z",
+          "alerted": false,
+          "title": "소재 한계 극복한 실리콘 단파장 적외선 센서…자율주행·정찰드론·양자컴퓨팅 기대"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-09-22T02:44:27.535Z",
     "dsstore": {
       "ok": true,
@@ -1241,64 +1273,6 @@
           "title": "화재 위험 낮은 전고체 배터리 새 설계법…\"제자리 도는 음이온, 성능 높여\""
         }
       }
-    }
-  },
-  {
-    "ts": "2026-09-21T03:14:33.694Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 6055,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1879,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1457,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.02752519046448759,
-      "koArticles": {
-        "80003": {
-          "since": "2026-09-21T03:14:33.642Z",
-          "alerted": false,
-          "title": "\"한국형발사체 '누리호' 성공 위해 가구당 연 10만원 낼 의사 있다\""
-        }
-      }
-    }
-  },
-  {
-    "ts": "2026-09-21T02:44:29.332Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 4523,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1618,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1333,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
     }
   }
 ]
