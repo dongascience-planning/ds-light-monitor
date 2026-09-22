@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-09-22T01:44:34.118Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 5021,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1667,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1294,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.03043170559094126,
+      "koArticles": {
+        "80021": {
+          "since": "2026-09-22T01:44:34.015Z",
+          "alerted": false,
+          "title": "과학동아 40년 표지 한눈에…국립대구과학관, ‘과학동아 40주년 표지전’ 개최"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-09-22T01:12:17.438Z",
     "dsstore": {
       "ok": true,
@@ -1240,64 +1272,6 @@
     "dotcomEn": {
       "untranslated": false,
       "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-09-21T01:44:25.290Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 5017,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1861,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1575,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.029726205997392438,
-      "koArticles": {
-        "79999": {
-          "since": "2026-09-21T01:44:24.846Z",
-          "alerted": false,
-          "title": "태풍 안와서 다행?…\"해양 환경은 신음\""
-        }
-      }
-    }
-  },
-  {
-    "ts": "2026-09-21T01:14:31.465Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 5281,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1586,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1348,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.025692192566724868,
       "koArticles": {}
     }
   }
