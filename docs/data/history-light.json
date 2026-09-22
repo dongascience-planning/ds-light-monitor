@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-09-22T05:44:32.846Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 4536,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1437,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1185,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.05703686529098075,
+      "koArticles": {
+        "80028": {
+          "since": "2026-09-22T05:44:32.767Z",
+          "alerted": false,
+          "title": "韓 연구진, 누구나 연결 양자암호통신망 시뮬레이터 세계 첫 개발"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-09-22T05:14:29.084Z",
     "dsstore": {
       "ok": true,
@@ -1271,32 +1303,6 @@
     "dl": {
       "ok": true,
       "elapsed": 1709,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-09-21T05:14:35.571Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 4545,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1631,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1354,
       "slow": false,
       "imgBroken": false
     },
