@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-09-23T02:44:35.662Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 5652,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 2139,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1727,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-09-23T02:14:28.359Z",
     "dsstore": {
       "ok": true,
@@ -1266,32 +1292,6 @@
           "title": "소재 한계 극복한 실리콘 단파장 적외선 센서…자율주행·정찰드론·양자컴퓨팅 기대"
         }
       }
-    }
-  },
-  {
-    "ts": "2026-09-22T02:44:27.535Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 5791,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 2002,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1639,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
     }
   }
 ]
