@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-09-23T00:14:37.874Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 4777,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1649,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1235,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.024489795918367346,
+      "koArticles": {
+        "80038": {
+          "since": "2026-09-23T00:14:37.800Z",
+          "alerted": false,
+          "title": "63도 물에서도 증식하는 '불 아메바'…한계온도 60도 넘는 최초 기록"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-09-22T23:44:38.050Z",
     "dsstore": {
       "ok": true,
@@ -1253,32 +1285,6 @@
     "dl": {
       "ok": true,
       "elapsed": 1580,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-09-22T00:14:29.066Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 4586,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1507,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1121,
       "slow": false,
       "imgBroken": false
     },
