@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-09-23T02:14:28.359Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 4547,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1555,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1729,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-09-23T01:44:27.192Z",
     "dsstore": {
       "ok": true,
@@ -1266,64 +1292,6 @@
       "untranslated": false,
       "ratio": 0,
       "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-09-22T02:14:27.756Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 5870,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1936,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1556,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-09-22T01:44:34.118Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 5021,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1667,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1294,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.03043170559094126,
-      "koArticles": {
-        "80021": {
-          "since": "2026-09-22T01:44:34.015Z",
-          "alerted": false,
-          "title": "과학동아 40년 표지 한눈에…국립대구과학관, ‘과학동아 40주년 표지전’ 개최"
-        }
-      }
     }
   }
 ]
