@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-09-23T04:44:45.849Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 4873,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1595,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1345,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-09-23T04:14:38.419Z",
     "dsstore": {
       "ok": true,
@@ -1255,32 +1281,6 @@
           "title": "나라스페이스, 초소형위성 자율 근접운영 국방과제 주관…67억원 규모"
         }
       }
-    }
-  },
-  {
-    "ts": "2026-09-22T04:44:40.434Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 5586,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1518,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1237,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
     }
   }
 ]
