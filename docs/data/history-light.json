@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-09-23T07:44:30.778Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 5447,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1556,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1338,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-09-23T07:14:36.893Z",
     "dsstore": {
       "ok": true,
@@ -1269,38 +1295,6 @@
       "untranslated": false,
       "ratio": 0,
       "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-09-22T07:14:49.476Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 5098,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1704,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1315,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.030100334448160536,
-      "koArticles": {
-        "80033": {
-          "since": "2026-09-22T07:14:49.428Z",
-          "alerted": false,
-          "title": "한국 과학자들, 스트론튬 주파수 세계표준 88년만에 재확립"
-        }
-      }
     }
   }
 ]
