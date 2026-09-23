@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-09-23T03:14:43.153Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 4561,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1293,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1253,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-09-23T02:44:35.662Z",
     "dsstore": {
       "ok": true,
@@ -1258,38 +1284,6 @@
           "since": "2026-09-22T03:44:34.225Z",
           "alerted": false,
           "title": "전극 리튬이온 병목현상 해결해 고용량 배터리 개선"
-        }
-      }
-    }
-  },
-  {
-    "ts": "2026-09-22T03:14:34.402Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 4505,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1486,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1389,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.03228137798120935,
-      "koArticles": {
-        "80024": {
-          "since": "2026-09-22T03:14:34.333Z",
-          "alerted": false,
-          "title": "소재 한계 극복한 실리콘 단파장 적외선 센서…자율주행·정찰드론·양자컴퓨팅 기대"
         }
       }
     }
