@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-09-24T06:14:37.822Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 5803,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 2353,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 2032,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-09-24T05:44:34.456Z",
     "dsstore": {
       "ok": true,
@@ -1219,38 +1245,6 @@
       "untranslated": false,
       "ratio": 0,
       "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-09-23T06:14:34.474Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 4764,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1618,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1228,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.026793823796548592,
-      "koArticles": {
-        "80055": {
-          "since": "2026-09-23T06:14:34.397Z",
-          "alerted": false,
-          "title": "오픈AI '나비에-스토크스' 증명 논란…\"수학자들이 풀려던 문제 아냐\""
-        }
-      }
     }
   }
 ]
