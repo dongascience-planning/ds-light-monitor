@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-09-24T23:14:28.039Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 5690,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1898,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1620,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.028230713068873207,
+      "koArticles": {
+        "80060": {
+          "since": "2026-09-24T23:14:27.955Z",
+          "alerted": false,
+          "title": "어린 오랑우탄, '보고 배우기'가 '혼자 익히기'보다 5배 많다"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-09-24T22:44:30.934Z",
     "dsstore": {
       "ok": true,
@@ -1212,58 +1244,6 @@
     "dl": {
       "ok": true,
       "elapsed": 1457,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-09-23T23:14:28.426Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 5744,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 2026,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1807,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-09-23T22:44:46.324Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 4663,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1481,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1278,
       "slow": false,
       "imgBroken": false
     },
