@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-09-24T03:44:47.985Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 5783,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 2461,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1835,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-09-24T03:14:27.844Z",
     "dsstore": {
       "ok": true,
@@ -1231,58 +1257,6 @@
           "title": "빛 알갱이 하나 밝기 10배 증폭…고속 양자암호통신 상용화 기반"
         }
       }
-    }
-  },
-  {
-    "ts": "2026-09-23T03:44:35.243Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 5759,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 2029,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1664,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-09-23T03:14:43.153Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 4561,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1293,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1253,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
     }
   }
 ]
