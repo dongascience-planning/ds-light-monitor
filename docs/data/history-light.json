@@ -1,7 +1,27 @@
 [
   {
+    "ts": "2026-09-25T10:16:09.509Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 5845,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1987,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1833,
+      "slow": false,
+      "imgBroken": false
+    }
+  },
+  {
     "ts": "2026-09-25T10:15:10.428Z",
-    "recheckPending": true,
     "dsstore": {
       "ok": true,
       "elapsed": 4848,
@@ -13,7 +33,7 @@
       "elapsed": null,
       "slow": false,
       "imgBroken": false,
-      "error": "타임아웃 (20초 초과)"
+      "error": "타임아웃 (20초 초과) · 교차 재점검 통과 → 러너 경로 문제 또는 단기 자연복구로 판정"
     },
     "dl": {
       "ok": true,
@@ -25,7 +45,8 @@
       "untranslated": false,
       "ratio": 0,
       "koArticles": {}
-    }
+    },
+    "runnerIssue": true
   },
   {
     "ts": "2026-09-25T09:44:28.925Z",
@@ -1246,32 +1267,6 @@
     "dl": {
       "ok": true,
       "elapsed": 1860,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-09-24T10:15:53.874Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 4582,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1379,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1298,
       "slow": false,
       "imgBroken": false
     },
