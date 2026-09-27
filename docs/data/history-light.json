@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-09-27T10:44:32.319Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 4781,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1329,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1115,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.026309195690303183,
+      "koArticles": {
+        "80069": {
+          "since": "2026-09-27T10:44:32.261Z",
+          "alerted": false,
+          "title": "10명 중 1명은 위고비·마운자로 효과 미미…비밀 밝힐까"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-09-27T10:14:30.905Z",
     "dsstore": {
       "ok": true,
@@ -1242,32 +1274,6 @@
     "dl": {
       "ok": true,
       "elapsed": 1407,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-09-26T10:44:26.093Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 5332,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 2313,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1764,
       "slow": false,
       "imgBroken": false
     },
