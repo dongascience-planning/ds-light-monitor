@@ -1,5 +1,42 @@
 [
   {
+    "ts": "2026-09-28T02:14:33.390Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 4578,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1722,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1348,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.0595959595959596,
+      "koArticles": {
+        "80074": {
+          "since": "2026-09-28T02:14:33.321Z",
+          "alerted": false,
+          "title": "韓 도로안전 기술, 캐나다 로키산맥 혹한 환경서 실증"
+        },
+        "80075": {
+          "since": "2026-09-28T02:14:33.321Z",
+          "alerted": false,
+          "title": "'미생물 공장' 효율 높이는 '만능 스위치'…대장균·효모에 모두 작동"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-09-28T01:41:44.564Z",
     "dsstore": {
       "ok": true,
@@ -1249,64 +1286,6 @@
       "untranslated": false,
       "ratio": 0,
       "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-09-27T02:14:29.703Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 4444,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1303,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1193,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-09-27T01:44:17.466Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 4465,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1642,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1225,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.03272545590806895,
-      "koArticles": {
-        "80065": {
-          "since": "2026-09-27T01:44:17.375Z",
-          "alerted": false,
-          "title": "[표지로 읽는 과학] 어린 오랑우탄, 수업과 복습으로 '숟가락질' 배운다"
-        }
-      }
     }
   }
 ]
