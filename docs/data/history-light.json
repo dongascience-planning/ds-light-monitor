@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-09-28T08:44:37.545Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 6516,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1392,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1188,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.027241208519068846,
+      "koArticles": {
+        "80079": {
+          "since": "2026-09-28T08:44:37.457Z",
+          "alerted": false,
+          "title": "한국에 손내민 佛 양자컴 기업…\"아시아 제조·연구 거점으로\""
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-09-28T08:14:28.518Z",
     "dsstore": {
       "ok": true,
@@ -1259,64 +1291,6 @@
       "untranslated": false,
       "ratio": 0,
       "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-09-27T08:44:28.032Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 5245,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1791,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1519,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-09-27T08:14:35.715Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 4614,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1737,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1324,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.027714789619551525,
-      "koArticles": {
-        "80071": {
-          "since": "2026-09-27T08:14:35.604Z",
-          "alerted": false,
-          "title": "[사이언스게시판] 전기연, 기판에 직접 탄소 코팅하는 기술 개발 外"
-        }
-      }
     }
   }
 ]
