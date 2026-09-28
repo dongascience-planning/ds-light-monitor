@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-09-28T02:44:48.909Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 5267,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1641,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1253,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.028621204579392732,
+      "koArticles": {
+        "80074": {
+          "since": "2026-09-28T02:14:33.321Z",
+          "alerted": false,
+          "title": "韓 도로안전 기술, 캐나다 로키산맥 혹한 환경서 실증"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-09-28T02:14:33.390Z",
     "dsstore": {
       "ok": true,
@@ -1253,32 +1285,6 @@
     "dl": {
       "ok": true,
       "elapsed": 1969,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-09-27T02:44:27.001Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 4905,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1852,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1335,
       "slow": false,
       "imgBroken": false
     },
