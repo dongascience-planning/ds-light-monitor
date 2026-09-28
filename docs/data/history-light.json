@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-09-28T04:14:27.385Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 5674,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 2031,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1551,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-09-28T03:44:32.933Z",
     "dsstore": {
       "ok": true,
@@ -1279,38 +1305,6 @@
     "dl": {
       "ok": true,
       "elapsed": 1677,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.02623032725455908,
-      "koArticles": {
-        "80066": {
-          "since": "2026-09-27T03:45:06.274Z",
-          "alerted": false,
-          "title": "'제미나이'에 한 질문, 우주서 처리?…구글, 우주데이터센터 첫 테스트"
-        }
-      }
-    }
-  },
-  {
-    "ts": "2026-09-27T03:45:06.370Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 4843,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1638,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1196,
       "slow": false,
       "imgBroken": false
     },
