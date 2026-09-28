@@ -1,5 +1,42 @@
 [
   {
+    "ts": "2026-09-28T06:44:41.736Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 5657,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1897,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 2317,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.06406685236768803,
+      "koArticles": {
+        "80081": {
+          "since": "2026-09-28T06:44:41.673Z",
+          "alerted": false,
+          "title": "도로 위 달리는 '87평형 공기청정기'…기계연, 공기정화 자동차 공개"
+        },
+        "80083": {
+          "since": "2026-09-28T06:44:41.673Z",
+          "alerted": false,
+          "title": "李 정부 국가우주위 부위원장, 차기 회의서 선출"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-09-28T06:14:30.327Z",
     "dsstore": {
       "ok": true,
@@ -1254,38 +1291,6 @@
       "untranslated": false,
       "ratio": 0,
       "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-09-27T06:44:36.144Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 5028,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1538,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1321,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.03283582089552239,
-      "koArticles": {
-        "80068": {
-          "since": "2026-09-27T06:44:36.092Z",
-          "alerted": false,
-          "title": "\"어떤 의견이든 들을게\"…안정적 환경에서 좋은 결정 나온다"
-        }
-      }
     }
   }
 ]
