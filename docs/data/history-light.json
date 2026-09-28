@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-09-28T03:14:32.648Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 5747,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1986,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1688,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.03288009888751545,
+      "koArticles": {
+        "80076": {
+          "since": "2026-09-28T03:14:32.597Z",
+          "alerted": false,
+          "title": "원자·빛 상호작용, 지하철 노선도처럼…양자컴 원리 해석 틀 제시"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-09-28T02:44:48.909Z",
     "dsstore": {
       "ok": true,
@@ -1266,32 +1298,6 @@
           "title": "'제미나이'에 한 질문, 우주서 처리?…구글, 우주데이터센터 첫 테스트"
         }
       }
-    }
-  },
-  {
-    "ts": "2026-09-27T03:14:26.169Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 5277,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1943,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1969,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
     }
   }
 ]
