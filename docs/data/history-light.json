@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-09-28T10:14:29.980Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 4559,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1841,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1551,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.032082922013820334,
+      "koArticles": {
+        "80089": {
+          "since": "2026-09-28T10:14:29.932Z",
+          "alerted": false,
+          "title": "전기연·원자력연 신임 원장에 강상희·정우식"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-09-28T09:44:31.602Z",
     "dsstore": {
       "ok": true,
@@ -1265,32 +1297,6 @@
           "title": "10명 중 1명은 위고비·마운자로 효과 미미…비밀 밝힐까"
         }
       }
-    }
-  },
-  {
-    "ts": "2026-09-27T10:14:30.905Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 4701,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1449,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1226,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
     }
   }
 ]
