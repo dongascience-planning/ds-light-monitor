@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-09-28T08:14:28.518Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 5991,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1797,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1684,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-09-28T07:40:41.190Z",
     "dsstore": {
       "ok": true,
@@ -1291,32 +1317,6 @@
           "title": "[사이언스게시판] 전기연, 기판에 직접 탄소 코팅하는 기술 개발 外"
         }
       }
-    }
-  },
-  {
-    "ts": "2026-09-27T07:44:32.301Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 4753,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1700,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1235,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
     }
   }
 ]
