@@ -1,5 +1,42 @@
 [
   {
+    "ts": "2026-09-28T11:14:52.399Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 5339,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1922,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1457,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.06101445724087234,
+      "koArticles": {
+        "80087": {
+          "since": "2026-09-28T11:14:52.346Z",
+          "alerted": false,
+          "title": "[과기원NOW] 포스텍, 산소 방출 조절해 전기차 배터리 수명 늘린다 外"
+        },
+        "80088": {
+          "since": "2026-09-28T11:14:52.346Z",
+          "alerted": false,
+          "title": "[사이언스게시판] 우주청, '누리호 5차 발사 기념 우주항공 토크콘서트' 개최 外"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-09-28T10:44:32.055Z",
     "dsstore": {
       "ok": true,
@@ -1258,32 +1295,6 @@
     "dl": {
       "ok": true,
       "elapsed": 1699,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-09-27T11:14:25.658Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 5576,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1871,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1786,
       "slow": false,
       "imgBroken": false
     },
