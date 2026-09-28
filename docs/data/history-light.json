@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-09-28T01:14:28.690Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 5529,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1757,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1665,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-09-28T00:44:28.407Z",
     "dsstore": {
       "ok": true,
@@ -1255,58 +1281,6 @@
           "title": "[표지로 읽는 과학] 어린 오랑우탄, 수업과 복습으로 '숟가락질' 배운다"
         }
       }
-    }
-  },
-  {
-    "ts": "2026-09-27T01:14:29.419Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 4815,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1712,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1293,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-09-27T00:44:31.775Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 6471,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1752,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1328,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
     }
   }
 ]
