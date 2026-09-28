@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-09-28T06:14:30.327Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 4934,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1605,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1224,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-09-28T05:44:28.400Z",
     "dsstore": {
       "ok": true,
@@ -1260,58 +1286,6 @@
           "title": "\"어떤 의견이든 들을게\"…안정적 환경에서 좋은 결정 나온다"
         }
       }
-    }
-  },
-  {
-    "ts": "2026-09-27T06:14:29.048Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 4936,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1626,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1304,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-09-27T05:44:31.634Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 4916,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1628,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1245,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
     }
   }
 ]
