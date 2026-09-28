@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-09-28T13:14:37.690Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 4851,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1489,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1140,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.029114533205004813,
+      "koArticles": {
+        "80086": {
+          "since": "2026-09-28T13:14:37.614Z",
+          "alerted": false,
+          "title": "산불이 지난 자리에 진화하는 독성 화학물질 남는다"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-09-28T12:44:29.281Z",
     "dsstore": {
       "ok": true,
