@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-09-29T07:14:27.784Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 5763,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1915,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1755,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.024406934306569344,
+      "koArticles": {
+        "80102": {
+          "since": "2026-09-29T07:14:27.682Z",
+          "alerted": false,
+          "title": "목소리 20초 듣고 당뇨병 위험 판별하는 AI"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-09-29T06:44:30.561Z",
     "dsstore": {
       "ok": true,
@@ -1278,69 +1310,6 @@
       "untranslated": false,
       "ratio": 0,
       "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-09-28T07:14:24.928Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 4487,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1382,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1239,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-09-28T06:44:41.736Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 5657,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1897,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 2317,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.06406685236768803,
-      "koArticles": {
-        "80081": {
-          "since": "2026-09-28T06:44:41.673Z",
-          "alerted": false,
-          "title": "도로 위 달리는 '87평형 공기청정기'…기계연, 공기정화 자동차 공개"
-        },
-        "80083": {
-          "since": "2026-09-28T06:44:41.673Z",
-          "alerted": false,
-          "title": "李 정부 국가우주위 부위원장, 차기 회의서 선출"
-        }
-      }
     }
   }
 ]
