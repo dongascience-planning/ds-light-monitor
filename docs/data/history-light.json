@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-09-29T13:44:33.026Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 5098,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1702,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1250,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-09-29T13:14:30.250Z",
     "dsstore": {
       "ok": true,
@@ -1291,38 +1317,6 @@
       "untranslated": false,
       "ratio": 0,
       "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-09-28T13:14:37.690Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 4851,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1489,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1140,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.029114533205004813,
-      "koArticles": {
-        "80086": {
-          "since": "2026-09-28T13:14:37.614Z",
-          "alerted": false,
-          "title": "산불이 지난 자리에 진화하는 독성 화학물질 남는다"
-        }
-      }
     }
   }
 ]
