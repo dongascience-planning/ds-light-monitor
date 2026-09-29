@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-09-29T11:14:27.303Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 5468,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1971,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1420,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-09-29T10:44:28.793Z",
     "dsstore": {
       "ok": true,
@@ -1314,32 +1340,6 @@
           "title": "[사이언스게시판] 우주청, '누리호 5차 발사 기념 우주항공 토크콘서트' 개최 外"
         }
       }
-    }
-  },
-  {
-    "ts": "2026-09-28T10:44:32.055Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 4555,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1619,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1217,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
     }
   }
 ]
