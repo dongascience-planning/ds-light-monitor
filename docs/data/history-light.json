@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-09-29T10:14:33.037Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 4715,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1581,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1146,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-09-29T09:44:44.255Z",
     "dsstore": {
       "ok": true,
@@ -1288,38 +1314,6 @@
       "untranslated": false,
       "ratio": 0,
       "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-09-28T10:14:29.980Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 4559,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1841,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1551,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.032082922013820334,
-      "koArticles": {
-        "80089": {
-          "since": "2026-09-28T10:14:29.932Z",
-          "alerted": false,
-          "title": "전기연·원자력연 신임 원장에 강상희·정우식"
-        }
-      }
     }
   }
 ]
