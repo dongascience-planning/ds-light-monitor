@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-09-29T01:44:40.291Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 4639,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 2715,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1152,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-09-29T01:14:54.968Z",
     "dsstore": {
       "ok": true,
@@ -1294,32 +1320,6 @@
           "title": "'미생물 공장' 효율 높이는 '만능 스위치'…대장균·효모에 모두 작동"
         }
       }
-    }
-  },
-  {
-    "ts": "2026-09-28T01:41:44.564Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 5314,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1700,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1712,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
     }
   }
 ]
