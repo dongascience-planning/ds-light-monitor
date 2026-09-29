@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-09-29T09:44:44.255Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 4655,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1612,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1198,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-09-29T09:14:27.733Z",
     "dsstore": {
       "ok": true,
@@ -1294,32 +1320,6 @@
           "title": "전기연·원자력연 신임 원장에 강상희·정우식"
         }
       }
-    }
-  },
-  {
-    "ts": "2026-09-28T09:44:31.602Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 6267,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1795,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1412,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
     }
   }
 ]
