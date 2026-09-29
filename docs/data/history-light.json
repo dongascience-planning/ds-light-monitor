@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-09-29T16:44:53.526Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 4678,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1817,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1470,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-09-29T16:14:30.126Z",
     "dsstore": {
       "ok": true,
@@ -1265,58 +1291,6 @@
           "title": "기후변화로 해수면 오르면 침입종도 밀려온다"
         }
       }
-    }
-  },
-  {
-    "ts": "2026-09-28T16:44:33.957Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 5758,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1842,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1880,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-09-28T16:14:36.443Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 4766,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1476,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1236,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
     }
   }
 ]
