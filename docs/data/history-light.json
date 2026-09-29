@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-09-29T03:14:43.002Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 5015,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1873,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1529,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.05887984681665869,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-09-29T02:44:41.522Z",
     "dsstore": {
       "ok": true,
@@ -1277,70 +1303,6 @@
       "untranslated": false,
       "ratio": 0,
       "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-09-28T03:14:32.648Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 5747,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1986,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1688,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.03288009888751545,
-      "koArticles": {
-        "80076": {
-          "since": "2026-09-28T03:14:32.597Z",
-          "alerted": false,
-          "title": "원자·빛 상호작용, 지하철 노선도처럼…양자컴 원리 해석 틀 제시"
-        }
-      }
-    }
-  },
-  {
-    "ts": "2026-09-28T02:44:48.909Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 5267,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1641,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1253,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.028621204579392732,
-      "koArticles": {
-        "80074": {
-          "since": "2026-09-28T02:14:33.321Z",
-          "alerted": false,
-          "title": "韓 도로안전 기술, 캐나다 로키산맥 혹한 환경서 실증"
-        }
-      }
     }
   }
 ]
