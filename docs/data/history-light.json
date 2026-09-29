@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-09-29T12:44:30.770Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 4643,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1573,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1215,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-09-29T12:14:28.553Z",
     "dsstore": {
       "ok": true,
@@ -1271,58 +1297,6 @@
           "title": "산불이 지난 자리에 진화하는 독성 화학물질 남는다"
         }
       }
-    }
-  },
-  {
-    "ts": "2026-09-28T12:44:29.281Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 5644,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1839,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1849,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-09-28T12:14:38.278Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 5627,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1916,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 2399,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
     }
   }
 ]
