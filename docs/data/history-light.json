@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-09-29T17:44:29.548Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 5126,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1853,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1862,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-09-29T17:14:52.016Z",
     "dsstore": {
       "ok": true,
@@ -1285,38 +1311,6 @@
       "untranslated": false,
       "ratio": 0,
       "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-09-28T17:15:20.972Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 4762,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1580,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1478,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.0314374850011999,
-      "koArticles": {
-        "80085": {
-          "since": "2026-09-28T17:15:20.885Z",
-          "alerted": false,
-          "title": "기후변화로 해수면 오르면 침입종도 밀려온다"
-        }
-      }
     }
   }
 ]
