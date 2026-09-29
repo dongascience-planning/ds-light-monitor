@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-09-29T06:44:30.561Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 5030,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1340,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1429,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.028701594533029614,
+      "koArticles": {
+        "80101": {
+          "since": "2026-09-29T06:44:30.470Z",
+          "alerted": false,
+          "title": "차세대발사체 재사용 기술 시험대 오른다…\"2028년 시연체 비행 목표\""
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-09-29T06:14:27.164Z",
     "dsstore": {
       "ok": true,
@@ -1309,32 +1341,6 @@
           "title": "李 정부 국가우주위 부위원장, 차기 회의서 선출"
         }
       }
-    }
-  },
-  {
-    "ts": "2026-09-28T06:14:30.327Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 4934,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1605,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1224,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
     }
   }
 ]
