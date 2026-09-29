@@ -1,5 +1,47 @@
 [
   {
+    "ts": "2026-09-29T08:14:30.436Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 5214,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 2254,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1393,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.08559302051402971,
+      "koArticles": {
+        "80104": {
+          "since": "2026-09-29T08:14:30.342Z",
+          "alerted": false,
+          "title": "[의학바이오게시판] 서울대병원, 노벨상 수상자와 희귀질환 유전자치료 공동연구 강화"
+        },
+        "80105": {
+          "since": "2026-09-29T08:14:30.342Z",
+          "alerted": false,
+          "title": "[과기원NOW] 휘라포토닉스, DGIST에 3억원 상당 반도체 장비 부품 기증 外"
+        },
+        "80106": {
+          "since": "2026-09-29T08:14:30.342Z",
+          "alerted": false,
+          "title": "[사이언스게시판] 과기정통부, 서울대에 'AI반도체 혁신 연구소' 개소 外"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-09-29T07:44:28.377Z",
     "dsstore": {
       "ok": true,
@@ -1284,32 +1326,6 @@
           "title": "한국에 손내민 佛 양자컴 기업…\"아시아 제조·연구 거점으로\""
         }
       }
-    }
-  },
-  {
-    "ts": "2026-09-28T08:14:28.518Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 5991,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1797,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1684,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
     }
   }
 ]
