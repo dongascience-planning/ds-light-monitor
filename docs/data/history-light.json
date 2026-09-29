@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-09-29T08:44:57.989Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 7312,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1638,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1302,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-09-29T08:14:30.436Z",
     "dsstore": {
       "ok": true,
@@ -1294,38 +1320,6 @@
       "untranslated": false,
       "ratio": 0,
       "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-09-28T08:44:37.545Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 6516,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1392,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1188,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.027241208519068846,
-      "koArticles": {
-        "80079": {
-          "since": "2026-09-28T08:44:37.457Z",
-          "alerted": false,
-          "title": "한국에 손내민 佛 양자컴 기업…\"아시아 제조·연구 거점으로\""
-        }
-      }
     }
   }
 ]
