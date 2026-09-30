@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-09-30T04:44:32.543Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 4690,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1543,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1288,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.026702873953383117,
+      "koArticles": {
+        "80121": {
+          "since": "2026-09-30T04:44:32.458Z",
+          "alerted": false,
+          "title": "소형모듈원자로·핵융합 등 '7대 시드 프로젝트'에 내년 4조원 투자"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-09-30T04:14:29.965Z",
     "dsstore": {
       "ok": true,
@@ -1271,38 +1303,6 @@
       "untranslated": false,
       "ratio": 0,
       "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-09-29T04:44:29.478Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 4984,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1820,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1553,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.03428839830906529,
-      "koArticles": {
-        "80099": {
-          "since": "2026-09-29T04:44:29.390Z",
-          "alerted": false,
-          "title": "면역항암제, 한약 보중익기탕과 병용하면 항암 면역신호 활성↑"
-        }
-      }
     }
   }
 ]
