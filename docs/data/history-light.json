@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-09-30T07:14:36.311Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 4528,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1482,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1150,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-09-30T06:44:25.616Z",
     "dsstore": {
       "ok": true,
@@ -1282,70 +1308,6 @@
       "untranslated": false,
       "ratio": 0,
       "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-09-29T07:14:27.784Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 5763,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1915,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1755,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.024406934306569344,
-      "koArticles": {
-        "80102": {
-          "since": "2026-09-29T07:14:27.682Z",
-          "alerted": false,
-          "title": "목소리 20초 듣고 당뇨병 위험 판별하는 AI"
-        }
-      }
-    }
-  },
-  {
-    "ts": "2026-09-29T06:44:30.561Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 5030,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1340,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1429,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.028701594533029614,
-      "koArticles": {
-        "80101": {
-          "since": "2026-09-29T06:44:30.470Z",
-          "alerted": false,
-          "title": "차세대발사체 재사용 기술 시험대 오른다…\"2028년 시연체 비행 목표\""
-        }
-      }
     }
   }
 ]
