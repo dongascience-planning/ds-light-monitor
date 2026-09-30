@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-09-30T08:15:07.220Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 4743,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1569,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1408,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.02582765907490021,
+      "koArticles": {
+        "80129": {
+          "since": "2026-09-30T08:15:07.127Z",
+          "alerted": false,
+          "title": "K-문샷 AI과학자 PD 재선임…임성빈 고려대 교수"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-09-30T07:44:37.360Z",
     "dsstore": {
       "ok": true,
@@ -1266,48 +1298,6 @@
       "untranslated": false,
       "ratio": 0,
       "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-09-29T08:14:30.436Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 5214,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 2254,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1393,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.08559302051402971,
-      "koArticles": {
-        "80104": {
-          "since": "2026-09-29T08:14:30.342Z",
-          "alerted": false,
-          "title": "[의학바이오게시판] 서울대병원, 노벨상 수상자와 희귀질환 유전자치료 공동연구 강화"
-        },
-        "80105": {
-          "since": "2026-09-29T08:14:30.342Z",
-          "alerted": false,
-          "title": "[과기원NOW] 휘라포토닉스, DGIST에 3억원 상당 반도체 장비 부품 기증 外"
-        },
-        "80106": {
-          "since": "2026-09-29T08:14:30.342Z",
-          "alerted": false,
-          "title": "[사이언스게시판] 과기정통부, 서울대에 'AI반도체 혁신 연구소' 개소 外"
-        }
-      }
     }
   }
 ]
