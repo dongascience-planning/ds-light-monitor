@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-09-30T04:14:29.965Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 4466,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1497,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1431,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-09-30T03:44:27.565Z",
     "dsstore": {
       "ok": true,
@@ -1277,32 +1303,6 @@
           "title": "면역항암제, 한약 보중익기탕과 병용하면 항암 면역신호 활성↑"
         }
       }
-    }
-  },
-  {
-    "ts": "2026-09-29T04:14:29.791Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 4646,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1572,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1200,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
     }
   }
 ]
