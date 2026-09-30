@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-09-30T03:14:34.701Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 5069,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1592,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1298,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.031092821216278006,
+      "koArticles": {
+        "80120": {
+          "since": "2026-09-30T03:14:34.628Z",
+          "alerted": false,
+          "title": "취임 8개월 오태석 우주청장 \"우주청 조직 애매하게 설계…구조 변경할 것\""
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-09-30T02:44:25.237Z",
     "dsstore": {
       "ok": true,
@@ -1296,32 +1328,6 @@
     "dotcomEn": {
       "untranslated": false,
       "ratio": 0.05887984681665869,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-09-29T02:44:41.522Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 4496,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1530,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1650,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
       "koArticles": {}
     }
   }
