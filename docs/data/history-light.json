@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-09-30T01:14:27.037Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 5632,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1975,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1920,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.02738475581926061,
+      "koArticles": {
+        "80113": {
+          "since": "2026-09-30T01:14:26.956Z",
+          "alerted": false,
+          "title": "염한웅 IBS 단장, 저명 물리학 학술지 '피지컬 리뷰 레터스' 석학 편집위원 선임"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-09-30T00:44:24.712Z",
     "dsstore": {
       "ok": true,
@@ -1278,32 +1310,6 @@
     "dl": {
       "ok": true,
       "elapsed": 1348,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-09-29T00:44:29.485Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 5029,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1344,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1225,
       "slow": false,
       "imgBroken": false
     },
