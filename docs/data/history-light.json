@@ -1,5 +1,42 @@
 [
   {
+    "ts": "2026-09-30T05:44:29.326Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 5358,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1763,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1460,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.05688910225636102,
+      "koArticles": {
+        "80121": {
+          "since": "2026-09-30T04:44:32.458Z",
+          "alerted": false,
+          "title": "소형모듈원자로·핵융합 등 '7대 시드 프로젝트'에 내년 4조원 투자"
+        },
+        "80123": {
+          "since": "2026-09-30T05:44:29.231Z",
+          "alerted": false,
+          "title": "위성 15기 싣는 누리호…5차 발사 앞두고 결합 현장 공개"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-09-30T05:14:29.063Z",
     "dsstore": {
       "ok": true,
@@ -1302,32 +1339,6 @@
     "dl": {
       "ok": true,
       "elapsed": 1320,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-09-29T05:14:41.695Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 4958,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1445,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1161,
       "slow": false,
       "imgBroken": false
     },
