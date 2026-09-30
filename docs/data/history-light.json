@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-09-30T06:14:27.871Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 4799,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1868,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1526,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-09-30T05:44:29.326Z",
     "dsstore": {
       "ok": true,
@@ -1294,58 +1320,6 @@
           "title": "차세대발사체 재사용 기술 시험대 오른다…\"2028년 시연체 비행 목표\""
         }
       }
-    }
-  },
-  {
-    "ts": "2026-09-29T06:14:27.164Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 5568,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1771,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1813,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-09-29T05:44:32.175Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 4335,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1469,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1320,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
     }
   }
 ]
