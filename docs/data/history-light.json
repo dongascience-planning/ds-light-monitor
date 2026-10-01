@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-10-01T01:44:36.489Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 4466,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1850,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1078,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.027758007117437724,
+      "koArticles": {
+        "80140": {
+          "since": "2026-10-01T01:44:36.406Z",
+          "alerted": false,
+          "title": "노후화된 국내 교량, AI가 10분만에 안전성 진단"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-10-01T01:14:39.365Z",
     "dsstore": {
       "ok": true,
@@ -1237,32 +1269,6 @@
           "title": "30~50대 남성 절반 이상이 비만…한국인 삶 만족도 10점 만점에 6.9점"
         }
       }
-    }
-  },
-  {
-    "ts": "2026-09-30T01:44:26.008Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 5893,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1964,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1696,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
     }
   }
 ]
