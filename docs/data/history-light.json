@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-10-01T04:14:43.649Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 4901,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1743,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1507,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-10-01T03:44:37.539Z",
     "dsstore": {
       "ok": true,
@@ -1237,32 +1263,6 @@
           "title": "소형모듈원자로·핵융합 등 '7대 시드 프로젝트'에 내년 4조원 투자"
         }
       }
-    }
-  },
-  {
-    "ts": "2026-09-30T04:14:29.965Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 4466,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1497,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1431,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
     }
   }
 ]
