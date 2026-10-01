@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-10-01T04:44:52.296Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 5098,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1601,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1478,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.028462090408993064,
+      "koArticles": {
+        "80146": {
+          "since": "2026-10-01T04:44:52.257Z",
+          "alerted": false,
+          "title": "국립의전원 남원 확정…2034년 첫 졸업생 배출, 의무복무 15년"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-10-01T04:14:43.649Z",
     "dsstore": {
       "ok": true,
@@ -1224,38 +1256,6 @@
     "dotcomEn": {
       "untranslated": false,
       "ratio": 0.027882797731568997,
-      "koArticles": {
-        "80121": {
-          "since": "2026-09-30T04:44:32.458Z",
-          "alerted": false,
-          "title": "소형모듈원자로·핵융합 등 '7대 시드 프로젝트'에 내년 4조원 투자"
-        }
-      }
-    }
-  },
-  {
-    "ts": "2026-09-30T04:44:32.543Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 4690,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1543,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1288,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.026702873953383117,
       "koArticles": {
         "80121": {
           "since": "2026-09-30T04:44:32.458Z",
