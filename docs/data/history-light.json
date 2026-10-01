@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-10-01T00:44:57.416Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 5518,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 2159,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1743,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.0279236276849642,
+      "koArticles": {
+        "80134": {
+          "since": "2026-10-01T00:44:57.344Z",
+          "alerted": false,
+          "title": "암 치료 동위원소부터 우주선 테스트까지…첨단방사선연구소 20년"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-10-01T00:14:29.974Z",
     "dsstore": {
       "ok": true,
@@ -1231,32 +1263,6 @@
           "title": "염한웅 IBS 단장, 저명 물리학 학술지 '피지컬 리뷰 레터스' 석학 편집위원 선임"
         }
       }
-    }
-  },
-  {
-    "ts": "2026-09-30T00:44:24.712Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 5471,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1855,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1704,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
     }
   }
 ]
