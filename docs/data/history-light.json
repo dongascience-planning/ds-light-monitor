@@ -1,5 +1,47 @@
 [
   {
+    "ts": "2026-10-01T05:44:29.927Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 5538,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1940,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1446,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.08280718795531812,
+      "koArticles": {
+        "80146": {
+          "since": "2026-10-01T04:44:52.257Z",
+          "alerted": false,
+          "title": "국립의전원 남원 확정…2034년 첫 졸업생 배출, 의무복무 15년"
+        },
+        "80147": {
+          "since": "2026-10-01T05:44:29.844Z",
+          "alerted": false,
+          "title": "\"韓 바이오파운드리, 다음 단계는 AI 통합…데이터가 병목\""
+        },
+        "80148": {
+          "since": "2026-10-01T05:44:29.844Z",
+          "alerted": false,
+          "title": "개천절 연휴에 짧고 굵은 비…전국 큰 일교차"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-10-01T05:14:34.431Z",
     "dsstore": {
       "ok": true,
@@ -1231,43 +1273,6 @@
       "untranslated": false,
       "ratio": 0,
       "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-09-30T05:44:29.326Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 5358,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1763,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1460,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.05688910225636102,
-      "koArticles": {
-        "80121": {
-          "since": "2026-09-30T04:44:32.458Z",
-          "alerted": false,
-          "title": "소형모듈원자로·핵융합 등 '7대 시드 프로젝트'에 내년 4조원 투자"
-        },
-        "80123": {
-          "since": "2026-09-30T05:44:29.231Z",
-          "alerted": false,
-          "title": "위성 15기 싣는 누리호…5차 발사 앞두고 결합 현장 공개"
-        }
-      }
     }
   }
 ]
