@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-10-01T01:14:39.365Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 4277,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1336,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1091,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.0279236276849642,
+      "koArticles": {
+        "80134": {
+          "since": "2026-10-01T00:44:57.344Z",
+          "alerted": false,
+          "title": "암 치료 동위원소부터 우주선 테스트까지…첨단방사선연구소 20년"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-10-01T00:44:57.416Z",
     "dsstore": {
       "ok": true,
@@ -1231,38 +1263,6 @@
       "untranslated": false,
       "ratio": 0,
       "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-09-30T01:14:27.037Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 5632,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1975,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1920,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.02738475581926061,
-      "koArticles": {
-        "80113": {
-          "since": "2026-09-30T01:14:26.956Z",
-          "alerted": false,
-          "title": "염한웅 IBS 단장, 저명 물리학 학술지 '피지컬 리뷰 레터스' 석학 편집위원 선임"
-        }
-      }
     }
   }
 ]
