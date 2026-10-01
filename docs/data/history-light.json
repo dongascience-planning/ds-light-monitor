@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-10-01T02:44:24.925Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 5024,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1703,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1411,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.027384543977721047,
+      "koArticles": {
+        "80144": {
+          "since": "2026-10-01T02:44:24.807Z",
+          "alerted": false,
+          "title": "우주항공 분야 차세대 첨단소재 접합강도 높였다"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-10-01T02:14:29.887Z",
     "dsstore": {
       "ok": true,
@@ -1235,38 +1267,6 @@
           "since": "2026-09-30T03:14:34.628Z",
           "alerted": false,
           "title": "취임 8개월 오태석 우주청장 \"우주청 조직 애매하게 설계…구조 변경할 것\""
-        }
-      }
-    }
-  },
-  {
-    "ts": "2026-09-30T02:44:25.237Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 4532,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1712,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1141,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.025278293135435993,
-      "koArticles": {
-        "80117": {
-          "since": "2026-09-30T02:14:26.455Z",
-          "alerted": false,
-          "title": "30~50대 남성 절반 이상이 비만…한국인 삶 만족도 10점 만점에 6.9점"
         }
       }
     }
