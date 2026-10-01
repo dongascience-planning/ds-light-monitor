@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-10-01T08:44:34.414Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 4730,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1766,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1615,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.02631578947368421,
+      "koArticles": {
+        "80153": {
+          "since": "2026-10-01T08:44:34.337Z",
+          "alerted": false,
+          "title": "현미경 영상 공모전 '스몰월드 인 모션' 우승작, AI 조작 논란"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-10-01T08:14:38.485Z",
     "dsstore": {
       "ok": true,
@@ -1236,75 +1268,6 @@
       "untranslated": false,
       "ratio": 0,
       "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-09-30T08:44:33.960Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 4474,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1501,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1447,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.05148279952550415,
-      "koArticles": {
-        "80131": {
-          "since": "2026-09-30T08:44:33.876Z",
-          "alerted": false,
-          "title": "[사이언스게시판] 화학연, 소재·AI 전문가 초청해 '자율 실험실' 미래 논의 外"
-        },
-        "80132": {
-          "since": "2026-09-30T08:44:33.876Z",
-          "alerted": false,
-          "title": "[과기원NOW] GIST-MIT, VR 가상보행 기술 개발 外"
-        }
-      }
-    }
-  },
-  {
-    "ts": "2026-09-30T08:15:07.220Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 4743,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1569,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1408,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.02582765907490021,
-      "koArticles": {
-        "80129": {
-          "since": "2026-09-30T08:15:07.127Z",
-          "alerted": false,
-          "title": "K-문샷 AI과학자 PD 재선임…임성빈 고려대 교수"
-        }
-      }
     }
   }
 ]
