@@ -1,5 +1,52 @@
 [
   {
+    "ts": "2026-10-01T09:14:29.314Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 4757,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1681,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1660,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.10543503615581992,
+      "koArticles": {
+        "80151": {
+          "since": "2026-10-01T09:14:29.215Z",
+          "alerted": false,
+          "title": "\"인간 같은 로봇, 무서운 미래 아냐…인간이 무엇인지 답하는 과정\""
+        },
+        "80154": {
+          "since": "2026-10-01T09:14:29.215Z",
+          "alerted": false,
+          "title": "'상대성이론'도 못 받았다…노벨상 없는 노벨상급 물리학 성과"
+        },
+        "80156": {
+          "since": "2026-10-01T09:14:29.215Z",
+          "alerted": false,
+          "title": "[사이언스게시판] 국립중앙과학관, 'AI 과거시험' 개최 外"
+        },
+        "80157": {
+          "since": "2026-10-01T09:14:29.215Z",
+          "alerted": false,
+          "title": "[과기원NOW] UNIST, AI 시각인식 평가표준 허점 찾아 새 벤치마크 제시 外"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-10-01T08:44:34.414Z",
     "dsstore": {
       "ok": true,
