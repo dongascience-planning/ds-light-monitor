@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-10-02T00:14:32.051Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 5421,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1627,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1540,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-10-01T23:44:28.057Z",
     "dsstore": {
       "ok": true,
@@ -1237,58 +1263,6 @@
           "title": "암 치료 동위원소부터 우주선 테스트까지…첨단방사선연구소 20년"
         }
       }
-    }
-  },
-  {
-    "ts": "2026-10-01T00:14:29.974Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 5680,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1687,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1544,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-09-30T23:44:32.712Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 4377,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1558,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1111,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
     }
   }
 ]
