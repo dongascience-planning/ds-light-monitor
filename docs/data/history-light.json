@@ -1,5 +1,42 @@
 [
   {
+    "ts": "2026-10-02T01:44:30.617Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 5584,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 2044,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1834,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.060287736926238865,
+      "koArticles": {
+        "80155": {
+          "since": "2026-10-02T01:44:30.556Z",
+          "alerted": false,
+          "title": "생명연·한국생물공학회 MOU…신진연구자 육성·공동연구 확대"
+        },
+        "80162": {
+          "since": "2026-10-02T01:44:30.556Z",
+          "alerted": false,
+          "title": "쎄트렉아이 기술유출 의혹 '혐의없음'으로 불송치 종결"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-10-02T01:14:37.580Z",
     "dsstore": {
       "ok": true,
@@ -1249,38 +1286,6 @@
           "since": "2026-10-01T01:44:36.406Z",
           "alerted": false,
           "title": "노후화된 국내 교량, AI가 10분만에 안전성 진단"
-        }
-      }
-    }
-  },
-  {
-    "ts": "2026-10-01T01:14:39.365Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 4277,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1336,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1091,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.0279236276849642,
-      "koArticles": {
-        "80134": {
-          "since": "2026-10-01T00:44:57.344Z",
-          "alerted": false,
-          "title": "암 치료 동위원소부터 우주선 테스트까지…첨단방사선연구소 20년"
         }
       }
     }
