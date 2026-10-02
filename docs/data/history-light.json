@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-10-02T02:44:29.300Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 5533,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1907,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1894,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-10-02T02:14:33.958Z",
     "dsstore": {
       "ok": true,
@@ -1218,38 +1244,6 @@
       "untranslated": false,
       "ratio": 0,
       "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-10-01T02:44:24.925Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 5024,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1703,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1411,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.027384543977721047,
-      "koArticles": {
-        "80144": {
-          "since": "2026-10-01T02:44:24.807Z",
-          "alerted": false,
-          "title": "우주항공 분야 차세대 첨단소재 접합강도 높였다"
-        }
-      }
     }
   }
 ]
