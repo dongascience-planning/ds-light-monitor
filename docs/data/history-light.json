@@ -1,5 +1,47 @@
 [
   {
+    "ts": "2026-10-02T08:14:29.289Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 4823,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1696,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1501,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.08028673835125448,
+      "koArticles": {
+        "80177": {
+          "since": "2026-10-02T08:14:29.177Z",
+          "alerted": false,
+          "title": "[의학바이오게시판] 65세 이상 국가예방접종 다음주부터 순차 시작"
+        },
+        "80178": {
+          "since": "2026-10-02T08:14:29.177Z",
+          "alerted": false,
+          "title": "[과기원NOW] KAIST, 팔다리 붓기·암 전이 관련 '숨은 스위치' 찾았다 外"
+        },
+        "80179": {
+          "since": "2026-10-02T08:14:29.177Z",
+          "alerted": false,
+          "title": "[사이언스게시판] 표준연-부산과학관, '양자 마법학교' 특별전 개최 外"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-10-02T07:44:34.372Z",
     "dsstore": {
       "ok": true,
@@ -1200,32 +1242,6 @@
       "elapsed": 1426,
       "slow": false,
       "imgBroken": false
-    }
-  },
-  {
-    "ts": "2026-10-01T07:44:42.330Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 4653,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1375,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1441,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
     }
   }
 ]
