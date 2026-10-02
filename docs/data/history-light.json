@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-10-02T05:45:12.272Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 4911,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1884,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1523,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-10-02T05:14:40.413Z",
     "dsstore": {
       "ok": true,
@@ -1183,48 +1209,6 @@
           "since": "2026-10-01T06:14:30.929Z",
           "alerted": false,
           "title": "독도 감시·산불 분석 나서는 차세대중형위성 2·4호기…2027년 임무 본격화"
-        }
-      }
-    }
-  },
-  {
-    "ts": "2026-10-01T05:44:29.927Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 5538,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1940,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1446,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.08280718795531812,
-      "koArticles": {
-        "80146": {
-          "since": "2026-10-01T04:44:52.257Z",
-          "alerted": false,
-          "title": "국립의전원 남원 확정…2034년 첫 졸업생 배출, 의무복무 15년"
-        },
-        "80147": {
-          "since": "2026-10-01T05:44:29.844Z",
-          "alerted": false,
-          "title": "\"韓 바이오파운드리, 다음 단계는 AI 통합…데이터가 병목\""
-        },
-        "80148": {
-          "since": "2026-10-01T05:44:29.844Z",
-          "alerted": false,
-          "title": "개천절 연휴에 짧고 굵은 비…전국 큰 일교차"
         }
       }
     }
