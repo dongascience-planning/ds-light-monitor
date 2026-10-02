@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-10-02T04:44:27.712Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 5051,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1630,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1331,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-10-02T04:14:26.591Z",
     "dsstore": {
       "ok": true,
@@ -1244,32 +1270,6 @@
           "title": "국립의전원 남원 확정…2034년 첫 졸업생 배출, 의무복무 15년"
         }
       }
-    }
-  },
-  {
-    "ts": "2026-10-01T04:14:43.649Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 4901,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1743,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1507,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
     }
   }
 ]
