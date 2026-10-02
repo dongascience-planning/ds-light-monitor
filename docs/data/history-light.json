@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-10-02T06:14:34.428Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 4381,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1438,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1561,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-10-02T05:45:12.272Z",
     "dsstore": {
       "ok": true,
@@ -1174,43 +1200,6 @@
       "untranslated": false,
       "ratio": 0,
       "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-10-01T06:14:31.007Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 4849,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1595,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1245,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.05839080459770115,
-      "koArticles": {
-        "80130": {
-          "since": "2026-10-01T06:14:30.929Z",
-          "alerted": false,
-          "title": "\"수학은 높은 산 오르는 여정…지식생산국 위한 고등과학원 설립과 맞닿아\""
-        },
-        "80150": {
-          "since": "2026-10-01T06:14:30.929Z",
-          "alerted": false,
-          "title": "독도 감시·산불 분석 나서는 차세대중형위성 2·4호기…2027년 임무 본격화"
-        }
-      }
     }
   }
 ]
