@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-10-02T08:44:32.889Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 4284,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1516,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1080,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-10-02T08:14:29.289Z",
     "dsstore": {
       "ok": true,
@@ -1189,59 +1215,6 @@
           "title": "[과기원NOW] UNIST, AI 시각인식 평가표준 허점 찾아 새 벤치마크 제시 外"
         }
       }
-    }
-  },
-  {
-    "ts": "2026-10-01T08:44:34.414Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 4730,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1766,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1615,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.02631578947368421,
-      "koArticles": {
-        "80153": {
-          "since": "2026-10-01T08:44:34.337Z",
-          "alerted": false,
-          "title": "현미경 영상 공모전 '스몰월드 인 모션' 우승작, AI 조작 논란"
-        }
-      }
-    }
-  },
-  {
-    "ts": "2026-10-01T08:14:38.485Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 4934,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1539,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1426,
-      "slow": false,
-      "imgBroken": false
     }
   }
 ]
