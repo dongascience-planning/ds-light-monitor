@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-10-02T02:14:33.958Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 4706,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 2261,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1586,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-10-02T01:44:30.617Z",
     "dsstore": {
       "ok": true,
@@ -1222,70 +1248,6 @@
           "since": "2026-10-01T02:44:24.807Z",
           "alerted": false,
           "title": "우주항공 분야 차세대 첨단소재 접합강도 높였다"
-        }
-      }
-    }
-  },
-  {
-    "ts": "2026-10-01T02:14:29.887Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 5649,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 2222,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1885,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.03258321612751992,
-      "koArticles": {
-        "80142": {
-          "since": "2026-10-01T02:14:29.812Z",
-          "alerted": false,
-          "title": "친환경 암모니아 선박서 나오는 온실가스, 한방에 해결"
-        }
-      }
-    }
-  },
-  {
-    "ts": "2026-10-01T01:44:36.489Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 4466,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1850,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1078,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.027758007117437724,
-      "koArticles": {
-        "80140": {
-          "since": "2026-10-01T01:44:36.406Z",
-          "alerted": false,
-          "title": "노후화된 국내 교량, AI가 10분만에 안전성 진단"
         }
       }
     }
