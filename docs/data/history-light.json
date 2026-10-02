@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-10-02T05:14:40.413Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 6060,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1520,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1306,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-10-02T04:44:27.712Z",
     "dsstore": {
       "ok": true,
@@ -1199,75 +1225,6 @@
           "since": "2026-10-01T05:44:29.844Z",
           "alerted": false,
           "title": "개천절 연휴에 짧고 굵은 비…전국 큰 일교차"
-        }
-      }
-    }
-  },
-  {
-    "ts": "2026-10-01T05:14:34.431Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 4897,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1735,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1560,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.06245461147421932,
-      "koArticles": {
-        "80145": {
-          "since": "2026-10-01T05:14:34.371Z",
-          "alerted": false,
-          "title": "시험관 속 심장 근육 이식하자 심근경색 후유증 회복"
-        },
-        "80146": {
-          "since": "2026-10-01T04:44:52.257Z",
-          "alerted": false,
-          "title": "국립의전원 남원 확정…2034년 첫 졸업생 배출, 의무복무 15년"
-        }
-      }
-    }
-  },
-  {
-    "ts": "2026-10-01T04:44:52.296Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 5098,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1601,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1478,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.028462090408993064,
-      "koArticles": {
-        "80146": {
-          "since": "2026-10-01T04:44:52.257Z",
-          "alerted": false,
-          "title": "국립의전원 남원 확정…2034년 첫 졸업생 배출, 의무복무 15년"
         }
       }
     }
