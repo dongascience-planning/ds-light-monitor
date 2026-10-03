@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-10-03T07:44:33.020Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 4797,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1459,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1110,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-10-03T07:14:28.553Z",
     "dsstore": {
       "ok": true,
@@ -1209,58 +1235,6 @@
           "title": "[사이언스게시판] 표준연-부산과학관, '양자 마법학교' 특별전 개최 外"
         }
       }
-    }
-  },
-  {
-    "ts": "2026-10-02T07:44:34.372Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 4913,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 2061,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1294,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-10-02T07:14:36.470Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 4697,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1693,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1081,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
     }
   }
 ]
