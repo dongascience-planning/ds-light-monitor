@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-10-03T23:14:26.412Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 5742,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1792,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1759,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.03124231242312423,
+      "koArticles": {
+        "80180": {
+          "since": "2026-10-03T23:14:26.303Z",
+          "alerted": false,
+          "title": "태양계 밖 행성에서 '자기장' 추정 신호 첫 포착"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-10-03T22:44:27.760Z",
     "dsstore": {
       "ok": true,
