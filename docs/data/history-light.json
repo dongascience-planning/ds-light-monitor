@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-10-03T01:44:27.177Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 5730,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1702,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1507,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-10-03T01:14:29.322Z",
     "dsstore": {
       "ok": true,
@@ -1246,32 +1272,6 @@
           "title": "쎄트렉아이 기술유출 의혹 '혐의없음'으로 불송치 종결"
         }
       }
-    }
-  },
-  {
-    "ts": "2026-10-02T01:14:37.580Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 5376,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1620,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1488,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
     }
   }
 ]
