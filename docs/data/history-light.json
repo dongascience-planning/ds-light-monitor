@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-10-03T02:14:28.938Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 4494,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1365,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1241,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-10-03T01:44:27.177Z",
     "dsstore": {
       "ok": true,
@@ -1235,43 +1261,6 @@
       "untranslated": false,
       "ratio": 0,
       "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-10-02T01:44:30.617Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 5584,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 2044,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1834,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.060287736926238865,
-      "koArticles": {
-        "80155": {
-          "since": "2026-10-02T01:44:30.556Z",
-          "alerted": false,
-          "title": "생명연·한국생물공학회 MOU…신진연구자 육성·공동연구 확대"
-        },
-        "80162": {
-          "since": "2026-10-02T01:44:30.556Z",
-          "alerted": false,
-          "title": "쎄트렉아이 기술유출 의혹 '혐의없음'으로 불송치 종결"
-        }
-      }
     }
   }
 ]
