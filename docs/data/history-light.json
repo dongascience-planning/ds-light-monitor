@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-10-04T23:14:27.107Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 5879,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1878,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1702,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-10-04T22:44:24.422Z",
     "dsstore": {
       "ok": true,
@@ -1212,64 +1238,6 @@
     "dl": {
       "ok": true,
       "elapsed": 1181,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-10-03T23:14:26.412Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 5742,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1792,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1759,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.03124231242312423,
-      "koArticles": {
-        "80180": {
-          "since": "2026-10-03T23:14:26.303Z",
-          "alerted": false,
-          "title": "태양계 밖 행성에서 '자기장' 추정 신호 첫 포착"
-        }
-      }
-    }
-  },
-  {
-    "ts": "2026-10-03T22:44:27.760Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 5500,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 2015,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1732,
       "slow": false,
       "imgBroken": false
     },
