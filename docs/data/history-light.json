@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-10-05T02:44:28.378Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 6023,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1884,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1525,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.03014449427005481,
+      "koArticles": {
+        "80186": {
+          "since": "2026-10-05T02:44:28.299Z",
+          "alerted": false,
+          "title": "AI, 인간 전문가를 '도구'로 활용…\"지시 없이 과학자 1500명에 메일\""
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-10-05T02:14:29.584Z",
     "dsstore": {
       "ok": true,
