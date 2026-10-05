@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-10-05T06:44:24.574Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 4601,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1555,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1417,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.029352226720647773,
+      "koArticles": {
+        "80189": {
+          "since": "2026-10-05T06:44:24.531Z",
+          "alerted": false,
+          "title": "DNA 규명·인간게놈…노벨상 못받은 생명과학 6대 성과"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-10-05T06:14:37.179Z",
     "dsstore": {
       "ok": true,
