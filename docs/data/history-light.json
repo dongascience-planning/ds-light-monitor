@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-10-05T01:44:26.795Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 4786,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1704,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1569,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.06443429731100964,
+      "koArticles": {
+        "80183": {
+          "since": "2026-10-05T01:44:26.752Z",
+          "alerted": false,
+          "title": "레이저 핵융합 중요지표 중성자, 하나씩 세지 않고 파악"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-10-05T01:14:22.571Z",
     "dsstore": {
       "ok": true,
@@ -1238,32 +1270,6 @@
     "dl": {
       "ok": true,
       "elapsed": 1639,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-10-04T01:14:34.631Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 4983,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1740,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1424,
       "slow": false,
       "imgBroken": false
     },
