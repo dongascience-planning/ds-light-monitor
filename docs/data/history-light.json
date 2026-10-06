@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-10-06T09:44:37.536Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 4786,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1340,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1173,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-10-06T09:14:35.609Z",
     "dsstore": {
       "ok": true,
@@ -1203,64 +1229,6 @@
           "title": "[노벨상 2026] 빛으로 신경회로 제어 '광유전학' 개척 과학자들 생리의학상(2보)"
         }
       }
-    }
-  },
-  {
-    "ts": "2026-10-05T09:44:30.847Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 5579,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 2023,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1744,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.006944444444444444,
-      "koArticles": {
-        "80192": {
-          "since": "2026-10-05T09:44:30.792Z",
-          "alerted": false,
-          "title": "[노벨상 2026] 생리의학상에 칼 다이서로스, 피터 헤게만, 게오르크 나겔(1보)"
-        }
-      }
-    }
-  },
-  {
-    "ts": "2026-10-05T09:14:38.488Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 4344,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1458,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1259,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
     }
   }
 ]
