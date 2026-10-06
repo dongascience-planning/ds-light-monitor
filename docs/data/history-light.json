@@ -1,5 +1,47 @@
 [
   {
+    "ts": "2026-10-06T01:44:26.596Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 4423,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1559,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1386,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.09598330725091289,
+      "koArticles": {
+        "80195": {
+          "since": "2026-10-06T01:14:27.496Z",
+          "alerted": false,
+          "title": "5차 발사 누리호, 발사대로 이동…7일 발사시각 최종 결정"
+        },
+        "80196": {
+          "since": "2026-10-06T01:44:26.521Z",
+          "alerted": false,
+          "title": "불법주정차 99% 줄이는 AI…남양주서 실증"
+        },
+        "80197": {
+          "since": "2026-10-06T01:44:26.521Z",
+          "alerted": false,
+          "title": "전자기기 표면에 붙이면 알아서 냉각하는 유연·투명 필름"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-10-06T01:14:27.566Z",
     "dsstore": {
       "ok": true,
@@ -1197,38 +1239,6 @@
       "untranslated": false,
       "ratio": 0,
       "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-10-05T01:44:26.795Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 4786,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1704,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1569,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.06443429731100964,
-      "koArticles": {
-        "80183": {
-          "since": "2026-10-05T01:44:26.752Z",
-          "alerted": false,
-          "title": "레이저 핵융합 중요지표 중성자, 하나씩 세지 않고 파악"
-        }
-      }
     }
   }
 ]
