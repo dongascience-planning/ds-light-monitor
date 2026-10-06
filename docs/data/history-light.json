@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-10-06T02:44:34.962Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 4727,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1555,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1178,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.030671736375158427,
+      "koArticles": {
+        "80195": {
+          "since": "2026-10-06T01:14:27.496Z",
+          "alerted": false,
+          "title": "5차 발사 누리호, 발사대로 이동…7일 발사시각 최종 결정"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-10-06T02:14:32.270Z",
     "dsstore": {
       "ok": true,
@@ -1213,38 +1245,6 @@
       "untranslated": false,
       "ratio": 0,
       "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-10-05T02:44:28.378Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 6023,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1884,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1525,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.03014449427005481,
-      "koArticles": {
-        "80186": {
-          "since": "2026-10-05T02:44:28.299Z",
-          "alerted": false,
-          "title": "AI, 인간 전문가를 '도구'로 활용…\"지시 없이 과학자 1500명에 메일\""
-        }
-      }
     }
   }
 ]
