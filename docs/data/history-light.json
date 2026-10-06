@@ -1,5 +1,42 @@
 [
   {
+    "ts": "2026-10-06T10:14:31.170Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 5849,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 2228,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1608,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.036391594054331115,
+      "koArticles": {
+        "80213": {
+          "since": "2026-10-06T10:14:31.118Z",
+          "alerted": false,
+          "title": "[노벨상 2026] 물리학상에 중성미자 검출기 '아이스큐브' 완공한 프랜시스 할젠(2보)"
+        },
+        "80215": {
+          "since": "2026-10-06T10:14:31.118Z",
+          "alerted": false,
+          "title": "[노벨상 2026] 물리학상에 프랜시스 할젠(1보)"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-10-06T09:44:37.536Z",
     "dsstore": {
       "ok": true,
@@ -1197,38 +1234,6 @@
       "untranslated": false,
       "ratio": 0,
       "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-10-05T10:14:29.928Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 4514,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1554,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1086,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.032133676092544985,
-      "koArticles": {
-        "80190": {
-          "since": "2026-10-05T10:14:29.849Z",
-          "alerted": false,
-          "title": "[노벨상 2026] 빛으로 신경회로 제어 '광유전학' 개척 과학자들 생리의학상(2보)"
-        }
-      }
     }
   }
 ]
