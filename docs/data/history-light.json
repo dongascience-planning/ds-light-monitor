@@ -1,5 +1,42 @@
 [
   {
+    "ts": "2026-10-06T05:44:30.909Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 5156,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1766,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1465,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.06522299561742717,
+      "koArticles": {
+        "80202": {
+          "since": "2026-10-06T05:44:30.861Z",
+          "alerted": false,
+          "title": "식욕 억제 대신 에너지 소비 늘린다…비만 치료 새 전략"
+        },
+        "80206": {
+          "since": "2026-10-06T05:44:30.861Z",
+          "alerted": false,
+          "title": "국제천문및천체물리올림피아드 한국대표단 전원 금메달"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-10-06T05:14:30.452Z",
     "dsstore": {
       "ok": true,
@@ -1223,32 +1260,6 @@
     "dl": {
       "ok": true,
       "elapsed": 1409,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-10-05T05:44:30.741Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 6082,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1752,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1591,
       "slow": false,
       "imgBroken": false
     },
