@@ -1,5 +1,42 @@
 [
   {
+    "ts": "2026-10-06T04:44:31.754Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 4777,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1640,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1283,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.058823529411764705,
+      "koArticles": {
+        "80199": {
+          "since": "2026-10-06T04:44:31.698Z",
+          "alerted": false,
+          "title": "로봇 손끝 감지하는 초소형 3축 자기 센서"
+        },
+        "80201": {
+          "since": "2026-10-06T04:44:31.698Z",
+          "alerted": false,
+          "title": "'달 원자로' 우리가 먼저…미·중러 경쟁 불붙었다"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-10-06T04:14:28.886Z",
     "dsstore": {
       "ok": true,
@@ -1212,32 +1249,6 @@
     "dl": {
       "ok": true,
       "elapsed": 1616,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-10-05T04:44:28.587Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 5724,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1716,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1376,
       "slow": false,
       "imgBroken": false
     },
