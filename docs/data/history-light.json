@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-10-06T11:14:36.576Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 4745,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1580,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1392,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.0317995663695495,
+      "koArticles": {
+        "80214": {
+          "since": "2026-10-06T11:14:36.527Z",
+          "alerted": false,
+          "title": "[노벨상 2026] 불가능 취급받던 남극 얼음 '유령입자' 검출, 물리학상 단독 수상(종합)"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-10-06T10:44:27.853Z",
     "dsstore": {
       "ok": true,
@@ -1227,32 +1259,6 @@
     "dl": {
       "ok": true,
       "elapsed": 1134,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-10-05T10:44:30.349Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 4375,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1438,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1184,
       "slow": false,
       "imgBroken": false
     },
