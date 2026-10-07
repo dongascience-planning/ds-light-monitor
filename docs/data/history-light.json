@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-10-07T10:44:35.490Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 6019,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 2436,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1612,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.02932135256561835,
+      "koArticles": {
+        "80248": {
+          "since": "2026-10-07T10:44:35.435Z",
+          "alerted": false,
+          "title": "[누리호 5차발사] 초소형군집위성 5기 모두 양방향 교신…큐브위성은 9개 중 8개"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-10-07T10:14:34.857Z",
     "dsstore": {
       "ok": true,
@@ -1289,32 +1321,6 @@
           "title": "[노벨상 2026] 불가능 취급받던 남극 얼음 '유령입자' 검출, 물리학상 단독 수상(종합)"
         }
       }
-    }
-  },
-  {
-    "ts": "2026-10-06T10:44:27.853Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 5196,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1707,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1346,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
     }
   }
 ]
