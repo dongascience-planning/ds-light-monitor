@@ -1,5 +1,42 @@
 [
   {
+    "ts": "2026-10-07T08:14:37.609Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 4822,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1670,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1393,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.04735576923076923,
+      "koArticles": {
+        "80242": {
+          "since": "2026-10-07T08:14:37.556Z",
+          "alerted": false,
+          "title": "[사이언스게시판] 지질연, 탄소 포집 및 저장 기술 통합평가체계 구축 外"
+        },
+        "80244": {
+          "since": "2026-10-07T08:14:37.556Z",
+          "alerted": false,
+          "title": "[과기원NOW] UNIST, 그린수소 생산단가 낮출 망간 촉매 개발 外"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-10-07T07:44:37.372Z",
     "dsstore": {
       "ok": true,
@@ -1239,58 +1276,6 @@
     "dl": {
       "ok": true,
       "elapsed": 1349,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-10-06T08:14:33.397Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 4764,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1631,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1323,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-10-06T07:44:46.427Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 5373,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1407,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1160,
       "slow": false,
       "imgBroken": false
     },
