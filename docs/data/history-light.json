@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-10-07T02:14:31.806Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 4647,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1478,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1153,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-10-07T01:44:32.791Z",
     "dsstore": {
       "ok": true,
@@ -1231,38 +1257,6 @@
     "dl": {
       "ok": true,
       "elapsed": 1178,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.030671736375158427,
-      "koArticles": {
-        "80195": {
-          "since": "2026-10-06T01:14:27.496Z",
-          "alerted": false,
-          "title": "5차 발사 누리호, 발사대로 이동…7일 발사시각 최종 결정"
-        }
-      }
-    }
-  },
-  {
-    "ts": "2026-10-06T02:14:32.270Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 4704,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1471,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1348,
       "slow": false,
       "imgBroken": false
     },
