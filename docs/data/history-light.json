@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-10-07T03:44:40.234Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 5020,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1416,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1226,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.04473007712082262,
+      "koArticles": {
+        "80221": {
+          "since": "2026-10-07T03:44:40.123Z",
+          "alerted": false,
+          "title": "[누리호 5차발사] 누리호 12시 25분 발사"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-10-07T03:14:28.361Z",
     "dsstore": {
       "ok": true,
@@ -1237,32 +1269,6 @@
     "dl": {
       "ok": true,
       "elapsed": 1235,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-10-06T03:44:31.711Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 4906,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1713,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1330,
       "slow": false,
       "imgBroken": false
     },
