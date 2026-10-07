@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-10-07T00:44:31.325Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 4588,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1794,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1419,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-10-07T00:14:59.555Z",
     "dsstore": {
       "ok": true,
@@ -1272,32 +1298,6 @@
           "title": "5차 발사 누리호, 발사대로 이동…7일 발사시각 최종 결정"
         }
       }
-    }
-  },
-  {
-    "ts": "2026-10-06T00:44:26.704Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 4845,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1552,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1394,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
     }
   }
 ]
