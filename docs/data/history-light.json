@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-10-07T23:48:22.170Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 8806,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1652,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1450,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-10-07T23:14:31.594Z",
     "dsstore": {
       "ok": true,
@@ -1243,32 +1269,6 @@
           "title": "[누리호 5차발사] 12시 25분 발사 확정…\"준비 순조로워\""
         }
       }
-    }
-  },
-  {
-    "ts": "2026-10-06T23:44:29.228Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 5847,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1871,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 2009,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
     }
   }
 ]
