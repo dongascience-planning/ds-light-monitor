@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-10-07T03:14:28.361Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 6056,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 2010,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1698,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.032830098250658996,
+      "koArticles": {
+        "80231": {
+          "since": "2026-10-07T03:14:28.263Z",
+          "alerted": false,
+          "title": "10월 대한민국 과학기술인상에 이정은…초기 태양계 및 행성 형성 규명"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-10-07T02:44:25.062Z",
     "dsstore": {
       "ok": true,
@@ -1238,64 +1270,6 @@
       "untranslated": false,
       "ratio": 0,
       "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-10-06T03:14:27.072Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 4964,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1736,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1507,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-10-06T02:44:34.962Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 4727,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1555,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1178,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.030671736375158427,
-      "koArticles": {
-        "80195": {
-          "since": "2026-10-06T01:14:27.496Z",
-          "alerted": false,
-          "title": "5차 발사 누리호, 발사대로 이동…7일 발사시각 최종 결정"
-        }
-      }
     }
   }
 ]
