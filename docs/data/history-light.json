@@ -1,5 +1,42 @@
 [
   {
+    "ts": "2026-10-07T08:44:34.362Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 4448,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1659,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1153,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.052073515551366634,
+      "koArticles": {
+        "80243": {
+          "since": "2026-10-07T08:44:34.277Z",
+          "alerted": false,
+          "title": "[누리호 5차발사] 주 위성 5기 '배송'도 문제없었다…\"신뢰도 쌓아가는 과정\""
+        },
+        "80244": {
+          "since": "2026-10-07T08:14:37.556Z",
+          "alerted": false,
+          "title": "[과기원NOW] UNIST, 그린수소 생산단가 낮출 망간 촉매 개발 外"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-10-07T08:14:37.609Z",
     "dsstore": {
       "ok": true,
