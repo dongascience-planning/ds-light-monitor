@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-10-07T11:46:07.235Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 5143,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1815,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1434,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.0313376987839102,
+      "koArticles": {
+        "80249": {
+          "since": "2026-10-07T11:46:07.157Z",
+          "alerted": false,
+          "title": "[노벨상 2026] 생명체서 '거울상 이성질체' 100년 미스터리 푼 과학자들 화학상(종합)"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-10-07T11:14:30.712Z",
     "dsstore": {
       "ok": true,
@@ -1289,64 +1321,6 @@
       "untranslated": false,
       "ratio": 0,
       "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-10-06T11:44:39.118Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 4648,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1580,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1121,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-10-06T11:14:36.576Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 4745,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1580,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1392,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.0317995663695495,
-      "koArticles": {
-        "80214": {
-          "since": "2026-10-06T11:14:36.527Z",
-          "alerted": false,
-          "title": "[노벨상 2026] 불가능 취급받던 남극 얼음 '유령입자' 검출, 물리학상 단독 수상(종합)"
-        }
-      }
     }
   }
 ]
