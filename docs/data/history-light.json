@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-10-07T04:14:31.659Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 5716,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1786,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1215,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-10-07T03:44:40.234Z",
     "dsstore": {
       "ok": true,
@@ -1250,32 +1276,6 @@
           "title": "'달 원자로' 우리가 먼저…미·중러 경쟁 불붙었다"
         }
       }
-    }
-  },
-  {
-    "ts": "2026-10-06T04:14:28.886Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 4751,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1661,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1235,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
     }
   }
 ]
