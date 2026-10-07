@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-10-07T10:14:34.857Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 4733,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1664,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1204,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.004040884240551462,
+      "koArticles": {
+        "80246": {
+          "since": "2026-10-07T10:14:34.762Z",
+          "alerted": false,
+          "title": "[노벨상 2026] 화학상에 앙리 카간, 소아이 겐소(1보)"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-10-07T09:44:33.963Z",
     "dsstore": {
       "ok": true,
@@ -1276,69 +1308,6 @@
     "dl": {
       "ok": true,
       "elapsed": 1346,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-10-06T10:14:31.170Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 5849,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 2228,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1608,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.036391594054331115,
-      "koArticles": {
-        "80213": {
-          "since": "2026-10-06T10:14:31.118Z",
-          "alerted": false,
-          "title": "[노벨상 2026] 물리학상에 중성미자 검출기 '아이스큐브' 완공한 프랜시스 할젠(2보)"
-        },
-        "80215": {
-          "since": "2026-10-06T10:14:31.118Z",
-          "alerted": false,
-          "title": "[노벨상 2026] 물리학상에 프랜시스 할젠(1보)"
-        }
-      }
-    }
-  },
-  {
-    "ts": "2026-10-06T09:44:37.536Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 4786,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1340,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1173,
       "slow": false,
       "imgBroken": false
     },
