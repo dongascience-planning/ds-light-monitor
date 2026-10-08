@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-10-08T00:44:27.290Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 4670,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1620,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1469,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-10-08T00:14:26.870Z",
     "dsstore": {
       "ok": true,
@@ -1263,38 +1289,6 @@
       "untranslated": false,
       "ratio": 0,
       "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-10-07T00:14:59.555Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 9195,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 2132,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 2890,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.02880952380952381,
-      "koArticles": {
-        "80224": {
-          "since": "2026-10-07T00:14:59.482Z",
-          "alerted": false,
-          "title": "[누리호 5차발사] 12시 25분 발사 확정…\"준비 순조로워\""
-        }
-      }
     }
   }
 ]
