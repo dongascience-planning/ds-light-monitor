@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-10-08T12:15:10.288Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 4508,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1649,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1253,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-10-08T11:20:19.704Z",
     "dsstore": {
       "ok": true,
@@ -1160,64 +1186,6 @@
       "untranslated": false,
       "ratio": 0,
       "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-10-07T12:14:46.462Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 5463,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1427,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1281,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-10-07T11:46:07.235Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 5143,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1815,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1434,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.0313376987839102,
-      "koArticles": {
-        "80249": {
-          "since": "2026-10-07T11:46:07.157Z",
-          "alerted": false,
-          "title": "[노벨상 2026] 생명체서 '거울상 이성질체' 100년 미스터리 푼 과학자들 화학상(종합)"
-        }
-      }
     }
   }
 ]
