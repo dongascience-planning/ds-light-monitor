@@ -1,5 +1,42 @@
 [
   {
+    "ts": "2026-10-08T09:20:30.278Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 11941,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1643,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1529,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.05803678051110581,
+      "koArticles": {
+        "80271": {
+          "since": "2026-10-08T09:20:30.228Z",
+          "alerted": false,
+          "title": "[사이언스게시판] 철도연, 철도용품 형식승인 신청기업 밀착 지원 外"
+        },
+        "80273": {
+          "since": "2026-10-08T09:20:30.228Z",
+          "alerted": false,
+          "title": "[과기원NOW] GIST-KAIST, 같은 색상에 '빛의 지문' 담은 광보안소자 개발 外"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-10-08T08:44:29.210Z",
     "dsstore": {
       "ok": true,
@@ -1219,69 +1256,6 @@
       "untranslated": false,
       "ratio": 0,
       "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-10-07T09:14:30.330Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 5466,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 2074,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1702,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-10-07T08:44:34.362Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 4448,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1659,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1153,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.052073515551366634,
-      "koArticles": {
-        "80243": {
-          "since": "2026-10-07T08:44:34.277Z",
-          "alerted": false,
-          "title": "[누리호 5차발사] 주 위성 5기 '배송'도 문제없었다…\"신뢰도 쌓아가는 과정\""
-        },
-        "80244": {
-          "since": "2026-10-07T08:14:37.556Z",
-          "alerted": false,
-          "title": "[과기원NOW] UNIST, 그린수소 생산단가 낮출 망간 촉매 개발 外"
-        }
-      }
     }
   }
 ]
