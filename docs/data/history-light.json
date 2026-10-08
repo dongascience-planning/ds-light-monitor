@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-10-08T05:44:26.546Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 6067,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1940,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1755,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-10-08T05:14:33.969Z",
     "dsstore": {
       "ok": true,
@@ -1247,64 +1273,6 @@
           "title": "[누리호 5차발사] 부탑재위성 1기 사출 실패…\"사출관 뚜껑 안 열려\""
         }
       }
-    }
-  },
-  {
-    "ts": "2026-10-07T05:44:25.294Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 5313,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1588,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1355,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.030747057410521257,
-      "koArticles": {
-        "80236": {
-          "since": "2026-10-07T05:44:25.216Z",
-          "alerted": false,
-          "title": "자동정지된 한울 4호기 재가동…원인은 기기 고장·이물질"
-        }
-      }
-    }
-  },
-  {
-    "ts": "2026-10-07T05:14:36.004Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 4588,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1488,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1157,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
     }
   }
 ]
