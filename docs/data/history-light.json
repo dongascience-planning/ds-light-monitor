@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-10-08T10:15:22.456Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 5520,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1840,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1289,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-10-08T09:20:30.278Z",
     "dsstore": {
       "ok": true,
@@ -1198,64 +1224,6 @@
           "title": "[누리호 5차발사] 초소형군집위성 5기 모두 양방향 교신…큐브위성은 9개 중 8개"
         }
       }
-    }
-  },
-  {
-    "ts": "2026-10-07T10:14:34.857Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 4733,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1664,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1204,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.004040884240551462,
-      "koArticles": {
-        "80246": {
-          "since": "2026-10-07T10:14:34.762Z",
-          "alerted": false,
-          "title": "[노벨상 2026] 화학상에 앙리 카간, 소아이 겐소(1보)"
-        }
-      }
-    }
-  },
-  {
-    "ts": "2026-10-07T09:44:33.963Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 5208,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1562,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1280,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
     }
   }
 ]
