@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-10-08T06:16:26.212Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 12055,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1425,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1859,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-10-08T05:44:26.546Z",
     "dsstore": {
       "ok": true,
@@ -1241,38 +1267,6 @@
       "untranslated": false,
       "ratio": 0,
       "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-10-07T06:14:14.265Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 4925,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1488,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1382,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.025689370728258307,
-      "koArticles": {
-        "80238": {
-          "since": "2026-10-07T06:14:14.187Z",
-          "alerted": false,
-          "title": "[누리호 5차발사] 부탑재위성 1기 사출 실패…\"사출관 뚜껑 안 열려\""
-        }
-      }
     }
   }
 ]
