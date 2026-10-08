@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-10-08T08:14:31.681Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 6027,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 2024,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1803,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-10-08T07:44:29.094Z",
     "dsstore": {
       "ok": true,
@@ -1267,32 +1293,6 @@
           "title": "[과기원NOW] UNIST, 그린수소 생산단가 낮출 망간 촉매 개발 外"
         }
       }
-    }
-  },
-  {
-    "ts": "2026-10-07T07:44:37.372Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 5949,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1967,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1661,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.024750118990956686,
-      "koArticles": {}
     }
   }
 ]
