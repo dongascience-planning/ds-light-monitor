@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-10-08T02:44:31.203Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 4452,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1424,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1158,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.030959752321981424,
+      "koArticles": {
+        "80259": {
+          "since": "2026-10-08T02:44:31.128Z",
+          "alerted": false,
+          "title": "2D 반도체 결정, 원하는 자리에서 하나만 성장 제어…적층형 AI반도체 기반"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-10-08T02:14:54.104Z",
     "dsstore": {
       "ok": true,
@@ -1243,32 +1275,6 @@
           "title": "10월 대한민국 과학기술인상에 이정은…초기 태양계 및 행성 형성 규명"
         }
       }
-    }
-  },
-  {
-    "ts": "2026-10-07T02:44:25.062Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 6025,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 2032,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1923,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.03128703484237971,
-      "koArticles": {}
     }
   }
 ]
