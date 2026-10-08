@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-10-08T01:44:30.195Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 4568,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1633,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1250,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.03155911446066886,
+      "koArticles": {
+        "80254": {
+          "since": "2026-10-08T01:44:30.102Z",
+          "alerted": false,
+          "title": "전기 없어도 정보 기록하는 '강유전체 메모리' 원리 찾았다"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-10-08T01:14:38.834Z",
     "dsstore": {
       "ok": true,
