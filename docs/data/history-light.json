@@ -1,5 +1,32 @@
 [
   {
+    "ts": "2026-10-08T04:44:55.485Z",
+    "recheckPending": true,
+    "dsstore": {
+      "ok": true,
+      "elapsed": 5510,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 19762,
+      "slow": true,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1908,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-10-08T04:14:35.484Z",
     "dsstore": {
       "ok": true,
@@ -1231,38 +1258,6 @@
       "untranslated": false,
       "ratio": 0,
       "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-10-07T04:44:40.876Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 4574,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1876,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1227,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.030839110686110446,
-      "koArticles": {
-        "80232": {
-          "since": "2026-10-07T04:44:40.783Z",
-          "alerted": false,
-          "title": "[누리호 5차발사] 누리호 목표 궤도 도달 확인…\"처음으로 예정 시간에 발사\""
-        }
-      }
     }
   }
 ]
