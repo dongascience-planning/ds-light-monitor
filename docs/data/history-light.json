@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-10-08T03:14:26.691Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 4621,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1392,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1189,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-10-08T02:44:31.203Z",
     "dsstore": {
       "ok": true,
@@ -1241,38 +1267,6 @@
           "since": "2026-10-07T03:44:40.123Z",
           "alerted": false,
           "title": "[누리호 5차발사] 누리호 12시 25분 발사"
-        }
-      }
-    }
-  },
-  {
-    "ts": "2026-10-07T03:14:28.361Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 6056,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 2010,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1698,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.032830098250658996,
-      "koArticles": {
-        "80231": {
-          "since": "2026-10-07T03:14:28.263Z",
-          "alerted": false,
-          "title": "10월 대한민국 과학기술인상에 이정은…초기 태양계 및 행성 형성 규명"
         }
       }
     }
