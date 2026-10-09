@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-10-09T09:44:27.160Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 5000,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 2020,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1521,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-10-09T09:14:25.912Z",
     "dsstore": {
       "ok": true,
@@ -1193,43 +1219,6 @@
       "untranslated": false,
       "ratio": 0,
       "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-10-08T09:20:30.278Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 11941,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1643,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1529,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.05803678051110581,
-      "koArticles": {
-        "80271": {
-          "since": "2026-10-08T09:20:30.228Z",
-          "alerted": false,
-          "title": "[사이언스게시판] 철도연, 철도용품 형식승인 신청기업 밀착 지원 外"
-        },
-        "80273": {
-          "since": "2026-10-08T09:20:30.228Z",
-          "alerted": false,
-          "title": "[과기원NOW] GIST-KAIST, 같은 색상에 '빛의 지문' 담은 광보안소자 개발 外"
-        }
-      }
     }
   }
 ]
