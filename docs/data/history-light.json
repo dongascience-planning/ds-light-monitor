@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-10-09T08:44:28.496Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 5359,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1888,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1733,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-10-09T08:14:25.928Z",
     "dsstore": {
       "ok": true,
@@ -1178,58 +1204,6 @@
           "title": "[과기원NOW] GIST-KAIST, 같은 색상에 '빛의 지문' 담은 광보안소자 개발 外"
         }
       }
-    }
-  },
-  {
-    "ts": "2026-10-08T08:44:29.210Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 5926,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1900,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1819,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-10-08T08:14:31.681Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 6027,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 2024,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1803,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
     }
   }
 ]
