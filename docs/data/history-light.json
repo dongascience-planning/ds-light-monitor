@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-10-09T02:15:04.228Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 5130,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1667,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1342,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-10-09T01:44:28.468Z",
     "dsstore": {
       "ok": true,
@@ -1204,64 +1230,6 @@
           "since": "2026-10-08T02:44:31.128Z",
           "alerted": false,
           "title": "2D 반도체 결정, 원하는 자리에서 하나만 성장 제어…적층형 AI반도체 기반"
-        }
-      }
-    }
-  },
-  {
-    "ts": "2026-10-08T02:14:54.104Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 4895,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 2061,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1589,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-10-08T01:44:30.195Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 4568,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1633,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1250,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.03155911446066886,
-      "koArticles": {
-        "80254": {
-          "since": "2026-10-08T01:44:30.102Z",
-          "alerted": false,
-          "title": "전기 없어도 정보 기록하는 '강유전체 메모리' 원리 찾았다"
         }
       }
     }
