@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-10-09T03:14:27.859Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 4968,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1463,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1080,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-10-09T02:44:27.932Z",
     "dsstore": {
       "ok": true,
@@ -1200,64 +1226,6 @@
       "untranslated": false,
       "ratio": 0,
       "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-10-08T03:14:26.691Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 4621,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1392,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1189,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-10-08T02:44:31.203Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 4452,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1424,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1158,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.030959752321981424,
-      "koArticles": {
-        "80259": {
-          "since": "2026-10-08T02:44:31.128Z",
-          "alerted": false,
-          "title": "2D 반도체 결정, 원하는 자리에서 하나만 성장 제어…적층형 AI반도체 기반"
-        }
-      }
     }
   }
 ]
