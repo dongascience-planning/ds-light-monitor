@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-10-11T02:14:29.836Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 5044,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1603,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1402,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.03070175438596491,
+      "koArticles": {
+        "80276": {
+          "since": "2026-10-11T02:14:29.571Z",
+          "alerted": false,
+          "title": "'리얼 스틸' 현실화…인간과 맞붙은 터미너이터 살인 로봇"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-10-11T01:44:29.143Z",
     "dsstore": {
       "ok": true,
@@ -1212,32 +1244,6 @@
     "dl": {
       "ok": true,
       "elapsed": 1373,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-10-10T02:14:27.639Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 5112,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1682,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1341,
       "slow": false,
       "imgBroken": false
     },
