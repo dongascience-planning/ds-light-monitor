@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-10-11T03:14:34.329Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 5349,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 2093,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1890,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.023629719853836783,
+      "koArticles": {
+        "80278": {
+          "since": "2026-10-11T03:14:34.269Z",
+          "alerted": false,
+          "title": "KAIST, '피지컬 AI' 비전 선포…총장이 직접 로봇 입고 시연"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-10-11T02:44:25.309Z",
     "dsstore": {
       "ok": true,
@@ -1218,32 +1250,6 @@
     "dl": {
       "ok": true,
       "elapsed": 1250,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-10-10T03:14:30.841Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 5491,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1902,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1424,
       "slow": false,
       "imgBroken": false
     },
