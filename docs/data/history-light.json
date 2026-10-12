@@ -1,5 +1,42 @@
 [
   {
+    "ts": "2026-10-12T09:14:31.672Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 4642,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1607,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1110,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.05814549180327869,
+      "koArticles": {
+        "80281": {
+          "since": "2026-10-12T09:14:31.595Z",
+          "alerted": false,
+          "title": "[르포] \"감정까지 전달했을까\"…AI, 재즈 아티스트와 '즉흥 연주'"
+        },
+        "80298": {
+          "since": "2026-10-12T09:14:31.595Z",
+          "alerted": false,
+          "title": "[의학바이오게시판] 코로나19 백신, 독감 백신과 동시 접종 시작 外"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-10-12T08:44:24.190Z",
     "dsstore": {
       "ok": true,
@@ -1256,32 +1293,6 @@
     "dl": {
       "ok": true,
       "elapsed": 1196,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-10-11T08:44:30.704Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 4454,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1523,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1074,
       "slow": false,
       "imgBroken": false
     },
