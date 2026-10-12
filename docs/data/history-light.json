@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-10-12T03:44:38.864Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 5097,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1758,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1547,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-10-12T03:14:29.495Z",
     "dsstore": {
       "ok": true,
@@ -1205,70 +1231,6 @@
       "untranslated": false,
       "ratio": 0,
       "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-10-11T03:44:29.376Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 4942,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1610,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1165,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.023629719853836783,
-      "koArticles": {
-        "80278": {
-          "since": "2026-10-11T03:14:34.269Z",
-          "alerted": false,
-          "title": "KAIST, '피지컬 AI' 비전 선포…총장이 직접 로봇 입고 시연"
-        }
-      }
-    }
-  },
-  {
-    "ts": "2026-10-11T03:14:34.329Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 5349,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 2093,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1890,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.023629719853836783,
-      "koArticles": {
-        "80278": {
-          "since": "2026-10-11T03:14:34.269Z",
-          "alerted": false,
-          "title": "KAIST, '피지컬 AI' 비전 선포…총장이 직접 로봇 입고 시연"
-        }
-      }
     }
   }
 ]
