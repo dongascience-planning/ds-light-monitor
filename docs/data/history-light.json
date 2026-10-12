@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-10-12T10:44:27.510Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 5551,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1704,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1251,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.029062421026029822,
+      "koArticles": {
+        "80298": {
+          "since": "2026-10-12T09:14:31.595Z",
+          "alerted": false,
+          "title": "[의학바이오게시판] 코로나19 백신, 독감 백신과 동시 접종 시작 外"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-10-12T10:14:30.861Z",
     "dsstore": {
       "ok": true,
@@ -1263,32 +1295,6 @@
     "dl": {
       "ok": true,
       "elapsed": 1568,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-10-11T10:44:25.734Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 5631,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 2183,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1620,
       "slow": false,
       "imgBroken": false
     },
