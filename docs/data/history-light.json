@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-10-12T03:14:29.495Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 5473,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1882,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1827,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.03130434782608696,
+      "koArticles": {
+        "80284": {
+          "since": "2026-10-12T03:14:29.438Z",
+          "alerted": false,
+          "title": "쓰레기 분리배출도 AI로…은평구서 '폐기물 처리 도우미 앱' 실증"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-10-12T02:44:32.373Z",
     "dsstore": {
       "ok": true,
