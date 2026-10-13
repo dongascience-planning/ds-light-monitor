@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-10-13T10:14:28.587Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 5288,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1688,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1705,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-10-13T09:44:33.333Z",
     "dsstore": {
       "ok": true,
@@ -1322,38 +1348,6 @@
           "alerted": false,
           "title": "[과기원NOW] UNIST, 리튬금속배터리 수명 연장 전해액 개발 外"
         },
-        "80298": {
-          "since": "2026-10-12T09:14:31.595Z",
-          "alerted": false,
-          "title": "[의학바이오게시판] 코로나19 백신, 독감 백신과 동시 접종 시작 外"
-        }
-      }
-    }
-  },
-  {
-    "ts": "2026-10-12T09:44:40.000Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 4323,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1635,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1129,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.028996469994957134,
-      "koArticles": {
         "80298": {
           "since": "2026-10-12T09:14:31.595Z",
           "alerted": false,
