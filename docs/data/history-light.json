@@ -1,5 +1,42 @@
 [
   {
+    "ts": "2026-10-13T01:44:30.887Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 5890,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1961,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1441,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.06528497409326425,
+      "koArticles": {
+        "80303": {
+          "since": "2026-10-13T01:44:30.828Z",
+          "alerted": false,
+          "title": "연봉 2억5000만원 고위공무원도 못버틴 우주청…\"원인 분석 안해\""
+        },
+        "80304": {
+          "since": "2026-10-13T01:44:30.828Z",
+          "alerted": false,
+          "title": "누리호 5차 발사 부탑재위성 9기 교신 성공…양방향 교신 6기"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-10-13T01:16:28.488Z",
     "dsstore": {
       "ok": true,
@@ -1269,32 +1306,6 @@
     "dl": {
       "ok": true,
       "elapsed": 1189,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-10-12T01:44:23.287Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 4691,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1743,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1269,
       "slow": false,
       "imgBroken": false
     },
