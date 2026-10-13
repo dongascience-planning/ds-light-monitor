@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-10-13T02:14:27.234Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 5077,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1548,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1512,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.031114511604182608,
+      "koArticles": {
+        "80305": {
+          "since": "2026-10-13T02:14:27.162Z",
+          "alerted": false,
+          "title": "손가락 '까딱' 하면 움직이는 딱정벌레 로봇 '비틀봇'"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-10-13T01:44:30.887Z",
     "dsstore": {
       "ok": true,
