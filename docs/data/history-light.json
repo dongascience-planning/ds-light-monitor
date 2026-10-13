@@ -1,5 +1,47 @@
 [
   {
+    "ts": "2026-10-13T05:14:38.250Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 4825,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1600,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1459,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.0916275623610768,
+      "koArticles": {
+        "80306": {
+          "since": "2026-10-13T05:14:38.189Z",
+          "alerted": false,
+          "title": "천문연, ‘한국우주전파관측망’으로 목성 탐사선 ‘주스’ 위치 쫓는다"
+        },
+        "80307": {
+          "since": "2026-10-13T05:14:38.189Z",
+          "alerted": false,
+          "title": "'적극적인' 뇌 별세포, 신경세포·혈류량 동시 조절…난치성 뇌질환 치료 실마리"
+        },
+        "80311": {
+          "since": "2026-10-13T05:14:38.189Z",
+          "alerted": false,
+          "title": "치명률 18%인데도 속수무책 '살인진드기병' 치료제 임상 2상 추진"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-10-13T04:44:38.724Z",
     "dsstore": {
       "ok": true,
@@ -1275,38 +1317,6 @@
       "untranslated": false,
       "ratio": 0,
       "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-10-12T05:14:32.378Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 5906,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 2287,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1514,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.028379387602688575,
-      "koArticles": {
-        "80288": {
-          "since": "2026-10-12T05:14:32.278Z",
-          "alerted": false,
-          "title": "\"담배 안 피워도 폐암 걸린 환자 8% '유전적 요인' 있어\""
-        }
-      }
     }
   }
 ]
