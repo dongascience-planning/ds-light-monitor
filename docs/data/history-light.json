@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-10-13T02:44:45.458Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 6275,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1735,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1541,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-10-13T02:14:27.234Z",
     "dsstore": {
       "ok": true,
@@ -1287,64 +1313,6 @@
           "title": "쓰레기 분리배출도 AI로…은평구서 '폐기물 처리 도우미 앱' 실증"
         }
       }
-    }
-  },
-  {
-    "ts": "2026-10-12T02:44:32.373Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 4474,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1481,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1344,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.02879645582082205,
-      "koArticles": {
-        "80287": {
-          "since": "2026-10-12T02:44:32.313Z",
-          "alerted": false,
-          "title": "2차원 반도체 쌓고 빛으로 자성 유도…차세대 양자소자 개발 '토대'"
-        }
-      }
-    }
-  },
-  {
-    "ts": "2026-10-12T02:14:29.521Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 4914,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1613,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1189,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
     }
   }
 ]
