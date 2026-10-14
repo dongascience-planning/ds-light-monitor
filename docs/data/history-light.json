@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-10-14T09:14:30.743Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 4605,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1603,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1293,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-10-14T08:44:26.187Z",
     "dsstore": {
       "ok": true,
@@ -1320,48 +1346,6 @@
       "untranslated": false,
       "ratio": 0,
       "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-10-13T08:44:27.601Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 5913,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1793,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1393,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.08748510131108463,
-      "koArticles": {
-        "80316": {
-          "since": "2026-10-13T08:44:27.519Z",
-          "alerted": false,
-          "title": "[사이언스게시판] 세계김치연구소, 김치 과냉각 기술로 해상운송 실증 外"
-        },
-        "80317": {
-          "since": "2026-10-13T08:44:27.519Z",
-          "alerted": false,
-          "title": "[과기원NOW] GIST-지스트홀딩스, 지역 첨단기술 기업 투자·개방형 혁신 지원 外"
-        },
-        "80318": {
-          "since": "2026-10-13T08:44:27.519Z",
-          "alerted": false,
-          "title": "[의학바이오게시판] 경희대, 양자센싱으로 심근손상 전 신호 포착 도전 外"
-        }
-      }
     }
   }
 ]
