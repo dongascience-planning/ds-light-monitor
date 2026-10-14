@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-10-14T02:14:35.564Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 5679,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 2000,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1667,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-10-14T01:44:25.846Z",
     "dsstore": {
       "ok": true,
@@ -1269,75 +1295,6 @@
       "untranslated": false,
       "ratio": 0,
       "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-10-13T02:14:27.234Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 5077,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1548,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1512,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.031114511604182608,
-      "koArticles": {
-        "80305": {
-          "since": "2026-10-13T02:14:27.162Z",
-          "alerted": false,
-          "title": "손가락 '까딱' 하면 움직이는 딱정벌레 로봇 '비틀봇'"
-        }
-      }
-    }
-  },
-  {
-    "ts": "2026-10-13T01:44:30.887Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 5890,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1961,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1441,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.06528497409326425,
-      "koArticles": {
-        "80303": {
-          "since": "2026-10-13T01:44:30.828Z",
-          "alerted": false,
-          "title": "연봉 2억5000만원 고위공무원도 못버틴 우주청…\"원인 분석 안해\""
-        },
-        "80304": {
-          "since": "2026-10-13T01:44:30.828Z",
-          "alerted": false,
-          "title": "누리호 5차 발사 부탑재위성 9기 교신 성공…양방향 교신 6기"
-        }
-      }
     }
   }
 ]
