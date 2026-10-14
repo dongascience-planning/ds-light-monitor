@@ -1,5 +1,42 @@
 [
   {
+    "ts": "2026-10-14T05:14:32.794Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 5627,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1949,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1458,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.05570966250577901,
+      "koArticles": {
+        "80208": {
+          "since": "2026-10-14T03:14:23.965Z",
+          "alerted": true,
+          "title": "[이덕환의 과학세상] 'AI강국' 화려한 구호보다 ‘자강의 도덕 선진국’ 만들어야"
+        },
+        "80333": {
+          "since": "2026-10-14T05:14:32.017Z",
+          "alerted": false,
+          "title": "폐경 후 난소 활동 안 멈춘다…\"암세포 정착 환경 만들 수도\""
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-10-14T04:43:29.416Z",
     "dsstore": {
       "ok": true,
@@ -1324,32 +1361,6 @@
           "title": "치명률 18%인데도 속수무책 '살인진드기병' 치료제 임상 2상 추진"
         }
       }
-    }
-  },
-  {
-    "ts": "2026-10-13T04:44:38.724Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 4924,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1404,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1295,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
     }
   }
 ]
