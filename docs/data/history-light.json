@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-10-14T06:14:30.481Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 5558,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1797,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 2008,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.028736912452662064,
+      "koArticles": {
+        "80336": {
+          "since": "2026-10-14T06:14:30.438Z",
+          "alerted": false,
+          "title": "건강방송 보다 채널 돌리면 홈쇼핑서 관련상품 판매…'연계편성' 월 1285회"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-10-14T05:44:27.586Z",
     "dsstore": {
       "ok": true,
