@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-10-14T07:14:27.050Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 4983,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1828,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1516,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.024334773709347283,
+      "koArticles": {
+        "80339": {
+          "since": "2026-10-14T07:14:26.946Z",
+          "alerted": false,
+          "title": "오픈AI, 수학 극악의 최대 난제 '리만 가설' 도전"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-10-14T06:44:34.217Z",
     "dsstore": {
       "ok": true,
@@ -1318,32 +1350,6 @@
     "dl": {
       "ok": true,
       "elapsed": 1592,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-10-13T06:46:30.563Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 5467,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1527,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1319,
       "slow": false,
       "imgBroken": false
     },
