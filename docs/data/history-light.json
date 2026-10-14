@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-10-14T08:14:38.639Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 4558,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1419,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1181,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-10-14T07:44:30.410Z",
     "dsstore": {
       "ok": true,
@@ -1310,32 +1336,6 @@
           "title": "[의학바이오게시판] 경희대, 양자센싱으로 심근손상 전 신호 포착 도전 外"
         }
       }
-    }
-  },
-  {
-    "ts": "2026-10-13T08:14:32.383Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 4276,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1448,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1055,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
     }
   }
 ]
