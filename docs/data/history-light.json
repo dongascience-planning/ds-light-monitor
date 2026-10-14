@@ -1,5 +1,42 @@
 [
   {
+    "ts": "2026-10-14T07:44:30.410Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 7776,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1581,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1496,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.05893143774363678,
+      "koArticles": {
+        "80338": {
+          "since": "2026-10-14T07:44:30.356Z",
+          "alerted": false,
+          "title": "독성물질 사용 32% 줄인 제염기술…친환경 원전 해체 기여"
+        },
+        "80340": {
+          "since": "2026-10-14T07:44:30.356Z",
+          "alerted": false,
+          "title": "다기능 반도체 소자 하나로 논리연산·AI학습 선택적 수행…집적도↑"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-10-14T07:14:27.050Z",
     "dsstore": {
       "ok": true,
@@ -1292,64 +1329,6 @@
     "dl": {
       "ok": true,
       "elapsed": 1055,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-10-13T07:44:25.835Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 5599,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1899,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1994,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.03076194983435873,
-      "koArticles": {
-        "80312": {
-          "since": "2026-10-13T07:44:25.725Z",
-          "alerted": false,
-          "title": "유전자 바꿔 만든 세계 최초 '형광 갑오징어'…새끼도 형광"
-        }
-      }
-    }
-  },
-  {
-    "ts": "2026-10-13T07:14:29.380Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 4845,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1800,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1592,
       "slow": false,
       "imgBroken": false
     },
