@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-10-14T01:44:25.846Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 4984,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1644,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1425,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.02955889040472942,
+      "koArticles": {
+        "80324": {
+          "since": "2026-10-14T01:44:25.802Z",
+          "alerted": false,
+          "title": "인간 '선배' 말 듣고 실험 설계하는 'AI 과학자'…실험 시간 1/4 줄었다"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-10-14T01:14:27.987Z",
     "dsstore": {
       "ok": true,
@@ -1306,32 +1338,6 @@
           "title": "누리호 5차 발사 부탑재위성 9기 교신 성공…양방향 교신 6기"
         }
       }
-    }
-  },
-  {
-    "ts": "2026-10-13T01:16:28.488Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 5374,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1440,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1310,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
     }
   }
 ]
