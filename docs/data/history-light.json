@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-10-14T09:44:31.131Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 4985,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1811,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1829,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-10-14T09:14:30.743Z",
     "dsstore": {
       "ok": true,
@@ -1320,32 +1346,6 @@
           "title": "연구성과 뒤 숨은 노력과 과정 조명…이종원 교수 '나의 연구 도전기' 최우수상"
         }
       }
-    }
-  },
-  {
-    "ts": "2026-10-13T09:14:33.644Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 5532,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1868,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1438,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
     }
   }
 ]
