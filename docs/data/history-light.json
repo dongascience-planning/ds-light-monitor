@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-10-14T23:44:25.476Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 5733,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1961,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1402,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.028342857142857142,
+      "koArticles": {
+        "80348": {
+          "since": "2026-10-14T23:44:25.398Z",
+          "alerted": false,
+          "title": "걷기만 하면 모세혈관 건강 체크하는 '스마트 신발'"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-10-14T23:14:40.454Z",
     "dsstore": {
       "ok": true,
