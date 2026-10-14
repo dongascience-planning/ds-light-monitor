@@ -1,5 +1,42 @@
 [
   {
+    "ts": "2026-10-14T10:14:26.826Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 4974,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1710,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1296,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.04474222121280945,
+      "koArticles": {
+        "80349": {
+          "since": "2026-10-14T10:14:26.746Z",
+          "alerted": false,
+          "title": "[과기원NOW] KAIST, 반도체 암호에 '시간제한' 거는 기술 개발 外"
+        },
+        "80350": {
+          "since": "2026-10-14T10:14:26.746Z",
+          "alerted": false,
+          "title": "[사이언스게시판] 원자력연, '내가 만난 원자력' 방문·체험 수기 공모전 개최 外"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-10-14T09:44:31.131Z",
     "dsstore": {
       "ok": true,
@@ -1288,64 +1325,6 @@
       "untranslated": false,
       "ratio": 0,
       "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-10-13T10:14:28.587Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 5288,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1688,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1705,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-10-13T09:44:33.333Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 5878,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 2097,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1768,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.0285586791610888,
-      "koArticles": {
-        "80319": {
-          "since": "2026-10-13T09:44:33.208Z",
-          "alerted": false,
-          "title": "연구성과 뒤 숨은 노력과 과정 조명…이종원 교수 '나의 연구 도전기' 최우수상"
-        }
-      }
     }
   }
 ]
