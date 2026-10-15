@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-10-15T04:44:30.523Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 5636,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 5781,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1466,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-10-15T04:14:24.349Z",
     "dsstore": {
       "ok": true,
@@ -1308,70 +1334,6 @@
           "since": "2026-10-14T05:14:32.017Z",
           "alerted": false,
           "title": "폐경 후 난소 활동 안 멈춘다…\"암세포 정착 환경 만들 수도\""
-        }
-      }
-    }
-  },
-  {
-    "ts": "2026-10-14T04:43:29.416Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 4545,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1595,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1336,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.02451879010082493,
-      "koArticles": {
-        "80208": {
-          "since": "2026-10-14T03:14:23.965Z",
-          "alerted": false,
-          "title": "[이덕환의 과학세상] 'AI강국' 화려한 구호보다 ‘자강의 도덕 선진국’ 만들어야"
-        }
-      }
-    }
-  },
-  {
-    "ts": "2026-10-14T04:14:41.640Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 5524,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1496,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1224,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.02451879010082493,
-      "koArticles": {
-        "80208": {
-          "since": "2026-10-14T03:14:23.965Z",
-          "alerted": false,
-          "title": "[이덕환의 과학세상] 'AI강국' 화려한 구호보다 ‘자강의 도덕 선진국’ 만들어야"
         }
       }
     }
