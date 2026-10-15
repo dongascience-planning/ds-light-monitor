@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-10-15T01:44:31.975Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 4290,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1647,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1237,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-10-15T01:14:34.310Z",
     "dsstore": {
       "ok": true,
@@ -1316,38 +1342,6 @@
       "untranslated": false,
       "ratio": 0,
       "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-10-14T01:44:25.846Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 4984,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1644,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1425,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.02955889040472942,
-      "koArticles": {
-        "80324": {
-          "since": "2026-10-14T01:44:25.802Z",
-          "alerted": false,
-          "title": "인간 '선배' 말 듣고 실험 설계하는 'AI 과학자'…실험 시간 1/4 줄었다"
-        }
-      }
     }
   }
 ]
