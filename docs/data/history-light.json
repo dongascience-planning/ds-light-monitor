@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-10-15T07:44:33.486Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 4295,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1440,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1259,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-10-15T07:14:29.068Z",
     "dsstore": {
       "ok": true,
@@ -1299,43 +1325,6 @@
       "untranslated": false,
       "ratio": 0,
       "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-10-14T07:44:30.410Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 7776,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1581,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1496,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.05893143774363678,
-      "koArticles": {
-        "80338": {
-          "since": "2026-10-14T07:44:30.356Z",
-          "alerted": false,
-          "title": "독성물질 사용 32% 줄인 제염기술…친환경 원전 해체 기여"
-        },
-        "80340": {
-          "since": "2026-10-14T07:44:30.356Z",
-          "alerted": false,
-          "title": "다기능 반도체 소자 하나로 논리연산·AI학습 선택적 수행…집적도↑"
-        }
-      }
     }
   }
 ]
