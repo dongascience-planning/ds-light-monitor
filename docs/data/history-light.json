@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-10-15T05:14:30.437Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 5818,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 2073,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1704,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.03288490284005979,
+      "koArticles": {
+        "80345": {
+          "since": "2026-10-15T05:14:30.336Z",
+          "alerted": false,
+          "title": "[대체불가 K테크] ⑥탄소중립으론 '역부족'…\"빗물에 탄소 녹여 광물화 도전\""
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-10-15T04:44:30.523Z",
     "dsstore": {
       "ok": true,
