@@ -1,5 +1,42 @@
 [
   {
+    "ts": "2026-10-15T05:44:37.571Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 4716,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1728,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1261,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.06069505628976995,
+      "koArticles": {
+        "80359": {
+          "since": "2026-10-15T05:44:37.521Z",
+          "alerted": false,
+          "title": "연어도 '더위 먹는다'…고수온에 성장 멈추고 간 손상 징후"
+        },
+        "80363": {
+          "since": "2026-10-15T05:44:37.521Z",
+          "alerted": false,
+          "title": "거동 힘든 환자, 침대서 재활…GIST, 재활로봇 '필라테스봇' 개발"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-10-15T05:14:30.437Z",
     "dsstore": {
       "ok": true,
@@ -1303,69 +1340,6 @@
           "since": "2026-10-14T06:14:30.438Z",
           "alerted": false,
           "title": "건강방송 보다 채널 돌리면 홈쇼핑서 관련상품 판매…'연계편성' 월 1285회"
-        }
-      }
-    }
-  },
-  {
-    "ts": "2026-10-14T05:44:27.586Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 5624,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1956,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1594,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-10-14T05:14:32.794Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 5627,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1949,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1458,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.05570966250577901,
-      "koArticles": {
-        "80208": {
-          "since": "2026-10-14T03:14:23.965Z",
-          "alerted": true,
-          "title": "[이덕환의 과학세상] 'AI강국' 화려한 구호보다 ‘자강의 도덕 선진국’ 만들어야"
-        },
-        "80333": {
-          "since": "2026-10-14T05:14:32.017Z",
-          "alerted": false,
-          "title": "폐경 후 난소 활동 안 멈춘다…\"암세포 정착 환경 만들 수도\""
         }
       }
     }
