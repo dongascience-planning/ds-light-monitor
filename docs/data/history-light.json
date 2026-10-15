@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-10-15T04:14:24.349Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 5839,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1797,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1358,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-10-15T03:44:28.294Z",
     "dsstore": {
       "ok": true,
@@ -1335,38 +1361,6 @@
     "dl": {
       "ok": true,
       "elapsed": 1224,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.02451879010082493,
-      "koArticles": {
-        "80208": {
-          "since": "2026-10-14T03:14:23.965Z",
-          "alerted": false,
-          "title": "[이덕환의 과학세상] 'AI강국' 화려한 구호보다 ‘자강의 도덕 선진국’ 만들어야"
-        }
-      }
-    }
-  },
-  {
-    "ts": "2026-10-14T03:44:36.187Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 5007,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1433,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1350,
       "slow": false,
       "imgBroken": false
     },
