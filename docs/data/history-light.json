@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-10-15T03:14:30.541Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 4847,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1687,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1393,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.03065761759887667,
+      "koArticles": {
+        "80362": {
+          "since": "2026-10-15T03:14:30.456Z",
+          "alerted": false,
+          "title": "건물 외부서 자유롭게 변신하는 3차원 태양광 조립모듈"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-10-15T02:44:37.668Z",
     "dsstore": {
       "ok": true,
@@ -1320,43 +1352,6 @@
           "since": "2026-10-14T03:14:23.965Z",
           "alerted": false,
           "title": "[이덕환의 과학세상] 'AI강국' 화려한 구호보다 ‘자강의 도덕 선진국’ 만들어야"
-        }
-      }
-    }
-  },
-  {
-    "ts": "2026-10-14T03:14:24.046Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 5636,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1976,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1595,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.04972118959107807,
-      "koArticles": {
-        "80208": {
-          "since": "2026-10-14T03:14:23.965Z",
-          "alerted": false,
-          "title": "[이덕환의 과학세상] 'AI강국' 화려한 구호보다 ‘자강의 도덕 선진국’ 만들어야"
-        },
-        "80327": {
-          "since": "2026-10-14T03:14:23.965Z",
-          "alerted": false,
-          "title": "화성 로버 '퍼서비어런스' 45.2km 달렸다…지구 밖 주행기록 경신"
         }
       }
     }
