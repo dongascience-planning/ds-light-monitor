@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-10-15T00:44:26.862Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 4859,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1863,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1576,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.026321812771801328,
+      "koArticles": {
+        "80354": {
+          "since": "2026-10-15T00:44:26.757Z",
+          "alerted": false,
+          "title": "[씨즈더퓨처] AI 전력난 '코앞'…뜻밖의 해법 '뇌세포 데이터센터' 가보니"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-10-15T00:14:27.523Z",
     "dsstore": {
       "ok": true,
@@ -1298,58 +1330,6 @@
     "dl": {
       "ok": true,
       "elapsed": 1598,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-10-14T00:44:26.323Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 4530,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1521,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1091,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-10-14T00:14:41.424Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 4818,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1582,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1437,
       "slow": false,
       "imgBroken": false
     },
