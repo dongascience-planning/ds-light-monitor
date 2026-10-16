@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-10-16T06:14:41.048Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 4993,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1529,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 3144,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-10-16T05:44:16.285Z",
     "dsstore": {
       "ok": true,
@@ -1258,69 +1284,6 @@
       "untranslated": false,
       "ratio": 0,
       "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-10-15T06:14:26.305Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 4902,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1832,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1495,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-10-15T05:44:37.571Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 4716,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1728,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1261,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.06069505628976995,
-      "koArticles": {
-        "80359": {
-          "since": "2026-10-15T05:44:37.521Z",
-          "alerted": false,
-          "title": "연어도 '더위 먹는다'…고수온에 성장 멈추고 간 손상 징후"
-        },
-        "80363": {
-          "since": "2026-10-15T05:44:37.521Z",
-          "alerted": false,
-          "title": "거동 힘든 환자, 침대서 재활…GIST, 재활로봇 '필라테스봇' 개발"
-        }
-      }
     }
   }
 ]
