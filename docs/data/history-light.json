@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-10-16T02:14:21.134Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 5078,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1764,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 3294,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-10-16T01:44:20.650Z",
     "dsstore": {
       "ok": true,
@@ -1313,32 +1339,6 @@
           "title": "전국 건축물 730만동 에너지 사용량 한 번에 본다"
         }
       }
-    }
-  },
-  {
-    "ts": "2026-10-15T01:44:31.975Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 4290,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1647,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1237,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
     }
   }
 ]
