@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-10-16T03:14:20.560Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 5154,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1895,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 3167,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-10-16T02:44:21.185Z",
     "dsstore": {
       "ok": true,
@@ -1294,43 +1320,6 @@
           "since": "2026-10-15T03:14:30.456Z",
           "alerted": false,
           "title": "건물 외부서 자유롭게 변신하는 3차원 태양광 조립모듈"
-        }
-      }
-    }
-  },
-  {
-    "ts": "2026-10-15T02:44:37.668Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 5355,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1295,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1125,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.057714684663718874,
-      "koArticles": {
-        "80358": {
-          "since": "2026-10-15T02:44:37.601Z",
-          "alerted": false,
-          "title": "고온·고습에 강한 페로브스카이트 태양전지"
-        },
-        "80360": {
-          "since": "2026-10-15T02:44:37.601Z",
-          "alerted": false,
-          "title": "의료계, 소아응급실 압수수색 규탄…\"의료진 이탈 가속화할 것\""
         }
       }
     }
