@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-10-16T07:44:34.999Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 5730,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 2043,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 3698,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-10-16T07:11:15.105Z",
     "dsstore": {
       "ok": true,
@@ -1258,64 +1284,6 @@
       "untranslated": false,
       "ratio": 0,
       "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-10-15T07:44:33.486Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 4295,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1440,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1259,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-10-15T07:14:29.068Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 5659,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1756,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1484,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.026376677464136973,
-      "koArticles": {
-        "80371": {
-          "since": "2026-10-15T07:14:29.020Z",
-          "alerted": false,
-          "title": "비만치료제, 알코올 중독·우울증 치료 신약 개발 임상 돌입"
-        }
-      }
     }
   }
 ]
