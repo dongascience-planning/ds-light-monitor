@@ -1,5 +1,42 @@
 [
   {
+    "ts": "2026-10-16T03:44:23.475Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 5286,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1703,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 3389,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.05951557093425606,
+      "koArticles": {
+        "80385": {
+          "since": "2026-10-16T03:44:23.396Z",
+          "alerted": false,
+          "title": "\"인간이 지구 바꾼 '인류세' 시작점은 1952년\"…KAIST 등 국제연구팀 제안"
+        },
+        "80388": {
+          "since": "2026-10-16T03:44:23.396Z",
+          "alerted": false,
+          "title": "암세포로 이동하는 항암제, 실시간으로 본다…차세대 후보물질 개발"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-10-16T03:14:20.560Z",
     "dsstore": {
       "ok": true,
@@ -1290,38 +1327,6 @@
       "untranslated": false,
       "ratio": 0,
       "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-10-15T03:14:30.541Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 4847,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1687,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1393,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.03065761759887667,
-      "koArticles": {
-        "80362": {
-          "since": "2026-10-15T03:14:30.456Z",
-          "alerted": false,
-          "title": "건물 외부서 자유롭게 변신하는 3차원 태양광 조립모듈"
-        }
-      }
     }
   }
 ]
