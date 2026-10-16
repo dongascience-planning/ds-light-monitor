@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-10-16T02:44:21.185Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 4800,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1764,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 2773,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-10-16T02:14:21.134Z",
     "dsstore": {
       "ok": true,
@@ -1305,38 +1331,6 @@
           "since": "2026-10-15T02:44:37.601Z",
           "alerted": false,
           "title": "의료계, 소아응급실 압수수색 규탄…\"의료진 이탈 가속화할 것\""
-        }
-      }
-    }
-  },
-  {
-    "ts": "2026-10-15T02:14:30.236Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 5360,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1773,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1417,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.029438612505705158,
-      "koArticles": {
-        "80357": {
-          "since": "2026-10-15T02:14:30.167Z",
-          "alerted": false,
-          "title": "전국 건축물 730만동 에너지 사용량 한 번에 본다"
         }
       }
     }
