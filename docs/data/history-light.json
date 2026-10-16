@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-10-16T10:14:34.882Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 4743,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1555,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 3397,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-10-16T09:44:23.312Z",
     "dsstore": {
       "ok": true,
@@ -1256,64 +1282,6 @@
     "dl": {
       "ok": true,
       "elapsed": 2102,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-10-15T10:14:34.964Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 4754,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1463,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1199,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.02829313543599258,
-      "koArticles": {
-        "80377": {
-          "since": "2026-10-15T10:14:34.889Z",
-          "alerted": false,
-          "title": "고리 3·4호기 원전 계속운전 허가, 추후 회의에 재상정…사고관리계획서는 승인"
-        }
-      }
-    }
-  },
-  {
-    "ts": "2026-10-15T09:44:26.047Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 5785,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 3068,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1730,
       "slow": false,
       "imgBroken": false
     },
