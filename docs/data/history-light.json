@@ -1,5 +1,42 @@
 [
   {
+    "ts": "2026-10-16T08:44:26.991Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 6174,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 2312,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 3868,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.056074766355140186,
+      "koArticles": {
+        "80399": {
+          "since": "2026-10-16T08:44:26.936Z",
+          "alerted": false,
+          "title": "[사이언스게시판] 박연규 표준연 부원장, 국제도량형위원회 위원 선출 外"
+        },
+        "80400": {
+          "since": "2026-10-16T08:44:26.936Z",
+          "alerted": false,
+          "title": "[과기원NOW] DGIST, 고효율 태양광 수소 생산 광전극 개발"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-10-16T08:14:19.969Z",
     "dsstore": {
       "ok": true,
@@ -1277,32 +1314,6 @@
     "dl": {
       "ok": true,
       "elapsed": 1427,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-10-15T08:14:28.545Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 4983,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1618,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1527,
       "slow": false,
       "imgBroken": false
     },
