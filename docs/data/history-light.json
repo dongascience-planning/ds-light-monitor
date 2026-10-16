@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-10-16T04:44:42.540Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 4782,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1710,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 2822,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-10-16T04:14:16.054Z",
     "dsstore": {
       "ok": true,
@@ -1275,58 +1301,6 @@
           "title": "[대체불가 K테크] ⑥탄소중립으론 '역부족'…\"빗물에 탄소 녹여 광물화 도전\""
         }
       }
-    }
-  },
-  {
-    "ts": "2026-10-15T04:44:30.523Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 5636,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 5781,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1466,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-10-15T04:14:24.349Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 5839,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1797,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1358,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
     }
   }
 ]
