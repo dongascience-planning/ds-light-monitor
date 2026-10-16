@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-10-16T01:44:20.650Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 4982,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1817,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 3527,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-10-16T01:14:25.908Z",
     "dsstore": {
       "ok": true,
@@ -1313,43 +1339,6 @@
       "untranslated": false,
       "ratio": 0,
       "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-10-15T01:14:34.310Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 4718,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1410,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1103,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.053149145399203936,
-      "koArticles": {
-        "80354": {
-          "since": "2026-10-15T00:44:26.757Z",
-          "alerted": false,
-          "title": "[씨즈더퓨처] AI 전력난 '코앞'…뜻밖의 해법 '뇌세포 데이터센터' 가보니"
-        },
-        "80355": {
-          "since": "2026-10-15T01:14:34.217Z",
-          "alerted": false,
-          "title": "누리호가 쏘아올린 초소형군집위성, 미국 찍은 영상 보냈다"
-        }
-      }
     }
   }
 ]
