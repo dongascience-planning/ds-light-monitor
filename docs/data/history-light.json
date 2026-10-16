@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-10-16T05:44:16.285Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 4676,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1653,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 2977,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-10-16T05:14:25.158Z",
     "dsstore": {
       "ok": true,
@@ -1293,38 +1319,6 @@
           "since": "2026-10-15T05:44:37.521Z",
           "alerted": false,
           "title": "거동 힘든 환자, 침대서 재활…GIST, 재활로봇 '필라테스봇' 개발"
-        }
-      }
-    }
-  },
-  {
-    "ts": "2026-10-15T05:14:30.437Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 5818,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 2073,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1704,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.03288490284005979,
-      "koArticles": {
-        "80345": {
-          "since": "2026-10-15T05:14:30.336Z",
-          "alerted": false,
-          "title": "[대체불가 K테크] ⑥탄소중립으론 '역부족'…\"빗물에 탄소 녹여 광물화 도전\""
         }
       }
     }
