@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-10-17T03:44:29.969Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 11965,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1676,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 3381,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-10-17T03:14:16.223Z",
     "dsstore": {
       "ok": true,
@@ -1229,69 +1255,6 @@
     "dl": {
       "ok": true,
       "elapsed": 3141,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-10-16T03:44:23.475Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 5286,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1703,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 3389,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.05951557093425606,
-      "koArticles": {
-        "80385": {
-          "since": "2026-10-16T03:44:23.396Z",
-          "alerted": false,
-          "title": "\"인간이 지구 바꾼 '인류세' 시작점은 1952년\"…KAIST 등 국제연구팀 제안"
-        },
-        "80388": {
-          "since": "2026-10-16T03:44:23.396Z",
-          "alerted": false,
-          "title": "암세포로 이동하는 항암제, 실시간으로 본다…차세대 후보물질 개발"
-        }
-      }
-    }
-  },
-  {
-    "ts": "2026-10-16T03:14:20.560Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 5154,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1895,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 3167,
       "slow": false,
       "imgBroken": false
     },
