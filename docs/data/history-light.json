@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-10-17T06:44:18.033Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 4821,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1646,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 2923,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-10-17T06:14:19.639Z",
     "dsstore": {
       "ok": true,
@@ -1223,64 +1249,6 @@
     "dl": {
       "ok": true,
       "elapsed": 3025,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-10-16T06:44:18.121Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 4669,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1507,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 2730,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.02895529302756544,
-      "koArticles": {
-        "80391": {
-          "since": "2026-10-16T06:44:18.055Z",
-          "alerted": false,
-          "title": "점자 읽는 '미니 뇌' 개발…정확도 83%로 알파벳 식별"
-        }
-      }
-    }
-  },
-  {
-    "ts": "2026-10-16T06:14:41.048Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 4993,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1529,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 3144,
       "slow": false,
       "imgBroken": false
     },
