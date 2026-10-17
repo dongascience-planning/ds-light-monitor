@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-10-17T01:14:32.897Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 4387,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1662,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 3261,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-10-17T00:44:19.398Z",
     "dsstore": {
       "ok": true,
@@ -1240,74 +1266,6 @@
     "dl": {
       "ok": true,
       "elapsed": 3527,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-10-16T01:14:25.908Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 4439,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1590,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 2612,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.0831758034026465,
-      "koArticles": {
-        "80381": {
-          "since": "2026-10-16T01:14:25.803Z",
-          "alerted": false,
-          "title": "양자물리 권위자 김명식 교수, 영국물리학회 메달 수상"
-        },
-        "80382": {
-          "since": "2026-10-16T01:14:25.803Z",
-          "alerted": false,
-          "title": "출연연 박사 초봉 5800만 원…기관별 격차 최대 2300만 원"
-        },
-        "80383": {
-          "since": "2026-10-16T01:14:25.803Z",
-          "alerted": false,
-          "title": "퇴사하는 출연연 연구자 열 중 아홉은 30~40대 젊은인력"
-        }
-      }
-    }
-  },
-  {
-    "ts": "2026-10-16T00:44:23.332Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 4677,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1647,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 3276,
       "slow": false,
       "imgBroken": false
     },
