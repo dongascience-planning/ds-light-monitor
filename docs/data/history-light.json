@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-10-17T23:14:18.531Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 4450,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1616,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 3130,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.026669813547321217,
+      "koArticles": {
+        "80387": {
+          "since": "2026-10-17T23:14:18.470Z",
+          "alerted": false,
+          "title": "[표지로 읽는 과학] 다시쓰는 잉카제국 역사…\"기록보다 수십년 일찍 세력 확장\""
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-10-17T22:44:18.254Z",
     "dsstore": {
       "ok": true,
