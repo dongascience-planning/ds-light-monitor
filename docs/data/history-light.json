@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-10-18T01:44:25.689Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 12174,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1824,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 3129,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.03054163684084944,
+      "koArticles": {
+        "80403": {
+          "since": "2026-10-18T01:44:25.618Z",
+          "alerted": false,
+          "title": "고분자 나노선 분자 배열 규명...전자소재 성능·신축성 조율 길 열어"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-10-18T01:14:22.866Z",
     "dsstore": {
       "ok": true,
@@ -1218,58 +1250,6 @@
     "dl": {
       "ok": true,
       "elapsed": 3229,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-10-17T01:44:19.187Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 5579,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1834,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 3278,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-10-17T01:14:32.897Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 4387,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1662,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 3261,
       "slow": false,
       "imgBroken": false
     },
