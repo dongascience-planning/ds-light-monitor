@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-10-18T02:44:19.446Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 5844,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1842,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 3302,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.02805755395683453,
+      "koArticles": {
+        "80404": {
+          "since": "2026-10-18T02:44:19.381Z",
+          "alerted": false,
+          "title": "AI가 만든 가짜 생물 사진에 과학계 '발칵'"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-10-18T02:14:20.099Z",
     "dsstore": {
       "ok": true,
