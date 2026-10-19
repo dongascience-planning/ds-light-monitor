@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-10-19T09:44:27.200Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 4552,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1640,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 2543,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-10-19T09:14:22.995Z",
     "dsstore": {
       "ok": true,
@@ -1284,64 +1310,6 @@
       "untranslated": false,
       "ratio": 0,
       "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-10-18T09:44:18.295Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 4851,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1687,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 3536,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-10-18T09:14:26.307Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 4641,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1386,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 2665,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.02902176632474356,
-      "koArticles": {
-        "80406": {
-          "since": "2026-10-18T09:14:26.229Z",
-          "alerted": false,
-          "title": "머스크, 세계 최초 하늘 나는 차 공개…2028년 '로드스터2' 양산"
-        }
-      }
     }
   }
 ]
