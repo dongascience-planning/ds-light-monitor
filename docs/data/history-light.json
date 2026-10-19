@@ -1,5 +1,52 @@
 [
   {
+    "ts": "2026-10-19T02:44:20.214Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 4519,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1390,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 2762,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.12633723892002038,
+      "koArticles": {
+        "80409": {
+          "since": "2026-10-19T01:44:20.988Z",
+          "alerted": false,
+          "title": "법정 육아휴직 일부 근속으로 인정 안한 연구기관 4곳 확인"
+        },
+        "80412": {
+          "since": "2026-10-19T02:44:20.137Z",
+          "alerted": false,
+          "title": "같은 몸짓에도 우울한 정도 따라 뇌 반응 다르다"
+        },
+        "80414": {
+          "since": "2026-10-19T02:44:20.137Z",
+          "alerted": false,
+          "title": "나라스페이스, 위성영상·AI로 네팔 홍수 분석…조사 우선 지역 9곳 제안"
+        },
+        "80416": {
+          "since": "2026-10-19T02:44:20.137Z",
+          "alerted": false,
+          "title": "스페이스린텍, 우주의학·양자컴퓨팅 결합 신약 개발 모색"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-10-19T02:14:22.815Z",
     "dsstore": {
       "ok": true,
@@ -1246,38 +1293,6 @@
           "since": "2026-10-18T03:14:41.390Z",
           "alerted": false,
           "title": "로봇과 빛으로 신약 후보 제조…24시간 신약 합성 기술"
-        }
-      }
-    }
-  },
-  {
-    "ts": "2026-10-18T02:44:19.446Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 5844,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1842,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 3302,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.02805755395683453,
-      "koArticles": {
-        "80404": {
-          "since": "2026-10-18T02:44:19.381Z",
-          "alerted": false,
-          "title": "AI가 만든 가짜 생물 사진에 과학계 '발칵'"
         }
       }
     }
