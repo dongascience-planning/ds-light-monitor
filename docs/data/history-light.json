@@ -1,5 +1,42 @@
 [
   {
+    "ts": "2026-10-19T03:14:24.234Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 4585,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1644,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 3015,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.06179640718562874,
+      "koArticles": {
+        "80409": {
+          "since": "2026-10-19T01:44:20.988Z",
+          "alerted": false,
+          "title": "법정 육아휴직 일부 근속으로 인정 안한 연구기관 4곳 확인"
+        },
+        "80415": {
+          "since": "2026-10-19T03:14:24.099Z",
+          "alerted": false,
+          "title": "스프레이로 뿌려 만든 '자가발전 섬유'…누르면 전기 나온다"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-10-19T02:44:20.214Z",
     "dsstore": {
       "ok": true,
