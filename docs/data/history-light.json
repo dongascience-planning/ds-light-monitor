@@ -1,5 +1,42 @@
 [
   {
+    "ts": "2026-10-19T02:14:22.815Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 4520,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1300,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 2504,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.06558603491271821,
+      "koArticles": {
+        "80409": {
+          "since": "2026-10-19T01:44:20.988Z",
+          "alerted": false,
+          "title": "법정 육아휴직 일부 근속으로 인정 안한 연구기관 4곳 확인"
+        },
+        "80410": {
+          "since": "2026-10-19T02:14:22.757Z",
+          "alerted": false,
+          "title": "6개월 내 대면진료 봤다면 비대면진료 가능…비만치료제 처방은 금지"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-10-19T01:44:21.064Z",
     "dsstore": {
       "ok": true,
@@ -1241,64 +1278,6 @@
           "since": "2026-10-18T02:44:19.381Z",
           "alerted": false,
           "title": "AI가 만든 가짜 생물 사진에 과학계 '발칵'"
-        }
-      }
-    }
-  },
-  {
-    "ts": "2026-10-18T02:14:20.099Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 4759,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1647,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 2547,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-10-18T01:44:25.689Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 12174,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1824,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 3129,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.03054163684084944,
-      "koArticles": {
-        "80403": {
-          "since": "2026-10-18T01:44:25.618Z",
-          "alerted": false,
-          "title": "고분자 나노선 분자 배열 규명...전자소재 성능·신축성 조율 길 열어"
         }
       }
     }
