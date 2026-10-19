@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-10-19T03:44:32.773Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 11017,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1737,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 3401,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-10-19T03:14:24.234Z",
     "dsstore": {
       "ok": true,
@@ -1274,64 +1300,6 @@
       "untranslated": false,
       "ratio": 0,
       "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-10-18T03:44:33.592Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 5074,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1657,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 2514,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-10-18T03:14:41.511Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 3452,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1731,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 2683,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.02758954501452081,
-      "koArticles": {
-        "80405": {
-          "since": "2026-10-18T03:14:41.390Z",
-          "alerted": false,
-          "title": "로봇과 빛으로 신약 후보 제조…24시간 신약 합성 기술"
-        }
-      }
     }
   }
 ]
