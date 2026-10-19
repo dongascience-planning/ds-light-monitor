@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-10-19T01:44:21.064Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 4470,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 2734,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 2744,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.03279901356350185,
+      "koArticles": {
+        "80409": {
+          "since": "2026-10-19T01:44:20.988Z",
+          "alerted": false,
+          "title": "법정 육아휴직 일부 근속으로 인정 안한 연구기관 4곳 확인"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-10-19T01:14:19.864Z",
     "dsstore": {
       "ok": true,
@@ -1269,32 +1301,6 @@
           "title": "고분자 나노선 분자 배열 규명...전자소재 성능·신축성 조율 길 열어"
         }
       }
-    }
-  },
-  {
-    "ts": "2026-10-18T01:14:22.866Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 4494,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1460,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 2650,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
     }
   }
 ]
