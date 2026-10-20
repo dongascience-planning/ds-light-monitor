@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-10-20T02:44:21.921Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 4586,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 2526,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 2462,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-10-20T02:14:15.321Z",
     "dsstore": {
       "ok": true,
@@ -1250,90 +1276,6 @@
           "since": "2026-10-19T03:14:24.099Z",
           "alerted": false,
           "title": "스프레이로 뿌려 만든 '자가발전 섬유'…누르면 전기 나온다"
-        }
-      }
-    }
-  },
-  {
-    "ts": "2026-10-19T02:44:20.214Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 4519,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1390,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 2762,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.12633723892002038,
-      "koArticles": {
-        "80409": {
-          "since": "2026-10-19T01:44:20.988Z",
-          "alerted": false,
-          "title": "법정 육아휴직 일부 근속으로 인정 안한 연구기관 4곳 확인"
-        },
-        "80412": {
-          "since": "2026-10-19T02:44:20.137Z",
-          "alerted": false,
-          "title": "같은 몸짓에도 우울한 정도 따라 뇌 반응 다르다"
-        },
-        "80414": {
-          "since": "2026-10-19T02:44:20.137Z",
-          "alerted": false,
-          "title": "나라스페이스, 위성영상·AI로 네팔 홍수 분석…조사 우선 지역 9곳 제안"
-        },
-        "80416": {
-          "since": "2026-10-19T02:44:20.137Z",
-          "alerted": false,
-          "title": "스페이스린텍, 우주의학·양자컴퓨팅 결합 신약 개발 모색"
-        }
-      }
-    }
-  },
-  {
-    "ts": "2026-10-19T02:14:22.815Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 4520,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1300,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 2504,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.06558603491271821,
-      "koArticles": {
-        "80409": {
-          "since": "2026-10-19T01:44:20.988Z",
-          "alerted": false,
-          "title": "법정 육아휴직 일부 근속으로 인정 안한 연구기관 4곳 확인"
-        },
-        "80410": {
-          "since": "2026-10-19T02:14:22.757Z",
-          "alerted": false,
-          "title": "6개월 내 대면진료 봤다면 비대면진료 가능…비만치료제 처방은 금지"
         }
       }
     }
