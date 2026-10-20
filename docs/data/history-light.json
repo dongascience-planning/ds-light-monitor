@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-10-20T07:14:29.246Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 4446,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1350,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 2574,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.028674644389252654,
+      "koArticles": {
+        "80446": {
+          "since": "2026-10-20T07:14:29.179Z",
+          "alerted": false,
+          "title": "우주전쟁 우려 현실화?…러 군사위성, 美 소유 위성에 수십m 접근"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-10-20T06:44:20.527Z",
     "dsstore": {
       "ok": true,
@@ -1257,58 +1289,6 @@
     "dl": {
       "ok": true,
       "elapsed": 3695,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-10-19T07:14:15.738Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 4542,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1537,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 2868,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.029279811097992915,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-10-19T06:44:32.853Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 4581,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1954,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 2625,
       "slow": false,
       "imgBroken": false
     },
