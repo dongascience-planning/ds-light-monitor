@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-10-20T01:14:22.909Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 4497,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1582,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 2799,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-10-20T00:44:16.248Z",
     "dsstore": {
       "ok": true,
@@ -1284,58 +1310,6 @@
           "title": "법정 육아휴직 일부 근속으로 인정 안한 연구기관 4곳 확인"
         }
       }
-    }
-  },
-  {
-    "ts": "2026-10-19T01:14:19.864Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 5195,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1823,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 3730,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-10-19T00:44:19.855Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 5444,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 2072,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 3968,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
     }
   }
 ]
