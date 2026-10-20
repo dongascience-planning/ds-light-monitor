@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-10-20T01:44:20.467Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 4713,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1523,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 2886,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.02824858757062147,
+      "koArticles": {
+        "80434": {
+          "since": "2026-10-20T01:44:20.400Z",
+          "alerted": false,
+          "title": "출연연 자발적 퇴직 올해도 감소세…30대 이하 퇴직자가 59%"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-10-20T01:14:22.909Z",
     "dsstore": {
       "ok": true,
@@ -1276,38 +1308,6 @@
           "since": "2026-10-19T02:14:22.757Z",
           "alerted": false,
           "title": "6개월 내 대면진료 봤다면 비대면진료 가능…비만치료제 처방은 금지"
-        }
-      }
-    }
-  },
-  {
-    "ts": "2026-10-19T01:44:21.064Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 4470,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 2734,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 2744,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.03279901356350185,
-      "koArticles": {
-        "80409": {
-          "since": "2026-10-19T01:44:20.988Z",
-          "alerted": false,
-          "title": "법정 육아휴직 일부 근속으로 인정 안한 연구기관 4곳 확인"
         }
       }
     }
