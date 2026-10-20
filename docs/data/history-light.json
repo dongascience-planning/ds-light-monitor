@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-10-20T09:44:24.046Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 4567,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1482,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 2792,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-10-20T09:14:19.806Z",
     "dsstore": {
       "ok": true,
@@ -1292,48 +1318,6 @@
       "untranslated": false,
       "ratio": 0,
       "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-10-19T09:14:22.995Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 4900,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1759,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 3132,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.08604382929642446,
-      "koArticles": {
-        "80427": {
-          "since": "2026-10-19T09:14:22.921Z",
-          "alerted": false,
-          "title": "[의학바이오게시판] 국내 최초 서울서 '중국 수술로봇' 원격 조작"
-        },
-        "80428": {
-          "since": "2026-10-19T09:14:22.921Z",
-          "alerted": false,
-          "title": "[과기원NOW] UNIST, 제주 돌담 구조 닮은 고성능 배터리 음극 개발 外"
-        },
-        "80429": {
-          "since": "2026-10-19T09:14:22.921Z",
-          "alerted": false,
-          "title": "[사이언스게시판] 2026년 이휘소상에 자진스키 크리스토퍼 교수 外"
-        }
-      }
     }
   }
 ]
