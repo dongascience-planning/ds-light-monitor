@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-10-21T07:14:30.934Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 4633,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1629,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 3105,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.02810143934201508,
+      "koArticles": {
+        "80470": {
+          "since": "2026-10-21T06:42:26.384Z",
+          "alerted": false,
+          "title": "'제2의 위고비' 노리는 日 기면증 신약…ADHD·파킨슨병 치료 기대"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-10-21T06:42:26.473Z",
     "dsstore": {
       "ok": true,
@@ -1281,64 +1313,6 @@
     "dl": {
       "ok": true,
       "elapsed": 3344,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-10-20T07:14:29.246Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 4446,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1350,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 2574,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.028674644389252654,
-      "koArticles": {
-        "80446": {
-          "since": "2026-10-20T07:14:29.179Z",
-          "alerted": false,
-          "title": "우주전쟁 우려 현실화?…러 군사위성, 美 소유 위성에 수십m 접근"
-        }
-      }
-    }
-  },
-  {
-    "ts": "2026-10-20T06:44:20.527Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 4663,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1546,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 2982,
       "slow": false,
       "imgBroken": false
     },
