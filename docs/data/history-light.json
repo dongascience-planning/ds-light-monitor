@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-10-21T04:14:16.088Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 4562,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1783,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 3149,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-10-21T03:44:19.285Z",
     "dsstore": {
       "ok": true,
@@ -1297,38 +1323,6 @@
       "untranslated": false,
       "ratio": 0,
       "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-10-20T03:44:28.143Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 4693,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1671,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 2613,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.029263831732967534,
-      "koArticles": {
-        "80440": {
-          "since": "2026-10-20T03:14:33.745Z",
-          "alerted": false,
-          "title": "수능 D-30, 수험생 카페인 주의보…졸음 쫓다 컨디션 망칠 수도"
-        }
-      }
     }
   }
 ]
