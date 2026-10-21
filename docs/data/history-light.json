@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-10-21T10:14:37.623Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 5654,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 2006,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 3479,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-10-21T09:44:25.480Z",
     "dsstore": {
       "ok": true,
@@ -1293,32 +1319,6 @@
           "title": "[과기원NOW] UNIST, 지표면 식물 탄소흡수량 정밀 측정 AI 개발 外"
         }
       }
-    }
-  },
-  {
-    "ts": "2026-10-20T10:14:22.944Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 4697,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1450,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 2524,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.0273576512455516,
-      "koArticles": {}
     }
   }
 ]
