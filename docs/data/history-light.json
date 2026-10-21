@@ -1,5 +1,42 @@
 [
   {
+    "ts": "2026-10-21T08:44:24.242Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 5498,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1388,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 3794,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.05496040987424313,
+      "koArticles": {
+        "80475": {
+          "since": "2026-10-21T08:44:24.153Z",
+          "alerted": false,
+          "title": "[사이언스게시판] 과기정통부, 양자통신 상용화 실증할 3대 거점 구축 추진 外"
+        },
+        "80476": {
+          "since": "2026-10-21T08:44:24.153Z",
+          "alerted": false,
+          "title": "[과기원NOW] UNIST, 철·루테늄 역할 나눠 수소 생산 효율↑ 外"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-10-21T08:14:16.467Z",
     "dsstore": {
       "ok": true,
@@ -1301,38 +1338,6 @@
     "dl": {
       "ok": true,
       "elapsed": 2973,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.025745257452574527,
-      "koArticles": {
-        "80448": {
-          "since": "2026-10-20T08:14:35.105Z",
-          "alerted": false,
-          "title": "누리호, 2032년까지 7회 추가 발사…2030년 소형 달 착륙선 탑재 계획"
-        }
-      }
-    }
-  },
-  {
-    "ts": "2026-10-20T08:14:35.150Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 5591,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1947,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 3349,
       "slow": false,
       "imgBroken": false
     },
