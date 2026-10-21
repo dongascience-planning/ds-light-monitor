@@ -1,5 +1,42 @@
 [
   {
+    "ts": "2026-10-21T02:44:21.221Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 4914,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1387,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 2563,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.058768656716417914,
+      "koArticles": {
+        "80458": {
+          "since": "2026-10-21T02:44:21.146Z",
+          "alerted": false,
+          "title": "드론 비행궤적 기준 삼아 야외에서도 3차원 좌표 정밀 측정"
+        },
+        "80460": {
+          "since": "2026-10-21T02:44:21.146Z",
+          "alerted": false,
+          "title": "무인기 17시간 운전·918km 비행 거뜬한 고에너지밀도 연료전지"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-10-21T02:14:21.064Z",
     "dsstore": {
       "ok": true,
@@ -1277,32 +1314,6 @@
           "title": "수능 D-30, 수험생 카페인 주의보…졸음 쫓다 컨디션 망칠 수도"
         }
       }
-    }
-  },
-  {
-    "ts": "2026-10-20T02:44:21.921Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 4586,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 2526,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 2462,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
     }
   }
 ]
