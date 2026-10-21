@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-10-21T05:14:22.003Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 8779,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1644,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 3015,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.032020271826768025,
+      "koArticles": {
+        "80463": {
+          "since": "2026-10-21T05:14:21.939Z",
+          "alerted": false,
+          "title": "대형견 공격에 두피 80% 손상…키르기스스탄 아동, 한국서 재건술 성공"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-10-21T04:44:29.402Z",
     "dsstore": {
       "ok": true,
@@ -1271,38 +1303,6 @@
       "untranslated": false,
       "ratio": 0.02641946697566628,
       "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-10-20T05:14:20.937Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 4970,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1643,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 3263,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.02641946697566628,
-      "koArticles": {
-        "80442": {
-          "since": "2026-10-20T05:14:20.869Z",
-          "alerted": false,
-          "title": "베트남 얼굴 기형 어린이 36명 무료 수술"
-        }
-      }
     }
   }
 ]
