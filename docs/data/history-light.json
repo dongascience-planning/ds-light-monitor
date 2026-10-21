@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-10-21T01:44:22.772Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 5099,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1482,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 2708,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-10-21T01:14:28.043Z",
     "dsstore": {
       "ok": true,
@@ -1277,38 +1303,6 @@
       "untranslated": false,
       "ratio": 0,
       "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-10-20T01:44:20.467Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 4713,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1523,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 2886,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.02824858757062147,
-      "koArticles": {
-        "80434": {
-          "since": "2026-10-20T01:44:20.400Z",
-          "alerted": false,
-          "title": "출연연 자발적 퇴직 올해도 감소세…30대 이하 퇴직자가 59%"
-        }
-      }
     }
   }
 ]
