@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-10-21T04:44:29.402Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 5607,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 2184,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 3580,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.029675638371290544,
+      "koArticles": {
+        "80462": {
+          "since": "2026-10-21T04:44:29.324Z",
+          "alerted": false,
+          "title": "상온 양자컴 가능할까…질량 '무한대' 전자 품은 '카고민' 첫 구현"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-10-21T04:14:16.088Z",
     "dsstore": {
       "ok": true,
@@ -1271,58 +1303,6 @@
           "title": "베트남 얼굴 기형 어린이 36명 무료 수술"
         }
       }
-    }
-  },
-  {
-    "ts": "2026-10-20T04:44:19.906Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 5725,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1816,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 3345,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-10-20T04:14:25.229Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 5430,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1870,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 3717,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
     }
   }
 ]
