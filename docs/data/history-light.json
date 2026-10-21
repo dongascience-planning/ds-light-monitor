@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-10-21T09:14:21.943Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 4758,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1765,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 3072,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-10-21T08:44:24.242Z",
     "dsstore": {
       "ok": true,
@@ -1293,64 +1319,6 @@
       "untranslated": false,
       "ratio": 0,
       "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-10-20T09:14:19.806Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 5331,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1916,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 3431,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-10-20T08:44:33.859Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 5424,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1675,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 2973,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.025745257452574527,
-      "koArticles": {
-        "80448": {
-          "since": "2026-10-20T08:14:35.105Z",
-          "alerted": false,
-          "title": "누리호, 2032년까지 7회 추가 발사…2030년 소형 달 착륙선 탑재 계획"
-        }
-      }
     }
   }
 ]
