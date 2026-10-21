@@ -1,5 +1,42 @@
 [
   {
+    "ts": "2026-10-21T06:14:16.968Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 4708,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1587,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 3293,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.04920337394564199,
+      "koArticles": {
+        "80466": {
+          "since": "2026-10-21T06:14:16.916Z",
+          "alerted": false,
+          "title": "온도·질감 동시에 구현하는 'VR 촉각 기술'"
+        },
+        "80467": {
+          "since": "2026-10-21T06:14:16.916Z",
+          "alerted": false,
+          "title": "KAI, 위성에 AI 모듈 탑재해 자율운영 실증"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-10-21T05:44:14.673Z",
     "dsstore": {
       "ok": true,
@@ -1302,32 +1339,6 @@
     "dotcomEn": {
       "untranslated": false,
       "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-10-20T05:44:26.290Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 4471,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1596,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 2675,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.02641946697566628,
       "koArticles": {}
     }
   }
