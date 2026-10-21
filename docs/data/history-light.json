@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-10-21T10:44:31.816Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 5632,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 2573,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 3651,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-10-21T10:14:37.623Z",
     "dsstore": {
       "ok": true,
@@ -1282,43 +1308,6 @@
       "untranslated": false,
       "ratio": 0,
       "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-10-20T10:44:23.608Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 5403,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1943,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 3694,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.050575750733799954,
-      "koArticles": {
-        "80451": {
-          "since": "2026-10-20T10:44:23.514Z",
-          "alerted": false,
-          "title": "[사이언스게시판] 원자력연, 핵연료 국제공동연구 FIDES 회의 개최 外"
-        },
-        "80452": {
-          "since": "2026-10-20T10:44:23.514Z",
-          "alerted": false,
-          "title": "[과기원NOW] UNIST, 지표면 식물 탄소흡수량 정밀 측정 AI 개발 外"
-        }
-      }
     }
   }
 ]
