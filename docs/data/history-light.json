@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-10-22T06:14:24.306Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 4578,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1169,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1716,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-10-22T05:44:22.190Z",
     "dsstore": {
       "ok": true,
@@ -1215,43 +1241,6 @@
           "since": "2026-10-21T06:42:26.384Z",
           "alerted": false,
           "title": "'제2의 위고비' 노리는 日 기면증 신약…ADHD·파킨슨병 치료 기대"
-        }
-      }
-    }
-  },
-  {
-    "ts": "2026-10-21T06:14:16.968Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 4708,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1587,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 3293,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.04920337394564199,
-      "koArticles": {
-        "80466": {
-          "since": "2026-10-21T06:14:16.916Z",
-          "alerted": false,
-          "title": "온도·질감 동시에 구현하는 'VR 촉각 기술'"
-        },
-        "80467": {
-          "since": "2026-10-21T06:14:16.916Z",
-          "alerted": false,
-          "title": "KAI, 위성에 AI 모듈 탑재해 자율운영 실증"
         }
       }
     }
