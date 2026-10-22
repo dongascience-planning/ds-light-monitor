@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-10-22T05:14:28.483Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 5451,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1644,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1384,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-10-22T04:44:17.332Z",
     "dsstore": {
       "ok": true,
@@ -1212,70 +1238,6 @@
       "untranslated": false,
       "ratio": 0,
       "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-10-21T05:14:22.003Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 8779,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1644,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 3015,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.032020271826768025,
-      "koArticles": {
-        "80463": {
-          "since": "2026-10-21T05:14:21.939Z",
-          "alerted": false,
-          "title": "대형견 공격에 두피 80% 손상…키르기스스탄 아동, 한국서 재건술 성공"
-        }
-      }
-    }
-  },
-  {
-    "ts": "2026-10-21T04:44:29.402Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 5607,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 2184,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 3580,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.029675638371290544,
-      "koArticles": {
-        "80462": {
-          "since": "2026-10-21T04:44:29.324Z",
-          "alerted": false,
-          "title": "상온 양자컴 가능할까…질량 '무한대' 전자 품은 '카고민' 첫 구현"
-        }
-      }
     }
   }
 ]
