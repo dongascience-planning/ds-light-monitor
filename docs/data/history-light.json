@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-10-22T04:14:15.200Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 4822,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1463,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 3122,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-10-22T03:44:18.416Z",
     "dsstore": {
       "ok": true,
@@ -1224,32 +1250,6 @@
           "title": "상온 양자컴 가능할까…질량 '무한대' 전자 품은 '카고민' 첫 구현"
         }
       }
-    }
-  },
-  {
-    "ts": "2026-10-21T04:14:16.088Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 4562,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1783,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 3149,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
     }
   }
 ]
