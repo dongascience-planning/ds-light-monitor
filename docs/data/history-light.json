@@ -1030,31 +1030,5 @@
       "ratio": 0,
       "koArticles": {}
     }
-  },
-  {
-    "ts": "2026-10-21T21:44:26.184Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 5071,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1675,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 2884,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
   }
 ]
