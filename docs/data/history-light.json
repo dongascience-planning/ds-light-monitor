@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-10-22T02:51:24.695Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 5895,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 2046,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 3403,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-10-22T01:57:57.963Z",
     "dsstore": {
       "ok": true,
@@ -1243,69 +1269,6 @@
     "dl": {
       "ok": true,
       "elapsed": 2998,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-10-21T02:44:21.221Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 4914,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1387,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 2563,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.058768656716417914,
-      "koArticles": {
-        "80458": {
-          "since": "2026-10-21T02:44:21.146Z",
-          "alerted": false,
-          "title": "드론 비행궤적 기준 삼아 야외에서도 3차원 좌표 정밀 측정"
-        },
-        "80460": {
-          "since": "2026-10-21T02:44:21.146Z",
-          "alerted": false,
-          "title": "무인기 17시간 운전·918km 비행 거뜬한 고에너지밀도 연료전지"
-        }
-      }
-    }
-  },
-  {
-    "ts": "2026-10-21T02:14:21.064Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 5752,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1868,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 3412,
       "slow": false,
       "imgBroken": false
     },
