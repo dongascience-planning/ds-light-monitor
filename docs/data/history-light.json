@@ -1,5 +1,47 @@
 [
   {
+    "ts": "2026-10-22T05:44:22.190Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 4663,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1175,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1451,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.11542034370645611,
+      "koArticles": {
+        "80487": {
+          "since": "2026-10-22T05:44:22.145Z",
+          "alerted": false,
+          "title": "\"GMO 취급받는 유전자가위…6000억 투입하고 규제에 발 묶여\""
+        },
+        "80488": {
+          "since": "2026-10-22T05:44:22.145Z",
+          "alerted": false,
+          "title": "SMR·핵융합·양자 등 '7대 시드' 프로젝트 성과 목표 구체화"
+        },
+        "80489": {
+          "since": "2026-10-22T05:44:22.145Z",
+          "alerted": false,
+          "title": "주말 태풍 '참피' 영향에 남부·제주 비…27일 다시 추위"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-10-22T05:14:28.483Z",
     "dsstore": {
       "ok": true,
@@ -1212,32 +1254,6 @@
           "title": "KAI, 위성에 AI 모듈 탑재해 자율운영 실증"
         }
       }
-    }
-  },
-  {
-    "ts": "2026-10-21T05:44:14.673Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 4391,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1273,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 2489,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
     }
   }
 ]
