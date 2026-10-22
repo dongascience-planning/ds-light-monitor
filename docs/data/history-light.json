@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-10-22T00:14:23.774Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 4345,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1628,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 2763,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-10-21T23:44:27.996Z",
     "dsstore": {
       "ok": true,
@@ -1282,32 +1308,6 @@
           "title": "[기초과학의 시간] ⑦세계 최고 극저온 원자현미경 개발…\"10년의 뚝심과 집념의 결과\""
         }
       }
-    }
-  },
-  {
-    "ts": "2026-10-21T00:14:19.991Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 4988,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1854,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 2753,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
     }
   }
 ]
