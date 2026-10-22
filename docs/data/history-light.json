@@ -1,5 +1,47 @@
 [
   {
+    "ts": "2026-10-22T08:44:32.764Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 5413,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1754,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1553,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.07520184544405997,
+      "koArticles": {
+        "80498": {
+          "since": "2026-10-22T08:44:32.717Z",
+          "alerted": false,
+          "title": "[의학바이오게시판] 삼성서울병원, 美뉴스위크 선정 스마트병원 4위"
+        },
+        "80499": {
+          "since": "2026-10-22T08:44:32.717Z",
+          "alerted": false,
+          "title": "[과기원NOW] UNIST, 병원균 잡아먹는 세균 '공격 효율' 규명 外"
+        },
+        "80500": {
+          "since": "2026-10-22T08:44:32.717Z",
+          "alerted": false,
+          "title": "[사이언스게시판] 국립중앙과학관, 과학관·과학콘텐츠 미래 논의 外"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-10-22T08:14:32.805Z",
     "dsstore": {
       "ok": true,
@@ -1174,43 +1216,6 @@
       "untranslated": false,
       "ratio": 0,
       "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-10-21T08:44:24.242Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 5498,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1388,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 3794,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.05496040987424313,
-      "koArticles": {
-        "80475": {
-          "since": "2026-10-21T08:44:24.153Z",
-          "alerted": false,
-          "title": "[사이언스게시판] 과기정통부, 양자통신 상용화 실증할 3대 거점 구축 추진 外"
-        },
-        "80476": {
-          "since": "2026-10-21T08:44:24.153Z",
-          "alerted": false,
-          "title": "[과기원NOW] UNIST, 철·루테늄 역할 나눠 수소 생산 효율↑ 外"
-        }
-      }
     }
   }
 ]
