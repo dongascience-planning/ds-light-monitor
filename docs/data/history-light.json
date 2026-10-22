@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-10-22T01:14:20.350Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 4821,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1803,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 2744,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-10-22T00:44:13.605Z",
     "dsstore": {
       "ok": true,
@@ -1302,38 +1328,6 @@
       "untranslated": false,
       "ratio": 0,
       "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-10-21T00:44:19.213Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 5598,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1848,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 3509,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.030576789437109102,
-      "koArticles": {
-        "80449": {
-          "since": "2026-10-21T00:44:19.145Z",
-          "alerted": false,
-          "title": "[기초과학의 시간] ⑦세계 최고 극저온 원자현미경 개발…\"10년의 뚝심과 집념의 결과\""
-        }
-      }
     }
   }
 ]
