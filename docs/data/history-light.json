@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-10-22T06:44:30.780Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 5186,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1658,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1511,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.0264797507788162,
+      "koArticles": {
+        "80490": {
+          "since": "2026-10-22T06:44:30.707Z",
+          "alerted": false,
+          "title": "뇌 깊숙이 있어 연구 어려웠던 '뇌섬엽' 지도화"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-10-22T06:14:24.306Z",
     "dsstore": {
       "ok": true,
@@ -1204,38 +1236,6 @@
     "dotcomEn": {
       "untranslated": false,
       "ratio": 0.02810143934201508,
-      "koArticles": {
-        "80470": {
-          "since": "2026-10-21T06:42:26.384Z",
-          "alerted": false,
-          "title": "'제2의 위고비' 노리는 日 기면증 신약…ADHD·파킨슨병 치료 기대"
-        }
-      }
-    }
-  },
-  {
-    "ts": "2026-10-21T06:42:26.473Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 5528,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1557,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 3048,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.028120713305898493,
       "koArticles": {
         "80470": {
           "since": "2026-10-21T06:42:26.384Z",
