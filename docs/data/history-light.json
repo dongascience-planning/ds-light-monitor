@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-10-22T08:14:32.805Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 5703,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1538,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1707,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-10-22T07:21:38.002Z",
     "dsstore": {
       "ok": true,
@@ -1185,58 +1211,6 @@
           "title": "[과기원NOW] UNIST, 철·루테늄 역할 나눠 수소 생산 효율↑ 外"
         }
       }
-    }
-  },
-  {
-    "ts": "2026-10-21T08:14:16.467Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 4522,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1299,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 3021,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-10-21T07:45:54.728Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 5213,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1559,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 2594,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
     }
   }
 ]
