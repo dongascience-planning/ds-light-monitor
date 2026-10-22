@@ -1,5 +1,42 @@
 [
   {
+    "ts": "2026-10-22T01:57:57.963Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 4705,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1427,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 2552,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.11990291262135923,
+      "koArticles": {
+        "80479": {
+          "since": "2026-10-22T01:57:57.896Z",
+          "alerted": false,
+          "title": "난치성 '삼중음성 유방암' 키운 범인, 암 주변에 있다"
+        },
+        "80481": {
+          "since": "2026-10-22T01:57:57.896Z",
+          "alerted": false,
+          "title": "다시 돌아온 '부캉이'…\"수온 18℃ 이하로 떨어지면 생존 어려워\""
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-10-22T01:14:20.350Z",
     "dsstore": {
       "ok": true,
@@ -1269,58 +1306,6 @@
     "dl": {
       "ok": true,
       "elapsed": 3412,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-10-21T01:44:22.772Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 5099,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1482,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 2708,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-10-21T01:14:28.043Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 5010,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1714,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 2970,
       "slow": false,
       "imgBroken": false
     },
