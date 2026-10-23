@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-10-23T05:44:26.612Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 5560,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1758,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1684,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.02585220773278426,
+      "koArticles": {
+        "80375": {
+          "since": "2026-10-23T03:14:28.307Z",
+          "alerted": true,
+          "title": "[1% 의사과학자] ⑨\"의사과학자, 임상 빈틈 메울 또다른 신약 발굴 적임자\""
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-10-23T05:14:26.573Z",
     "dsstore": {
       "ok": true,
@@ -1031,74 +1063,6 @@
     "dl": {
       "ok": true,
       "elapsed": 1716,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-10-22T05:44:22.190Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 4663,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1175,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1451,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.11542034370645611,
-      "koArticles": {
-        "80487": {
-          "since": "2026-10-22T05:44:22.145Z",
-          "alerted": false,
-          "title": "\"GMO 취급받는 유전자가위…6000억 투입하고 규제에 발 묶여\""
-        },
-        "80488": {
-          "since": "2026-10-22T05:44:22.145Z",
-          "alerted": false,
-          "title": "SMR·핵융합·양자 등 '7대 시드' 프로젝트 성과 목표 구체화"
-        },
-        "80489": {
-          "since": "2026-10-22T05:44:22.145Z",
-          "alerted": false,
-          "title": "주말 태풍 '참피' 영향에 남부·제주 비…27일 다시 추위"
-        }
-      }
-    }
-  },
-  {
-    "ts": "2026-10-22T05:14:28.483Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 5451,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1644,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1384,
       "slow": false,
       "imgBroken": false
     },
