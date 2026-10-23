@@ -92,9 +92,12 @@ jobs:
         if: steps.precheck.outputs.skip != 'true' && steps.playwright-cache.outputs.cache-hit != 'true'
         run: npx playwright install chromium --with-deps
 
-      - name: Playwright 시스템 의존성 (캐시 히트)
-        if: steps.precheck.outputs.skip != 'true' && steps.playwright-cache.outputs.cache-hit == 'true'
-        run: npx playwright install-deps chromium
+      # 캐시 히트 시 `npx playwright install-deps chromium`은 돌리지 않는다 (2026-10-23 제거,
+      # ds-monitor는 09-21에 같은 이유로 제거). ubuntu-latest에 필수 라이브러리가 이미 있어
+      # 실질 작업 없이 apt 확인만 하는데, 이 레포엔 timeout·continue-on-error조차 없어서
+      # apt 미러가 느려지면 잡 타임아웃(8분)까지 끌려가 **회차가 통째로 취소**됐다
+      # (10-23 21:13·21:43 실측: 9분 경과 후 cancelled → 경량 판정 81분 공백, 취소는 실패가
+      # 아니라서 알림도 없음). 브라우저가 정말 못 뜨면 점검 스텝이 failure로 끝나 기존 경로를 탄다.
 
       - name: 경량 모니터링 실행
         id: monitoring
@@ -220,9 +223,12 @@ jobs:
         if: steps.playwright-cache.outputs.cache-hit != 'true'
         run: npx playwright install chromium --with-deps
 
-      - name: Playwright 시스템 의존성 (캐시 히트)
-        if: steps.playwright-cache.outputs.cache-hit == 'true'
-        run: npx playwright install-deps chromium
+      # 캐시 히트 시 `npx playwright install-deps chromium`은 돌리지 않는다 (2026-10-23 제거,
+      # ds-monitor는 09-21에 같은 이유로 제거). ubuntu-latest에 필수 라이브러리가 이미 있어
+      # 실질 작업 없이 apt 확인만 하는데, 이 레포엔 timeout·continue-on-error조차 없어서
+      # apt 미러가 느려지면 잡 타임아웃(8분)까지 끌려가 **회차가 통째로 취소**됐다
+      # (10-23 21:13·21:43 실측: 9분 경과 후 cancelled → 경량 판정 81분 공백, 취소는 실패가
+      # 아니라서 알림도 없음). 브라우저가 정말 못 뜨면 점검 스텝이 failure로 끝나 기존 경로를 탄다.
 
       - name: 교차 재점검 실행
         id: recheck-run
