@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-10-23T04:44:27.200Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 4353,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1195,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1089,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.02571103526734926,
+      "koArticles": {
+        "80375": {
+          "since": "2026-10-23T03:14:28.307Z",
+          "alerted": false,
+          "title": "[1% 의사과학자] ⑨\"의사과학자, 임상 빈틈 메울 또다른 신약 발굴 적임자\""
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-10-23T04:14:28.755Z",
     "dsstore": {
       "ok": true,
@@ -1035,32 +1067,6 @@
     "dl": {
       "ok": true,
       "elapsed": 1384,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-10-22T04:44:17.332Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 5310,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1381,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 3224,
       "slow": false,
       "imgBroken": false
     },
