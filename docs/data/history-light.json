@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-10-23T06:14:39.733Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 4562,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1216,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1369,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.027327690447400244,
+      "koArticles": {
+        "80375": {
+          "since": "2026-10-23T03:14:28.307Z",
+          "alerted": true,
+          "title": "[1% 의사과학자] ⑨\"의사과학자, 임상 빈틈 메울 또다른 신약 발굴 적임자\""
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-10-23T05:44:26.612Z",
     "dsstore": {
       "ok": true,
@@ -1044,32 +1076,6 @@
           "title": "뇌 깊숙이 있어 연구 어려웠던 '뇌섬엽' 지도화"
         }
       }
-    }
-  },
-  {
-    "ts": "2026-10-22T06:14:24.306Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 4578,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1169,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1716,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
     }
   }
 ]
