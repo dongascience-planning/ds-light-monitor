@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-10-23T01:14:25.979Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 4735,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1168,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1437,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-10-23T00:44:31.113Z",
     "dsstore": {
       "ok": true,
@@ -1003,32 +1029,6 @@
           "title": "다시 돌아온 '부캉이'…\"수온 18℃ 이하로 떨어지면 생존 어려워\""
         }
       }
-    }
-  },
-  {
-    "ts": "2026-10-22T01:14:20.350Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 4821,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1803,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 2744,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
     }
   }
 ]
