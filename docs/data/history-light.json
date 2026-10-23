@@ -1,5 +1,42 @@
 [
   {
+    "ts": "2026-10-23T09:14:26.689Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 4803,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1345,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1397,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.054813773717498245,
+      "koArticles": {
+        "80519": {
+          "since": "2026-10-23T09:14:26.615Z",
+          "alerted": false,
+          "title": "[사이언스게시판] 우주항공청, 제24회 우주항공경진대회 개최 外"
+        },
+        "80520": {
+          "since": "2026-10-23T09:14:26.615Z",
+          "alerted": false,
+          "title": "[과기원NOW] KAIST·아태기후센터, 동아시아 여름 전선 북상 추세 분석 外"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-10-23T08:44:27.111Z",
     "dsstore": {
       "ok": true,
@@ -1054,48 +1091,6 @@
       "untranslated": false,
       "ratio": 0,
       "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-10-22T08:44:32.764Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 5413,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1754,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1553,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.07520184544405997,
-      "koArticles": {
-        "80498": {
-          "since": "2026-10-22T08:44:32.717Z",
-          "alerted": false,
-          "title": "[의학바이오게시판] 삼성서울병원, 美뉴스위크 선정 스마트병원 4위"
-        },
-        "80499": {
-          "since": "2026-10-22T08:44:32.717Z",
-          "alerted": false,
-          "title": "[과기원NOW] UNIST, 병원균 잡아먹는 세균 '공격 효율' 규명 外"
-        },
-        "80500": {
-          "since": "2026-10-22T08:44:32.717Z",
-          "alerted": false,
-          "title": "[사이언스게시판] 국립중앙과학관, 과학관·과학콘텐츠 미래 논의 外"
-        }
-      }
     }
   }
 ]
