@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-10-24T05:44:14.936Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 5645,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1292,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1262,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-10-24T05:14:15.287Z",
     "dsstore": {
       "ok": true,
@@ -1161,38 +1187,6 @@
         "80375": {
           "since": "2026-10-23T03:14:28.307Z",
           "alerted": true,
-          "title": "[1% 의사과학자] ⑨\"의사과학자, 임상 빈틈 메울 또다른 신약 발굴 적임자\""
-        }
-      }
-    }
-  },
-  {
-    "ts": "2026-10-23T05:14:26.573Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 5683,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 4099,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1622,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.02585220773278426,
-      "koArticles": {
-        "80375": {
-          "since": "2026-10-23T03:14:28.307Z",
-          "alerted": false,
           "title": "[1% 의사과학자] ⑨\"의사과학자, 임상 빈틈 메울 또다른 신약 발굴 적임자\""
         }
       }
