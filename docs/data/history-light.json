@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-10-24T09:44:16.001Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 5511,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1443,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1289,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-10-24T09:14:11.052Z",
     "dsstore": {
       "ok": true,
@@ -1167,43 +1193,6 @@
       "untranslated": false,
       "ratio": 0,
       "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-10-23T09:14:26.689Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 4803,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1345,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1397,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.054813773717498245,
-      "koArticles": {
-        "80519": {
-          "since": "2026-10-23T09:14:26.615Z",
-          "alerted": false,
-          "title": "[사이언스게시판] 우주항공청, 제24회 우주항공경진대회 개최 外"
-        },
-        "80520": {
-          "since": "2026-10-23T09:14:26.615Z",
-          "alerted": false,
-          "title": "[과기원NOW] KAIST·아태기후센터, 동아시아 여름 전선 북상 추세 분석 外"
-        }
-      }
     }
   }
 ]
