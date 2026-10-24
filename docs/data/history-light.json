@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-10-24T02:44:11.788Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 4671,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1485,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1344,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-10-24T02:14:14.077Z",
     "dsstore": {
       "ok": true,
@@ -1166,38 +1192,6 @@
           "since": "2026-10-23T03:14:28.307Z",
           "alerted": false,
           "title": "[1% 의사과학자] ⑨\"의사과학자, 임상 빈틈 메울 또다른 신약 발굴 적임자\""
-        }
-      }
-    }
-  },
-  {
-    "ts": "2026-10-23T02:20:47.365Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 4769,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1087,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1216,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.028488111260655,
-      "koArticles": {
-        "80505": {
-          "since": "2026-10-23T02:20:47.317Z",
-          "alerted": false,
-          "title": "출연연 남성 육아휴직 3년새 2배…대체인력 채용은 '제자리'"
         }
       }
     }
