@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-10-24T02:14:14.077Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 5350,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1737,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1368,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-10-24T01:44:21.386Z",
     "dsstore": {
       "ok": true,
@@ -1174,32 +1200,6 @@
           "title": "출연연 남성 육아휴직 3년새 2배…대체인력 채용은 '제자리'"
         }
       }
-    }
-  },
-  {
-    "ts": "2026-10-23T01:44:30.961Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 4426,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1189,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1068,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
     }
   }
 ]
