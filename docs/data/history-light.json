@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-10-24T09:14:11.052Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 5452,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1633,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1567,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-10-24T08:44:15.334Z",
     "dsstore": {
       "ok": true,
@@ -1178,32 +1204,6 @@
           "title": "[과기원NOW] KAIST·아태기후센터, 동아시아 여름 전선 북상 추세 분석 外"
         }
       }
-    }
-  },
-  {
-    "ts": "2026-10-23T08:44:27.111Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 4953,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1461,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1358,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
     }
   }
 ]
