@@ -1,5 +1,42 @@
 [
   {
+    "ts": "2026-10-25T03:44:17.269Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 4315,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1204,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1194,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.06513994910941476,
+      "koArticles": {
+        "80524": {
+          "since": "2026-10-25T03:44:17.198Z",
+          "alerted": false,
+          "title": "韓 연구팀, 15년간 오류였던 전력반도체 국제기준 바로잡았다"
+        },
+        "80525": {
+          "since": "2026-10-25T03:44:17.198Z",
+          "alerted": false,
+          "title": "\"지구 반대편에 커피향 전달\"…냄새 송수신 시스템 나왔다"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-10-25T03:14:15.111Z",
     "dsstore": {
       "ok": true,
@@ -1218,32 +1255,6 @@
     "dl": {
       "ok": true,
       "elapsed": 1507,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-10-24T03:44:13.088Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 5231,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1744,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1421,
       "slow": false,
       "imgBroken": false
     },
