@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-10-25T01:41:20.660Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 5886,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1416,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1403,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.030935428431131843,
+      "koArticles": {
+        "80523": {
+          "since": "2026-10-25T01:41:20.553Z",
+          "alerted": false,
+          "title": "살아있는 세포 안팎 동시에 촬영하는 현미경 기술"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-10-25T01:14:12.941Z",
     "dsstore": {
       "ok": true,
@@ -1238,32 +1270,6 @@
     "dl": {
       "ok": true,
       "elapsed": 1281,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-10-24T01:14:20.902Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 4617,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1224,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1480,
       "slow": false,
       "imgBroken": false
     },
