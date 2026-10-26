@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-10-26T07:44:16.162Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 5180,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1573,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1249,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.02907119980290712,
+      "koArticles": {
+        "80538": {
+          "since": "2026-10-26T07:44:16.115Z",
+          "alerted": false,
+          "title": "자성으로 열 전달 조절…반도체 발열 줄일까"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-10-26T07:14:15.496Z",
     "dsstore": {
       "ok": true,
@@ -1248,32 +1280,6 @@
     "dotcomEn": {
       "untranslated": false,
       "ratio": 0.029727704221833625,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-10-25T07:44:16.229Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 5282,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1737,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1510,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
       "koArticles": {}
     }
   }
