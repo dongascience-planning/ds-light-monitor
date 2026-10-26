@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-10-26T04:44:16.289Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 4151,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1396,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1199,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.030273197144966773,
+      "koArticles": {
+        "80534": {
+          "since": "2026-10-26T04:44:16.217Z",
+          "alerted": false,
+          "title": "실·바늘 대신 '빛'으로 상처 꿰맨다…광치료 패치 개발"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-10-26T04:14:14.321Z",
     "dsstore": {
       "ok": true,
@@ -1224,32 +1256,6 @@
     "dl": {
       "ok": true,
       "elapsed": 1524,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-10-25T04:44:16.832Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 4888,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1283,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1398,
       "slow": false,
       "imgBroken": false
     },
