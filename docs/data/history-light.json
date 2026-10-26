@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-10-26T08:44:11.702Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 4968,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1394,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1573,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.030101159634838393,
+      "koArticles": {
+        "80545": {
+          "since": "2026-10-26T08:44:11.637Z",
+          "alerted": false,
+          "title": "우주물체 제어위성 11월 조립 착수…2027년 누리호 6호기에 탑재"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-10-26T08:14:15.160Z",
     "dsstore": {
       "ok": true,
