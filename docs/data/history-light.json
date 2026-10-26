@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-10-26T05:14:12.814Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 5789,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1810,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1828,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.029014015244652077,
+      "koArticles": {
+        "80535": {
+          "since": "2026-10-26T05:14:12.755Z",
+          "alerted": false,
+          "title": "NASA 2028년 달 착륙, 머스크·베이조스 경쟁 체제로"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-10-26T04:44:16.289Z",
     "dsstore": {
       "ok": true,
@@ -1237,32 +1269,6 @@
           "title": "[과기원NOW] KAIST, 광촉매 속 '빛에너지 주머니' 찾았다"
         }
       }
-    }
-  },
-  {
-    "ts": "2026-10-25T05:14:13.208Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 5180,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 2353,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1524,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
     }
   }
 ]
