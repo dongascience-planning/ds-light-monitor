@@ -1,5 +1,42 @@
 [
   {
+    "ts": "2026-10-26T04:14:14.321Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 4370,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1417,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1105,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.05538617886178862,
+      "koArticles": {
+        "80533": {
+          "since": "2026-10-26T04:14:14.250Z",
+          "alerted": false,
+          "title": "\"유리컵만 꺼내줘\"…필요한 정보만 찾아쓰는 로봇 AI"
+        },
+        "80536": {
+          "since": "2026-10-26T04:14:14.250Z",
+          "alerted": false,
+          "title": "'꿈의 배터리' 전고체전지 전해질, 스티커처럼 붙여 만든다"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-10-26T03:44:13.974Z",
     "dsstore": {
       "ok": true,
@@ -1220,69 +1257,6 @@
       "untranslated": false,
       "ratio": 0,
       "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-10-25T04:14:14.768Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 4616,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1561,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1147,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-10-25T03:44:17.269Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 4315,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1204,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1194,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.06513994910941476,
-      "koArticles": {
-        "80524": {
-          "since": "2026-10-25T03:44:17.198Z",
-          "alerted": false,
-          "title": "韓 연구팀, 15년간 오류였던 전력반도체 국제기준 바로잡았다"
-        },
-        "80525": {
-          "since": "2026-10-25T03:44:17.198Z",
-          "alerted": false,
-          "title": "\"지구 반대편에 커피향 전달\"…냄새 송수신 시스템 나왔다"
-        }
-      }
     }
   }
 ]
