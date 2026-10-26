@@ -1,5 +1,42 @@
 [
   {
+    "ts": "2026-10-26T09:14:12.975Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 5404,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1763,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1461,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.05693684733963202,
+      "koArticles": {
+        "80546": {
+          "since": "2026-10-26T09:14:12.911Z",
+          "alerted": false,
+          "title": "[과기원NOW] KAIST, 노벨 화학상 'MOF'로 반도체 맞춤 전극 개발 外"
+        },
+        "80547": {
+          "since": "2026-10-26T09:14:12.911Z",
+          "alerted": false,
+          "title": "[사이언스게시판] 킨텍, 자체 지상국으로 '대전샛' 양방향 통신 성공 外"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-10-26T08:44:11.702Z",
     "dsstore": {
       "ok": true,
@@ -1261,58 +1298,6 @@
       "elapsed": 1217,
       "slow": false,
       "imgBroken": false
-    }
-  },
-  {
-    "ts": "2026-10-25T09:14:11.785Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 5616,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1447,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1538,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-10-25T08:44:14.979Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 4885,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1386,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1079,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
     }
   }
 ]
