@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-10-27T04:14:16.507Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 4722,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 4471,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1529,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-10-27T03:44:13.612Z",
     "dsstore": {
       "ok": true,
@@ -1283,43 +1309,6 @@
           "since": "2026-10-26T04:44:16.217Z",
           "alerted": false,
           "title": "실·바늘 대신 '빛'으로 상처 꿰맨다…광치료 패치 개발"
-        }
-      }
-    }
-  },
-  {
-    "ts": "2026-10-26T04:14:14.321Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 4370,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1417,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1105,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.05538617886178862,
-      "koArticles": {
-        "80533": {
-          "since": "2026-10-26T04:14:14.250Z",
-          "alerted": false,
-          "title": "\"유리컵만 꺼내줘\"…필요한 정보만 찾아쓰는 로봇 AI"
-        },
-        "80536": {
-          "since": "2026-10-26T04:14:14.250Z",
-          "alerted": false,
-          "title": "'꿈의 배터리' 전고체전지 전해질, 스티커처럼 붙여 만든다"
         }
       }
     }
