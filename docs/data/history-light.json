@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-10-27T08:44:14.132Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 4432,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1369,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1321,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.024337244676227728,
+      "koArticles": {
+        "80564": {
+          "since": "2026-10-27T08:44:14.065Z",
+          "alerted": false,
+          "title": "[과기원NOW] KAIST, 치매약 효과 추적하는 무선칩 개발 外"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-10-27T08:10:40.452Z",
     "dsstore": {
       "ok": true,
@@ -1255,64 +1287,6 @@
           "title": "[사이언스게시판] 킨텍, 자체 지상국으로 '대전샛' 양방향 통신 성공 外"
         }
       }
-    }
-  },
-  {
-    "ts": "2026-10-26T08:44:11.702Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 4968,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1394,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1573,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.030101159634838393,
-      "koArticles": {
-        "80545": {
-          "since": "2026-10-26T08:44:11.637Z",
-          "alerted": false,
-          "title": "우주물체 제어위성 11월 조립 착수…2027년 누리호 6호기에 탑재"
-        }
-      }
-    }
-  },
-  {
-    "ts": "2026-10-26T08:14:15.160Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 5739,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1572,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1599,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
     }
   }
 ]
