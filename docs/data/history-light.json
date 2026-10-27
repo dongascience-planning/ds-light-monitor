@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-10-27T07:44:22.344Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 9650,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1535,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1342,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.022753128555176336,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-10-27T07:14:15.426Z",
     "dsstore": {
       "ok": true,
@@ -1261,38 +1287,6 @@
       "untranslated": false,
       "ratio": 0,
       "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-10-26T07:44:16.162Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 5180,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1573,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1249,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.02907119980290712,
-      "koArticles": {
-        "80538": {
-          "since": "2026-10-26T07:44:16.115Z",
-          "alerted": false,
-          "title": "자성으로 열 전달 조절…반도체 발열 줄일까"
-        }
-      }
     }
   }
 ]
