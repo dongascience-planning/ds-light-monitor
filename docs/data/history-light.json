@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-10-27T04:44:18.617Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 4662,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1341,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1292,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-10-27T04:14:16.507Z",
     "dsstore": {
       "ok": true,
@@ -1277,38 +1303,6 @@
           "since": "2026-10-26T05:14:12.755Z",
           "alerted": false,
           "title": "NASA 2028년 달 착륙, 머스크·베이조스 경쟁 체제로"
-        }
-      }
-    }
-  },
-  {
-    "ts": "2026-10-26T04:44:16.289Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 4151,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1396,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1199,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.030273197144966773,
-      "koArticles": {
-        "80534": {
-          "since": "2026-10-26T04:44:16.217Z",
-          "alerted": false,
-          "title": "실·바늘 대신 '빛'으로 상처 꿰맨다…광치료 패치 개발"
         }
       }
     }
