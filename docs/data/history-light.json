@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-10-27T05:44:13.638Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 5383,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1465,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1575,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-10-27T05:14:16.474Z",
     "dsstore": {
       "ok": true,
@@ -1267,38 +1293,6 @@
       "untranslated": false,
       "ratio": 0,
       "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-10-26T05:44:14.630Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 5323,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1998,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1475,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.029014015244652077,
-      "koArticles": {
-        "80535": {
-          "since": "2026-10-26T05:14:12.755Z",
-          "alerted": false,
-          "title": "NASA 2028년 달 착륙, 머스크·베이조스 경쟁 체제로"
-        }
-      }
     }
   }
 ]
