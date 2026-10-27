@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-10-27T05:14:16.474Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 4950,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1767,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1607,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-10-27T04:44:18.617Z",
     "dsstore": {
       "ok": true,
@@ -1260,38 +1286,6 @@
     "dl": {
       "ok": true,
       "elapsed": 1475,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.029014015244652077,
-      "koArticles": {
-        "80535": {
-          "since": "2026-10-26T05:14:12.755Z",
-          "alerted": false,
-          "title": "NASA 2028년 달 착륙, 머스크·베이조스 경쟁 체제로"
-        }
-      }
-    }
-  },
-  {
-    "ts": "2026-10-26T05:14:12.814Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 5789,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1810,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1828,
       "slow": false,
       "imgBroken": false
     },
