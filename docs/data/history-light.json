@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-10-27T20:44:13.284Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 5857,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1577,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1592,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-10-27T20:14:17.474Z",
     "dsstore": {
       "ok": true,
@@ -1271,32 +1297,6 @@
           "title": "[우주개발 나침반] ②한화 지재권 리스크 없앤 차세대발사체…\"개발 30% 진행\""
         }
       }
-    }
-  },
-  {
-    "ts": "2026-10-26T20:44:13.082Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 5650,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1830,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1688,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
     }
   }
 ]
