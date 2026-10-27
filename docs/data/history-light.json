@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-10-27T06:44:11.615Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 5746,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1820,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1505,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-10-27T06:14:14.155Z",
     "dsstore": {
       "ok": true,
@@ -1267,58 +1293,6 @@
           "title": "초기 우주 20억년 재현…GPU 1만5000개로 '역대급 시뮬레이션'"
         }
       }
-    }
-  },
-  {
-    "ts": "2026-10-26T06:44:09.964Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 4574,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1240,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1309,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-10-26T06:14:17.064Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 5068,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1361,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1290,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
     }
   }
 ]
