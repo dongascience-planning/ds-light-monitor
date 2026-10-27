@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-10-27T07:14:15.426Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 4402,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1481,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1099,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.023952095808383235,
+      "koArticles": {
+        "80559": {
+          "since": "2026-10-27T07:14:15.358Z",
+          "alerted": false,
+          "title": "\"슈퍼리치 1명이 폭염에 미친 영향, 서민의 400배\""
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-10-27T06:44:11.615Z",
     "dsstore": {
       "ok": true,
@@ -1259,38 +1291,6 @@
           "since": "2026-10-26T07:44:16.115Z",
           "alerted": false,
           "title": "자성으로 열 전달 조절…반도체 발열 줄일까"
-        }
-      }
-    }
-  },
-  {
-    "ts": "2026-10-26T07:14:15.496Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 4538,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1467,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1129,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.03022113022113022,
-      "koArticles": {
-        "80537": {
-          "since": "2026-10-26T07:14:15.425Z",
-          "alerted": false,
-          "title": "초기 우주 20억년 재현…GPU 1만5000개로 '역대급 시뮬레이션'"
         }
       }
     }
