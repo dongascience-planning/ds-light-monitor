@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-10-28T02:44:12.532Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 4367,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1192,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1265,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-10-28T02:14:20.127Z",
     "dsstore": {
       "ok": true,
@@ -1259,32 +1285,6 @@
           "title": "독성연 \"유해물질 독성 선제 대응\"…포스트 PBS 대응도 본격화"
         }
       }
-    }
-  },
-  {
-    "ts": "2026-10-27T02:44:13.595Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 5474,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1462,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1682,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
     }
   }
 ]
