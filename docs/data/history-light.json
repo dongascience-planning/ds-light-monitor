@@ -1,5 +1,42 @@
 [
   {
+    "ts": "2026-10-28T02:14:20.127Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 4731,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1280,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1135,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.05404246193437701,
+      "koArticles": {
+        "80571": {
+          "since": "2026-10-28T02:14:20.053Z",
+          "alerted": false,
+          "title": "불난 데이터랙만 1분 내 격리…지하 데이터센터 화재 대응"
+        },
+        "80572": {
+          "since": "2026-10-28T02:14:20.053Z",
+          "alerted": false,
+          "title": "\"최고 의사는 한국에\"…美자선사업가, 한국서 '17시간 간이식' 성공"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-10-28T01:44:12.430Z",
     "dsstore": {
       "ok": true,
@@ -1241,69 +1278,6 @@
     "dl": {
       "ok": true,
       "elapsed": 1682,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-10-27T02:14:16.024Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 5814,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 2298,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1455,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.05860113421550094,
-      "koArticles": {
-        "80551": {
-          "since": "2026-10-27T02:14:15.931Z",
-          "alerted": false,
-          "title": "IAEA 원자력 장관회의 인천에서 개최…\"韓 원자력 역량 전세계 신규 원전 수요와 연결\""
-        },
-        "80552": {
-          "since": "2026-10-27T02:14:15.931Z",
-          "alerted": false,
-          "title": "진짜 '로켓배송' 시대 올까…우주 통한 지구 배송 첫 검증"
-        }
-      }
-    }
-  },
-  {
-    "ts": "2026-10-27T01:44:16.164Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 4737,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1602,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 2005,
       "slow": false,
       "imgBroken": false
     },
