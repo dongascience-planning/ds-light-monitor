@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-10-28T06:44:15.104Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 5580,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1372,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1333,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.027068325693080115,
+      "koArticles": {
+        "80579": {
+          "since": "2026-10-28T06:44:15.054Z",
+          "alerted": false,
+          "title": "아프리카 에볼라 1만명 돌파…국내 위험도 '낮음'"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-10-28T06:14:13.505Z",
     "dsstore": {
       "ok": true,
@@ -1273,32 +1305,6 @@
           "title": "\"슈퍼리치 1명이 폭염에 미친 영향, 서민의 400배\""
         }
       }
-    }
-  },
-  {
-    "ts": "2026-10-27T06:44:11.615Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 5746,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1820,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1505,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
     }
   }
 ]
