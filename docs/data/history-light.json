@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-10-28T05:44:14.502Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 6031,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1928,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1620,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.0298989029898903,
+      "koArticles": {
+        "80578": {
+          "since": "2026-10-28T05:44:14.411Z",
+          "alerted": false,
+          "title": "\"암흑물질 성질 다르다면 미묘한 우주 팽창 설명할 수 있다\""
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-10-28T05:14:57.622Z",
     "dsstore": {
       "ok": true,
@@ -1260,32 +1292,6 @@
     "dl": {
       "ok": true,
       "elapsed": 1716,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-10-27T05:44:13.638Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 5383,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1465,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1575,
       "slow": false,
       "imgBroken": false
     },
