@@ -1,5 +1,42 @@
 [
   {
+    "ts": "2026-10-28T07:14:12.544Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 4923,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1509,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1432,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.054266958424507655,
+      "koArticles": {
+        "80580": {
+          "since": "2026-10-28T07:14:12.502Z",
+          "alerted": false,
+          "title": "오픈AI \"수학·컴퓨터과학·물리학 난제 해결\"…외부 전문가 검토 착수"
+        },
+        "80584": {
+          "since": "2026-10-28T07:14:12.502Z",
+          "alerted": false,
+          "title": "실험실에 '식물 생태계' 구현…차세대 생태독성평가 기술 개발"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-10-28T06:44:15.104Z",
     "dsstore": {
       "ok": true,
