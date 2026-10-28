@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-10-28T09:14:15.875Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 4861,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1502,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 968,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.025899912203687446,
+      "koArticles": {
+        "80586": {
+          "since": "2026-10-28T08:14:24.149Z",
+          "alerted": false,
+          "title": "연세대·IBS, 기초연구와 임상 잇는 '나노의학 허브' 출범"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-10-28T08:41:42.537Z",
     "dsstore": {
       "ok": true,
@@ -1295,64 +1327,6 @@
       "untranslated": false,
       "ratio": 0,
       "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-10-27T09:14:17.595Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 4759,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1521,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1146,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-10-27T08:44:14.132Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 4432,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1369,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1321,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.024337244676227728,
-      "koArticles": {
-        "80564": {
-          "since": "2026-10-27T08:44:14.065Z",
-          "alerted": false,
-          "title": "[과기원NOW] KAIST, 치매약 효과 추적하는 무선칩 개발 外"
-        }
-      }
     }
   }
 ]
