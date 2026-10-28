@@ -1,13 +1,33 @@
 [
   {
+    "ts": "2026-10-28T05:14:57.622Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 5127,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1365,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1371,
+      "slow": false,
+      "imgBroken": false
+    }
+  },
+  {
     "ts": "2026-10-28T05:14:15.334Z",
-    "recheckPending": true,
     "dsstore": {
       "ok": false,
       "elapsed": null,
       "slow": false,
       "imgBroken": false,
-      "error": "네트워크 오류: page.goto: net::ERR_TOO_MANY_REDIRECTS at https://dsstore.dongascience.com/main"
+      "error": "네트워크 오류: page.goto: net::ERR_TOO_MANY_REDIRECTS at https://dsstore.dongascience.com/main · 교차 재점검 통과 → 러너 경로 문제 또는 단기 자연복구로 판정"
     },
     "dotcom": {
       "ok": true,
@@ -20,13 +40,14 @@
       "elapsed": null,
       "slow": false,
       "imgBroken": false,
-      "error": "네트워크 오류: page.goto: net::ERR_TOO_MANY_REDIRECTS at https://dl.dongascience.com/"
+      "error": "네트워크 오류: page.goto: net::ERR_TOO_MANY_REDIRECTS at https://dl.dongascience.com/ · 교차 재점검 통과 → 러너 경로 문제 또는 단기 자연복구로 판정"
     },
     "dotcomEn": {
       "untranslated": false,
       "ratio": 0,
       "koArticles": {}
-    }
+    },
+    "runnerIssue": true
   },
   {
     "ts": "2026-10-28T04:44:15.196Z",
