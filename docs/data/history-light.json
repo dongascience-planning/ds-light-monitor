@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-10-28T07:44:14.660Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 4565,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1165,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1336,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-10-28T07:14:12.544Z",
     "dsstore": {
       "ok": true,
@@ -1310,38 +1336,6 @@
       "untranslated": false,
       "ratio": 0.022753128555176336,
       "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-10-27T07:14:15.426Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 4402,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1481,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1099,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.023952095808383235,
-      "koArticles": {
-        "80559": {
-          "since": "2026-10-27T07:14:15.358Z",
-          "alerted": false,
-          "title": "\"슈퍼리치 1명이 폭염에 미친 영향, 서민의 400배\""
-        }
-      }
     }
   }
 ]
