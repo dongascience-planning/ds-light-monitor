@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-10-28T01:14:24.575Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 4950,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1461,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1316,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.02873686467939095,
+      "koArticles": {
+        "80569": {
+          "since": "2026-10-28T01:14:24.528Z",
+          "alerted": false,
+          "title": "\"손 떨려 진료 못해\"…압수수색 소아응급 교수 7명 사직 표명"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-10-28T00:44:16.818Z",
     "dsstore": {
       "ok": true,
@@ -1246,32 +1278,6 @@
     "dl": {
       "ok": true,
       "elapsed": 2005,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-10-27T01:14:16.181Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 5134,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1486,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1200,
       "slow": false,
       "imgBroken": false
     },
