@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-10-28T12:14:21.360Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 6349,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1005,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 890,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.02659690429474602,
+      "koArticles": {
+        "80591": {
+          "since": "2026-10-28T12:14:21.311Z",
+          "alerted": false,
+          "title": "위고비·마운자로 다음은?…'월 1회 사용, 근육 보존' 경쟁"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-10-28T11:44:11.272Z",
     "dsstore": {
       "ok": true,
@@ -1313,58 +1345,6 @@
       "elapsed": 1585,
       "slow": false,
       "imgBroken": false
-    }
-  },
-  {
-    "ts": "2026-10-27T12:14:12.960Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 4658,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1456,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1379,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-10-27T11:44:13.574Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 4980,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1592,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1242,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
     }
   }
 ]
