@@ -1,5 +1,42 @@
 [
   {
+    "ts": "2026-10-28T08:41:42.537Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 4865,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1409,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1367,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.05139372822299652,
+      "koArticles": {
+        "80586": {
+          "since": "2026-10-28T08:14:24.149Z",
+          "alerted": false,
+          "title": "연세대·IBS, 기초연구와 임상 잇는 '나노의학 허브' 출범"
+        },
+        "80589": {
+          "since": "2026-10-28T08:41:42.465Z",
+          "alerted": false,
+          "title": "[의학바이오게시판] 질병청, 'AI 건강도우미 챗봇' 운영 시작 外"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-10-28T08:14:24.206Z",
     "dsstore": {
       "ok": true,
