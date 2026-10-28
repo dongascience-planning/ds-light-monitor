@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-10-28T10:14:18.372Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 11052,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1325,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1096,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.026396160558464225,
+      "koArticles": {
+        "80590": {
+          "since": "2026-10-28T09:44:17.019Z",
+          "alerted": false,
+          "title": "[과기원NOW] KAIST, 비싼 귀금속 사용량 줄인 고성능 수전해 촉매 개발 外"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-10-28T09:44:17.087Z",
     "dsstore": {
       "ok": true,
@@ -1300,32 +1332,6 @@
     "dl": {
       "ok": true,
       "elapsed": 1799,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-10-27T10:14:17.233Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 6576,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1756,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1791,
       "slow": false,
       "imgBroken": false
     },
