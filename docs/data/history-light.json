@@ -1,5 +1,34 @@
 [
   {
+    "ts": "2026-10-28T05:14:15.334Z",
+    "recheckPending": true,
+    "dsstore": {
+      "ok": false,
+      "elapsed": null,
+      "slow": false,
+      "imgBroken": false,
+      "error": "네트워크 오류: page.goto: net::ERR_TOO_MANY_REDIRECTS at https://dsstore.dongascience.com/main"
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 933,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": false,
+      "elapsed": null,
+      "slow": false,
+      "imgBroken": false,
+      "error": "네트워크 오류: page.goto: net::ERR_TOO_MANY_REDIRECTS at https://dl.dongascience.com/"
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-10-28T04:44:15.196Z",
     "dsstore": {
       "ok": true,
@@ -1236,58 +1265,6 @@
     "dl": {
       "ok": true,
       "elapsed": 1575,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-10-27T05:14:16.474Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 4950,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1767,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1607,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-10-27T04:44:18.617Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 4662,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1341,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1292,
       "slow": false,
       "imgBroken": false
     },
