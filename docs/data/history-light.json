@@ -1,5 +1,47 @@
 [
   {
+    "ts": "2026-10-29T11:14:11.891Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 4441,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1141,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 910,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": true,
+      "ratio": 0.7303514376996805,
+      "koArticles": {
+        "80595": {
+          "since": "2026-10-29T02:14:11.070Z",
+          "alerted": false,
+          "title": "서울 올가을 첫서리 관측…지난해·평년보다 하루 늦어"
+        },
+        "80596": {
+          "since": "2026-10-29T02:14:11.070Z",
+          "alerted": false,
+          "title": "AI 시대 녹색성장 해법 모색…29일 글로벌 녹색성장서밋 개최"
+        },
+        "80597": {
+          "since": "2026-10-29T02:44:10.518Z",
+          "alerted": false,
+          "title": "사과 껍질 속 '우르솔산', 뇌 염증 생쥐 인지기능 개선"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-10-29T10:14:13.157Z",
     "dsstore": {
       "ok": true,
@@ -1445,90 +1487,6 @@
       "untranslated": false,
       "ratio": 0,
       "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-10-28T11:14:12.675Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 6932,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1234,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 793,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-10-28T10:44:13.296Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 6351,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 979,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 661,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-10-28T10:14:18.372Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 11052,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1325,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1096,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.026396160558464225,
-      "koArticles": {
-        "80590": {
-          "since": "2026-10-28T09:44:17.019Z",
-          "alerted": false,
-          "title": "[과기원NOW] KAIST, 비싼 귀금속 사용량 줄인 고성능 수전해 촉매 개발 外"
-        }
-      }
     }
   }
 ]
