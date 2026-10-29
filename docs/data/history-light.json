@@ -1,5 +1,47 @@
 [
   {
+    "ts": "2026-10-29T06:14:19.217Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 3561,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1142,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 772,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": true,
+      "ratio": 0.3101152368758003,
+      "koArticles": {
+        "80595": {
+          "since": "2026-10-29T02:14:11.070Z",
+          "alerted": false,
+          "title": "서울 올가을 첫서리 관측…지난해·평년보다 하루 늦어"
+        },
+        "80596": {
+          "since": "2026-10-29T02:14:11.070Z",
+          "alerted": false,
+          "title": "AI 시대 녹색성장 해법 모색…29일 글로벌 녹색성장서밋 개최"
+        },
+        "80597": {
+          "since": "2026-10-29T02:44:10.518Z",
+          "alerted": false,
+          "title": "사과 껍질 속 '우르솔산', 뇌 염증 생쥐 인지기능 개선"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-10-29T05:44:10.198Z",
     "dsstore": {
       "ok": true,
@@ -1377,64 +1419,6 @@
           "since": "2026-10-28T06:44:15.054Z",
           "alerted": false,
           "title": "아프리카 에볼라 1만명 돌파…국내 위험도 '낮음'"
-        }
-      }
-    }
-  },
-  {
-    "ts": "2026-10-28T06:14:13.505Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 4587,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1286,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1347,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-10-28T05:44:14.502Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 6031,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1928,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1620,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.0298989029898903,
-      "koArticles": {
-        "80578": {
-          "since": "2026-10-28T05:44:14.411Z",
-          "alerted": false,
-          "title": "\"암흑물질 성질 다르다면 미묘한 우주 팽창 설명할 수 있다\""
         }
       }
     }
