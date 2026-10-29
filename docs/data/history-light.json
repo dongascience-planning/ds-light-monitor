@@ -1,5 +1,47 @@
 [
   {
+    "ts": "2026-10-29T06:44:15.145Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 5635,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1068,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 966,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": true,
+      "ratio": 0.3147907460358721,
+      "koArticles": {
+        "80595": {
+          "since": "2026-10-29T02:14:11.070Z",
+          "alerted": false,
+          "title": "서울 올가을 첫서리 관측…지난해·평년보다 하루 늦어"
+        },
+        "80596": {
+          "since": "2026-10-29T02:14:11.070Z",
+          "alerted": false,
+          "title": "AI 시대 녹색성장 해법 모색…29일 글로벌 녹색성장서밋 개최"
+        },
+        "80597": {
+          "since": "2026-10-29T02:44:10.518Z",
+          "alerted": false,
+          "title": "사과 껍질 속 '우르솔산', 뇌 염증 생쥐 인지기능 개선"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-10-29T06:14:19.217Z",
     "dsstore": {
       "ok": true,
@@ -1387,38 +1429,6 @@
           "since": "2026-10-28T07:14:12.502Z",
           "alerted": false,
           "title": "실험실에 '식물 생태계' 구현…차세대 생태독성평가 기술 개발"
-        }
-      }
-    }
-  },
-  {
-    "ts": "2026-10-28T06:44:15.104Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 5580,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1372,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1333,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.027068325693080115,
-      "koArticles": {
-        "80579": {
-          "since": "2026-10-28T06:44:15.054Z",
-          "alerted": false,
-          "title": "아프리카 에볼라 1만명 돌파…국내 위험도 '낮음'"
         }
       }
     }
