@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-10-29T01:44:12.403Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 4874,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 935,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 894,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.02821316614420063,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-10-29T01:14:10.294Z",
     "dsstore": {
       "ok": true,
@@ -1316,64 +1342,6 @@
           "since": "2026-10-28T02:14:20.053Z",
           "alerted": false,
           "title": "\"최고 의사는 한국에\"…美자선사업가, 한국서 '17시간 간이식' 성공"
-        }
-      }
-    }
-  },
-  {
-    "ts": "2026-10-28T01:44:12.430Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 5494,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1776,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1537,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-10-28T01:14:24.575Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 4950,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1461,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1316,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.02873686467939095,
-      "koArticles": {
-        "80569": {
-          "since": "2026-10-28T01:14:24.528Z",
-          "alerted": false,
-          "title": "\"손 떨려 진료 못해\"…압수수색 소아응급 교수 7명 사직 표명"
         }
       }
     }
