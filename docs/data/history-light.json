@@ -1,5 +1,47 @@
 [
   {
+    "ts": "2026-10-29T02:44:10.587Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 5793,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 900,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 841,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.08231132075471698,
+      "koArticles": {
+        "80595": {
+          "since": "2026-10-29T02:14:11.070Z",
+          "alerted": false,
+          "title": "서울 올가을 첫서리 관측…지난해·평년보다 하루 늦어"
+        },
+        "80596": {
+          "since": "2026-10-29T02:14:11.070Z",
+          "alerted": false,
+          "title": "AI 시대 녹색성장 해법 모색…29일 글로벌 녹색성장서밋 개최"
+        },
+        "80597": {
+          "since": "2026-10-29T02:44:10.518Z",
+          "alerted": false,
+          "title": "사과 껍질 속 '우르솔산', 뇌 염증 생쥐 인지기능 개선"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-10-29T02:14:11.177Z",
     "dsstore": {
       "ok": true,
@@ -1344,43 +1386,6 @@
       "untranslated": false,
       "ratio": 0,
       "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-10-28T02:14:20.127Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 4731,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1280,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1135,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.05404246193437701,
-      "koArticles": {
-        "80571": {
-          "since": "2026-10-28T02:14:20.053Z",
-          "alerted": false,
-          "title": "불난 데이터랙만 1분 내 격리…지하 데이터센터 화재 대응"
-        },
-        "80572": {
-          "since": "2026-10-28T02:14:20.053Z",
-          "alerted": false,
-          "title": "\"최고 의사는 한국에\"…美자선사업가, 한국서 '17시간 간이식' 성공"
-        }
-      }
     }
   }
 ]
