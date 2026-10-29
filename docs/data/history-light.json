@@ -1,5 +1,47 @@
 [
   {
+    "ts": "2026-10-29T08:44:14.742Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 5037,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1122,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 824,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": true,
+      "ratio": 0.5259851513420902,
+      "koArticles": {
+        "80595": {
+          "since": "2026-10-29T02:14:11.070Z",
+          "alerted": false,
+          "title": "서울 올가을 첫서리 관측…지난해·평년보다 하루 늦어"
+        },
+        "80596": {
+          "since": "2026-10-29T02:14:11.070Z",
+          "alerted": false,
+          "title": "AI 시대 녹색성장 해법 모색…29일 글로벌 녹색성장서밋 개최"
+        },
+        "80597": {
+          "since": "2026-10-29T02:44:10.518Z",
+          "alerted": false,
+          "title": "사과 껍질 속 '우르솔산', 뇌 염증 생쥐 인지기능 개선"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-10-29T08:14:15.482Z",
     "dsstore": {
       "ok": true,
@@ -1418,75 +1460,6 @@
     "dotcomEn": {
       "untranslated": false,
       "ratio": 0.025899912203687446,
-      "koArticles": {
-        "80586": {
-          "since": "2026-10-28T08:14:24.149Z",
-          "alerted": false,
-          "title": "연세대·IBS, 기초연구와 임상 잇는 '나노의학 허브' 출범"
-        }
-      }
-    }
-  },
-  {
-    "ts": "2026-10-28T08:41:42.537Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 4865,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1409,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1367,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.05139372822299652,
-      "koArticles": {
-        "80586": {
-          "since": "2026-10-28T08:14:24.149Z",
-          "alerted": false,
-          "title": "연세대·IBS, 기초연구와 임상 잇는 '나노의학 허브' 출범"
-        },
-        "80589": {
-          "since": "2026-10-28T08:41:42.465Z",
-          "alerted": false,
-          "title": "[의학바이오게시판] 질병청, 'AI 건강도우미 챗봇' 운영 시작 外"
-        }
-      }
-    }
-  },
-  {
-    "ts": "2026-10-28T08:14:24.206Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 5470,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1337,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1151,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.025398191993112353,
       "koArticles": {
         "80586": {
           "since": "2026-10-28T08:14:24.149Z",
