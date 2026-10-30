@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-10-30T14:44:13.179Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 6578,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1021,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 912,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-10-30T14:14:13.539Z",
     "dsstore": {
       "ok": true,
@@ -1758,27 +1784,6 @@
           "title": "사과 껍질 속 '우르솔산', 뇌 염증 생쥐 인지기능 개선"
         }
       }
-    }
-  },
-  {
-    "ts": "2026-10-29T14:14:29.088Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 5623,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 925,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 827,
-      "slow": false,
-      "imgBroken": false
     }
   }
 ]
