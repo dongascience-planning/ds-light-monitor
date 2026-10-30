@@ -1,5 +1,42 @@
 [
   {
+    "ts": "2026-10-30T05:44:09.924Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 5784,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 973,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 698,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.05423494114931918,
+      "koArticles": {
+        "80605": {
+          "since": "2026-10-30T04:14:15.144Z",
+          "alerted": false,
+          "title": "北 전파 교란 취약한 GPS 대신 광섬유 기반 '국가시간망' 구축 공식 논의"
+        },
+        "80611": {
+          "since": "2026-10-30T04:14:15.144Z",
+          "alerted": false,
+          "title": "中 반도체 패키징 급성장…\"HBM 첨단 패키징은 韓 우위\""
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-10-30T05:14:09.395Z",
     "dsstore": {
       "ok": true,
@@ -1891,90 +1928,6 @@
     "dotcomEn": {
       "untranslated": true,
       "ratio": 0.3101152368758003,
-      "koArticles": {
-        "80595": {
-          "since": "2026-10-29T02:14:11.070Z",
-          "alerted": false,
-          "title": "서울 올가을 첫서리 관측…지난해·평년보다 하루 늦어"
-        },
-        "80596": {
-          "since": "2026-10-29T02:14:11.070Z",
-          "alerted": false,
-          "title": "AI 시대 녹색성장 해법 모색…29일 글로벌 녹색성장서밋 개최"
-        },
-        "80597": {
-          "since": "2026-10-29T02:44:10.518Z",
-          "alerted": false,
-          "title": "사과 껍질 속 '우르솔산', 뇌 염증 생쥐 인지기능 개선"
-        }
-      }
-    }
-  },
-  {
-    "ts": "2026-10-29T05:44:10.198Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 6671,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1052,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 594,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": true,
-      "ratio": 0.3101152368758003,
-      "koArticles": {
-        "80595": {
-          "since": "2026-10-29T02:14:11.070Z",
-          "alerted": false,
-          "title": "서울 올가을 첫서리 관측…지난해·평년보다 하루 늦어"
-        },
-        "80596": {
-          "since": "2026-10-29T02:14:11.070Z",
-          "alerted": false,
-          "title": "AI 시대 녹색성장 해법 모색…29일 글로벌 녹색성장서밋 개최"
-        },
-        "80597": {
-          "since": "2026-10-29T02:44:10.518Z",
-          "alerted": false,
-          "title": "사과 껍질 속 '우르솔산', 뇌 염증 생쥐 인지기능 개선"
-        }
-      }
-    }
-  },
-  {
-    "ts": "2026-10-29T05:14:11.255Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 6266,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1113,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1033,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": true,
-      "ratio": 0.2181080395637839,
       "koArticles": {
         "80595": {
           "since": "2026-10-29T02:14:11.070Z",
