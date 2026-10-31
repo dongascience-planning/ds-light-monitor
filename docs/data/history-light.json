@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-10-31T06:44:10.883Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 6135,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1166,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 864,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-10-31T06:14:15.062Z",
     "dsstore": {
       "ok": true,
@@ -1219,80 +1245,6 @@
       "untranslated": false,
       "ratio": 0,
       "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-10-30T06:44:09.997Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 5281,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 2086,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 659,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.05562130177514793,
-      "koArticles": {
-        "80605": {
-          "since": "2026-10-30T04:14:15.144Z",
-          "alerted": true,
-          "title": "北 전파 교란 취약한 GPS 대신 광섬유 기반 '국가시간망' 구축 공식 논의"
-        },
-        "80611": {
-          "since": "2026-10-30T04:14:15.144Z",
-          "alerted": true,
-          "title": "中 반도체 패키징 급성장…\"HBM 첨단 패키징은 韓 우위\""
-        }
-      }
-    }
-  },
-  {
-    "ts": "2026-10-30T06:14:18.359Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 4502,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 802,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 726,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.05500936329588015,
-      "koArticles": {
-        "80605": {
-          "since": "2026-10-30T04:14:15.144Z",
-          "alerted": true,
-          "title": "北 전파 교란 취약한 GPS 대신 광섬유 기반 '국가시간망' 구축 공식 논의"
-        },
-        "80611": {
-          "since": "2026-10-30T04:14:15.144Z",
-          "alerted": true,
-          "title": "中 반도체 패키징 급성장…\"HBM 첨단 패키징은 韓 우위\""
-        }
-      }
     }
   }
 ]
