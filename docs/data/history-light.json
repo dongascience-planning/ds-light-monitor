@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-10-31T04:44:11.082Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 5701,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1092,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 831,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-10-31T04:14:12.245Z",
     "dsstore": {
       "ok": true,
@@ -1289,58 +1315,6 @@
       "untranslated": false,
       "ratio": 0.05386202154480862,
       "koArticles": {
-        "80605": {
-          "since": "2026-10-30T04:14:15.144Z",
-          "alerted": false,
-          "title": "北 전파 교란 취약한 GPS 대신 광섬유 기반 '국가시간망' 구축 공식 논의"
-        },
-        "80611": {
-          "since": "2026-10-30T04:14:15.144Z",
-          "alerted": false,
-          "title": "中 반도체 패키징 급성장…\"HBM 첨단 패키징은 韓 우위\""
-        }
-      }
-    }
-  },
-  {
-    "ts": "2026-10-30T04:14:15.362Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 4120,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1010,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 762,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.11815150071462602,
-      "koArticles": {
-        "80574": {
-          "since": "2026-10-30T04:14:15.144Z",
-          "alerted": false,
-          "title": "멀리 떨어진 원자, 금속 촉매 화학 결합에 영향"
-        },
-        "80575": {
-          "since": "2026-10-30T04:14:15.144Z",
-          "alerted": false,
-          "title": "AI 통제 어떻게?…한국의 미래, 공학에 묻는다"
-        },
-        "80597": {
-          "since": "2026-10-29T02:44:10.518Z",
-          "alerted": true,
-          "title": "1"
-        },
         "80605": {
           "since": "2026-10-30T04:14:15.144Z",
           "alerted": false,
