@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-11-01T02:14:19.833Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 6259,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1195,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1022,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.028700906344410877,
+      "koArticles": {
+        "80639": {
+          "since": "2026-11-01T02:14:19.746Z",
+          "alerted": false,
+          "title": "국민 10명 중 7명 정신건강 문제 경험…도움 요청은 30%"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-11-01T01:44:13.941Z",
     "dsstore": {
       "ok": true,
@@ -1218,32 +1250,6 @@
     "dl": {
       "ok": true,
       "elapsed": 765,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-10-31T02:14:15.978Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 5372,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 955,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 851,
       "slow": false,
       "imgBroken": false
     },
