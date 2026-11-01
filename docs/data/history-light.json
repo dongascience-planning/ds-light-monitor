@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-11-01T02:44:15.819Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 4987,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 944,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1026,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.02648013989507869,
+      "koArticles": {
+        "80640": {
+          "since": "2026-11-01T02:44:15.760Z",
+          "alerted": false,
+          "title": "美 지하 1.6km에 초대형 중성미자 검출기 '듄' 구축 본격화"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-11-01T02:14:19.833Z",
     "dsstore": {
       "ok": true,
@@ -1224,32 +1256,6 @@
     "dl": {
       "ok": true,
       "elapsed": 993,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-10-31T02:44:15.767Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 5051,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1139,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 765,
       "slow": false,
       "imgBroken": false
     },
