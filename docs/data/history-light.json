@@ -1,5 +1,42 @@
 [
   {
+    "ts": "2026-11-01T03:14:09.913Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 5745,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 913,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 699,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.06701807228915663,
+      "koArticles": {
+        "80641": {
+          "since": "2026-11-01T03:14:09.833Z",
+          "alerted": false,
+          "title": "버려지는 목재 톱밥으로 순도 99% 페트병 대체원료 생산"
+        },
+        "80642": {
+          "since": "2026-11-01T03:14:09.833Z",
+          "alerted": false,
+          "title": "[사이언스게시판] 과기정통부, 국제공동연구 협약 준비·연구비 관리 정비"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-11-01T02:44:15.819Z",
     "dsstore": {
       "ok": true,
