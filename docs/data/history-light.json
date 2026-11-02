@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-11-02T00:44:15.366Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 5010,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 969,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 882,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-11-02T00:14:11.083Z",
     "dsstore": {
       "ok": true,
@@ -1235,64 +1261,6 @@
     "dl": {
       "ok": true,
       "elapsed": 718,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-11-01T00:44:14.090Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 4017,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 847,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 798,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.02586206896551724,
-      "koArticles": {
-        "80633": {
-          "since": "2026-11-01T00:44:14.026Z",
-          "alerted": false,
-          "title": "[표지로 읽는 과학] 세계지도에 담은 담수생물 2만여 종의 위기"
-        }
-      }
-    }
-  },
-  {
-    "ts": "2026-11-01T00:14:13.282Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 5354,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 839,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 761,
       "slow": false,
       "imgBroken": false
     },
