@@ -1,5 +1,42 @@
 [
   {
+    "ts": "2026-11-02T08:14:20.021Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 3817,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1012,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 903,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.055162313888210884,
+      "koArticles": {
+        "80657": {
+          "since": "2026-11-02T08:14:19.959Z",
+          "alerted": false,
+          "title": "‘특이점 이후’ 40년 내다봤다…과학동아 이창욱 편집장, 한국잡지언론상 편집상 수상"
+        },
+        "80662": {
+          "since": "2026-11-02T08:14:19.959Z",
+          "alerted": false,
+          "title": "기생충 쫓으려 '개미 목욕'하는 새"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-11-02T07:44:10.631Z",
     "dsstore": {
       "ok": true,
@@ -1236,32 +1273,6 @@
     "dl": {
       "ok": true,
       "elapsed": 752,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-11-01T08:14:12.066Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 3656,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 995,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 687,
       "slow": false,
       "imgBroken": false
     },
