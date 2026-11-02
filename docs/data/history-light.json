@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-11-02T02:44:12.929Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 4210,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 819,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 797,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.02889050740470988,
+      "koArticles": {
+        "80651": {
+          "since": "2026-11-02T02:44:12.859Z",
+          "alerted": false,
+          "title": "상대 거짓말·숨은 의도 추론 AI 훈련법…'마피아 게임' 승률↑"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-11-02T02:14:14.224Z",
     "dsstore": {
       "ok": true,
@@ -1266,38 +1298,6 @@
           "since": "2026-11-01T02:44:15.760Z",
           "alerted": false,
           "title": "美 지하 1.6km에 초대형 중성미자 검출기 '듄' 구축 본격화"
-        }
-      }
-    }
-  },
-  {
-    "ts": "2026-11-01T02:14:19.833Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 6259,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1195,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1022,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.028700906344410877,
-      "koArticles": {
-        "80639": {
-          "since": "2026-11-01T02:14:19.746Z",
-          "alerted": false,
-          "title": "국민 10명 중 7명 정신건강 문제 경험…도움 요청은 30%"
         }
       }
     }
