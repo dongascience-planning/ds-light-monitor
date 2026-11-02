@@ -1,5 +1,42 @@
 [
   {
+    "ts": "2026-11-02T09:14:10.028Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 5720,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1204,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 712,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.056014003500875216,
+      "koArticles": {
+        "80661": {
+          "since": "2026-11-02T09:14:09.938Z",
+          "alerted": false,
+          "title": "[사이언스게시판] 국제핵융합실험로 사무차장에 정천영 外"
+        },
+        "80663": {
+          "since": "2026-11-02T09:14:09.938Z",
+          "alerted": false,
+          "title": "[과기원NOW] AI학습 10시간→3시간…의료·코딩 AI 더 빨리 만든다 外"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-11-02T08:44:30.742Z",
     "dsstore": {
       "ok": true,
@@ -1253,32 +1290,6 @@
     "dl": {
       "ok": true,
       "elapsed": 767,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-11-01T09:14:11.682Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 5705,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1058,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 705,
       "slow": false,
       "imgBroken": false
     },
