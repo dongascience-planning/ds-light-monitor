@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-11-03T03:14:16.864Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 5153,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 951,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 776,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.02814951545916013,
+      "koArticles": {
+        "80670": {
+          "since": "2026-11-03T01:43:18.987Z",
+          "alerted": false,
+          "title": "김현민 부산대 교수, 제29대 대한수학회 회장 당선"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-11-03T02:44:25.787Z",
     "dsstore": {
       "ok": true,
@@ -1275,32 +1307,6 @@
     "dl": {
       "ok": true,
       "elapsed": 884,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-11-02T03:14:12.362Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 5397,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1069,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 722,
       "slow": false,
       "imgBroken": false
     },
