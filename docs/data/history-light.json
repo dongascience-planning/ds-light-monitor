@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-11-03T06:14:15.154Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 5266,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 868,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 611,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.027637033625057577,
+      "koArticles": {
+        "80679": {
+          "since": "2026-11-03T06:14:15.067Z",
+          "alerted": false,
+          "title": "유럽서 냉장·냉동 설비 이상…\"AI 개입 사이버 공격 가능성 높아\""
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-11-03T05:44:12.916Z",
     "dsstore": {
       "ok": true,
@@ -1288,64 +1320,6 @@
       "untranslated": false,
       "ratio": 0,
       "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-11-02T06:14:15.079Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 6152,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1264,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1107,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-11-02T05:44:18.538Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 6417,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1154,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1049,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.026904761904761904,
-      "koArticles": {
-        "80653": {
-          "since": "2026-11-02T05:44:18.459Z",
-          "alerted": false,
-          "title": "국내 기업 개발 반도체 환경설비, 평택서 실증한다"
-        }
-      }
     }
   }
 ]
