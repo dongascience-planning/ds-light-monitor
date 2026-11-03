@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-11-03T06:44:13.222Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 5545,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1178,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 821,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-11-03T06:14:15.154Z",
     "dsstore": {
       "ok": true,
@@ -1294,32 +1320,6 @@
           "title": "페리지에어로스페이스, 2027년 초 필리핀서 로켓 발사"
         }
       }
-    }
-  },
-  {
-    "ts": "2026-11-02T06:44:10.627Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 3873,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 917,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 774,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
     }
   }
 ]
