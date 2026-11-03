@@ -1,5 +1,42 @@
 [
   {
+    "ts": "2026-11-03T11:14:14.247Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 5666,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1241,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 761,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.05343685773007536,
+      "koArticles": {
+        "80686": {
+          "since": "2026-11-03T11:14:14.174Z",
+          "alerted": false,
+          "title": "[사이언스게시판] 과기정통부, '제4회 특별성과 포상금제' 시상식 개최 外"
+        },
+        "80687": {
+          "since": "2026-11-03T11:14:14.174Z",
+          "alerted": false,
+          "title": "[과기원NOW] KAIST, 촉감 눈으로 읽는 VR 협업 기술 개발 外"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-11-03T10:44:13.810Z",
     "dsstore": {
       "ok": true,
@@ -1253,58 +1290,6 @@
     "dl": {
       "ok": true,
       "elapsed": 839,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-11-02T11:14:14.606Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 4737,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1165,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 881,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-11-02T10:44:19.039Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 3505,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 934,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 767,
       "slow": false,
       "imgBroken": false
     },
