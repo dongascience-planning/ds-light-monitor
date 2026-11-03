@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-11-03T14:14:20.533Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 5457,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 949,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 537,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.030226700251889168,
+      "koArticles": {
+        "80686": {
+          "since": "2026-11-03T11:14:14.174Z",
+          "alerted": true,
+          "title": "[사이언스게시판] 과기정통부, '제4회 특별성과 포상금제' 시상식 개최 外"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-11-03T13:44:13.120Z",
     "dsstore": {
       "ok": true,
@@ -1294,58 +1326,6 @@
     "dl": {
       "ok": true,
       "elapsed": 913,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-11-02T14:14:12.090Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 6323,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1179,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 774,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-11-02T13:44:24.871Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 6119,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1092,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 809,
       "slow": false,
       "imgBroken": false
     },
