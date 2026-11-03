@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-11-03T02:44:25.787Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 6282,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1211,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 834,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.05871345029239766,
+      "koArticles": {
+        "80670": {
+          "since": "2026-11-03T01:43:18.987Z",
+          "alerted": false,
+          "title": "김현민 부산대 교수, 제29대 대한수학회 회장 당선"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-11-03T02:14:10.505Z",
     "dsstore": {
       "ok": true,
@@ -1276,70 +1308,6 @@
       "untranslated": false,
       "ratio": 0,
       "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-11-02T02:44:12.929Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 4210,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 819,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 797,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.02889050740470988,
-      "koArticles": {
-        "80651": {
-          "since": "2026-11-02T02:44:12.859Z",
-          "alerted": false,
-          "title": "상대 거짓말·숨은 의도 추론 AI 훈련법…'마피아 게임' 승률↑"
-        }
-      }
-    }
-  },
-  {
-    "ts": "2026-11-02T02:14:14.224Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 4747,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 935,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 862,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.032320308731307285,
-      "koArticles": {
-        "80648": {
-          "since": "2026-11-02T02:14:14.173Z",
-          "alerted": false,
-          "title": "2명 중 1명은 사망…유해가스 예측해 지하공간 작업자 구한다"
-        }
-      }
     }
   }
 ]
