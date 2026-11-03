@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-11-03T05:44:12.916Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 4879,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1020,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 746,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-11-03T05:14:11.595Z",
     "dsstore": {
       "ok": true,
@@ -1320,32 +1346,6 @@
           "title": "국내 기업 개발 반도체 환경설비, 평택서 실증한다"
         }
       }
-    }
-  },
-  {
-    "ts": "2026-11-02T05:14:14.418Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 5934,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1243,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1006,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
     }
   }
 ]
