@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-11-03T07:44:10.772Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 4323,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 918,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 667,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-11-03T07:14:16.829Z",
     "dsstore": {
       "ok": true,
@@ -1288,32 +1314,6 @@
           "title": "기생충 쫓으려 '개미 목욕'하는 새"
         }
       }
-    }
-  },
-  {
-    "ts": "2026-11-02T07:44:10.631Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 5449,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 962,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 709,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
     }
   }
 ]
