@@ -1,7 +1,6 @@
 [
   {
     "ts": "2026-11-03T15:15:10.163Z",
-    "recheckPending": true,
     "dsstore": {
       "ok": true,
       "elapsed": 6150,
@@ -20,7 +19,8 @@
       "elapsed": 1628,
       "slow": false,
       "imgBroken": false
-    }
+    },
+    "recheckConfirmed": true
   },
   {
     "ts": "2026-11-03T14:44:14.948Z",
