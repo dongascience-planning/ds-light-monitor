@@ -4,6 +4,7 @@ const { chromium } = require('playwright');
 const axios = require('axios');
 const fs = require('fs');
 const path = require('path');
+const { applyMutes } = require('./mute');
 
 // ── 설정 ────────────────────────────────────────────────────────
 const SERVICES = [
@@ -158,6 +159,26 @@ async function finalize(res) {
         if (r && !r.ok) r.error = `${r.error || '오류'} · 러너 네트워크 이상 의심`;
       }
     }
+  }
+
+  // ── 알림 음소거 (2026-11-04) ──────────────────────────────────
+  // 내부 조치 중인 서비스는 그 서비스만 알림과 교차 재점검을 멈춘다. 점검·판정·이력은
+  // 그대로라 대시보드 가동률과 복구 시점은 나중에 그대로 확인된다.
+  // 러너 네트워크 문제 회차는 대상에서 제외 — 그건 서비스 상태가 아니라 감시 체계가
+  // 눈먼 상태를 알리는 것이라 막으면 안 된다.
+  const mute = applyMutes(res, SERVICES);
+  if (!runnerIssue && mute.anyAlertWorthy && !mute.alertable) {
+    console.log(`[음소거] 이상 서비스가 전부 음소거(${mute.muted.join(', ')}) → 알림·교차 재점검 생략, 이력은 기록`);
+    if (RECHECK_MODE) {
+      // 음소거 전에 이미 발사된 재점검 잡 — 1차 기록을 확정만 하고 조용히 끝낸다.
+      // 완료 마커가 없으면 유실 안전망이 ⚠️를 쏘므로 markRecheckCompleted는 필수.
+      const resolved = resolvePendingRecord(false);
+      if (!resolved.found || resolved.hadRunnerIssue) saveHistory(res, false);
+      markRecheckCompleted();
+    } else {
+      saveHistory(res, false);
+    }
+    return;
   }
 
   if (RECHECK_MODE) {
@@ -437,6 +458,7 @@ function saveHistory(results, runnerIssue = false, recheckPending = false) {
         slow: r.slow,
         imgBroken: r.imgBroken,
         ...(r.error ? { error: r.error } : {}),
+        ...(r.muted ? { muted: true, muteReason: String(r.muteReason || '').slice(0, 120), muteUntil: r.muteUntilKst } : {}),
       };
     }
     // 영문 번역 판정 임베드 — 전환 감지가 이 필드로 직전 상태를 되찾는다 (별도 상태파일 불필요)
