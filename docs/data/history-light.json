@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-11-04T05:44:13.030Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 5621,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1595,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 769,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-11-04T05:14:11.793Z",
     "dsstore": {
       "ok": true,
@@ -1293,32 +1319,6 @@
           "title": "유럽서 냉장·냉동 설비 이상…\"AI 개입 사이버 공격 가능성 높아\""
         }
       }
-    }
-  },
-  {
-    "ts": "2026-11-03T05:44:12.916Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 4879,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1020,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 746,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
     }
   }
 ]
