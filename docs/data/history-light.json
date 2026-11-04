@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-11-04T08:14:19.079Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 6924,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1129,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 874,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.02516309412861137,
+      "koArticles": {
+        "80700": {
+          "since": "2026-11-04T06:44:15.793Z",
+          "alerted": false,
+          "title": "순천대·경국대 '지역의대' 신설…각각 60명·40명 배정"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-11-04T07:44:11.666Z",
     "dsstore": {
       "ok": true,
@@ -1331,32 +1363,6 @@
     "dl": {
       "ok": true,
       "elapsed": 648,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-11-03T08:14:14.123Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 4230,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 957,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 843,
       "slow": false,
       "imgBroken": false
     },
