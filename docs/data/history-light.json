@@ -1,5 +1,42 @@
 [
   {
+    "ts": "2026-11-04T08:44:11.606Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 6355,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1254,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 902,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.0550676477569428,
+      "koArticles": {
+        "80700": {
+          "since": "2026-11-04T06:44:15.793Z",
+          "alerted": false,
+          "title": "순천대·경국대 '지역의대' 신설…각각 60명·40명 배정"
+        },
+        "80708": {
+          "since": "2026-11-04T08:44:11.520Z",
+          "alerted": false,
+          "title": "美 중간선거 민주당 의회 장악…트럼프식 과학 예산 판도 바뀌나"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-11-04T08:14:19.079Z",
     "dsstore": {
       "ok": true,
