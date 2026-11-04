@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-11-04T03:44:09.162Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 5308,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 977,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 547,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.026943984873552353,
+      "koArticles": {
+        "80691": {
+          "since": "2026-11-04T03:14:11.624Z",
+          "alerted": false,
+          "title": "[이덕환의 과학세상] 느린 과학에 어울리지 않는 노벨상 갈증"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-11-04T03:14:11.709Z",
     "dsstore": {
       "ok": true,
@@ -1287,64 +1319,6 @@
       "untranslated": false,
       "ratio": 0,
       "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-11-03T03:44:09.783Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 6491,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1107,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 904,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-11-03T03:14:16.864Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 5153,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 951,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 776,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.02814951545916013,
-      "koArticles": {
-        "80670": {
-          "since": "2026-11-03T01:43:18.987Z",
-          "alerted": false,
-          "title": "김현민 부산대 교수, 제29대 대한수학회 회장 당선"
-        }
-      }
     }
   }
 ]
