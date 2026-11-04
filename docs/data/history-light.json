@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-11-04T17:44:14.103Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 5448,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1073,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 862,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-11-04T17:14:13.940Z",
     "dsstore": {
       "ok": true,
@@ -1320,31 +1346,6 @@
     "dl": {
       "ok": true,
       "elapsed": 2562,
-      "slow": false,
-      "imgBroken": false
-    }
-  },
-  {
-    "ts": "2026-11-03T17:14:57.020Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 7050,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": false,
-      "elapsed": null,
-      "slow": false,
-      "imgBroken": false,
-      "error": "타임아웃 (20초 초과)",
-      "muted": true,
-      "muteReason": "접속 장애 — 내부 조치 중",
-      "muteUntil": "11-04 10:00"
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1869,
       "slow": false,
       "imgBroken": false
     }
