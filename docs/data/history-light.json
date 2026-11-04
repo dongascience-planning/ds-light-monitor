@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-11-04T11:14:11.246Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 5895,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 896,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 770,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-11-04T10:44:14.728Z",
     "dsstore": {
       "ok": true,
@@ -1327,43 +1353,6 @@
           "since": "2026-11-03T11:14:14.174Z",
           "alerted": false,
           "title": "[사이언스게시판] 과기정통부, '제4회 특별성과 포상금제' 시상식 개최 外"
-        }
-      }
-    }
-  },
-  {
-    "ts": "2026-11-03T11:14:14.247Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 5666,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1241,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 761,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.05343685773007536,
-      "koArticles": {
-        "80686": {
-          "since": "2026-11-03T11:14:14.174Z",
-          "alerted": false,
-          "title": "[사이언스게시판] 과기정통부, '제4회 특별성과 포상금제' 시상식 개최 外"
-        },
-        "80687": {
-          "since": "2026-11-03T11:14:14.174Z",
-          "alerted": false,
-          "title": "[과기원NOW] KAIST, 촉감 눈으로 읽는 VR 협업 기술 개발 外"
         }
       }
     }
