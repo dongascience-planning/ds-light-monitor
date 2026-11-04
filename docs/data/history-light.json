@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-11-04T10:44:14.728Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 5364,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1151,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 747,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-11-04T10:14:13.291Z",
     "dsstore": {
       "ok": true,
@@ -1340,32 +1366,6 @@
           "title": "[과기원NOW] KAIST, 촉감 눈으로 읽는 VR 협업 기술 개발 外"
         }
       }
-    }
-  },
-  {
-    "ts": "2026-11-03T10:44:13.810Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 5628,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1039,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 536,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
     }
   }
 ]
