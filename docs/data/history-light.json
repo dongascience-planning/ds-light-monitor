@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-11-04T05:14:11.793Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 5196,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1051,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 690,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.05678380265301373,
+      "koArticles": {
+        "80694": {
+          "since": "2026-11-04T05:14:11.719Z",
+          "alerted": false,
+          "title": "차세대 2차원 반도체 한번에 10장씩 쌓는다"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-11-04T04:44:11.374Z",
     "dsstore": {
       "ok": true,
@@ -1274,64 +1306,6 @@
     "dotcom": {
       "ok": true,
       "elapsed": 1020,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 746,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-11-03T05:14:11.595Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 6094,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1184,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 758,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.024333177351427236,
-      "koArticles": {
-        "80677": {
-          "since": "2026-11-03T05:14:11.509Z",
-          "alerted": false,
-          "title": "연구자들도 '익명 제보' 기회…'R&D 대나무숲' 4일 개통"
-        }
-      }
-    }
-  },
-  {
-    "ts": "2026-11-03T04:44:19.066Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 3769,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1004,
       "slow": false,
       "imgBroken": false
     },
