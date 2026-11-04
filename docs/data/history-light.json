@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-11-04T02:14:21.515Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 4761,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1129,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 772,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.028893587033121917,
+      "koArticles": {
+        "80692": {
+          "since": "2026-11-04T02:14:21.424Z",
+          "alerted": false,
+          "title": "폐페트병에 빛 비춰 재사용 원료로 되돌렸다"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-11-04T01:44:10.873Z",
     "dsstore": {
       "ok": true,
@@ -1285,48 +1317,6 @@
           "since": "2026-11-03T01:43:18.987Z",
           "alerted": false,
           "title": "김현민 부산대 교수, 제29대 대한수학회 회장 당선"
-        }
-      }
-    }
-  },
-  {
-    "ts": "2026-11-03T02:14:10.505Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 4460,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 844,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 791,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.09023984801709807,
-      "koArticles": {
-        "80670": {
-          "since": "2026-11-03T01:43:18.987Z",
-          "alerted": false,
-          "title": "김현민 부산대 교수, 제29대 대한수학회 회장 당선"
-        },
-        "80671": {
-          "since": "2026-11-03T02:14:10.444Z",
-          "alerted": false,
-          "title": "배터리 없이 움직일 때마다 반짝이는 소프트로봇"
-        },
-        "80672": {
-          "since": "2026-11-03T02:14:10.444Z",
-          "alerted": false,
-          "title": "이노스페이스 우주 발사 서비스, 국가간 산업협력 추천 품목 선정"
         }
       }
     }
