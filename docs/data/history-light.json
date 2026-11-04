@@ -1,5 +1,42 @@
 [
   {
+    "ts": "2026-11-04T09:14:10.570Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 5938,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 898,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 617,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.050174216027874564,
+      "koArticles": {
+        "80700": {
+          "since": "2026-11-04T06:44:15.793Z",
+          "alerted": true,
+          "title": "순천대·경국대 '지역의대' 신설…각각 60명·40명 배정"
+        },
+        "80709": {
+          "since": "2026-11-04T09:14:09.900Z",
+          "alerted": false,
+          "title": "[의학바이오게시판] 희귀·중증난치질환자 건보 부담 10%→7% 추진"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-11-04T08:44:11.606Z",
     "dsstore": {
       "ok": true,
@@ -1374,32 +1411,6 @@
     "dl": {
       "ok": true,
       "elapsed": 1007,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-11-03T08:44:14.173Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 4653,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 866,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 648,
       "slow": false,
       "imgBroken": false
     },
