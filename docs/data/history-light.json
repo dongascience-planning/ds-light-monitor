@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-11-04T12:14:16.919Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 5591,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1014,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 802,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-11-04T11:44:13.016Z",
     "dsstore": {
       "ok": true,
@@ -1304,70 +1330,6 @@
     "dl": {
       "ok": true,
       "elapsed": 730,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.030226700251889168,
-      "koArticles": {
-        "80686": {
-          "since": "2026-11-03T11:14:14.174Z",
-          "alerted": false,
-          "title": "[사이언스게시판] 과기정통부, '제4회 특별성과 포상금제' 시상식 개최 外"
-        }
-      }
-    }
-  },
-  {
-    "ts": "2026-11-03T12:14:14.183Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 3923,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 988,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 801,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.030226700251889168,
-      "koArticles": {
-        "80686": {
-          "since": "2026-11-03T11:14:14.174Z",
-          "alerted": false,
-          "title": "[사이언스게시판] 과기정통부, '제4회 특별성과 포상금제' 시상식 개최 外"
-        }
-      }
-    }
-  },
-  {
-    "ts": "2026-11-03T11:45:04.572Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 5688,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 875,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 801,
       "slow": false,
       "imgBroken": false
     },
