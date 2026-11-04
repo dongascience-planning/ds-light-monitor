@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-11-04T01:14:12.723Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 6513,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1161,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 798,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.02919020715630885,
+      "koArticles": {
+        "80685": {
+          "since": "2026-11-04T01:14:12.617Z",
+          "alerted": false,
+          "title": "신석민 화학연 원장 \"출연연 연구자들, 자긍심 갖게 해야\""
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-11-04T00:44:36.184Z",
     "dsstore": {
       "ok": true,
