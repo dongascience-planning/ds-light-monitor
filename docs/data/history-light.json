@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-11-05T04:44:16.905Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 6299,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1320,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 817,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-11-05T04:14:22.764Z",
     "dsstore": {
       "ok": true,
@@ -1301,32 +1327,6 @@
           "title": "차세대 2차원 반도체 한번에 10장씩 쌓는다"
         }
       }
-    }
-  },
-  {
-    "ts": "2026-11-04T04:44:11.374Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 6215,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1108,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 871,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
     }
   }
 ]
