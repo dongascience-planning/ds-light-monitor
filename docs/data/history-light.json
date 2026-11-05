@@ -1,5 +1,26 @@
 [
   {
+    "ts": "2026-11-05T07:44:26.452Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 6106,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1055,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 760,
+      "slow": false,
+      "imgBroken": false
+    }
+  },
+  {
     "ts": "2026-11-05T07:14:14.384Z",
     "dsstore": {
       "ok": true,
@@ -1282,85 +1303,6 @@
     "dotcomEn": {
       "untranslated": false,
       "ratio": 0.02516309412861137,
-      "koArticles": {
-        "80700": {
-          "since": "2026-11-04T06:44:15.793Z",
-          "alerted": false,
-          "title": "순천대·경국대 '지역의대' 신설…각각 60명·40명 배정"
-        }
-      }
-    }
-  },
-  {
-    "ts": "2026-11-04T07:44:11.666Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 6283,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1080,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 735,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.109619140625,
-      "koArticles": {
-        "80700": {
-          "since": "2026-11-04T06:44:15.793Z",
-          "alerted": false,
-          "title": "순천대·경국대 '지역의대' 신설…각각 60명·40명 배정"
-        },
-        "80702": {
-          "since": "2026-11-04T07:44:11.613Z",
-          "alerted": false,
-          "title": "머리 빗기만 해도 탈모 치료…쥐 실험서 회복률 100%"
-        },
-        "80703": {
-          "since": "2026-11-04T07:44:11.613Z",
-          "alerted": false,
-          "title": "[사이언스게시판] 우주청, 국제 거대전파망원경 협력 확대 外"
-        },
-        "80704": {
-          "since": "2026-11-04T07:44:11.613Z",
-          "alerted": false,
-          "title": "[과기원NOW] KAIST, '가짜 기지국' 탐지기술 빈틈 찾았다 外"
-        }
-      }
-    }
-  },
-  {
-    "ts": "2026-11-04T07:14:23.970Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 5535,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 914,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 515,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.025087108013937282,
       "koArticles": {
         "80700": {
           "since": "2026-11-04T06:44:15.793Z",
