@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-11-05T02:44:13.770Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 7018,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1156,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 585,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-11-05T02:14:11.430Z",
     "dsstore": {
       "ok": true,
@@ -1305,64 +1331,6 @@
           "since": "2026-11-04T03:14:11.624Z",
           "alerted": false,
           "title": "[이덕환의 과학세상] 느린 과학에 어울리지 않는 노벨상 갈증"
-        }
-      }
-    }
-  },
-  {
-    "ts": "2026-11-04T02:44:08.964Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 3873,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 937,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 656,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-11-04T02:14:21.515Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 4761,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1129,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 772,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.028893587033121917,
-      "koArticles": {
-        "80692": {
-          "since": "2026-11-04T02:14:21.424Z",
-          "alerted": false,
-          "title": "폐페트병에 빛 비춰 재사용 원료로 되돌렸다"
         }
       }
     }
