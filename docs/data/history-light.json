@@ -1,5 +1,42 @@
 [
   {
+    "ts": "2026-11-05T05:14:12.443Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 4665,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 883,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 675,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.06097560975609756,
+      "koArticles": {
+        "80717": {
+          "since": "2026-11-05T05:14:12.372Z",
+          "alerted": false,
+          "title": "빛에너지 저장하는 인공 세포소기관…세포 생존율 2배 향상"
+        },
+        "80719": {
+          "since": "2026-11-05T05:14:12.372Z",
+          "alerted": false,
+          "title": "도심항공교통 앞당길 차세대 '리튬황 전지' 수명 늘릴 보호막"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-11-05T04:44:16.905Z",
     "dsstore": {
       "ok": true,
@@ -1295,38 +1332,6 @@
       "untranslated": false,
       "ratio": 0,
       "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-11-04T05:14:11.793Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 5196,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1051,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 690,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.05678380265301373,
-      "koArticles": {
-        "80694": {
-          "since": "2026-11-04T05:14:11.719Z",
-          "alerted": false,
-          "title": "차세대 2차원 반도체 한번에 10장씩 쌓는다"
-        }
-      }
     }
   }
 ]
