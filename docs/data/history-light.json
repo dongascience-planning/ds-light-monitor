@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-11-05T08:44:13.652Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 4126,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 936,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 941,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.024953789279112754,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-11-05T08:14:16.625Z",
     "dsstore": {
       "ok": true,
@@ -1271,75 +1297,6 @@
           "since": "2026-11-04T09:14:09.900Z",
           "alerted": false,
           "title": "[의학바이오게시판] 희귀·중증난치질환자 건보 부담 10%→7% 추진"
-        }
-      }
-    }
-  },
-  {
-    "ts": "2026-11-04T08:44:11.606Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 6355,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1254,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 902,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.0550676477569428,
-      "koArticles": {
-        "80700": {
-          "since": "2026-11-04T06:44:15.793Z",
-          "alerted": false,
-          "title": "순천대·경국대 '지역의대' 신설…각각 60명·40명 배정"
-        },
-        "80708": {
-          "since": "2026-11-04T08:44:11.520Z",
-          "alerted": false,
-          "title": "美 중간선거 민주당 의회 장악…트럼프식 과학 예산 판도 바뀌나"
-        }
-      }
-    }
-  },
-  {
-    "ts": "2026-11-04T08:14:19.079Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 6924,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1129,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 874,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.02516309412861137,
-      "koArticles": {
-        "80700": {
-          "since": "2026-11-04T06:44:15.793Z",
-          "alerted": false,
-          "title": "순천대·경국대 '지역의대' 신설…각각 60명·40명 배정"
         }
       }
     }
