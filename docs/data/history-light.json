@@ -1,5 +1,42 @@
 [
   {
+    "ts": "2026-11-05T05:44:13.633Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 5311,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 958,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 649,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.056818181818181816,
+      "koArticles": {
+        "80721": {
+          "since": "2026-11-05T05:44:13.565Z",
+          "alerted": false,
+          "title": "美 민주당 상·하원 탈환…트럼프 과학예산 삭감·연구지원 개입 제동 걸까"
+        },
+        "80723": {
+          "since": "2026-11-05T05:44:13.565Z",
+          "alerted": false,
+          "title": "내년 기초연구 예산 최대라는데…신규과제 예산은 20.7% 감소"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-11-05T05:14:12.443Z",
     "dsstore": {
       "ok": true,
@@ -1307,31 +1344,5 @@
       "imgBroken": false
     },
     "runnerIssue": true
-  },
-  {
-    "ts": "2026-11-04T05:44:13.030Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 5621,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1595,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 769,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
   }
 ]
