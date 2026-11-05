@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-11-05T01:44:11.552Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 6387,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1104,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 971,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.030878316559926806,
+      "koArticles": {
+        "80715": {
+          "since": "2026-11-05T01:44:11.479Z",
+          "alerted": false,
+          "title": "세브란스병원 흉기 피습에…대전협 \"보호 체계·처벌 강화해야\""
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-11-05T01:14:08.982Z",
     "dsstore": {
       "ok": true,
@@ -1305,64 +1337,6 @@
           "since": "2026-11-04T02:14:21.424Z",
           "alerted": false,
           "title": "폐페트병에 빛 비춰 재사용 원료로 되돌렸다"
-        }
-      }
-    }
-  },
-  {
-    "ts": "2026-11-04T01:44:10.873Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 5662,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1130,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 703,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-11-04T01:14:12.723Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 6513,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1161,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 798,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.02919020715630885,
-      "koArticles": {
-        "80685": {
-          "since": "2026-11-04T01:14:12.617Z",
-          "alerted": false,
-          "title": "신석민 화학연 원장 \"출연연 연구자들, 자긍심 갖게 해야\""
         }
       }
     }
