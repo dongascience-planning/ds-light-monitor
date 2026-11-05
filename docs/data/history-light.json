@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-11-05T03:14:15.396Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 4982,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1052,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 881,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.02410755679184052,
+      "koArticles": {
+        "80720": {
+          "since": "2026-11-05T03:14:15.324Z",
+          "alerted": false,
+          "title": "지구온도 1.5도 초과 현실화…COP서 오버슈트·AI전력·기후보건 다룬다"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-11-05T02:44:13.770Z",
     "dsstore": {
       "ok": true,
@@ -1288,38 +1320,6 @@
     "dl": {
       "ok": true,
       "elapsed": 547,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.026943984873552353,
-      "koArticles": {
-        "80691": {
-          "since": "2026-11-04T03:14:11.624Z",
-          "alerted": false,
-          "title": "[이덕환의 과학세상] 느린 과학에 어울리지 않는 노벨상 갈증"
-        }
-      }
-    }
-  },
-  {
-    "ts": "2026-11-04T03:14:11.709Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 6030,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1030,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 906,
       "slow": false,
       "imgBroken": false
     },
