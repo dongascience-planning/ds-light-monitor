@@ -1,5 +1,42 @@
 [
   {
+    "ts": "2026-11-05T07:14:14.384Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 5651,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 937,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 770,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.06220876048462255,
+      "koArticles": {
+        "80721": {
+          "since": "2026-11-05T05:44:13.565Z",
+          "alerted": false,
+          "title": "美 민주당 상·하원 탈환…트럼프 과학예산 삭감·연구지원 개입 제동 걸까"
+        },
+        "80724": {
+          "since": "2026-11-05T07:14:14.300Z",
+          "alerted": false,
+          "title": "전기 만드는 무배터리 칫솔로 충치 예방한다"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-11-05T06:44:10.779Z",
     "dsstore": {
       "ok": true,
@@ -1318,38 +1355,6 @@
     "dl": {
       "ok": true,
       "elapsed": 515,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.025087108013937282,
-      "koArticles": {
-        "80700": {
-          "since": "2026-11-04T06:44:15.793Z",
-          "alerted": false,
-          "title": "순천대·경국대 '지역의대' 신설…각각 60명·40명 배정"
-        }
-      }
-    }
-  },
-  {
-    "ts": "2026-11-04T06:44:15.865Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 7039,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1079,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 820,
       "slow": false,
       "imgBroken": false
     },
