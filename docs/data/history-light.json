@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-11-06T02:58:40.738Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 5514,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 870,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 626,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-11-06T02:14:12.626Z",
     "dsstore": {
       "ok": true,
@@ -1256,32 +1282,6 @@
           "title": "지구온도 1.5도 초과 현실화…COP서 오버슈트·AI전력·기후보건 다룬다"
         }
       }
-    }
-  },
-  {
-    "ts": "2026-11-05T02:44:13.770Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 7018,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1156,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 585,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
     }
   }
 ]
