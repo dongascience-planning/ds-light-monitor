@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-11-06T08:14:12.969Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 4110,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 921,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 666,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-11-06T07:44:12.940Z",
     "dsstore": {
       "ok": true,
@@ -1210,27 +1236,6 @@
           "title": "美 민주당 상·하원 탈환…트럼프 과학예산 삭감·연구지원 개입 제동 걸까"
         }
       }
-    }
-  },
-  {
-    "ts": "2026-11-05T07:44:26.452Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 6106,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1055,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 760,
-      "slow": false,
-      "imgBroken": false
     }
   }
 ]
