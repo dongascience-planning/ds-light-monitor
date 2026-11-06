@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-11-06T04:44:21.403Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 6836,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1205,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 870,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-11-06T04:14:10.503Z",
     "dsstore": {
       "ok": true,
@@ -1224,58 +1250,6 @@
           "title": "도심항공교통 앞당길 차세대 '리튬황 전지' 수명 늘릴 보호막"
         }
       }
-    }
-  },
-  {
-    "ts": "2026-11-05T04:44:16.905Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 6299,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1320,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 817,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-11-05T04:14:22.764Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 6850,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1162,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 884,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
     }
   }
 ]
