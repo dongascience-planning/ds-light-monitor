@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-11-06T06:44:18.163Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 6069,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1174,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 876,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-11-06T06:14:11.431Z",
     "dsstore": {
       "ok": true,
@@ -1188,70 +1214,6 @@
           "since": "2026-11-05T07:14:14.300Z",
           "alerted": false,
           "title": "전기 만드는 무배터리 칫솔로 충치 예방한다"
-        }
-      }
-    }
-  },
-  {
-    "ts": "2026-11-05T06:44:10.779Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 4411,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 902,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 863,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.03219034289713086,
-      "koArticles": {
-        "80721": {
-          "since": "2026-11-05T05:44:13.565Z",
-          "alerted": false,
-          "title": "美 민주당 상·하원 탈환…트럼프 과학예산 삭감·연구지원 개입 제동 걸까"
-        }
-      }
-    }
-  },
-  {
-    "ts": "2026-11-05T06:14:15.489Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 5721,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 845,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 653,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.03219034289713086,
-      "koArticles": {
-        "80721": {
-          "since": "2026-11-05T05:44:13.565Z",
-          "alerted": false,
-          "title": "美 민주당 상·하원 탈환…트럼프 과학예산 삭감·연구지원 개입 제동 걸까"
         }
       }
     }
