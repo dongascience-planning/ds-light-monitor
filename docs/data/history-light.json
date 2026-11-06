@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-11-06T07:44:12.940Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 6021,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1151,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 803,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-11-06T07:14:08.206Z",
     "dsstore": {
       "ok": true,
@@ -1205,43 +1231,6 @@
       "elapsed": 760,
       "slow": false,
       "imgBroken": false
-    }
-  },
-  {
-    "ts": "2026-11-05T07:14:14.384Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 5651,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 937,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 770,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.06220876048462255,
-      "koArticles": {
-        "80721": {
-          "since": "2026-11-05T05:44:13.565Z",
-          "alerted": false,
-          "title": "美 민주당 상·하원 탈환…트럼프 과학예산 삭감·연구지원 개입 제동 걸까"
-        },
-        "80724": {
-          "since": "2026-11-05T07:14:14.300Z",
-          "alerted": false,
-          "title": "전기 만드는 무배터리 칫솔로 충치 예방한다"
-        }
-      }
     }
   }
 ]
