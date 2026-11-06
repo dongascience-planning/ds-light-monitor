@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-11-06T09:14:11.125Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 6301,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1096,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 780,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.044220870379036034,
+      "koArticles": {
+        "80752": {
+          "since": "2026-11-06T09:14:11.041Z",
+          "alerted": false,
+          "title": "[사이언스게시판] 재료연, 차세대 장갑차 핵심 부품 국산화 나서 外"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-11-06T08:44:16.887Z",
     "dsstore": {
       "ok": true,
@@ -1177,32 +1209,6 @@
     "dotcomEn": {
       "untranslated": false,
       "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-11-05T09:14:12.094Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 4536,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 835,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 623,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.08641098484848485,
       "koArticles": {}
     }
   }
