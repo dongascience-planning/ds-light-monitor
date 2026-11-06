@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-11-06T05:14:10.631Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 3751,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 948,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 625,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-11-06T04:44:21.403Z",
     "dsstore": {
       "ok": true,
@@ -1211,43 +1237,6 @@
           "since": "2026-11-05T05:44:13.565Z",
           "alerted": false,
           "title": "내년 기초연구 예산 최대라는데…신규과제 예산은 20.7% 감소"
-        }
-      }
-    }
-  },
-  {
-    "ts": "2026-11-05T05:14:12.443Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 4665,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 883,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 675,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.06097560975609756,
-      "koArticles": {
-        "80717": {
-          "since": "2026-11-05T05:14:12.372Z",
-          "alerted": false,
-          "title": "빛에너지 저장하는 인공 세포소기관…세포 생존율 2배 향상"
-        },
-        "80719": {
-          "since": "2026-11-05T05:14:12.372Z",
-          "alerted": false,
-          "title": "도심항공교통 앞당길 차세대 '리튬황 전지' 수명 늘릴 보호막"
         }
       }
     }
