@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-11-06T01:14:15.295Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 4533,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1034,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 813,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-11-06T00:44:10.085Z",
     "dsstore": {
       "ok": true,
@@ -1251,58 +1277,6 @@
           "title": "세브란스병원 흉기 피습에…대전협 \"보호 체계·처벌 강화해야\""
         }
       }
-    }
-  },
-  {
-    "ts": "2026-11-05T01:14:08.982Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 4535,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 924,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 717,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-11-05T00:44:14.377Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 3716,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1064,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 938,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
     }
   }
 ]
