@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-11-06T00:44:10.085Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 5684,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1032,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 642,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-11-06T00:14:12.280Z",
     "dsstore": {
       "ok": true,
@@ -1277,43 +1303,6 @@
       "untranslated": false,
       "ratio": 0,
       "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-11-05T00:14:16.326Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 6917,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1147,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 849,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.05824330671676844,
-      "koArticles": {
-        "80701": {
-          "since": "2026-11-05T00:14:16.254Z",
-          "alerted": false,
-          "title": "별빛 지우는 '가상 망원경'…숨은 외계행성 찾는다"
-        },
-        "80706": {
-          "since": "2026-11-05T00:14:16.254Z",
-          "alerted": false,
-          "title": "1000년 경력 미식 맛보고 고인돌·운곡람사르 습지도 탐사"
-        }
-      }
     }
   }
 ]
