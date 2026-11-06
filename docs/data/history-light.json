@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-11-06T00:14:12.280Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 6485,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1223,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 688,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-11-05T23:44:14.873Z",
     "dsstore": {
       "ok": true,
@@ -1288,32 +1314,6 @@
           "title": "1000년 경력 미식 맛보고 고인돌·운곡람사르 습지도 탐사"
         }
       }
-    }
-  },
-  {
-    "ts": "2026-11-04T23:44:18.275Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 5432,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1092,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 670,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
     }
   }
 ]
