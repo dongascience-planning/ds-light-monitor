@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-11-07T09:44:09.336Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 1449,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 874,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 624,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-11-07T09:14:12.131Z",
     "dsstore": {
       "ok": true,
@@ -1219,43 +1245,6 @@
       "untranslated": false,
       "ratio": 0,
       "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-11-06T09:44:11.371Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 5440,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1009,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 676,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.044220870379036034,
-      "koArticles": {
-        "80752": {
-          "since": "2026-11-06T09:14:11.041Z",
-          "alerted": false,
-          "title": "[사이언스게시판] 재료연, 차세대 장갑차 핵심 부품 국산화 나서 外"
-        },
-        "80753": {
-          "since": "2026-11-06T09:44:11.297Z",
-          "alerted": false,
-          "title": "[과기원NOW] KAIST 장경인 교수, 유럽 대형 연구지원 프로그램 선정 外"
-        }
-      }
     }
   }
 ]
