@@ -12,7 +12,10 @@ const SERVICES = [
     key: 'dsstore',
     name: 'DS스토어',
     url: 'https://dsstore.dongascience.com/main',
-    waitUntil: 'load',
+    // 'load'는 GA4 광고 전환 핑(ccm/collect 등)이 러너 IP에서 매달리면 영영 안 끝난다
+    // (2026-11-07 풀점검 오탐으로 실측 — ds-monitor 7곳과 함께 수정). 실질 판정은
+    // 아래 readyFn(상품 링크)과 이미지 체크(자체 8초 대기)가 하므로 보수성은 그대로.
+    waitUntil: 'domcontentloaded',
     readyFn: () => document.querySelectorAll('a[href*="/product/"]').length > 0,
     readyArg: undefined,
     readyTimeout: 8000,
