@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-11-07T01:14:13.657Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 5650,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1034,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 771,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-11-07T00:44:08.671Z",
     "dsstore": {
       "ok": true,
@@ -1221,32 +1247,6 @@
           "title": "역대 가장 강한 엘니뇨 전망…韓 11~12월 기온·강수량↑"
         }
       }
-    }
-  },
-  {
-    "ts": "2026-11-06T01:14:15.295Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 4533,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1034,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 813,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
     }
   }
 ]
