@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-11-07T01:44:20.011Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 5462,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 909,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 974,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-11-07T01:14:13.657Z",
     "dsstore": {
       "ok": true,
@@ -1210,43 +1236,6 @@
       "untranslated": false,
       "ratio": 0,
       "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-11-06T01:44:15.492Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 6074,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1931,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 831,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.05936705936705937,
-      "koArticles": {
-        "80739": {
-          "since": "2026-11-06T01:44:15.415Z",
-          "alerted": false,
-          "title": "韓 자율탐사 로봇 국제대회 우승…스스로 경로 판단·자료 수집"
-        },
-        "80740": {
-          "since": "2026-11-06T01:44:15.415Z",
-          "alerted": false,
-          "title": "역대 가장 강한 엘니뇨 전망…韓 11~12월 기온·강수량↑"
-        }
-      }
     }
   }
 ]
