@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-11-07T09:14:12.131Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 1551,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1371,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 767,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-11-07T08:44:09.281Z",
     "dsstore": {
       "ok": true,
@@ -1230,64 +1256,6 @@
           "title": "[과기원NOW] KAIST 장경인 교수, 유럽 대형 연구지원 프로그램 선정 外"
         }
       }
-    }
-  },
-  {
-    "ts": "2026-11-06T09:14:11.125Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 6301,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1096,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 780,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.044220870379036034,
-      "koArticles": {
-        "80752": {
-          "since": "2026-11-06T09:14:11.041Z",
-          "alerted": false,
-          "title": "[사이언스게시판] 재료연, 차세대 장갑차 핵심 부품 국산화 나서 外"
-        }
-      }
-    }
-  },
-  {
-    "ts": "2026-11-06T08:44:16.887Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 4655,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 897,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 812,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
     }
   }
 ]
