@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-11-08T03:14:05.834Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 1764,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1166,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 644,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.030032266070985355,
+      "koArticles": {
+        "80761": {
+          "since": "2026-11-08T03:14:05.771Z",
+          "alerted": false,
+          "title": "서울 첫눈 8일 관측…\"지난해보다 26일 빨라\""
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-11-08T02:44:11.691Z",
     "dsstore": {
       "ok": true,
