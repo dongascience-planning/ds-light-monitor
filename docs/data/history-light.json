@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-11-08T22:44:09.303Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 1452,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1025,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 822,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.03169453456451211,
+      "koArticles": {
+        "80516": {
+          "since": "2026-11-08T21:44:09.307Z",
+          "alerted": false,
+          "title": "[혼돈의 출연연] PBS 폐지로 부처 간 사각지대서 '길 잃은' 출연연"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-11-08T22:14:07.870Z",
     "dsstore": {
       "ok": true,
@@ -1243,32 +1275,6 @@
           "title": "전국 곳곳서 갈색으로 변한 소나무…소나무재선충 '3차 대발생'"
         }
       }
-    }
-  },
-  {
-    "ts": "2026-11-07T22:44:10.618Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 1471,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1148,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 718,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
     }
   }
 ]
