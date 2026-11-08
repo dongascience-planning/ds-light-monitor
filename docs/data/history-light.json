@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-11-08T21:44:09.378Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 1395,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 905,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 842,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.0315136476426799,
+      "koArticles": {
+        "80516": {
+          "since": "2026-11-08T21:44:09.307Z",
+          "alerted": false,
+          "title": "[혼돈의 출연연] PBS 폐지로 부처 간 사각지대서 '길 잃은' 출연연"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-11-08T21:14:09.173Z",
     "dsstore": {
       "ok": true,
@@ -1224,32 +1256,6 @@
     "dl": {
       "ok": true,
       "elapsed": 775,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-11-07T21:44:09.049Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 1545,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 955,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 723,
       "slow": false,
       "imgBroken": false
     },
