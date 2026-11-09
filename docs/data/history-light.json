@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-11-09T08:14:06.477Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 1723,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 878,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 548,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.02480655439235321,
+      "koArticles": {
+        "80781": {
+          "since": "2026-11-09T06:44:09.961Z",
+          "alerted": false,
+          "title": "이건희 소아암·희귀질환 극복사업 5년, 3만7000명 진단·치료 혜택"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-11-09T07:44:09.360Z",
     "dsstore": {
       "ok": true,
