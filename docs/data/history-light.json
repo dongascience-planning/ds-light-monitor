@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-11-09T16:44:22.153Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 1318,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 921,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 710,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.025293987131129354,
+      "koArticles": {
+        "80789": {
+          "since": "2026-11-09T09:44:07.768Z",
+          "alerted": true,
+          "title": "[과기원NOW] UNIST, 기계적 강도·절연 성능 높인 고분자 유전체 개발 外"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-11-09T16:14:09.373Z",
     "dsstore": {
       "ok": true,
@@ -1411,32 +1443,6 @@
     "dl": {
       "ok": true,
       "elapsed": 686,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-11-08T16:44:07.636Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 1315,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1119,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 693,
       "slow": false,
       "imgBroken": false
     },
