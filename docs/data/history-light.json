@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-11-09T07:44:09.360Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 1573,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 972,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 552,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.02480655439235321,
+      "koArticles": {
+        "80781": {
+          "since": "2026-11-09T06:44:09.961Z",
+          "alerted": false,
+          "title": "이건희 소아암·희귀질환 극복사업 5년, 3만7000명 진단·치료 혜택"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-11-09T07:14:15.475Z",
     "dsstore": {
       "ok": true,
@@ -1293,32 +1325,6 @@
     "dl": {
       "ok": true,
       "elapsed": 734,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-11-08T07:44:09.266Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 1321,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1031,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 830,
       "slow": false,
       "imgBroken": false
     },
