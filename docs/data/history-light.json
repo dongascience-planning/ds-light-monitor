@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-11-09T06:14:05.137Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 1553,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1016,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 736,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.02614079339601009,
+      "koArticles": {
+        "80779": {
+          "since": "2026-11-09T06:14:05.071Z",
+          "alerted": false,
+          "title": "황우석 전 교수, UAE 국적 취득…한국 국적 상실"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-11-09T05:45:00.740Z",
     "dsstore": {
       "ok": true,
