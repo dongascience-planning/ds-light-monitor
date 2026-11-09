@@ -1,5 +1,47 @@
 [
   {
+    "ts": "2026-11-09T09:44:07.839Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 1226,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 967,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 769,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.08172725054891437,
+      "koArticles": {
+        "80781": {
+          "since": "2026-11-09T06:44:09.961Z",
+          "alerted": true,
+          "title": "이건희 소아암·희귀질환 극복사업 5년, 3만7000명 진단·치료 혜택"
+        },
+        "80788": {
+          "since": "2026-11-09T09:44:07.768Z",
+          "alerted": false,
+          "title": "[사이언스게시판] 기상청, '제1회 기상·기후 AI 파운데이션 모델 국제 워크숍' 개최 外"
+        },
+        "80789": {
+          "since": "2026-11-09T09:44:07.768Z",
+          "alerted": false,
+          "title": "[과기원NOW] UNIST, 기계적 강도·절연 성능 높인 고분자 유전체 개발 外"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-11-09T09:14:07.597Z",
     "dsstore": {
       "ok": true,
@@ -1317,58 +1359,6 @@
     "dl": {
       "ok": true,
       "elapsed": 694,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-11-08T09:44:05.876Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 1252,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1023,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 674,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-11-08T09:14:09.463Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 1507,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 968,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 535,
       "slow": false,
       "imgBroken": false
     },
