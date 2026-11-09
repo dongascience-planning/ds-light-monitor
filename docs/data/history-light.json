@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-11-09T23:44:06.636Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 1401,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 974,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 706,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-11-09T23:14:11.952Z",
     "dsstore": {
       "ok": true,
@@ -1404,38 +1430,6 @@
           "since": "2026-11-08T23:44:09.501Z",
           "alerted": false,
           "title": "인간이 만든 소음, 야생동물 사망률 138% 증가"
-        }
-      }
-    }
-  },
-  {
-    "ts": "2026-11-08T23:14:17.885Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 1517,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 925,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 670,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.03169453456451211,
-      "koArticles": {
-        "80516": {
-          "since": "2026-11-08T21:44:09.307Z",
-          "alerted": false,
-          "title": "[혼돈의 출연연] PBS 폐지로 부처 간 사각지대서 '길 잃은' 출연연"
         }
       }
     }
