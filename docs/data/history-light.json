@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-11-09T05:45:00.740Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 1097,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 989,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 695,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.02715765247410817,
+      "koArticles": {
+        "80777": {
+          "since": "2026-11-09T05:45:00.679Z",
+          "alerted": false,
+          "title": "3D프린팅 금속 강도 최대 2배 높이는 열쇠 찾았다"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-11-09T05:14:09.739Z",
     "dsstore": {
       "ok": true,
@@ -1264,32 +1296,6 @@
     "dl": {
       "ok": true,
       "elapsed": 991,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-11-08T05:44:05.636Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 1523,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 885,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 659,
       "slow": false,
       "imgBroken": false
     },
