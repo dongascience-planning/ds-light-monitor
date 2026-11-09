@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-11-09T05:14:09.739Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 1073,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 846,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 651,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.024459078080903106,
+      "koArticles": {
+        "80775": {
+          "since": "2026-11-09T05:14:09.674Z",
+          "alerted": false,
+          "title": "NASA, 달·화성 우주비행사 모집…원자력 달 탐사로버 2028년 발사"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-11-09T04:44:05.931Z",
     "dsstore": {
       "ok": true,
@@ -1258,58 +1290,6 @@
     "dl": {
       "ok": true,
       "elapsed": 659,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-11-08T05:14:06.348Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 1577,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1105,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 749,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-11-08T04:44:08.437Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 1467,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1010,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 714,
       "slow": false,
       "imgBroken": false
     },
