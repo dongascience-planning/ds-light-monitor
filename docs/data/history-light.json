@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-11-10T04:44:10.086Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 1367,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 910,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 782,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.027550782162035957,
+      "koArticles": {
+        "80798": {
+          "since": "2026-11-10T04:44:10.016Z",
+          "alerted": false,
+          "title": "병원 내 흉기 왜 못 막았나…\"법 강화에도 '사후대응'에 그쳐\""
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-11-10T04:14:11.552Z",
     "dsstore": {
       "ok": true,
@@ -1364,32 +1396,6 @@
           "title": "NASA, 달·화성 우주비행사 모집…원자력 달 탐사로버 2028년 발사"
         }
       }
-    }
-  },
-  {
-    "ts": "2026-11-09T04:44:05.931Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 1616,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 915,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 616,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
     }
   }
 ]
