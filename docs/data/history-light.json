@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-11-10T06:14:09.321Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 1812,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1081,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 753,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-11-10T05:44:13.120Z",
     "dsstore": {
       "ok": true,
@@ -1362,70 +1388,6 @@
           "since": "2026-11-09T06:44:09.961Z",
           "alerted": false,
           "title": "이건희 소아암·희귀질환 극복사업 5년, 3만7000명 진단·치료 혜택"
-        }
-      }
-    }
-  },
-  {
-    "ts": "2026-11-09T06:14:05.137Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 1553,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1016,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 736,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.02614079339601009,
-      "koArticles": {
-        "80779": {
-          "since": "2026-11-09T06:14:05.071Z",
-          "alerted": false,
-          "title": "황우석 전 교수, UAE 국적 취득…한국 국적 상실"
-        }
-      }
-    }
-  },
-  {
-    "ts": "2026-11-09T05:45:00.740Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 1097,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 989,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 695,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.02715765247410817,
-      "koArticles": {
-        "80777": {
-          "since": "2026-11-09T05:45:00.679Z",
-          "alerted": false,
-          "title": "3D프린팅 금속 강도 최대 2배 높이는 열쇠 찾았다"
         }
       }
     }
