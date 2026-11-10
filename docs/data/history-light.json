@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-11-10T02:44:07.328Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 1266,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1024,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 706,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.05980916918780545,
+      "koArticles": {
+        "80795": {
+          "since": "2026-11-10T02:44:07.276Z",
+          "alerted": false,
+          "title": "평균기온 3.4℃ 오른 미래 미리 본다…산림 테스트베드 구축"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-11-10T02:14:06.557Z",
     "dsstore": {
       "ok": true,
@@ -1369,32 +1401,6 @@
           "title": "리튬금속배터리 '이온 고속도로'…100회 충방전에도 용량 94% 유지"
         }
       }
-    }
-  },
-  {
-    "ts": "2026-11-09T02:44:08.176Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 1543,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1025,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 858,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
     }
   }
 ]
