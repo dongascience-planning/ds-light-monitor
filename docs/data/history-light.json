@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-11-10T03:14:09.115Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 1511,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1097,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 914,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-11-10T02:44:07.328Z",
     "dsstore": {
       "ok": true,
@@ -1364,43 +1390,6 @@
       "untranslated": false,
       "ratio": 0,
       "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-11-09T03:14:08.056Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 1290,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1098,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 783,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.09471585244267199,
-      "koArticles": {
-        "80771": {
-          "since": "2026-11-09T03:14:07.971Z",
-          "alerted": false,
-          "title": "폐플라스틱 재활용 걸림돌, AI로 밝혀냈다"
-        },
-        "80773": {
-          "since": "2026-11-09T03:14:07.971Z",
-          "alerted": false,
-          "title": "리튬금속배터리 '이온 고속도로'…100회 충방전에도 용량 94% 유지"
-        }
-      }
     }
   }
 ]
