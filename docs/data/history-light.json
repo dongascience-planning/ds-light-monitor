@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-11-10T05:14:09.329Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 1402,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 898,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 552,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.030532598714416895,
+      "koArticles": {
+        "80800": {
+          "since": "2026-11-10T05:14:09.256Z",
+          "alerted": false,
+          "title": "성가신 폴더블폰 화면 반사, 엿보기 막는 기술로 탈바꿈"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-11-10T04:44:10.086Z",
     "dsstore": {
       "ok": true,
@@ -1362,38 +1394,6 @@
           "since": "2026-11-09T05:45:00.679Z",
           "alerted": false,
           "title": "3D프린팅 금속 강도 최대 2배 높이는 열쇠 찾았다"
-        }
-      }
-    }
-  },
-  {
-    "ts": "2026-11-09T05:14:09.739Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 1073,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 846,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 651,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.024459078080903106,
-      "koArticles": {
-        "80775": {
-          "since": "2026-11-09T05:14:09.674Z",
-          "alerted": false,
-          "title": "NASA, 달·화성 우주비행사 모집…원자력 달 탐사로버 2028년 발사"
         }
       }
     }
