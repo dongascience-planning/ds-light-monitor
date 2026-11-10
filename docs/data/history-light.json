@@ -1,5 +1,47 @@
 [
   {
+    "ts": "2026-11-10T08:14:06.942Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 1677,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 997,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 704,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.08427495291902072,
+      "koArticles": {
+        "80803": {
+          "since": "2026-11-10T08:14:06.901Z",
+          "alerted": false,
+          "title": "GLP-1 비만치료제 안전성 우려…\"희귀 안질환·태아 산소 수치 감소 위험\""
+        },
+        "80807": {
+          "since": "2026-11-10T08:14:06.901Z",
+          "alerted": false,
+          "title": "[사이언스게시판] 과기정통부, 'K-문샷 정책 세미나' 개최 外"
+        },
+        "80808": {
+          "since": "2026-11-10T08:14:06.901Z",
+          "alerted": false,
+          "title": "[과기원NOW] KAIST, 플라스틱 분해 성패 가른 미생물 발견 外"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-11-10T07:44:07.956Z",
     "dsstore": {
       "ok": true,
@@ -1322,70 +1364,6 @@
     "dl": {
       "ok": true,
       "elapsed": 796,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.02480655439235321,
-      "koArticles": {
-        "80781": {
-          "since": "2026-11-09T06:44:09.961Z",
-          "alerted": false,
-          "title": "이건희 소아암·희귀질환 극복사업 5년, 3만7000명 진단·치료 혜택"
-        }
-      }
-    }
-  },
-  {
-    "ts": "2026-11-09T08:14:06.477Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 1723,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 878,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 548,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.02480655439235321,
-      "koArticles": {
-        "80781": {
-          "since": "2026-11-09T06:44:09.961Z",
-          "alerted": false,
-          "title": "이건희 소아암·희귀질환 극복사업 5년, 3만7000명 진단·치료 혜택"
-        }
-      }
-    }
-  },
-  {
-    "ts": "2026-11-09T07:44:09.360Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 1573,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 972,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 552,
       "slow": false,
       "imgBroken": false
     },
