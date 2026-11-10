@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-11-10T07:44:07.956Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 1447,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1166,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 851,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-11-10T07:14:10.114Z",
     "dsstore": {
       "ok": true,
@@ -1371,43 +1397,6 @@
           "since": "2026-11-09T06:44:09.961Z",
           "alerted": false,
           "title": "이건희 소아암·희귀질환 극복사업 5년, 3만7000명 진단·치료 혜택"
-        }
-      }
-    }
-  },
-  {
-    "ts": "2026-11-09T07:14:15.475Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 1573,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1027,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 730,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.055119926199261995,
-      "koArticles": {
-        "80781": {
-          "since": "2026-11-09T06:44:09.961Z",
-          "alerted": false,
-          "title": "이건희 소아암·희귀질환 극복사업 5년, 3만7000명 진단·치료 혜택"
-        },
-        "80783": {
-          "since": "2026-11-09T07:14:15.395Z",
-          "alerted": false,
-          "title": "냉장고 해킹에 커지는 우려…\"AI발 사이버 공격·사회 혼란 대비해야\""
         }
       }
     }
