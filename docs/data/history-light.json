@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-11-10T15:44:09.402Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 1053,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 881,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 744,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-11-10T15:14:19.455Z",
     "dsstore": {
       "ok": true,
@@ -1238,70 +1264,6 @@
     "dl": {
       "ok": true,
       "elapsed": 811,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.025293987131129354,
-      "koArticles": {
-        "80789": {
-          "since": "2026-11-09T09:44:07.768Z",
-          "alerted": true,
-          "title": "[과기원NOW] UNIST, 기계적 강도·절연 성능 높인 고분자 유전체 개발 外"
-        }
-      }
-    }
-  },
-  {
-    "ts": "2026-11-09T15:44:08.223Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 1771,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1195,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 893,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.025293987131129354,
-      "koArticles": {
-        "80789": {
-          "since": "2026-11-09T09:44:07.768Z",
-          "alerted": true,
-          "title": "[과기원NOW] UNIST, 기계적 강도·절연 성능 높인 고분자 유전체 개발 外"
-        }
-      }
-    }
-  },
-  {
-    "ts": "2026-11-09T15:14:22.057Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 1481,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 866,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 703,
       "slow": false,
       "imgBroken": false
     },
