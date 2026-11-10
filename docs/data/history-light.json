@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-11-10T09:14:19.089Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 1342,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1019,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 669,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-11-10T08:44:07.129Z",
     "dsstore": {
       "ok": true,
@@ -1337,38 +1363,6 @@
           "since": "2026-11-09T09:44:07.768Z",
           "alerted": false,
           "title": "[과기원NOW] UNIST, 기계적 강도·절연 성능 높인 고분자 유전체 개발 外"
-        }
-      }
-    }
-  },
-  {
-    "ts": "2026-11-09T09:14:07.597Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 1587,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1214,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 764,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.024783992723965437,
-      "koArticles": {
-        "80781": {
-          "since": "2026-11-09T06:44:09.961Z",
-          "alerted": true,
-          "title": "이건희 소아암·희귀질환 극복사업 5년, 3만7000명 진단·치료 혜택"
         }
       }
     }
