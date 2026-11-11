@@ -1,5 +1,42 @@
 [
   {
+    "ts": "2026-11-11T23:14:08.136Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 1489,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1073,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 853,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.06454767726161369,
+      "koArticles": {
+        "80710": {
+          "since": "2026-11-11T21:14:02.098Z",
+          "alerted": true,
+          "title": "한국도 중성미자 관측소 구축할까…IBS 산하에 '국제협력센터' 가동"
+        },
+        "80837": {
+          "since": "2026-11-11T13:59:05.956Z",
+          "alerted": true,
+          "title": "[사이언스게시판] 과기정통부, '2026 바이오미래포럼' 개최…바이오 정책 아젠다 발굴 外"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-11-11T22:44:09.547Z",
     "dsstore": {
       "ok": true,
@@ -1277,58 +1314,6 @@
     "dl": {
       "ok": true,
       "elapsed": 796,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-11-10T23:14:06.234Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 1186,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 862,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 816,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-11-10T22:44:12.666Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 1348,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1160,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 591,
       "slow": false,
       "imgBroken": false
     },
