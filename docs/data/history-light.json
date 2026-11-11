@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-11-11T08:14:05.513Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 1171,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1096,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 646,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-11-11T07:44:07.695Z",
     "dsstore": {
       "ok": true,
@@ -1266,48 +1292,6 @@
       "untranslated": false,
       "ratio": 0,
       "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-11-10T08:14:06.942Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 1677,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 997,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 704,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.08427495291902072,
-      "koArticles": {
-        "80803": {
-          "since": "2026-11-10T08:14:06.901Z",
-          "alerted": false,
-          "title": "GLP-1 비만치료제 안전성 우려…\"희귀 안질환·태아 산소 수치 감소 위험\""
-        },
-        "80807": {
-          "since": "2026-11-10T08:14:06.901Z",
-          "alerted": false,
-          "title": "[사이언스게시판] 과기정통부, 'K-문샷 정책 세미나' 개최 外"
-        },
-        "80808": {
-          "since": "2026-11-10T08:14:06.901Z",
-          "alerted": false,
-          "title": "[과기원NOW] KAIST, 플라스틱 분해 성패 가른 미생물 발견 外"
-        }
-      }
     }
   }
 ]
