@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-11-11T02:14:11.887Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 1483,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1034,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 840,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.0319323784926039,
+      "koArticles": {
+        "80818": {
+          "since": "2026-11-11T02:14:11.830Z",
+          "alerted": false,
+          "title": "혈청 속 항체까지 잡아내는 차세대 나노바이오센서"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-11-11T01:44:06.946Z",
     "dsstore": {
       "ok": true,
@@ -1276,32 +1308,6 @@
           "title": "평균기온 3.4℃ 오른 미래 미리 본다…산림 테스트베드 구축"
         }
       }
-    }
-  },
-  {
-    "ts": "2026-11-10T02:14:06.557Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 1413,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 955,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 546,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
     }
   }
 ]
