@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-11-11T07:44:07.695Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 1326,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 920,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 775,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.02865261662325361,
+      "koArticles": {
+        "80829": {
+          "since": "2026-11-11T07:44:07.622Z",
+          "alerted": false,
+          "title": "송도에서 바이오 인재 꿈 펼쳐라… ‘2026 IFEZ 청소년 바이오 아카데미’ 개최"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-11-11T07:14:07.310Z",
     "dsstore": {
       "ok": true,
@@ -1276,58 +1308,6 @@
           "title": "[과기원NOW] KAIST, 플라스틱 분해 성패 가른 미생물 발견 外"
         }
       }
-    }
-  },
-  {
-    "ts": "2026-11-10T07:44:07.956Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 1447,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1166,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 851,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-11-10T07:14:10.114Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 1329,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 973,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 795,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
     }
   }
 ]
