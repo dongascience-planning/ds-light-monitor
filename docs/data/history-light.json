@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-11-11T05:44:06.137Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 1727,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1040,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 803,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.02783829581215202,
+      "koArticles": {
+        "80823": {
+          "since": "2026-11-11T05:14:08.139Z",
+          "alerted": false,
+          "title": "\"나이는 무적…난임 치료, 하루라도 빨리 시작해야\""
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-11-11T05:14:08.209Z",
     "dsstore": {
       "ok": true,
