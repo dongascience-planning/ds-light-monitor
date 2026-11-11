@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-11-11T06:14:05.171Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 1591,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 952,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 708,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-11-11T05:44:06.137Z",
     "dsstore": {
       "ok": true,
@@ -1302,38 +1328,6 @@
       "untranslated": false,
       "ratio": 0,
       "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-11-10T05:44:13.120Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 1786,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 6715,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 955,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.028432732316227463,
-      "koArticles": {
-        "80801": {
-          "since": "2026-11-10T05:44:13.013Z",
-          "alerted": false,
-          "title": "심장성 쇼크, 병원 멀면 사망률 '껑충'…지역 이송 체계 시급"
-        }
-      }
     }
   }
 ]
