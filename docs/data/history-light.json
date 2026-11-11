@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-11-11T04:44:10.417Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 1344,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1024,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 817,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-11-11T04:14:06.991Z",
     "dsstore": {
       "ok": true,
@@ -1276,64 +1302,6 @@
           "title": "성가신 폴더블폰 화면 반사, 엿보기 막는 기술로 탈바꿈"
         }
       }
-    }
-  },
-  {
-    "ts": "2026-11-10T04:44:10.086Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 1367,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 910,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 782,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.027550782162035957,
-      "koArticles": {
-        "80798": {
-          "since": "2026-11-10T04:44:10.016Z",
-          "alerted": false,
-          "title": "병원 내 흉기 왜 못 막았나…\"법 강화에도 '사후대응'에 그쳐\""
-        }
-      }
-    }
-  },
-  {
-    "ts": "2026-11-10T04:14:11.552Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 1347,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 882,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 655,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
     }
   }
 ]
