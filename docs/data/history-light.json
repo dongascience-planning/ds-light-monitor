@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-11-11T23:44:10.288Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 1472,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1053,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 789,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.031363088057901084,
+      "koArticles": {
+        "80710": {
+          "since": "2026-11-11T21:14:02.098Z",
+          "alerted": true,
+          "title": "한국도 중성미자 관측소 구축할까…IBS 산하에 '국제협력센터' 가동"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-11-11T23:14:08.136Z",
     "dsstore": {
       "ok": true,
@@ -1295,32 +1327,6 @@
           "title": "하루 1번 먹는 비만약, 수면무호흡증 최대 44% 줄여"
         }
       }
-    }
-  },
-  {
-    "ts": "2026-11-10T23:44:07.639Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 1436,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1068,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 796,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
     }
   }
 ]
