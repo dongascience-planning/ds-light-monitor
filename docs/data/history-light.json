@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-11-11T05:14:08.209Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 1571,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 940,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 579,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.02783829581215202,
+      "koArticles": {
+        "80823": {
+          "since": "2026-11-11T05:14:08.139Z",
+          "alerted": false,
+          "title": "\"나이는 무적…난임 치료, 하루라도 빨리 시작해야\""
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-11-11T04:44:10.417Z",
     "dsstore": {
       "ok": true,
@@ -1268,38 +1300,6 @@
           "since": "2026-11-10T05:44:13.013Z",
           "alerted": false,
           "title": "심장성 쇼크, 병원 멀면 사망률 '껑충'…지역 이송 체계 시급"
-        }
-      }
-    }
-  },
-  {
-    "ts": "2026-11-10T05:14:09.329Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 1402,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 898,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 552,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.030532598714416895,
-      "koArticles": {
-        "80800": {
-          "since": "2026-11-10T05:14:09.256Z",
-          "alerted": false,
-          "title": "성가신 폴더블폰 화면 반사, 엿보기 막는 기술로 탈바꿈"
         }
       }
     }
