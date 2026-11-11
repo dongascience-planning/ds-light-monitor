@@ -1,5 +1,42 @@
 [
   {
+    "ts": "2026-11-11T01:44:06.946Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 1314,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 835,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 822,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.053794428434197884,
+      "koArticles": {
+        "80816": {
+          "since": "2026-11-11T01:44:06.870Z",
+          "alerted": false,
+          "title": "UNIST, '라이덴랭킹' 논문 인용 성과 10년 연속 국내 1위"
+        },
+        "80817": {
+          "since": "2026-11-11T01:44:06.870Z",
+          "alerted": false,
+          "title": "워커린스페이스, 세종에 우주센터 착공…위성 수명연장 로봇 개발 본격화"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-11-11T01:14:11.389Z",
     "dsstore": {
       "ok": true,
@@ -1258,58 +1295,6 @@
     "dl": {
       "ok": true,
       "elapsed": 546,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-11-10T01:44:06.674Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 1284,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1257,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 743,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-11-10T01:14:18.858Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 1154,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 994,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 801,
       "slow": false,
       "imgBroken": false
     },
