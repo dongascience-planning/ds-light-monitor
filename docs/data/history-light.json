@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-11-11T02:44:10.767Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 1481,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 920,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 883,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.028864059590316574,
+      "koArticles": {
+        "80820": {
+          "since": "2026-11-11T02:44:10.681Z",
+          "alerted": false,
+          "title": "英 물리학회 '노벨상 컬렉션' 첫 논문 韓 연구진이 주도"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-11-11T02:14:11.887Z",
     "dsstore": {
       "ok": true,
@@ -1276,38 +1308,6 @@
       "untranslated": false,
       "ratio": 0,
       "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-11-10T02:44:07.328Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 1266,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1024,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 706,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.05980916918780545,
-      "koArticles": {
-        "80795": {
-          "since": "2026-11-10T02:44:07.276Z",
-          "alerted": false,
-          "title": "평균기온 3.4℃ 오른 미래 미리 본다…산림 테스트베드 구축"
-        }
-      }
     }
   }
 ]
