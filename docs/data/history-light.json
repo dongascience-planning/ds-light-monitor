@@ -1,5 +1,42 @@
 [
   {
+    "ts": "2026-11-12T08:14:07.713Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 1489,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1127,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 630,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.05261921540991309,
+      "koArticles": {
+        "80853": {
+          "since": "2026-11-12T08:14:07.608Z",
+          "alerted": false,
+          "title": "\"美 제네시스 미션은 '뉴 맨해튼 프로젝트'…AI 에이전트 수십개가 협업\""
+        },
+        "80855": {
+          "since": "2026-11-12T08:14:07.608Z",
+          "alerted": false,
+          "title": "출연연 연구자 90% AI 쓰지만 과학 특화 활용은 3.9%"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-11-12T07:44:07.056Z",
     "dsstore": {
       "ok": true,
@@ -1467,32 +1504,6 @@
     "dl": {
       "ok": true,
       "elapsed": 819,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-11-11T08:14:05.513Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 1171,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1096,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 646,
       "slow": false,
       "imgBroken": false
     },
