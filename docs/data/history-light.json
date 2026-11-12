@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-11-12T00:44:08.149Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 1428,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 905,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 712,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.030908226343319068,
+      "koArticles": {
+        "80710": {
+          "since": "2026-11-11T21:14:02.098Z",
+          "alerted": true,
+          "title": "한국도 중성미자 관측소 구축할까…IBS 산하에 '국제협력센터' 가동"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-11-12T00:14:09.062Z",
     "dsstore": {
       "ok": true,
