@@ -1,5 +1,47 @@
 [
   {
+    "ts": "2026-11-12T07:14:15.758Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 1450,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1177,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 716,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.0890165111270639,
+      "koArticles": {
+        "80710": {
+          "since": "2026-11-11T21:14:02.098Z",
+          "alerted": true,
+          "title": "한국도 중성미자 관측소 구축할까…IBS 산하에 '국제협력센터' 가동"
+        },
+        "80842": {
+          "since": "2026-11-12T01:44:18.267Z",
+          "alerted": true,
+          "title": "ETRI 부설 국가보안기술연구소장에 임정석"
+        },
+        "80845": {
+          "since": "2026-11-12T02:44:07.606Z",
+          "alerted": true,
+          "title": "페로브스카이트도 피로회복?…타우린 적용하자 태양전지 수명 5배 ↑"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-11-12T06:44:17.649Z",
     "dsstore": {
       "ok": true,
@@ -1464,32 +1506,6 @@
           "title": "송도에서 바이오 인재 꿈 펼쳐라… ‘2026 IFEZ 청소년 바이오 아카데미’ 개최"
         }
       }
-    }
-  },
-  {
-    "ts": "2026-11-11T07:14:07.310Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 1714,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1102,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1119,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.030054644808743168,
-      "koArticles": {}
     }
   }
 ]
