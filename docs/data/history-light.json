@@ -1,5 +1,42 @@
 [
   {
+    "ts": "2026-11-12T02:14:09.994Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 1297,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 821,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 718,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.05830765584261673,
+      "koArticles": {
+        "80710": {
+          "since": "2026-11-11T21:14:02.098Z",
+          "alerted": true,
+          "title": "한국도 중성미자 관측소 구축할까…IBS 산하에 '국제협력센터' 가동"
+        },
+        "80842": {
+          "since": "2026-11-12T01:44:18.267Z",
+          "alerted": false,
+          "title": "ETRI 부설 국가보안기술연구소장에 임정석"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-11-12T01:44:18.351Z",
     "dsstore": {
       "ok": true,
@@ -1305,38 +1342,6 @@
           "since": "2026-11-11T02:44:10.681Z",
           "alerted": false,
           "title": "英 물리학회 '노벨상 컬렉션' 첫 논문 韓 연구진이 주도"
-        }
-      }
-    }
-  },
-  {
-    "ts": "2026-11-11T02:14:11.887Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 1483,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1034,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 840,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.0319323784926039,
-      "koArticles": {
-        "80818": {
-          "since": "2026-11-11T02:14:11.830Z",
-          "alerted": false,
-          "title": "혈청 속 항체까지 잡아내는 차세대 나노바이오센서"
         }
       }
     }
