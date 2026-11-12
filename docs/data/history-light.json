@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-11-12T21:14:09.940Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 1177,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 905,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 771,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-11-12T20:44:11.510Z",
     "dsstore": {
       "ok": true,
@@ -1524,43 +1550,6 @@
     "dotcomEn": {
       "untranslated": false,
       "ratio": 0.06454767726161369,
-      "koArticles": {
-        "80710": {
-          "since": "2026-11-11T21:14:02.098Z",
-          "alerted": false,
-          "title": "한국도 중성미자 관측소 구축할까…IBS 산하에 '국제협력센터' 가동"
-        },
-        "80837": {
-          "since": "2026-11-11T13:59:05.956Z",
-          "alerted": true,
-          "title": "[사이언스게시판] 과기정통부, '2026 바이오미래포럼' 개최…바이오 정책 아젠다 발굴 外"
-        }
-      }
-    }
-  },
-  {
-    "ts": "2026-11-11T21:14:02.141Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 1441,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1085,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1053,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.06350733702189079,
       "koArticles": {
         "80710": {
           "since": "2026-11-11T21:14:02.098Z",
