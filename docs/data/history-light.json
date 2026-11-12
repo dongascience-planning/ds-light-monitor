@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-11-12T19:44:07.747Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 1292,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 988,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 732,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-11-12T19:14:29.736Z",
     "dsstore": {
       "ok": true,
@@ -1514,38 +1540,6 @@
     "dl": {
       "ok": true,
       "elapsed": 661,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.0319123600857347,
-      "koArticles": {
-        "80837": {
-          "since": "2026-11-11T13:59:05.956Z",
-          "alerted": true,
-          "title": "[사이언스게시판] 과기정통부, '2026 바이오미래포럼' 개최…바이오 정책 아젠다 발굴 外"
-        }
-      }
-    }
-  },
-  {
-    "ts": "2026-11-11T19:44:05.955Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 1613,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1068,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 810,
       "slow": false,
       "imgBroken": false
     },
