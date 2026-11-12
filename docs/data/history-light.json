@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-11-12T07:44:07.056Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 1299,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1984,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 589,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-11-12T07:14:15.758Z",
     "dsstore": {
       "ok": true,
@@ -1474,38 +1500,6 @@
       "untranslated": false,
       "ratio": 0,
       "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-11-11T07:44:07.695Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 1326,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 920,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 775,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.02865261662325361,
-      "koArticles": {
-        "80829": {
-          "since": "2026-11-11T07:44:07.622Z",
-          "alerted": false,
-          "title": "송도에서 바이오 인재 꿈 펼쳐라… ‘2026 IFEZ 청소년 바이오 아카데미’ 개최"
-        }
-      }
     }
   }
 ]
