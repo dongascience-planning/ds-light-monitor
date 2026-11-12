@@ -1,5 +1,42 @@
 [
   {
+    "ts": "2026-11-12T08:44:09.503Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 1079,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 950,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 717,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.05361682458978507,
+      "koArticles": {
+        "80853": {
+          "since": "2026-11-12T08:14:07.608Z",
+          "alerted": false,
+          "title": "\"美 제네시스 미션은 '뉴 맨해튼 프로젝트'…AI 에이전트 수십개가 협업\""
+        },
+        "80859": {
+          "since": "2026-11-12T08:44:09.432Z",
+          "alerted": false,
+          "title": "[사이언스게시판] NST, '2026년도 출연연 박사후연구원 연수성과 교류회' 개최 外"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-11-12T08:14:07.713Z",
     "dsstore": {
       "ok": true,
@@ -1478,32 +1515,6 @@
     "dl": {
       "ok": true,
       "elapsed": 798,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-11-11T08:44:08.849Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 1891,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1391,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 819,
       "slow": false,
       "imgBroken": false
     },
