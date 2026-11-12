@@ -1,5 +1,42 @@
 [
   {
+    "ts": "2026-11-12T01:44:18.351Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 1617,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1057,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 862,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.05823863636363636,
+      "koArticles": {
+        "80710": {
+          "since": "2026-11-11T21:14:02.098Z",
+          "alerted": true,
+          "title": "한국도 중성미자 관측소 구축할까…IBS 산하에 '국제협력센터' 가동"
+        },
+        "80842": {
+          "since": "2026-11-12T01:44:18.267Z",
+          "alerted": false,
+          "title": "ETRI 부설 국가보안기술연구소장에 임정석"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-11-12T01:14:05.426Z",
     "dsstore": {
       "ok": true,
@@ -1302,69 +1339,6 @@
           "title": "혈청 속 항체까지 잡아내는 차세대 나노바이오센서"
         }
       }
-    }
-  },
-  {
-    "ts": "2026-11-11T01:44:06.946Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 1314,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 835,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 822,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.053794428434197884,
-      "koArticles": {
-        "80816": {
-          "since": "2026-11-11T01:44:06.870Z",
-          "alerted": false,
-          "title": "UNIST, '라이덴랭킹' 논문 인용 성과 10년 연속 국내 1위"
-        },
-        "80817": {
-          "since": "2026-11-11T01:44:06.870Z",
-          "alerted": false,
-          "title": "워커린스페이스, 세종에 우주센터 착공…위성 수명연장 로봇 개발 본격화"
-        }
-      }
-    }
-  },
-  {
-    "ts": "2026-11-11T01:14:11.389Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 1077,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1820,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 795,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
     }
   }
 ]
