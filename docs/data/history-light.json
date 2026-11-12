@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-11-12T09:44:07.378Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 1612,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 978,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 593,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.027828467153284672,
+      "koArticles": {
+        "80859": {
+          "since": "2026-11-12T08:44:09.432Z",
+          "alerted": false,
+          "title": "[사이언스게시판] NST, '2026년도 출연연 박사후연구원 연수성과 교류회' 개최 外"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-11-12T09:14:07.479Z",
     "dsstore": {
       "ok": true,
@@ -1495,58 +1527,6 @@
     "dl": {
       "ok": true,
       "elapsed": 985,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-11-11T09:44:08.244Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 1145,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 831,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 553,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-11-11T09:14:15.497Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 1715,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 841,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 798,
       "slow": false,
       "imgBroken": false
     },
