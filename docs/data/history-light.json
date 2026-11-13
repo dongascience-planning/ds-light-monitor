@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-11-13T00:14:34.198Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 1598,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 978,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 880,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-11-12T23:39:39.204Z",
     "dsstore": {
       "ok": true,
@@ -1479,70 +1505,6 @@
     "dotcomEn": {
       "untranslated": false,
       "ratio": 0.030908226343319068,
-      "koArticles": {
-        "80710": {
-          "since": "2026-11-11T21:14:02.098Z",
-          "alerted": true,
-          "title": "한국도 중성미자 관측소 구축할까…IBS 산하에 '국제협력센터' 가동"
-        }
-      }
-    }
-  },
-  {
-    "ts": "2026-11-12T00:14:09.062Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 1445,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1162,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 789,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.031363088057901084,
-      "koArticles": {
-        "80710": {
-          "since": "2026-11-11T21:14:02.098Z",
-          "alerted": true,
-          "title": "한국도 중성미자 관측소 구축할까…IBS 산하에 '국제협력센터' 가동"
-        }
-      }
-    }
-  },
-  {
-    "ts": "2026-11-11T23:44:10.288Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 1472,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1053,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 789,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.031363088057901084,
       "koArticles": {
         "80710": {
           "since": "2026-11-11T21:14:02.098Z",
