@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-11-13T06:44:09.927Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 1414,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 871,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 876,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.025628856193640248,
+      "koArticles": {
+        "80873": {
+          "since": "2026-11-13T06:44:09.853Z",
+          "alerted": false,
+          "title": "인도 동부 히말라야서 '달팽이 먹는 개구리' 포함 신종 개구리 5종 발견"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-11-13T06:14:06.024Z",
     "dsstore": {
       "ok": true,
@@ -1337,48 +1369,6 @@
     "dl": {
       "ok": true,
       "elapsed": 809,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.08923003118253778,
-      "koArticles": {
-        "80710": {
-          "since": "2026-11-11T21:14:02.098Z",
-          "alerted": true,
-          "title": "한국도 중성미자 관측소 구축할까…IBS 산하에 '국제협력센터' 가동"
-        },
-        "80842": {
-          "since": "2026-11-12T01:44:18.267Z",
-          "alerted": true,
-          "title": "ETRI 부설 국가보안기술연구소장에 임정석"
-        },
-        "80845": {
-          "since": "2026-11-12T02:44:07.606Z",
-          "alerted": true,
-          "title": "페로브스카이트도 피로회복?…타우린 적용하자 태양전지 수명 5배 ↑"
-        }
-      }
-    }
-  },
-  {
-    "ts": "2026-11-12T06:14:08.454Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 1264,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 989,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 704,
       "slow": false,
       "imgBroken": false
     },
