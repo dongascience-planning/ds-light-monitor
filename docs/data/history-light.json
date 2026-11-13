@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-11-13T11:14:15.840Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 1297,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1011,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 717,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.026221692491060787,
+      "koArticles": {
+        "80874": {
+          "since": "2026-11-13T08:14:09.794Z",
+          "alerted": true,
+          "title": "[사이언스게시판] 우주항공청, 'NASA 달 기지 국제협력 워크숍' 개최 外"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-11-13T10:44:16.851Z",
     "dsstore": {
       "ok": true,
@@ -1292,38 +1324,6 @@
       "untranslated": false,
       "ratio": 0,
       "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-11-12T11:14:06.646Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 1772,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1030,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 676,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.027746190584489426,
-      "koArticles": {
-        "80859": {
-          "since": "2026-11-12T08:44:09.432Z",
-          "alerted": true,
-          "title": "[사이언스게시판] NST, '2026년도 출연연 박사후연구원 연수성과 교류회' 개최 外"
-        }
-      }
     }
   }
 ]
