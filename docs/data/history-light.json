@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-11-13T05:44:06.631Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 1269,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1041,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 744,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-11-13T05:14:12.797Z",
     "dsstore": {
       "ok": true,
@@ -1348,53 +1374,6 @@
           "since": "2026-11-12T02:44:07.606Z",
           "alerted": true,
           "title": "페로브스카이트도 피로회복?…타우린 적용하자 태양전지 수명 5배 ↑"
-        }
-      }
-    }
-  },
-  {
-    "ts": "2026-11-12T05:44:05.944Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 1235,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 930,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 553,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.11984659635666348,
-      "koArticles": {
-        "80710": {
-          "since": "2026-11-11T21:14:02.098Z",
-          "alerted": true,
-          "title": "한국도 중성미자 관측소 구축할까…IBS 산하에 '국제협력센터' 가동"
-        },
-        "80842": {
-          "since": "2026-11-12T01:44:18.267Z",
-          "alerted": true,
-          "title": "ETRI 부설 국가보안기술연구소장에 임정석"
-        },
-        "80845": {
-          "since": "2026-11-12T02:44:07.606Z",
-          "alerted": true,
-          "title": "페로브스카이트도 피로회복?…타우린 적용하자 태양전지 수명 5배 ↑"
-        },
-        "80851": {
-          "since": "2026-11-12T05:44:05.903Z",
-          "alerted": false,
-          "title": "석탄 캐던 정선 폐광에서 우주 미세중력 구현…스페이스린텍, '드롭타워' 기공식"
         }
       }
     }
