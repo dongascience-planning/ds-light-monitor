@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-11-13T08:14:09.845Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 1422,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1015,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 743,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.02665374363944754,
+      "koArticles": {
+        "80874": {
+          "since": "2026-11-13T08:14:09.794Z",
+          "alerted": false,
+          "title": "[사이언스게시판] 우주항공청, 'NASA 달 기지 국제협력 워크숍' 개최 外"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-11-13T07:44:08.207Z",
     "dsstore": {
       "ok": true,
@@ -1295,43 +1327,6 @@
           "since": "2026-11-12T08:44:09.432Z",
           "alerted": false,
           "title": "[사이언스게시판] NST, '2026년도 출연연 박사후연구원 연수성과 교류회' 개최 外"
-        }
-      }
-    }
-  },
-  {
-    "ts": "2026-11-12T08:14:07.713Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 1489,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1127,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 630,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.05261921540991309,
-      "koArticles": {
-        "80853": {
-          "since": "2026-11-12T08:14:07.608Z",
-          "alerted": false,
-          "title": "\"美 제네시스 미션은 '뉴 맨해튼 프로젝트'…AI 에이전트 수십개가 협업\""
-        },
-        "80855": {
-          "since": "2026-11-12T08:14:07.608Z",
-          "alerted": false,
-          "title": "출연연 연구자 90% AI 쓰지만 과학 특화 활용은 3.9%"
         }
       }
     }
