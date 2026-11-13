@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-11-13T07:44:08.207Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 1811,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 2301,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 915,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-11-13T07:14:16.174Z",
     "dsstore": {
       "ok": true,
@@ -1308,32 +1334,6 @@
           "title": "출연연 연구자 90% AI 쓰지만 과학 특화 활용은 3.9%"
         }
       }
-    }
-  },
-  {
-    "ts": "2026-11-12T07:44:07.056Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 1299,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1984,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 589,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
     }
   }
 ]
