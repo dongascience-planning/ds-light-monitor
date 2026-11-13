@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-11-13T02:44:07.613Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 1773,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1131,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 614,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.02950743494423792,
+      "koArticles": {
+        "80667": {
+          "since": "2026-11-13T01:14:06.985Z",
+          "alerted": false,
+          "title": "K문샷으로 존재감 높인 '뇌컴퓨터인터페이스'…\"기초·임상·공학 잇는 연결고리가 관건\""
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-11-13T02:14:16.800Z",
     "dsstore": {
       "ok": true,
@@ -1458,48 +1490,6 @@
           "since": "2026-11-12T03:14:05.348Z",
           "alerted": false,
           "title": "차갑게 하면 왜 통증 줄까…뇌 속 '진통 회로' 찾았다"
-        }
-      }
-    }
-  },
-  {
-    "ts": "2026-11-12T02:44:07.695Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 1362,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1020,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 756,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.09024745269286755,
-      "koArticles": {
-        "80710": {
-          "since": "2026-11-11T21:14:02.098Z",
-          "alerted": true,
-          "title": "한국도 중성미자 관측소 구축할까…IBS 산하에 '국제협력센터' 가동"
-        },
-        "80842": {
-          "since": "2026-11-12T01:44:18.267Z",
-          "alerted": false,
-          "title": "ETRI 부설 국가보안기술연구소장에 임정석"
-        },
-        "80845": {
-          "since": "2026-11-12T02:44:07.606Z",
-          "alerted": false,
-          "title": "페로브스카이트도 피로회복?…타우린 적용하자 태양전지 수명 5배 ↑"
         }
       }
     }
