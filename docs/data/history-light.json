@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-11-13T22:14:09.839Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 1583,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1003,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 697,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-11-13T21:44:27.079Z",
     "dsstore": {
       "ok": true,
@@ -1309,58 +1335,6 @@
           "title": "BMI 보완한 새 진단기준…비만 분류·사망위험 평가 개선"
         }
       }
-    }
-  },
-  {
-    "ts": "2026-11-12T22:14:09.036Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 1748,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1175,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 874,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-11-12T21:44:31.549Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 1981,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 953,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 809,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
     }
   }
 ]
