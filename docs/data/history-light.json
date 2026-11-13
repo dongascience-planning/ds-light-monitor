@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-11-13T02:14:16.800Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 1361,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 859,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 586,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.029075091575091576,
+      "koArticles": {
+        "80667": {
+          "since": "2026-11-13T01:14:06.985Z",
+          "alerted": false,
+          "title": "K문샷으로 존재감 높인 '뇌컴퓨터인터페이스'…\"기초·임상·공학 잇는 연결고리가 관건\""
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-11-13T01:44:12.496Z",
     "dsstore": {
       "ok": true,
@@ -1468,80 +1500,6 @@
           "since": "2026-11-12T02:44:07.606Z",
           "alerted": false,
           "title": "페로브스카이트도 피로회복?…타우린 적용하자 태양전지 수명 5배 ↑"
-        }
-      }
-    }
-  },
-  {
-    "ts": "2026-11-12T02:14:09.994Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 1297,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 821,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 718,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.05830765584261673,
-      "koArticles": {
-        "80710": {
-          "since": "2026-11-11T21:14:02.098Z",
-          "alerted": true,
-          "title": "한국도 중성미자 관측소 구축할까…IBS 산하에 '국제협력센터' 가동"
-        },
-        "80842": {
-          "since": "2026-11-12T01:44:18.267Z",
-          "alerted": false,
-          "title": "ETRI 부설 국가보안기술연구소장에 임정석"
-        }
-      }
-    }
-  },
-  {
-    "ts": "2026-11-12T01:44:18.351Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 1617,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1057,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 862,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.05823863636363636,
-      "koArticles": {
-        "80710": {
-          "since": "2026-11-11T21:14:02.098Z",
-          "alerted": true,
-          "title": "한국도 중성미자 관측소 구축할까…IBS 산하에 '국제협력센터' 가동"
-        },
-        "80842": {
-          "since": "2026-11-12T01:44:18.267Z",
-          "alerted": false,
-          "title": "ETRI 부설 국가보안기술연구소장에 임정석"
         }
       }
     }
