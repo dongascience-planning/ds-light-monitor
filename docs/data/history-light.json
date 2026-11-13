@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-11-13T22:44:11.176Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 1336,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 951,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 714,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-11-13T22:14:09.839Z",
     "dsstore": {
       "ok": true,
@@ -1303,38 +1329,6 @@
       "untranslated": false,
       "ratio": 0,
       "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-11-12T22:44:07.513Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 1625,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 989,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 711,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.029566811826724732,
-      "koArticles": {
-        "80809": {
-          "since": "2026-11-12T22:44:07.427Z",
-          "alerted": false,
-          "title": "BMI 보완한 새 진단기준…비만 분류·사망위험 평가 개선"
-        }
-      }
     }
   }
 ]
