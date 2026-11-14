@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-11-14T11:14:08.654Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 1664,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1278,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 926,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-11-14T10:44:06.377Z",
     "dsstore": {
       "ok": true,
@@ -1244,38 +1270,6 @@
     "dl": {
       "ok": true,
       "elapsed": 717,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.026221692491060787,
-      "koArticles": {
-        "80874": {
-          "since": "2026-11-13T08:14:09.794Z",
-          "alerted": true,
-          "title": "[사이언스게시판] 우주항공청, 'NASA 달 기지 국제협력 워크숍' 개최 外"
-        }
-      }
-    }
-  },
-  {
-    "ts": "2026-11-13T10:44:16.851Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 1529,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 920,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 721,
       "slow": false,
       "imgBroken": false
     },
