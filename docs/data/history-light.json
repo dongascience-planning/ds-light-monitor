@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-11-14T07:14:04.837Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 1428,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 875,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 762,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-11-14T06:44:05.399Z",
     "dsstore": {
       "ok": true,
@@ -1293,38 +1319,6 @@
       "untranslated": false,
       "ratio": 0,
       "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-11-13T06:44:09.927Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 1414,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 871,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 876,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.025628856193640248,
-      "koArticles": {
-        "80873": {
-          "since": "2026-11-13T06:44:09.853Z",
-          "alerted": false,
-          "title": "인도 동부 히말라야서 '달팽이 먹는 개구리' 포함 신종 개구리 5종 발견"
-        }
-      }
     }
   }
 ]
