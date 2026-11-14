@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-11-14T02:44:09.237Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 1376,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 972,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 621,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-11-14T02:14:06.387Z",
     "dsstore": {
       "ok": true,
@@ -1273,70 +1299,6 @@
       "untranslated": false,
       "ratio": 0,
       "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-11-13T02:44:07.613Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 1773,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1131,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 614,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.02950743494423792,
-      "koArticles": {
-        "80667": {
-          "since": "2026-11-13T01:14:06.985Z",
-          "alerted": false,
-          "title": "K문샷으로 존재감 높인 '뇌컴퓨터인터페이스'…\"기초·임상·공학 잇는 연결고리가 관건\""
-        }
-      }
-    }
-  },
-  {
-    "ts": "2026-11-13T02:14:16.800Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 1361,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 859,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 586,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.029075091575091576,
-      "koArticles": {
-        "80667": {
-          "since": "2026-11-13T01:14:06.985Z",
-          "alerted": false,
-          "title": "K문샷으로 존재감 높인 '뇌컴퓨터인터페이스'…\"기초·임상·공학 잇는 연결고리가 관건\""
-        }
-      }
     }
   }
 ]
