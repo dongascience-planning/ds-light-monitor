@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-11-14T06:14:04.874Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 1792,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 904,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 522,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-11-14T05:44:07.268Z",
     "dsstore": {
       "ok": true,
@@ -1273,32 +1299,6 @@
           "title": "인도 동부 히말라야서 '달팽이 먹는 개구리' 포함 신종 개구리 5종 발견"
         }
       }
-    }
-  },
-  {
-    "ts": "2026-11-13T06:14:06.024Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 1394,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1138,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 830,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
     }
   }
 ]
