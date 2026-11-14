@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-11-14T01:44:12.038Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 1845,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1247,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 822,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-11-14T01:14:12.107Z",
     "dsstore": {
       "ok": true,
@@ -1272,38 +1298,6 @@
     "dl": {
       "ok": true,
       "elapsed": 586,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.029075091575091576,
-      "koArticles": {
-        "80667": {
-          "since": "2026-11-13T01:14:06.985Z",
-          "alerted": false,
-          "title": "K문샷으로 존재감 높인 '뇌컴퓨터인터페이스'…\"기초·임상·공학 잇는 연결고리가 관건\""
-        }
-      }
-    }
-  },
-  {
-    "ts": "2026-11-13T01:44:12.496Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 1124,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 909,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 761,
       "slow": false,
       "imgBroken": false
     },
