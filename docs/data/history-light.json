@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-11-15T01:44:06.042Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 1601,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1125,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 605,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.05679819050012566,
+      "koArticles": {
+        "80881": {
+          "since": "2026-11-15T01:44:05.972Z",
+          "alerted": false,
+          "title": "가장 강력한 레이저 구현 남창희 GIST 명예교수, 국제학술상 수상"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-11-15T01:14:06.479Z",
     "dsstore": {
       "ok": true,
@@ -1244,32 +1276,6 @@
     "dl": {
       "ok": true,
       "elapsed": 822,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-11-14T01:14:12.107Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 1504,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1013,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 793,
       "slow": false,
       "imgBroken": false
     },
