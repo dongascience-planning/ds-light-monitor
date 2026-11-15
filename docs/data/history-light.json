@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-11-15T10:14:10.178Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 1474,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 939,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 865,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.03317295517852621,
+      "koArticles": {
+        "80884": {
+          "since": "2026-11-15T10:14:10.099Z",
+          "alerted": false,
+          "title": "목소리 넘어 감정·음계까지 복원한 '뇌컴퓨터인터페이스'"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-11-15T09:44:07.196Z",
     "dsstore": {
       "ok": true,
@@ -1224,58 +1256,6 @@
     "dl": {
       "ok": true,
       "elapsed": 907,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-11-14T10:14:07.315Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 1771,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1369,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 863,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-11-14T09:44:11.924Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 1126,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1016,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 680,
       "slow": false,
       "imgBroken": false
     },
