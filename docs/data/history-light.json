@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-11-16T00:09:47.375Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 1515,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1091,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 778,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-11-15T23:44:06.605Z",
     "dsstore": {
       "ok": true,
@@ -1310,32 +1336,6 @@
           "title": "[표지로 읽는 과학] 줄어드는 코끼리…\"공동체 와해 우려\""
         }
       }
-    }
-  },
-  {
-    "ts": "2026-11-14T23:44:20.986Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 1796,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 905,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 572,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
     }
   }
 ]
