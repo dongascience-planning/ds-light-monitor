@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-11-16T23:44:24.301Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 1609,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1220,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 900,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-11-16T23:14:08.626Z",
     "dsstore": {
       "ok": true,
@@ -1227,38 +1253,6 @@
       "untranslated": false,
       "ratio": 0,
       "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-11-15T23:44:06.605Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 1580,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 945,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 712,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.03426395939086294,
-      "koArticles": {
-        "80811": {
-          "since": "2026-11-15T23:44:06.514Z",
-          "alerted": false,
-          "title": "\"임신 중 흡연, 청소년기 자녀 ADHD와 연관\"…환경 노출 장기 영향 분석"
-        }
-      }
     }
   }
 ]
