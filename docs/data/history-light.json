@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-11-16T01:44:10.559Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 1537,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 963,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 887,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.030777122339061297,
+      "koArticles": {
+        "80888": {
+          "since": "2026-11-16T01:14:08.309Z",
+          "alerted": false,
+          "title": "\"항우연 연구원 연구수당, 임금으로 보기 어려워\""
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-11-16T01:14:08.389Z",
     "dsstore": {
       "ok": true,
@@ -1278,38 +1310,6 @@
       "untranslated": false,
       "ratio": 0,
       "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-11-15T01:44:06.042Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 1601,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1125,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 605,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.05679819050012566,
-      "koArticles": {
-        "80881": {
-          "since": "2026-11-15T01:44:05.972Z",
-          "alerted": false,
-          "title": "가장 강력한 레이저 구현 남창희 GIST 명예교수, 국제학술상 수상"
-        }
-      }
     }
   }
 ]
