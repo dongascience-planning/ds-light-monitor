@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-11-16T01:14:08.389Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 1523,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1115,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 955,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.030777122339061297,
+      "koArticles": {
+        "80888": {
+          "since": "2026-11-16T01:14:08.309Z",
+          "alerted": false,
+          "title": "\"항우연 연구원 연구수당, 임금으로 보기 어려워\""
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-11-16T00:44:05.646Z",
     "dsstore": {
       "ok": true,
@@ -1278,58 +1310,6 @@
           "title": "가장 강력한 레이저 구현 남창희 GIST 명예교수, 국제학술상 수상"
         }
       }
-    }
-  },
-  {
-    "ts": "2026-11-15T01:14:06.479Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 1394,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1070,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 917,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-11-15T00:44:17.347Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 1547,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1107,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 913,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
     }
   }
 ]
