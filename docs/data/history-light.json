@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-11-16T05:14:09.781Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 1426,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1100,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 906,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.033402382185396165,
+      "koArticles": {
+        "80892": {
+          "since": "2026-11-16T05:14:09.701Z",
+          "alerted": false,
+          "title": "흑연 알갱이에 보호막 씌운 '듀얼이온전지'…수명 4배 연장"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-11-16T04:44:32.908Z",
     "dsstore": {
       "ok": true,
