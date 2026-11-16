@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-11-16T00:44:05.646Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 1531,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 880,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 694,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-11-16T00:09:47.375Z",
     "dsstore": {
       "ok": true,
@@ -1304,38 +1330,6 @@
       "untranslated": false,
       "ratio": 0,
       "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-11-15T00:14:09.840Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 1368,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 901,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 671,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.03167420814479638,
-      "koArticles": {
-        "80878": {
-          "since": "2026-11-15T00:14:09.562Z",
-          "alerted": false,
-          "title": "[표지로 읽는 과학] 줄어드는 코끼리…\"공동체 와해 우려\""
-        }
-      }
     }
   }
 ]
