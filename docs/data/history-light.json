@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-11-16T09:14:13.598Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 1458,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 961,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 931,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.06619937694704049,
+      "koArticles": {
+        "80894": {
+          "since": "2026-11-16T07:16:04.009Z",
+          "alerted": false,
+          "title": "물질 만들고 보고 이해하는 화학과 물리의 융합...DGIST 화학물리학과"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-11-16T08:44:07.042Z",
     "dsstore": {
       "ok": true,
@@ -1324,32 +1356,6 @@
     "dl": {
       "ok": true,
       "elapsed": 701,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-11-15T09:14:08.055Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 1915,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1037,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 835,
       "slow": false,
       "imgBroken": false
     },
