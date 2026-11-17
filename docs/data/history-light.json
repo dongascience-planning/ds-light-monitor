@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-11-17T00:44:16.393Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 1401,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 983,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 716,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-11-17T00:14:09.495Z",
     "dsstore": {
       "ok": true,
@@ -1227,32 +1253,6 @@
           "title": "\"항우연 연구원 연구수당, 임금으로 보기 어려워\""
         }
       }
-    }
-  },
-  {
-    "ts": "2026-11-16T00:44:05.646Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 1531,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 880,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 694,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
     }
   }
 ]
