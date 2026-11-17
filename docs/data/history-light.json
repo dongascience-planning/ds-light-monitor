@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-11-17T08:44:10.048Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 1256,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 869,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 860,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.02865657955066483,
+      "koArticles": {
+        "80924": {
+          "since": "2026-11-17T08:44:09.981Z",
+          "alerted": false,
+          "title": "\"겨울용 타이즈 장바구니 담아줘\"…AI가 화면 보면서 쇼핑"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-11-17T08:12:03.880Z",
     "dsstore": {
       "ok": true,
@@ -1258,70 +1290,6 @@
     "dotcomEn": {
       "untranslated": false,
       "ratio": 0.06619937694704049,
-      "koArticles": {
-        "80894": {
-          "since": "2026-11-16T07:16:04.009Z",
-          "alerted": false,
-          "title": "물질 만들고 보고 이해하는 화학과 물리의 융합...DGIST 화학물리학과"
-        }
-      }
-    }
-  },
-  {
-    "ts": "2026-11-16T08:44:07.042Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 1952,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1285,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 713,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.03253907250832693,
-      "koArticles": {
-        "80894": {
-          "since": "2026-11-16T07:16:04.009Z",
-          "alerted": false,
-          "title": "물질 만들고 보고 이해하는 화학과 물리의 융합...DGIST 화학물리학과"
-        }
-      }
-    }
-  },
-  {
-    "ts": "2026-11-16T08:14:27.781Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 1365,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 949,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 640,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.03253907250832693,
       "koArticles": {
         "80894": {
           "since": "2026-11-16T07:16:04.009Z",
