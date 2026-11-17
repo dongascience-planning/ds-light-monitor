@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-11-17T01:14:08.519Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 1732,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1164,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 798,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-11-17T00:44:16.393Z",
     "dsstore": {
       "ok": true,
@@ -1208,38 +1234,6 @@
     "dl": {
       "ok": true,
       "elapsed": 887,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.030777122339061297,
-      "koArticles": {
-        "80888": {
-          "since": "2026-11-16T01:14:08.309Z",
-          "alerted": false,
-          "title": "\"항우연 연구원 연구수당, 임금으로 보기 어려워\""
-        }
-      }
-    }
-  },
-  {
-    "ts": "2026-11-16T01:14:08.389Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 1523,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1115,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 955,
       "slow": false,
       "imgBroken": false
     },
