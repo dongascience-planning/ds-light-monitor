@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-11-17T07:14:29.837Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 1701,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 948,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 939,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.029892573563755253,
+      "koArticles": {
+        "80907": {
+          "since": "2026-11-17T02:44:06.209Z",
+          "alerted": true,
+          "title": "ETRI, 우주용 전력반도체 2종 국산화…위성 부품 해외 의존 줄인다"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-11-17T06:44:07.518Z",
     "dsstore": {
       "ok": true,
@@ -1342,31 +1374,5 @@
       }
     },
     "runnerIssue": true
-  },
-  {
-    "ts": "2026-11-16T06:44:17.569Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 1394,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 788,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 820,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
   }
 ]
