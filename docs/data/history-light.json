@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-11-17T02:14:34.195Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 1627,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 996,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 805,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.06549439347604485,
+      "koArticles": {
+        "80906": {
+          "since": "2026-11-17T02:14:34.153Z",
+          "alerted": false,
+          "title": "中 6세 여아 유전자 치료 사망 사건 책임자 해임"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-11-17T01:44:06.479Z",
     "dsstore": {
       "ok": true,
@@ -1215,64 +1247,6 @@
       "untranslated": false,
       "ratio": 0,
       "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-11-16T02:14:11.068Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 1020,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 924,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 904,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-11-16T01:44:10.559Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 1537,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 963,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 887,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.030777122339061297,
-      "koArticles": {
-        "80888": {
-          "since": "2026-11-16T01:14:08.309Z",
-          "alerted": false,
-          "title": "\"항우연 연구원 연구수당, 임금으로 보기 어려워\""
-        }
-      }
     }
   }
 ]
