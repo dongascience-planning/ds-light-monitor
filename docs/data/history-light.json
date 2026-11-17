@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-11-17T07:44:05.504Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 1562,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1011,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 947,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-11-17T07:14:29.837Z",
     "dsstore": {
       "ok": true,
@@ -1309,70 +1335,5 @@
         }
       }
     }
-  },
-  {
-    "ts": "2026-11-16T07:16:40.828Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 1393,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 968,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 577,
-      "slow": false,
-      "imgBroken": false
-    }
-  },
-  {
-    "ts": "2026-11-16T07:16:06.051Z",
-    "dsstore": {
-      "ok": false,
-      "elapsed": null,
-      "slow": false,
-      "imgBroken": false,
-      "error": "타임아웃 (20초 초과) · 교차 재점검 통과 → 러너 경로 문제 또는 단기 자연복구로 판정"
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1205,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 955,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.09868073878627968,
-      "koArticles": {
-        "80894": {
-          "since": "2026-11-16T07:16:04.009Z",
-          "alerted": false,
-          "title": "물질 만들고 보고 이해하는 화학과 물리의 융합...DGIST 화학물리학과"
-        },
-        "80895": {
-          "since": "2026-11-16T07:16:04.009Z",
-          "alerted": false,
-          "title": "[알립니다] 우주전문가와 미래인재가 어우러집니다…'코리아스페이스포럼Y' 16일 개최"
-        },
-        "80896": {
-          "since": "2026-11-16T07:16:04.009Z",
-          "alerted": false,
-          "title": "미중 패권경쟁, 항암제로 불똥?…美 FDA, 中 면역항암제 승인 거부"
-        }
-      }
-    },
-    "runnerIssue": true
   }
 ]
