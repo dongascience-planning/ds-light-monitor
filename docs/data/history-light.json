@@ -1,5 +1,47 @@
 [
   {
+    "ts": "2026-11-17T02:44:06.248Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 1240,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1031,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 815,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.10131477184841454,
+      "koArticles": {
+        "80907": {
+          "since": "2026-11-17T02:44:06.209Z",
+          "alerted": false,
+          "title": "ETRI, 우주용 전력반도체 2종 국산화…위성 부품 해외 의존 줄인다"
+        },
+        "80908": {
+          "since": "2026-11-17T02:44:06.209Z",
+          "alerted": false,
+          "title": "전기차 배터리 가격 낮추고 수명 늘릴 '최적 충전 전압'"
+        },
+        "80909": {
+          "since": "2026-11-17T02:44:06.209Z",
+          "alerted": false,
+          "title": "주변은 그대로, 물체 색만 바뀌는 '색상 원격 제어 스마트 조명'"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-11-17T02:14:34.195Z",
     "dsstore": {
       "ok": true,
