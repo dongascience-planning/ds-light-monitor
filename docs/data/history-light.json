@@ -1,5 +1,42 @@
 [
   {
+    "ts": "2026-11-17T08:12:03.880Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 1764,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1048,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 649,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.051305970149253734,
+      "koArticles": {
+        "80921": {
+          "since": "2026-11-17T08:12:03.788Z",
+          "alerted": false,
+          "title": "[사이언스게시판] 천문연, 대중강연 'KASI 스페이스 아카데미' 개최 外"
+        },
+        "80923": {
+          "since": "2026-11-17T08:12:03.788Z",
+          "alerted": false,
+          "title": "[과기원NOW] KAIST, 中 칭화대와 기계공학 복수학위 석사과정 개설 협약 外"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-11-17T07:44:05.504Z",
     "dsstore": {
       "ok": true,
@@ -1290,48 +1327,6 @@
           "since": "2026-11-16T07:16:04.009Z",
           "alerted": false,
           "title": "물질 만들고 보고 이해하는 화학과 물리의 융합...DGIST 화학물리학과"
-        }
-      }
-    }
-  },
-  {
-    "ts": "2026-11-16T07:44:10.119Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 1141,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 925,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 601,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.09868073878627968,
-      "koArticles": {
-        "80894": {
-          "since": "2026-11-16T07:16:04.009Z",
-          "alerted": false,
-          "title": "물질 만들고 보고 이해하는 화학과 물리의 융합...DGIST 화학물리학과"
-        },
-        "80895": {
-          "since": "2026-11-16T07:16:04.009Z",
-          "alerted": false,
-          "title": "[알립니다] 우주전문가와 미래인재가 어우러집니다…'코리아스페이스포럼Y' 16일 개최"
-        },
-        "80896": {
-          "since": "2026-11-16T07:16:04.009Z",
-          "alerted": false,
-          "title": "미중 패권경쟁, 항암제로 불똥?…美 FDA, 中 면역항암제 승인 거부"
         }
       }
     }
