@@ -1,5 +1,42 @@
 [
   {
+    "ts": "2026-11-17T05:44:12.817Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 1512,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 874,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 641,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.05547550432276657,
+      "koArticles": {
+        "80907": {
+          "since": "2026-11-17T02:44:06.209Z",
+          "alerted": true,
+          "title": "ETRI, 우주용 전력반도체 2종 국산화…위성 부품 해외 의존 줄인다"
+        },
+        "80914": {
+          "since": "2026-11-17T05:14:13.010Z",
+          "alerted": false,
+          "title": "'창백한 푸른 점' 찍은 '보이저1호', 인류 최초 '1광일' 도달"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-11-17T05:14:13.602Z",
     "dsstore": {
       "ok": true,
@@ -1285,32 +1322,6 @@
     "dl": {
       "ok": true,
       "elapsed": 578,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-11-16T05:44:07.192Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 1361,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1106,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 579,
       "slow": false,
       "imgBroken": false
     },
