@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-11-18T09:14:06.240Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 1674,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1236,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 855,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.029223093371347115,
+      "koArticles": {
+        "80947": {
+          "since": "2026-11-18T09:14:06.177Z",
+          "alerted": false,
+          "title": "비만약 해외 반입 허용에…의료계, \"약가 낮춰 치료 접근성 높여야\""
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-11-18T08:44:25.684Z",
     "dsstore": {
       "ok": true,
