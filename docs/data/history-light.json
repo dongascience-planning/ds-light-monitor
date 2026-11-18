@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-11-18T03:44:20.070Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 1411,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1307,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 709,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-11-18T03:14:08.820Z",
     "dsstore": {
       "ok": true,
@@ -1292,38 +1318,6 @@
     "dl": {
       "ok": true,
       "elapsed": 889,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.031105710814094776,
-      "koArticles": {
-        "80907": {
-          "since": "2026-11-17T02:44:06.209Z",
-          "alerted": false,
-          "title": "ETRI, 우주용 전력반도체 2종 국산화…위성 부품 해외 의존 줄인다"
-        }
-      }
-    }
-  },
-  {
-    "ts": "2026-11-17T03:44:11.416Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 1239,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1035,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 720,
       "slow": false,
       "imgBroken": false
     },
