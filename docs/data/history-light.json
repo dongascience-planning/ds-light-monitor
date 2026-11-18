@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-11-18T02:44:10.383Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 1374,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 964,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 757,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-11-18T02:14:09.135Z",
     "dsstore": {
       "ok": true,
@@ -1315,80 +1341,6 @@
           "since": "2026-11-17T02:44:06.209Z",
           "alerted": false,
           "title": "ETRI, 우주용 전력반도체 2종 국산화…위성 부품 해외 의존 줄인다"
-        }
-      }
-    }
-  },
-  {
-    "ts": "2026-11-17T02:44:06.248Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 1240,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1031,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 815,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.10131477184841454,
-      "koArticles": {
-        "80907": {
-          "since": "2026-11-17T02:44:06.209Z",
-          "alerted": false,
-          "title": "ETRI, 우주용 전력반도체 2종 국산화…위성 부품 해외 의존 줄인다"
-        },
-        "80908": {
-          "since": "2026-11-17T02:44:06.209Z",
-          "alerted": false,
-          "title": "전기차 배터리 가격 낮추고 수명 늘릴 '최적 충전 전압'"
-        },
-        "80909": {
-          "since": "2026-11-17T02:44:06.209Z",
-          "alerted": false,
-          "title": "주변은 그대로, 물체 색만 바뀌는 '색상 원격 제어 스마트 조명'"
-        }
-      }
-    }
-  },
-  {
-    "ts": "2026-11-17T02:14:34.195Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 1627,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 996,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 805,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.06549439347604485,
-      "koArticles": {
-        "80906": {
-          "since": "2026-11-17T02:14:34.153Z",
-          "alerted": false,
-          "title": "中 6세 여아 유전자 치료 사망 사건 책임자 해임"
         }
       }
     }
