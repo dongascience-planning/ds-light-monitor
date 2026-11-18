@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-11-18T04:14:06.798Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 1249,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 993,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 751,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-11-18T03:44:20.070Z",
     "dsstore": {
       "ok": true,
