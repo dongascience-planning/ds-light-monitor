@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-11-18T05:44:07.161Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 1826,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1073,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 951,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.0327263779527559,
+      "koArticles": {
+        "80938": {
+          "since": "2026-11-18T05:44:07.087Z",
+          "alerted": false,
+          "title": "배터리 양극·음극 요구사항 동시 충족 '두 얼굴의 젤 전해질'"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-11-18T05:14:25.319Z",
     "dsstore": {
       "ok": true,
