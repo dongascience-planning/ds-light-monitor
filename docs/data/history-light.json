@@ -1,5 +1,47 @@
 [
   {
+    "ts": "2026-11-18T08:44:25.684Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 1825,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1003,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 753,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.09396299902629017,
+      "koArticles": {
+        "80949": {
+          "since": "2026-11-18T08:44:25.633Z",
+          "alerted": false,
+          "title": "[의학바이오게시판] 서울아산병원서 배운 러시아 의료진, 현지서 첫 갑상선 고주파절제술 外"
+        },
+        "80950": {
+          "since": "2026-11-18T08:44:25.633Z",
+          "alerted": false,
+          "title": "[과기원NOW] 드론 다리에 넣은 배터리, 휘어진 채로 전력 공급 外"
+        },
+        "80951": {
+          "since": "2026-11-18T08:44:25.633Z",
+          "alerted": false,
+          "title": "[사이언스게시판] 국립중앙과학관, AI 주제로 시민 참여형 과학 대토론회 첫 시범 外"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-11-18T08:14:12.990Z",
     "dsstore": {
       "ok": true,
@@ -1244,38 +1286,6 @@
       "untranslated": false,
       "ratio": 0,
       "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-11-17T08:44:10.048Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 1256,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 869,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 860,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.02865657955066483,
-      "koArticles": {
-        "80924": {
-          "since": "2026-11-17T08:44:09.981Z",
-          "alerted": false,
-          "title": "\"겨울용 타이즈 장바구니 담아줘\"…AI가 화면 보면서 쇼핑"
-        }
-      }
     }
   }
 ]
