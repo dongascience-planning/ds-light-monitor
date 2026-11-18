@@ -1,5 +1,26 @@
 [
   {
+    "ts": "2026-11-18T06:14:32.309Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 1738,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1088,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 856,
+      "slow": false,
+      "imgBroken": false
+    }
+  },
+  {
     "ts": "2026-11-18T05:44:07.161Z",
     "dsstore": {
       "ok": true,
@@ -1264,75 +1285,6 @@
           "since": "2026-11-17T02:44:06.209Z",
           "alerted": true,
           "title": "ETRI, 우주용 전력반도체 2종 국산화…위성 부품 해외 의존 줄인다"
-        }
-      }
-    }
-  },
-  {
-    "ts": "2026-11-17T06:14:08.435Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 1339,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1157,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 760,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.030432715168806468,
-      "koArticles": {
-        "80907": {
-          "since": "2026-11-17T02:44:06.209Z",
-          "alerted": true,
-          "title": "ETRI, 우주용 전력반도체 2종 국산화…위성 부품 해외 의존 줄인다"
-        }
-      }
-    }
-  },
-  {
-    "ts": "2026-11-17T05:44:12.817Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 1512,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 874,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 641,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.05547550432276657,
-      "koArticles": {
-        "80907": {
-          "since": "2026-11-17T02:44:06.209Z",
-          "alerted": true,
-          "title": "ETRI, 우주용 전력반도체 2종 국산화…위성 부품 해외 의존 줄인다"
-        },
-        "80914": {
-          "since": "2026-11-17T05:14:13.010Z",
-          "alerted": false,
-          "title": "'창백한 푸른 점' 찍은 '보이저1호', 인류 최초 '1광일' 도달"
         }
       }
     }
