@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-11-18T08:14:12.990Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 1627,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1160,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 739,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-11-18T07:44:06.909Z",
     "dsstore": {
       "ok": true,
@@ -1248,43 +1274,6 @@
           "since": "2026-11-17T08:44:09.981Z",
           "alerted": false,
           "title": "\"겨울용 타이즈 장바구니 담아줘\"…AI가 화면 보면서 쇼핑"
-        }
-      }
-    }
-  },
-  {
-    "ts": "2026-11-17T08:12:03.880Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 1764,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1048,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 649,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.051305970149253734,
-      "koArticles": {
-        "80921": {
-          "since": "2026-11-17T08:12:03.788Z",
-          "alerted": false,
-          "title": "[사이언스게시판] 천문연, 대중강연 'KASI 스페이스 아카데미' 개최 外"
-        },
-        "80923": {
-          "since": "2026-11-17T08:12:03.788Z",
-          "alerted": false,
-          "title": "[과기원NOW] KAIST, 中 칭화대와 기계공학 복수학위 석사과정 개설 협약 外"
         }
       }
     }
