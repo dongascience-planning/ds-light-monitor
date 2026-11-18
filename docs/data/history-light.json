@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-11-18T07:10:42.883Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 1473,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1157,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 838,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.02852388875683385,
+      "koArticles": {
+        "80945": {
+          "since": "2026-11-18T07:10:42.782Z",
+          "alerted": false,
+          "title": "\"생활용품 속 '환경호르몬' 월경주기 교란·학습장애 유발할 수도\""
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-11-18T06:44:10.741Z",
     "dsstore": {
       "ok": true,
