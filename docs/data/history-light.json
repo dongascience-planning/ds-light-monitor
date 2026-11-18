@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-11-18T06:44:10.741Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 1064,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1818,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 870,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.031507513330101794,
+      "koArticles": {
+        "80942": {
+          "since": "2026-11-18T06:44:10.661Z",
+          "alerted": false,
+          "title": "제주 용암해수 썼더니 미세조류 생산량 최대 4.3배 늘어"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-11-18T06:14:32.309Z",
     "dsstore": {
       "ok": true,
@@ -1248,38 +1280,6 @@
     "dotcomEn": {
       "untranslated": false,
       "ratio": 0.029892573563755253,
-      "koArticles": {
-        "80907": {
-          "since": "2026-11-17T02:44:06.209Z",
-          "alerted": true,
-          "title": "ETRI, 우주용 전력반도체 2종 국산화…위성 부품 해외 의존 줄인다"
-        }
-      }
-    }
-  },
-  {
-    "ts": "2026-11-17T06:44:07.518Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 1792,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1052,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 936,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.05624110109159943,
       "koArticles": {
         "80907": {
           "since": "2026-11-17T02:44:06.209Z",
