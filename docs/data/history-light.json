@@ -1,5 +1,42 @@
 [
   {
+    "ts": "2026-11-18T02:14:09.135Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 1411,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 881,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 833,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.05420188960716062,
+      "koArticles": {
+        "80930": {
+          "since": "2026-11-18T02:14:09.063Z",
+          "alerted": false,
+          "title": "국산 슈퍼컴 '한강', 세계 성능 순위 12위…신규 등재 중 1위"
+        },
+        "80931": {
+          "since": "2026-11-18T02:14:09.063Z",
+          "alerted": false,
+          "title": "韓연구팀, 극미량 가스 무게측정 시스템 美 수출…\"70kg 체중 7mg 변화 구분\""
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-11-18T01:44:07.438Z",
     "dsstore": {
       "ok": true,
