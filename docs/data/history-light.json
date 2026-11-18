@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-11-18T07:44:06.909Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 1436,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 946,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 779,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-11-18T07:10:42.883Z",
     "dsstore": {
       "ok": true,
@@ -1259,64 +1285,6 @@
           "since": "2026-11-17T08:12:03.788Z",
           "alerted": false,
           "title": "[과기원NOW] KAIST, 中 칭화대와 기계공학 복수학위 석사과정 개설 협약 外"
-        }
-      }
-    }
-  },
-  {
-    "ts": "2026-11-17T07:44:05.504Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 1562,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1011,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 947,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-11-17T07:14:29.837Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 1701,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 948,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 939,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.029892573563755253,
-      "koArticles": {
-        "80907": {
-          "since": "2026-11-17T02:44:06.209Z",
-          "alerted": true,
-          "title": "ETRI, 우주용 전력반도체 2종 국산화…위성 부품 해외 의존 줄인다"
         }
       }
     }
