@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-11-18T01:44:07.438Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 1293,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 979,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 688,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-11-18T01:14:07.538Z",
     "dsstore": {
       "ok": true,
@@ -1328,32 +1354,6 @@
           "title": "中 6세 여아 유전자 치료 사망 사건 책임자 해임"
         }
       }
-    }
-  },
-  {
-    "ts": "2026-11-17T01:44:06.479Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 1742,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1100,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 609,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
     }
   }
 ]
