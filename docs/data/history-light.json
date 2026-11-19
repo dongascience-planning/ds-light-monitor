@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-11-19T09:44:14.602Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 1280,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1002,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 695,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-11-19T09:14:08.742Z",
     "dsstore": {
       "ok": true,
@@ -1363,32 +1389,6 @@
           "title": "IBS 과학자 5명 논문 피인용 세계 상위 1% 연구자로 선정"
         }
       }
-    }
-  },
-  {
-    "ts": "2026-11-18T09:44:09.555Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 1569,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1056,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 708,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
     }
   }
 ]
