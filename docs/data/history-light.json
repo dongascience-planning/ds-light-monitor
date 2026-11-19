@@ -1,5 +1,42 @@
 [
   {
+    "ts": "2026-11-19T06:44:15.026Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 1407,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1793,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 906,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.0569454372170598,
+      "koArticles": {
+        "80967": {
+          "since": "2026-11-19T06:14:32.413Z",
+          "alerted": false,
+          "title": "KCST 첫 심포지엄서 아시아 6개국 과학소통 아카데미 설립 논의"
+        },
+        "80969": {
+          "since": "2026-11-19T06:44:14.978Z",
+          "alerted": false,
+          "title": "\"과기인 처우개선 약속, 1187억 예산 증액으로 증명하라\""
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-11-19T06:14:32.449Z",
     "dsstore": {
       "ok": true,
@@ -1313,38 +1350,6 @@
           "since": "2026-11-18T07:10:42.782Z",
           "alerted": false,
           "title": "\"생활용품 속 '환경호르몬' 월경주기 교란·학습장애 유발할 수도\""
-        }
-      }
-    }
-  },
-  {
-    "ts": "2026-11-18T06:44:10.741Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 1064,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1818,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 870,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.031507513330101794,
-      "koArticles": {
-        "80942": {
-          "since": "2026-11-18T06:44:10.661Z",
-          "alerted": false,
-          "title": "제주 용암해수 썼더니 미세조류 생산량 최대 4.3배 늘어"
         }
       }
     }
