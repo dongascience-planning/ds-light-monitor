@@ -1,7 +1,27 @@
 [
   {
+    "ts": "2026-11-19T01:16:24.028Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 1442,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 931,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 896,
+      "slow": false,
+      "imgBroken": false
+    }
+  },
+  {
     "ts": "2026-11-19T01:15:48.072Z",
-    "recheckPending": true,
     "dsstore": {
       "ok": true,
       "elapsed": 18787,
@@ -19,7 +39,8 @@
       "elapsed": 1068,
       "slow": false,
       "imgBroken": false
-    }
+    },
+    "runnerIssue": true
   },
   {
     "ts": "2026-11-19T00:44:05.762Z",
