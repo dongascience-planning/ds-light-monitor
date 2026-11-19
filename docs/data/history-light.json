@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-11-19T06:14:32.449Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 1414,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1479,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1249,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.025076165924537146,
+      "koArticles": {
+        "80967": {
+          "since": "2026-11-19T06:14:32.413Z",
+          "alerted": false,
+          "title": "KCST 첫 심포지엄서 아시아 6개국 과학소통 아카데미 설립 논의"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-11-19T05:44:07.854Z",
     "dsstore": {
       "ok": true,
@@ -1315,27 +1347,6 @@
           "title": "제주 용암해수 썼더니 미세조류 생산량 최대 4.3배 늘어"
         }
       }
-    }
-  },
-  {
-    "ts": "2026-11-18T06:14:32.309Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 1738,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1088,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 856,
-      "slow": false,
-      "imgBroken": false
     }
   }
 ]
