@@ -1,5 +1,42 @@
 [
   {
+    "ts": "2026-11-19T08:44:08.247Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 1101,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 901,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 647,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.05638122198631753,
+      "koArticles": {
+        "80967": {
+          "since": "2026-11-19T06:14:32.413Z",
+          "alerted": true,
+          "title": "KCST 첫 심포지엄서 아시아 6개국 과학소통 아카데미 설립 논의"
+        },
+        "80969": {
+          "since": "2026-11-19T06:44:14.978Z",
+          "alerted": false,
+          "title": "\"과기인 처우개선 약속, 1187억 예산 증액으로 증명하라\""
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-11-19T08:14:09.380Z",
     "dsstore": {
       "ok": true,
@@ -1384,32 +1421,6 @@
           "title": "[사이언스게시판] 국립중앙과학관, AI 주제로 시민 참여형 과학 대토론회 첫 시범 外"
         }
       }
-    }
-  },
-  {
-    "ts": "2026-11-18T08:14:12.990Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 1627,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1160,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 739,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
     }
   }
 ]
