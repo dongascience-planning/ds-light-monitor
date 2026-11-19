@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-11-19T00:14:11.252Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 1459,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1071,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 671,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-11-18T23:44:08.883Z",
     "dsstore": {
       "ok": true,
@@ -1272,32 +1298,6 @@
           "title": "경북 상주서 규모 3.6 올해 가장 큰 국내 지진…원자로 영향은 없어"
         }
       }
-    }
-  },
-  {
-    "ts": "2026-11-18T00:14:11.309Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 1586,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1040,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 931,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
     }
   }
 ]
