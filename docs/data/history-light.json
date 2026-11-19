@@ -1,5 +1,42 @@
 [
   {
+    "ts": "2026-11-19T07:44:17.202Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 1093,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 913,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 850,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.05638122198631753,
+      "koArticles": {
+        "80967": {
+          "since": "2026-11-19T06:14:32.413Z",
+          "alerted": false,
+          "title": "KCST 첫 심포지엄서 아시아 6개국 과학소통 아카데미 설립 논의"
+        },
+        "80969": {
+          "since": "2026-11-19T06:44:14.978Z",
+          "alerted": false,
+          "title": "\"과기인 처우개선 약속, 1187억 예산 증액으로 증명하라\""
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-11-19T07:14:11.561Z",
     "dsstore": {
       "ok": true,
@@ -1329,32 +1366,6 @@
     "dl": {
       "ok": true,
       "elapsed": 739,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-11-18T07:44:06.909Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 1436,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 946,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 779,
       "slow": false,
       "imgBroken": false
     },
