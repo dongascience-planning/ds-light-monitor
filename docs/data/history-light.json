@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-11-19T10:44:10.434Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 1596,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1005,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 953,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-11-19T10:14:12.656Z",
     "dsstore": {
       "ok": true,
@@ -1383,38 +1409,6 @@
       "untranslated": false,
       "ratio": 0,
       "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-11-18T10:14:17.495Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 1254,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 832,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 792,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.025029797377830752,
-      "koArticles": {
-        "80952": {
-          "since": "2026-11-18T10:14:17.402Z",
-          "alerted": false,
-          "title": "IBS 과학자 5명 논문 피인용 세계 상위 1% 연구자로 선정"
-        }
-      }
     }
   }
 ]
