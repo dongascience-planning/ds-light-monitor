@@ -1,5 +1,47 @@
 [
   {
+    "ts": "2026-11-19T05:44:07.854Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 1490,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 936,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 768,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.08856177606177607,
+      "koArticles": {
+        "80961": {
+          "since": "2026-11-19T05:44:07.786Z",
+          "alerted": false,
+          "title": "색마다 갈라지는 빛, 거울처럼 튕겨 한 방향으로"
+        },
+        "80963": {
+          "since": "2026-11-19T05:44:07.786Z",
+          "alerted": false,
+          "title": "감 깍두기부터 녹두 후무스까지…황토와 갯벌이 만든 고창의 건강식"
+        },
+        "80965": {
+          "since": "2026-11-19T05:44:07.786Z",
+          "alerted": false,
+          "title": "韓 바이오텍 개발 '비아그라' 계열 신약 후보, 알츠하이머 31% 늦춘다"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-11-19T05:14:09.965Z",
     "dsstore": {
       "ok": true,
@@ -1292,59 +1334,6 @@
     "dl": {
       "ok": true,
       "elapsed": 856,
-      "slow": false,
-      "imgBroken": false
-    }
-  },
-  {
-    "ts": "2026-11-18T05:44:07.161Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 1826,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1073,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 951,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.0327263779527559,
-      "koArticles": {
-        "80938": {
-          "since": "2026-11-18T05:44:07.087Z",
-          "alerted": false,
-          "title": "배터리 양극·음극 요구사항 동시 충족 '두 얼굴의 젤 전해질'"
-        }
-      }
-    }
-  },
-  {
-    "ts": "2026-11-18T05:14:25.319Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 1418,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1035,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 579,
       "slow": false,
       "imgBroken": false
     }
