@@ -1,5 +1,47 @@
 [
   {
+    "ts": "2026-11-19T09:14:08.742Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 1562,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 972,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 738,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.08058093230264698,
+      "koArticles": {
+        "80977": {
+          "since": "2026-11-19T09:14:08.675Z",
+          "alerted": false,
+          "title": "[의학바이오게시판] 서울대, 다중 뇌 부위 독립·정밀 자극 비침습 기술 개발"
+        },
+        "80978": {
+          "since": "2026-11-19T09:14:08.675Z",
+          "alerted": false,
+          "title": "[과기원NOW] 포스텍, 경북 기술창업기업 8곳 미국 진출 지원 外"
+        },
+        "80979": {
+          "since": "2026-11-19T09:14:08.675Z",
+          "alerted": false,
+          "title": "[사이언스게시판] 건설연, 중소기업 기술혁신·성장 지원 '대통령표창' 外"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-11-19T08:44:08.247Z",
     "dsstore": {
       "ok": true,
@@ -1347,80 +1389,6 @@
       "untranslated": false,
       "ratio": 0,
       "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-11-18T09:14:06.240Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 1674,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1236,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 855,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.029223093371347115,
-      "koArticles": {
-        "80947": {
-          "since": "2026-11-18T09:14:06.177Z",
-          "alerted": false,
-          "title": "비만약 해외 반입 허용에…의료계, \"약가 낮춰 치료 접근성 높여야\""
-        }
-      }
-    }
-  },
-  {
-    "ts": "2026-11-18T08:44:25.684Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 1825,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1003,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 753,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.09396299902629017,
-      "koArticles": {
-        "80949": {
-          "since": "2026-11-18T08:44:25.633Z",
-          "alerted": false,
-          "title": "[의학바이오게시판] 서울아산병원서 배운 러시아 의료진, 현지서 첫 갑상선 고주파절제술 外"
-        },
-        "80950": {
-          "since": "2026-11-18T08:44:25.633Z",
-          "alerted": false,
-          "title": "[과기원NOW] 드론 다리에 넣은 배터리, 휘어진 채로 전력 공급 外"
-        },
-        "80951": {
-          "since": "2026-11-18T08:44:25.633Z",
-          "alerted": false,
-          "title": "[사이언스게시판] 국립중앙과학관, AI 주제로 시민 참여형 과학 대토론회 첫 시범 外"
-        }
-      }
     }
   }
 ]
