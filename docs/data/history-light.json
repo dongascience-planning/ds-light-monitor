@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-11-19T03:14:18.191Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 1727,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1197,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 614,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.030780243378668574,
+      "koArticles": {
+        "80960": {
+          "since": "2026-11-19T03:14:18.148Z",
+          "alerted": false,
+          "title": "불필요한 전류 240분의 1로 줄인 '고감도 광센서' 개발"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-11-19T02:44:07.691Z",
     "dsstore": {
       "ok": true,
@@ -1282,58 +1314,6 @@
     "dl": {
       "ok": true,
       "elapsed": 709,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-11-18T03:14:08.820Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 1434,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1187,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 639,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-11-18T02:44:10.383Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 1374,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 964,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 757,
       "slow": false,
       "imgBroken": false
     },
