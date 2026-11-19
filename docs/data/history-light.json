@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-11-19T02:44:07.691Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 1347,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1140,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 901,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.029051620648259304,
+      "koArticles": {
+        "80958": {
+          "since": "2026-11-19T02:44:07.628Z",
+          "alerted": false,
+          "title": "남는 메모리 몰아주기…448GB 서버로 1.8TB 필요한 유전체 분석 성공"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-11-19T02:14:34.567Z",
     "dsstore": {
       "ok": true,
