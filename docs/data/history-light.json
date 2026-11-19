@@ -1,5 +1,42 @@
 [
   {
+    "ts": "2026-11-19T02:14:34.567Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 1861,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1061,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 958,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.058233423048690974,
+      "koArticles": {
+        "80956": {
+          "since": "2026-11-19T02:14:34.525Z",
+          "alerted": false,
+          "title": "반도체 고장 원인 '전기이동', 탄소 소재 성장에 활용"
+        },
+        "80957": {
+          "since": "2026-11-19T02:14:34.525Z",
+          "alerted": false,
+          "title": "귀금속 입자 크기 줄이자 암모니아 생산 속도 57배 ↑"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-11-19T01:44:09.688Z",
     "dsstore": {
       "ok": true,
@@ -1272,43 +1309,6 @@
       "untranslated": false,
       "ratio": 0,
       "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-11-18T02:14:09.135Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 1411,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 881,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 833,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.05420188960716062,
-      "koArticles": {
-        "80930": {
-          "since": "2026-11-18T02:14:09.063Z",
-          "alerted": false,
-          "title": "국산 슈퍼컴 '한강', 세계 성능 순위 12위…신규 등재 중 1위"
-        },
-        "80931": {
-          "since": "2026-11-18T02:14:09.063Z",
-          "alerted": false,
-          "title": "韓연구팀, 극미량 가스 무게측정 시스템 美 수출…\"70kg 체중 7mg 변화 구분\""
-        }
-      }
     }
   }
 ]
