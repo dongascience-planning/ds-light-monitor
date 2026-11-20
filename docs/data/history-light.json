@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-11-20T06:44:07.365Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 1574,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1051,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 918,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.03002257336343115,
+      "koArticles": {
+        "80986": {
+          "since": "2026-11-20T02:14:32.142Z",
+          "alerted": true,
+          "title": "희미한 차선, AI로 점검하고 도로살얼음은 신소재로 줄인다"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-11-20T06:14:09.109Z",
     "dsstore": {
       "ok": true,
@@ -1401,38 +1433,6 @@
           "since": "2026-11-19T06:44:14.978Z",
           "alerted": false,
           "title": "\"과기인 처우개선 약속, 1187억 예산 증액으로 증명하라\""
-        }
-      }
-    }
-  },
-  {
-    "ts": "2026-11-19T06:14:32.449Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 1414,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1479,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1249,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.025076165924537146,
-      "koArticles": {
-        "80967": {
-          "since": "2026-11-19T06:14:32.413Z",
-          "alerted": false,
-          "title": "KCST 첫 심포지엄서 아시아 6개국 과학소통 아카데미 설립 논의"
         }
       }
     }
