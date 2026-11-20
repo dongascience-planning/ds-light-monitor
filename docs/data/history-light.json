@@ -1,5 +1,42 @@
 [
   {
+    "ts": "2026-11-20T12:44:21.920Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 1906,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1080,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 700,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.057300022920009165,
+      "koArticles": {
+        "80986": {
+          "since": "2026-11-20T02:14:32.142Z",
+          "alerted": true,
+          "title": "희미한 차선, AI로 점검하고 도로살얼음은 신소재로 줄인다"
+        },
+        "80995": {
+          "since": "2026-11-20T08:14:07.690Z",
+          "alerted": true,
+          "title": "[사이언스게시판] 오형석 KIST 책임연구원 '세계에서 가장 영향력 있는 연구자' 선정 外"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-11-20T12:14:10.073Z",
     "dsstore": {
       "ok": true,
@@ -1426,58 +1463,6 @@
     "dl": {
       "ok": true,
       "elapsed": 799,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-11-19T12:44:10.284Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 1456,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1147,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 905,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-11-19T12:14:28.238Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 1474,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 930,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 807,
       "slow": false,
       "imgBroken": false
     },
