@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-11-20T03:14:15.329Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 1622,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1257,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 835,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.029595015576323987,
+      "koArticles": {
+        "80986": {
+          "since": "2026-11-20T02:14:32.142Z",
+          "alerted": false,
+          "title": "희미한 차선, AI로 점검하고 도로살얼음은 신소재로 줄인다"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-11-20T02:44:25.715Z",
     "dsstore": {
       "ok": true,
