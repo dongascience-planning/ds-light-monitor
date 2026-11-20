@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-11-20T07:44:12.275Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 1300,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1112,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 654,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.029961703086280694,
+      "koArticles": {
+        "80986": {
+          "since": "2026-11-20T02:14:32.142Z",
+          "alerted": true,
+          "title": "희미한 차선, AI로 점검하고 도로살얼음은 신소재로 줄인다"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-11-20T07:14:07.560Z",
     "dsstore": {
       "ok": true,
@@ -1381,48 +1413,6 @@
           "since": "2026-11-19T06:14:32.413Z",
           "alerted": false,
           "title": "KCST 첫 심포지엄서 아시아 6개국 과학소통 아카데미 설립 논의"
-        },
-        "80969": {
-          "since": "2026-11-19T06:44:14.978Z",
-          "alerted": false,
-          "title": "\"과기인 처우개선 약속, 1187억 예산 증액으로 증명하라\""
-        }
-      }
-    }
-  },
-  {
-    "ts": "2026-11-19T07:14:11.561Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 1398,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1100,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 839,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.09185700099304867,
-      "koArticles": {
-        "80967": {
-          "since": "2026-11-19T06:14:32.413Z",
-          "alerted": false,
-          "title": "KCST 첫 심포지엄서 아시아 6개국 과학소통 아카데미 설립 논의"
-        },
-        "80968": {
-          "since": "2026-11-19T07:14:11.468Z",
-          "alerted": false,
-          "title": "\"거짓말 판별, 눈을 보세요\"…동공 확장되고 눈 깜빡임 줄어"
         },
         "80969": {
           "since": "2026-11-19T06:44:14.978Z",
