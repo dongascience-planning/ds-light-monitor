@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-11-20T23:44:25.761Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 1663,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1050,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 745,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-11-20T23:14:07.376Z",
     "dsstore": {
       "ok": true,
@@ -1510,58 +1536,6 @@
           "title": "[1% 의사과학자] ⑪성형외과 1호 KAIST행…\"의사과학자도 일론 머스크 모델 나와야\""
         }
       }
-    }
-  },
-  {
-    "ts": "2026-11-19T23:44:15.276Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 1306,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 917,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 663,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-11-19T23:14:09.486Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 1341,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 954,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 767,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
     }
   }
 ]
