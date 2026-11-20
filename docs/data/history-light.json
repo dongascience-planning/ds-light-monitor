@@ -1,5 +1,42 @@
 [
   {
+    "ts": "2026-11-20T14:14:07.783Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 1557,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1965,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 667,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.05811250581125058,
+      "koArticles": {
+        "80986": {
+          "since": "2026-11-20T02:14:32.142Z",
+          "alerted": true,
+          "title": "희미한 차선, AI로 점검하고 도로살얼음은 신소재로 줄인다"
+        },
+        "80995": {
+          "since": "2026-11-20T08:14:07.690Z",
+          "alerted": true,
+          "title": "[사이언스게시판] 오형석 KIST 책임연구원 '세계에서 가장 영향력 있는 연구자' 선정 外"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-11-20T13:44:08.607Z",
     "dsstore": {
       "ok": true,
@@ -1485,32 +1522,6 @@
     "dl": {
       "ok": true,
       "elapsed": 745,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-11-19T13:45:01.672Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 1116,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1076,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 758,
       "slow": false,
       "imgBroken": false
     },
