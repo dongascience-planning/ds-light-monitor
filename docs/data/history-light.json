@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-11-20T03:44:21.649Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 1555,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 834,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 686,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.029595015576323987,
+      "koArticles": {
+        "80986": {
+          "since": "2026-11-20T02:14:32.142Z",
+          "alerted": false,
+          "title": "희미한 차선, AI로 점검하고 도로살얼음은 신소재로 줄인다"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-11-20T03:14:15.329Z",
     "dsstore": {
       "ok": true,
@@ -1363,64 +1395,6 @@
       "untranslated": false,
       "ratio": 0,
       "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-11-19T03:44:06.645Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 1542,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 992,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 664,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-11-19T03:14:18.191Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 1727,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1197,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 614,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.030780243378668574,
-      "koArticles": {
-        "80960": {
-          "since": "2026-11-19T03:14:18.148Z",
-          "alerted": false,
-          "title": "불필요한 전류 240분의 1로 줄인 '고감도 광센서' 개발"
-        }
-      }
     }
   }
 ]
