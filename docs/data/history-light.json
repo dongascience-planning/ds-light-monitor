@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-11-20T02:44:25.715Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 1319,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 918,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 491,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.02945084145261293,
+      "koArticles": {
+        "80986": {
+          "since": "2026-11-20T02:14:32.142Z",
+          "alerted": false,
+          "title": "희미한 차선, AI로 점검하고 도로살얼음은 신소재로 줄인다"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-11-20T02:14:32.230Z",
     "dsstore": {
       "ok": true,
@@ -1355,75 +1387,6 @@
           "since": "2026-11-19T03:14:18.148Z",
           "alerted": false,
           "title": "불필요한 전류 240분의 1로 줄인 '고감도 광센서' 개발"
-        }
-      }
-    }
-  },
-  {
-    "ts": "2026-11-19T02:44:07.691Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 1347,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1140,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 901,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.029051620648259304,
-      "koArticles": {
-        "80958": {
-          "since": "2026-11-19T02:44:07.628Z",
-          "alerted": false,
-          "title": "남는 메모리 몰아주기…448GB 서버로 1.8TB 필요한 유전체 분석 성공"
-        }
-      }
-    }
-  },
-  {
-    "ts": "2026-11-19T02:14:34.567Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 1861,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1061,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 958,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.058233423048690974,
-      "koArticles": {
-        "80956": {
-          "since": "2026-11-19T02:14:34.525Z",
-          "alerted": false,
-          "title": "반도체 고장 원인 '전기이동', 탄소 소재 성장에 활용"
-        },
-        "80957": {
-          "since": "2026-11-19T02:14:34.525Z",
-          "alerted": false,
-          "title": "귀금속 입자 크기 줄이자 암모니아 생산 속도 57배 ↑"
         }
       }
     }
