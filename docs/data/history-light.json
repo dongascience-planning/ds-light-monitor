@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-11-20T05:44:27.638Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 1740,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 936,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 651,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.02967425256581883,
+      "koArticles": {
+        "80986": {
+          "since": "2026-11-20T02:14:32.142Z",
+          "alerted": true,
+          "title": "희미한 차선, AI로 점검하고 도로살얼음은 신소재로 줄인다"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-11-20T05:14:11.873Z",
     "dsstore": {
       "ok": true,
@@ -1369,48 +1401,6 @@
           "since": "2026-11-19T06:14:32.413Z",
           "alerted": false,
           "title": "KCST 첫 심포지엄서 아시아 6개국 과학소통 아카데미 설립 논의"
-        }
-      }
-    }
-  },
-  {
-    "ts": "2026-11-19T05:44:07.854Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 1490,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 936,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 768,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.08856177606177607,
-      "koArticles": {
-        "80961": {
-          "since": "2026-11-19T05:44:07.786Z",
-          "alerted": false,
-          "title": "색마다 갈라지는 빛, 거울처럼 튕겨 한 방향으로"
-        },
-        "80963": {
-          "since": "2026-11-19T05:44:07.786Z",
-          "alerted": false,
-          "title": "감 깍두기부터 녹두 후무스까지…황토와 갯벌이 만든 고창의 건강식"
-        },
-        "80965": {
-          "since": "2026-11-19T05:44:07.786Z",
-          "alerted": false,
-          "title": "韓 바이오텍 개발 '비아그라' 계열 신약 후보, 알츠하이머 31% 늦춘다"
         }
       }
     }
