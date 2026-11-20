@@ -1,7 +1,27 @@
 [
   {
+    "ts": "2026-11-20T17:45:17.842Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 1525,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 997,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 760,
+      "slow": false,
+      "imgBroken": false
+    }
+  },
+  {
     "ts": "2026-11-20T17:44:38.061Z",
-    "recheckPending": true,
     "dsstore": {
       "ok": true,
       "elapsed": 18086,
@@ -24,7 +44,8 @@
       "untranslated": false,
       "ratio": 0,
       "koArticles": {}
-    }
+    },
+    "runnerIssue": true
   },
   {
     "ts": "2026-11-20T17:14:17.327Z",
