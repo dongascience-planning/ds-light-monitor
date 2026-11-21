@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-11-21T00:44:13.464Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 1512,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 895,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 681,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-11-21T00:17:44.099Z",
     "dsstore": {
       "ok": true,
@@ -1517,32 +1543,6 @@
           "title": "운영허가 이전 원전 관리 경력도 발전소장·실장급 임명에 적용"
         }
       }
-    }
-  },
-  {
-    "ts": "2026-11-20T00:44:09.920Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 1499,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1166,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1057,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
     }
   }
 ]
