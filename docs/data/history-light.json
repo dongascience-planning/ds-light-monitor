@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-11-21T04:44:12.542Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 1584,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1348,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 900,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-11-21T04:14:05.727Z",
     "dsstore": {
       "ok": true,
@@ -1456,70 +1482,6 @@
         "80986": {
           "since": "2026-11-20T02:14:32.142Z",
           "alerted": true,
-          "title": "희미한 차선, AI로 점검하고 도로살얼음은 신소재로 줄인다"
-        }
-      }
-    }
-  },
-  {
-    "ts": "2026-11-20T04:44:09.948Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 1473,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1021,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 718,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.02952930728241563,
-      "koArticles": {
-        "80986": {
-          "since": "2026-11-20T02:14:32.142Z",
-          "alerted": true,
-          "title": "희미한 차선, AI로 점검하고 도로살얼음은 신소재로 줄인다"
-        }
-      }
-    }
-  },
-  {
-    "ts": "2026-11-20T04:14:15.821Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 1401,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 2253,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 780,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.029595015576323987,
-      "koArticles": {
-        "80986": {
-          "since": "2026-11-20T02:14:32.142Z",
-          "alerted": false,
           "title": "희미한 차선, AI로 점검하고 도로살얼음은 신소재로 줄인다"
         }
       }
