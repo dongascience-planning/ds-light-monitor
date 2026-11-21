@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-11-21T08:14:06.603Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 1609,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 967,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 566,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-11-21T07:44:29.884Z",
     "dsstore": {
       "ok": true,
@@ -1385,48 +1411,6 @@
     "dotcomEn": {
       "untranslated": false,
       "ratio": 0.07929104477611941,
-      "koArticles": {
-        "80986": {
-          "since": "2026-11-20T02:14:32.142Z",
-          "alerted": true,
-          "title": "희미한 차선, AI로 점검하고 도로살얼음은 신소재로 줄인다"
-        },
-        "80995": {
-          "since": "2026-11-20T08:14:07.690Z",
-          "alerted": false,
-          "title": "[사이언스게시판] 오형석 KIST 책임연구원 '세계에서 가장 영향력 있는 연구자' 선정 外"
-        },
-        "80996": {
-          "since": "2026-11-20T08:14:07.690Z",
-          "alerted": false,
-          "title": "[과기원NOW] GIST, '2026 GIST 스타트업나이트' 개최 外"
-        }
-      }
-    }
-  },
-  {
-    "ts": "2026-11-20T08:14:07.781Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 1352,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 821,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 670,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.07938360961942563,
       "koArticles": {
         "80986": {
           "since": "2026-11-20T02:14:32.142Z",
