@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-11-21T01:44:11.155Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 1507,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 899,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 712,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-11-21T01:14:09.790Z",
     "dsstore": {
       "ok": true,
@@ -1503,70 +1529,6 @@
           "since": "2026-11-20T02:14:32.142Z",
           "alerted": false,
           "title": "영구동토층, 봄엔 겉면만 여름엔 속까지 달궈진다"
-        }
-      }
-    }
-  },
-  {
-    "ts": "2026-11-20T01:44:07.403Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 1700,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 990,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 502,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.028871978513876455,
-      "koArticles": {
-        "80982": {
-          "since": "2026-11-20T01:14:11.923Z",
-          "alerted": false,
-          "title": "운영허가 이전 원전 관리 경력도 발전소장·실장급 임명에 적용"
-        }
-      }
-    }
-  },
-  {
-    "ts": "2026-11-20T01:14:12.014Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 1807,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1247,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 879,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.028871978513876455,
-      "koArticles": {
-        "80982": {
-          "since": "2026-11-20T01:14:11.923Z",
-          "alerted": false,
-          "title": "운영허가 이전 원전 관리 경력도 발전소장·실장급 임명에 적용"
         }
       }
     }
