@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-11-21T09:44:09.721Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 1371,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 884,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 602,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-11-21T09:14:07.377Z",
     "dsstore": {
       "ok": true,
@@ -1357,85 +1383,6 @@
           "since": "2026-11-20T08:14:07.690Z",
           "alerted": false,
           "title": "[사이언스게시판] 오형석 KIST 책임연구원 '세계에서 가장 영향력 있는 연구자' 선정 外"
-        }
-      }
-    }
-  },
-  {
-    "ts": "2026-11-20T09:44:09.451Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 1386,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1048,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 582,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.056535504296698326,
-      "koArticles": {
-        "80986": {
-          "since": "2026-11-20T02:14:32.142Z",
-          "alerted": true,
-          "title": "희미한 차선, AI로 점검하고 도로살얼음은 신소재로 줄인다"
-        },
-        "80995": {
-          "since": "2026-11-20T08:14:07.690Z",
-          "alerted": false,
-          "title": "[사이언스게시판] 오형석 KIST 책임연구원 '세계에서 가장 영향력 있는 연구자' 선정 外"
-        }
-      }
-    }
-  },
-  {
-    "ts": "2026-11-20T09:14:14.503Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 1427,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1046,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 739,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.08536025699862322,
-      "koArticles": {
-        "80986": {
-          "since": "2026-11-20T02:14:32.142Z",
-          "alerted": true,
-          "title": "희미한 차선, AI로 점검하고 도로살얼음은 신소재로 줄인다"
-        },
-        "80995": {
-          "since": "2026-11-20T08:14:07.690Z",
-          "alerted": false,
-          "title": "[사이언스게시판] 오형석 KIST 책임연구원 '세계에서 가장 영향력 있는 연구자' 선정 外"
-        },
-        "80999": {
-          "since": "2026-11-20T09:14:14.400Z",
-          "alerted": false,
-          "title": "“시뮬레이션 없이 기초연구에 선심성 정책…부총리 약속, 예산 반영해야”"
         }
       }
     }
