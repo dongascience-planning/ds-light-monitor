@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-11-21T12:14:24.779Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 1378,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 990,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 742,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-11-21T11:44:10.056Z",
     "dsstore": {
       "ok": true,
@@ -1292,80 +1318,6 @@
     "dotcomEn": {
       "untranslated": false,
       "ratio": 0.057300022920009165,
-      "koArticles": {
-        "80986": {
-          "since": "2026-11-20T02:14:32.142Z",
-          "alerted": true,
-          "title": "희미한 차선, AI로 점검하고 도로살얼음은 신소재로 줄인다"
-        },
-        "80995": {
-          "since": "2026-11-20T08:14:07.690Z",
-          "alerted": true,
-          "title": "[사이언스게시판] 오형석 KIST 책임연구원 '세계에서 가장 영향력 있는 연구자' 선정 外"
-        }
-      }
-    }
-  },
-  {
-    "ts": "2026-11-20T12:14:10.073Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 1733,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1190,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1117,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.05657388549445576,
-      "koArticles": {
-        "80986": {
-          "since": "2026-11-20T02:14:32.142Z",
-          "alerted": true,
-          "title": "희미한 차선, AI로 점검하고 도로살얼음은 신소재로 줄인다"
-        },
-        "80995": {
-          "since": "2026-11-20T08:14:07.690Z",
-          "alerted": true,
-          "title": "[사이언스게시판] 오형석 KIST 책임연구원 '세계에서 가장 영향력 있는 연구자' 선정 外"
-        }
-      }
-    }
-  },
-  {
-    "ts": "2026-11-20T11:44:12.426Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 1614,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1209,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 1003,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.05657388549445576,
       "koArticles": {
         "80986": {
           "since": "2026-11-20T02:14:32.142Z",
