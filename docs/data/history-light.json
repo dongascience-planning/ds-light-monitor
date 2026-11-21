@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-11-21T02:44:12.022Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 1648,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1051,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 764,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-11-21T02:14:06.449Z",
     "dsstore": {
       "ok": true,
@@ -1518,43 +1544,6 @@
           "since": "2026-11-20T02:14:32.142Z",
           "alerted": false,
           "title": "희미한 차선, AI로 점검하고 도로살얼음은 신소재로 줄인다"
-        }
-      }
-    }
-  },
-  {
-    "ts": "2026-11-20T02:14:32.230Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 1423,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 997,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 607,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.059287646528403966,
-      "koArticles": {
-        "80986": {
-          "since": "2026-11-20T02:14:32.142Z",
-          "alerted": false,
-          "title": "희미한 차선, AI로 점검하고 도로살얼음은 신소재로 줄인다"
-        },
-        "80987": {
-          "since": "2026-11-20T02:14:32.142Z",
-          "alerted": false,
-          "title": "영구동토층, 봄엔 겉면만 여름엔 속까지 달궈진다"
         }
       }
     }
