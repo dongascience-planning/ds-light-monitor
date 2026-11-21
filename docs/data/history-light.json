@@ -1,5 +1,28 @@
 [
   {
+    "ts": "2026-11-21T00:17:08.953Z",
+    "recheckPending": true,
+    "dsstore": {
+      "ok": true,
+      "elapsed": 13717,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1342,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": false,
+      "elapsed": null,
+      "slow": false,
+      "imgBroken": false,
+      "error": "타임아웃 (20초 초과)"
+    }
+  },
+  {
     "ts": "2026-11-20T23:44:25.761Z",
     "dsstore": {
       "ok": true,
@@ -1499,43 +1522,6 @@
       "untranslated": false,
       "ratio": 0,
       "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-11-20T00:14:26.030Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 2208,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1153,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 591,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.0594855305466238,
-      "koArticles": {
-        "80935": {
-          "since": "2026-11-20T00:14:25.983Z",
-          "alerted": false,
-          "title": "[기초과학의 시간] ⑨\"함께하는 뇌과학 연구는 웅장한 교향곡\"(끝)"
-        },
-        "80976": {
-          "since": "2026-11-20T00:14:25.983Z",
-          "alerted": false,
-          "title": "[1% 의사과학자] ⑪성형외과 1호 KAIST행…\"의사과학자도 일론 머스크 모델 나와야\""
-        }
-      }
     }
   }
 ]
