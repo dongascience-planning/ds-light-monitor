@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-11-21T07:14:12.864Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 1439,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 895,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 739,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-11-21T06:44:09.032Z",
     "dsstore": {
       "ok": true,
@@ -1416,38 +1442,6 @@
     "dl": {
       "ok": true,
       "elapsed": 654,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.029961703086280694,
-      "koArticles": {
-        "80986": {
-          "since": "2026-11-20T02:14:32.142Z",
-          "alerted": true,
-          "title": "희미한 차선, AI로 점검하고 도로살얼음은 신소재로 줄인다"
-        }
-      }
-    }
-  },
-  {
-    "ts": "2026-11-20T07:14:07.560Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 1560,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 977,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 698,
       "slow": false,
       "imgBroken": false
     },
