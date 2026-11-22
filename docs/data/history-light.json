@@ -1,5 +1,42 @@
 [
   {
+    "ts": "2026-11-22T04:44:09.245Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 1599,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1354,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 842,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.052255361104264236,
+      "koArticles": {
+        "81007": {
+          "since": "2026-11-22T04:44:09.168Z",
+          "alerted": false,
+          "title": "지름 2m '두 번째 달' 잠시 머문다…12월 초까지 지구 공전"
+        },
+        "81008": {
+          "since": "2026-11-22T04:44:09.168Z",
+          "alerted": false,
+          "title": "[과기원NOW] 韓 '세계 상위 1% 연구자' UNIST 8명 포함 74명 선정 外"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-11-22T04:14:15.058Z",
     "dsstore": {
       "ok": true,
