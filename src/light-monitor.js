@@ -768,7 +768,7 @@ async function main() {
         'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36',
     });
     const page = await context.newPage();
-    page.on('dialog', (dialog) => dialog.accept());
+    page.on('dialog', (dialog) => dialog.accept().catch(() => {}));
     // 풀점검과 동일: 폰트·미디어만 차단, 이미지는 허용
     await page.route('**/*', (route) => {
       if (['font', 'media'].includes(route.request().resourceType())) route.abort();
