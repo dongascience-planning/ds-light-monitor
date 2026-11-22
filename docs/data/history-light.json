@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-11-22T00:14:09.533Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 1720,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1125,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 754,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-11-21T23:44:14.252Z",
     "dsstore": {
       "ok": true,
@@ -1254,31 +1280,5 @@
       "error": "타임아웃 (20초 초과) · 교차 재점검 통과 → 러너 경로 문제 또는 단기 자연복구로 판정"
     },
     "runnerIssue": true
-  },
-  {
-    "ts": "2026-11-20T23:44:25.761Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 1663,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1050,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 745,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
   }
 ]
