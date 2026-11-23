@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-11-23T06:14:19.615Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 1567,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 898,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 532,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.031753907219052344,
+      "koArticles": {
+        "81021": {
+          "since": "2026-11-23T06:14:19.570Z",
+          "alerted": false,
+          "title": "분사 방향 자동 조절 소화설비…\"터널 화재 사각지대 줄인다\""
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-11-23T05:44:06.164Z",
     "dsstore": {
       "ok": true,
@@ -1235,58 +1267,6 @@
     "dl": {
       "ok": true,
       "elapsed": 834,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-11-22T06:14:10.174Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 1444,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 959,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 812,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-11-22T05:44:13.054Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 1315,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 978,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 728,
       "slow": false,
       "imgBroken": false
     },
