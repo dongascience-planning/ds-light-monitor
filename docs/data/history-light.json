@@ -1,5 +1,47 @@
 [
   {
+    "ts": "2026-11-23T07:14:09.856Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 1258,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 934,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 725,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.09705588822355289,
+      "koArticles": {
+        "81018": {
+          "since": "2026-11-23T07:14:09.755Z",
+          "alerted": false,
+          "title": "해왕성 너머 숨겨진 행성 있다?…지구 질량 1.5~2배 '행성 X2' 존재 가능성"
+        },
+        "81021": {
+          "since": "2026-11-23T06:14:19.570Z",
+          "alerted": false,
+          "title": "분사 방향 자동 조절 소화설비…\"터널 화재 사각지대 줄인다\""
+        },
+        "81022": {
+          "since": "2026-11-23T07:14:09.755Z",
+          "alerted": false,
+          "title": "\"항우연·천문연 연구경영 자율성 보장\"…우주청 직할 연구기관 육성방안 발의"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-11-23T06:44:07.398Z",
     "dsstore": {
       "ok": true,
@@ -1247,58 +1289,6 @@
     "dl": {
       "ok": true,
       "elapsed": 664,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-11-22T07:14:11.494Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 1602,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1033,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 914,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-11-22T06:44:15.675Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 1638,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1171,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 834,
       "slow": false,
       "imgBroken": false
     },
