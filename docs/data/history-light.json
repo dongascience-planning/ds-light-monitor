@@ -1,5 +1,47 @@
 [
   {
+    "ts": "2026-11-23T12:44:10.099Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 1840,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 2041,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 606,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.0817986127720641,
+      "koArticles": {
+        "81031": {
+          "since": "2026-11-23T12:44:09.999Z",
+          "alerted": false,
+          "title": "[과기원NOW] UNIST, 경동장학재단 장학생 200명 돌파 外"
+        },
+        "81032": {
+          "since": "2026-11-23T12:44:09.999Z",
+          "alerted": false,
+          "title": "[사이언스게시판] 우주항공청, '한국형 위성항법시스템' 통합 상세설계검토회의 개최 外"
+        },
+        "81033": {
+          "since": "2026-11-23T12:44:09.999Z",
+          "alerted": false,
+          "title": "'화석연료 전환' 이견에 빈수레 'COP31'…17년만에 포괄적 합의 실패"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-11-23T12:14:07.971Z",
     "dsstore": {
       "ok": true,
@@ -1287,58 +1329,6 @@
     "dl": {
       "ok": true,
       "elapsed": 809,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-11-22T12:44:07.655Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 1364,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1094,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 811,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-11-22T12:14:23.579Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 1766,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1011,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 725,
       "slow": false,
       "imgBroken": false
     },
