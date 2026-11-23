@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-11-23T03:44:10.201Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 1393,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 968,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 836,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-11-23T03:14:06.972Z",
     "dsstore": {
       "ok": true,
@@ -1247,69 +1273,6 @@
       "untranslated": false,
       "ratio": 0,
       "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-11-22T03:44:07.539Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 1613,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1064,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 738,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-11-22T03:14:14.901Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 1303,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 931,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 775,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.05825,
-      "koArticles": {
-        "81004": {
-          "since": "2026-11-22T03:14:14.833Z",
-          "alerted": false,
-          "title": "해외 의존 반도체 핵심 장비 '펄스 전원' 국산화"
-        },
-        "81005": {
-          "since": "2026-11-22T03:14:14.833Z",
-          "alerted": false,
-          "title": "발바닥 압력, 암세포 전이에 영향 미쳐"
-        }
-      }
     }
   }
 ]
