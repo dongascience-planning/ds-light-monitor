@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-11-23T02:14:12.399Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 1339,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1072,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 960,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.02992957746478873,
+      "koArticles": {
+        "81012": {
+          "since": "2026-11-23T02:14:12.355Z",
+          "alerted": false,
+          "title": "수어 인식해 자막으로…국내 대학생들 '유익한 AI 안경' 활용법 탐색"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-11-23T01:44:12.997Z",
     "dsstore": {
       "ok": true,
@@ -1234,58 +1266,6 @@
     "dl": {
       "ok": true,
       "elapsed": 786,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-11-22T02:14:06.239Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 1332,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 879,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 607,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-11-22T01:44:17.635Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 1646,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1152,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 895,
       "slow": false,
       "imgBroken": false
     },
