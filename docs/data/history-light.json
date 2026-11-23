@@ -1,5 +1,42 @@
 [
   {
+    "ts": "2026-11-23T02:44:06.969Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 1033,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 739,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 723,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.05952989269289729,
+      "koArticles": {
+        "81015": {
+          "since": "2026-11-23T02:44:06.896Z",
+          "alerted": false,
+          "title": "수과학 언어로 시 창작…김수영문학상에 송혜근 GIST 졸업생"
+        },
+        "81016": {
+          "since": "2026-11-23T02:44:06.896Z",
+          "alerted": false,
+          "title": "나라스페이스 자체 개발 위성, 설계수명 3년 넘겨 정상 운용"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-11-23T02:14:12.399Z",
     "dsstore": {
       "ok": true,
@@ -1247,32 +1284,6 @@
           "title": "발바닥 압력, 암세포 전이에 영향 미쳐"
         }
       }
-    }
-  },
-  {
-    "ts": "2026-11-22T02:44:06.446Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 1469,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1030,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 786,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
     }
   }
 ]
