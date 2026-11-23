@@ -1,5 +1,42 @@
 [
   {
+    "ts": "2026-11-23T16:44:09.778Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 1821,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1058,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 901,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.056635071090047395,
+      "koArticles": {
+        "81032": {
+          "since": "2026-11-23T12:44:09.999Z",
+          "alerted": true,
+          "title": "[사이언스게시판] 우주항공청, '한국형 위성항법시스템' 통합 상세설계검토회의 개최 外"
+        },
+        "81033": {
+          "since": "2026-11-23T12:44:09.999Z",
+          "alerted": true,
+          "title": "'화석연료 전환' 이견에 빈수레 'COP31'…17년만에 포괄적 합의 실패"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-11-23T16:14:23.335Z",
     "dsstore": {
       "ok": true,
@@ -1364,32 +1401,6 @@
     "dl": {
       "ok": true,
       "elapsed": 967,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-11-22T16:44:07.017Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 1458,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1057,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 821,
       "slow": false,
       "imgBroken": false
     },
