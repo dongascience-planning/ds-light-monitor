@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-11-24T02:44:34.884Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 1559,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 956,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 717,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-11-24T02:14:09.716Z",
     "dsstore": {
       "ok": true,
@@ -1382,75 +1408,6 @@
       "untranslated": false,
       "ratio": 0,
       "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-11-23T02:44:06.969Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 1033,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 739,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 723,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.05952989269289729,
-      "koArticles": {
-        "81015": {
-          "since": "2026-11-23T02:44:06.896Z",
-          "alerted": false,
-          "title": "수과학 언어로 시 창작…김수영문학상에 송혜근 GIST 졸업생"
-        },
-        "81016": {
-          "since": "2026-11-23T02:44:06.896Z",
-          "alerted": false,
-          "title": "나라스페이스 자체 개발 위성, 설계수명 3년 넘겨 정상 운용"
-        }
-      }
-    }
-  },
-  {
-    "ts": "2026-11-23T02:14:12.399Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 1339,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1072,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 960,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.02992957746478873,
-      "koArticles": {
-        "81012": {
-          "since": "2026-11-23T02:14:12.355Z",
-          "alerted": false,
-          "title": "수어 인식해 자막으로…국내 대학생들 '유익한 AI 안경' 활용법 탐색"
-        }
-      }
     }
   }
 ]
