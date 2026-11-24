@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-11-24T04:44:08.301Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 1440,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1182,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 702,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.0318334131163236,
+      "koArticles": {
+        "81041": {
+          "since": "2026-11-24T04:44:08.244Z",
+          "alerted": false,
+          "title": "불확실한 분석 알려주는 AI…세포 구조 분석 '크로스체크' 돕는다"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-11-24T04:14:08.351Z",
     "dsstore": {
       "ok": true,
@@ -1420,32 +1452,6 @@
           "title": "8년간 100억km 날아 수성 도착한 탐사선 '베피콜롬보'"
         }
       }
-    }
-  },
-  {
-    "ts": "2026-11-23T04:44:03.466Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 1344,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 950,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 575,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
     }
   }
 ]
