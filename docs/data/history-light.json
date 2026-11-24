@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-11-24T07:44:09.342Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 1185,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 915,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 566,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.0262546468401487,
+      "koArticles": {
+        "81046": {
+          "since": "2026-11-24T07:44:09.254Z",
+          "alerted": false,
+          "title": "[AI 블랙박스] ②AI '클로드' 내부 들여다보는 앤트로픽 연구원(하)"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-11-24T07:14:23.922Z",
     "dsstore": {
       "ok": true,
