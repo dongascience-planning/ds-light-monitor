@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-11-24T06:44:27.221Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 1946,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1156,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 909,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-11-24T06:14:06.838Z",
     "dsstore": {
       "ok": true,
@@ -1412,70 +1438,6 @@
           "since": "2026-11-23T07:14:09.755Z",
           "alerted": false,
           "title": "\"항우연·천문연 연구경영 자율성 보장\"…우주청 직할 연구기관 육성방안 발의"
-        }
-      }
-    }
-  },
-  {
-    "ts": "2026-11-23T06:44:07.398Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 1414,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1014,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 874,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.031753907219052344,
-      "koArticles": {
-        "81021": {
-          "since": "2026-11-23T06:14:19.570Z",
-          "alerted": false,
-          "title": "분사 방향 자동 조절 소화설비…\"터널 화재 사각지대 줄인다\""
-        }
-      }
-    }
-  },
-  {
-    "ts": "2026-11-23T06:14:19.615Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 1567,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 898,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 532,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.031753907219052344,
-      "koArticles": {
-        "81021": {
-          "since": "2026-11-23T06:14:19.570Z",
-          "alerted": false,
-          "title": "분사 방향 자동 조절 소화설비…\"터널 화재 사각지대 줄인다\""
         }
       }
     }
