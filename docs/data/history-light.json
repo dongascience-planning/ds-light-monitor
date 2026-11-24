@@ -1,5 +1,26 @@
 [
   {
+    "ts": "2026-11-24T08:15:29.202Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 2080,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1189,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 631,
+      "slow": false,
+      "imgBroken": false
+    }
+  },
+  {
     "ts": "2026-11-24T07:44:09.342Z",
     "dsstore": {
       "ok": true,
@@ -1389,70 +1410,6 @@
         "81021": {
           "since": "2026-11-23T06:14:19.570Z",
           "alerted": true,
-          "title": "분사 방향 자동 조절 소화설비…\"터널 화재 사각지대 줄인다\""
-        }
-      }
-    }
-  },
-  {
-    "ts": "2026-11-23T08:14:13.908Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 1327,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1028,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 789,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.03087313072841293,
-      "koArticles": {
-        "81021": {
-          "since": "2026-11-23T06:14:19.570Z",
-          "alerted": false,
-          "title": "분사 방향 자동 조절 소화설비…\"터널 화재 사각지대 줄인다\""
-        }
-      }
-    }
-  },
-  {
-    "ts": "2026-11-23T07:44:11.394Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 1375,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 849,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 629,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.03087313072841293,
-      "koArticles": {
-        "81021": {
-          "since": "2026-11-23T06:14:19.570Z",
-          "alerted": false,
           "title": "분사 방향 자동 조절 소화설비…\"터널 화재 사각지대 줄인다\""
         }
       }
