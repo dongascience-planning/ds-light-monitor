@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-11-24T05:14:17.328Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 1060,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1170,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 744,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.02955082742316785,
+      "koArticles": {
+        "81043": {
+          "since": "2026-11-24T05:14:17.238Z",
+          "alerted": false,
+          "title": "심장마비·뇌졸중, 최대 30년 전 예고된다"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-11-24T04:44:08.301Z",
     "dsstore": {
       "ok": true,
