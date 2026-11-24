@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-11-24T09:44:12.448Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 1530,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 899,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 899,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-11-24T09:14:09.613Z",
     "dsstore": {
       "ok": true,
@@ -1407,38 +1433,6 @@
       "untranslated": false,
       "ratio": 0,
       "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-11-23T09:14:12.941Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 1403,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 870,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 623,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.06274801587301587,
-      "koArticles": {
-        "81021": {
-          "since": "2026-11-23T06:14:19.570Z",
-          "alerted": true,
-          "title": "분사 방향 자동 조절 소화설비…\"터널 화재 사각지대 줄인다\""
-        }
-      }
     }
   }
 ]
