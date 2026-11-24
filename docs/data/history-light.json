@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-11-24T05:44:06.349Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 1601,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1061,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1019,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-11-24T05:14:17.328Z",
     "dsstore": {
       "ok": true,
@@ -1424,64 +1450,6 @@
           "since": "2026-11-23T06:14:19.570Z",
           "alerted": false,
           "title": "분사 방향 자동 조절 소화설비…\"터널 화재 사각지대 줄인다\""
-        }
-      }
-    }
-  },
-  {
-    "ts": "2026-11-23T05:44:06.164Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 1138,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1013,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 655,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-11-23T05:14:24.905Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 1537,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 912,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 951,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.025577352868140054,
-      "koArticles": {
-        "81019": {
-          "since": "2026-11-23T05:14:24.859Z",
-          "alerted": false,
-          "title": "8년간 100억km 날아 수성 도착한 탐사선 '베피콜롬보'"
         }
       }
     }
