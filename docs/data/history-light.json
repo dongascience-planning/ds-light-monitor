@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-11-24T12:14:13.370Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 1850,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1261,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 748,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-11-24T11:46:26.092Z",
     "dsstore": {
       "ok": true,
@@ -1398,32 +1424,6 @@
           "title": "'화석연료 전환' 이견에 빈수레 'COP31'…17년만에 포괄적 합의 실패"
         }
       }
-    }
-  },
-  {
-    "ts": "2026-11-23T12:14:07.971Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 1863,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1180,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 811,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
     }
   }
 ]
