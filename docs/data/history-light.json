@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-11-25T04:14:27.827Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 1617,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1114,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 775,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-11-25T03:44:10.309Z",
     "dsstore": {
       "ok": true,
@@ -1259,43 +1285,6 @@
           "since": "2026-11-24T04:44:08.244Z",
           "alerted": false,
           "title": "불확실한 분석 알려주는 AI…세포 구조 분석 '크로스체크' 돕는다"
-        }
-      }
-    }
-  },
-  {
-    "ts": "2026-11-24T04:14:08.351Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 1581,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 836,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 715,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.05878119001919386,
-      "koArticles": {
-        "81037": {
-          "since": "2026-11-24T03:14:18.194Z",
-          "alerted": false,
-          "title": "GPS 없는 숲속 수색 나선 드론 5대…\"실종자 조기 발견 도울 것\""
-        },
-        "81040": {
-          "since": "2026-11-24T03:14:18.194Z",
-          "alerted": false,
-          "title": "우나스텔라, '글로벌 팁스' 선정…정부 지원금 50억원 확보"
         }
       }
     }
