@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-11-25T08:44:07.683Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 1334,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 898,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 751,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.05493221131369799,
+      "koArticles": {
+        "81070": {
+          "since": "2026-11-25T08:44:07.603Z",
+          "alerted": false,
+          "title": "KAI, 한국 달 착륙선 '뼈대' 개발한다…150억원 규모 계약 체결"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-11-25T08:14:15.893Z",
     "dsstore": {
       "ok": true,
@@ -1248,59 +1280,6 @@
       "untranslated": false,
       "ratio": 0,
       "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-11-24T08:44:05.687Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 1606,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1009,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 549,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.02975920036347115,
-      "koArticles": {
-        "81048": {
-          "since": "2026-11-24T08:44:05.617Z",
-          "alerted": false,
-          "title": "[사이언스게시판] 우주항공청, '제11회 우주개발진흥실무위원회' 개최 外"
-        }
-      }
-    }
-  },
-  {
-    "ts": "2026-11-24T08:15:29.202Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 2080,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1189,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 631,
-      "slow": false,
-      "imgBroken": false
     }
   }
 ]
