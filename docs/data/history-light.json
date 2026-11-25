@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-11-25T08:14:15.893Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 1243,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1098,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 937,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.02568849803286276,
+      "koArticles": {
+        "81069": {
+          "since": "2026-11-25T08:14:15.792Z",
+          "alerted": false,
+          "title": "中 우주정거장에 첫 외국인 우주비행사…우주 협력서 美中 '각축전'"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-11-25T07:44:09.171Z",
     "dsstore": {
       "ok": true,
