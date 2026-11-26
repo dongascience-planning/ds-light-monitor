@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-11-26T08:14:12.214Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 1429,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 981,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 588,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.027183600713012478,
+      "koArticles": {
+        "81092": {
+          "since": "2026-11-26T08:14:12.131Z",
+          "alerted": false,
+          "title": "청소년, 담배·술 줄고 운동 늘어…아침 결식률은 44.6%"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-11-26T07:44:07.780Z",
     "dsstore": {
       "ok": true,
