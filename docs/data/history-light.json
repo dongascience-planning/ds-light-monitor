@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-11-26T08:44:21.017Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 1622,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1122,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 908,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.02378815080789946,
+      "koArticles": {
+        "81094": {
+          "since": "2026-11-26T08:44:20.973Z",
+          "alerted": false,
+          "title": "한림원 신입 회원 34명 선출…여성 회원 6명 \"2020년 이후 역대 최다\""
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-11-26T08:14:12.214Z",
     "dsstore": {
       "ok": true,
@@ -1254,70 +1286,6 @@
       "untranslated": false,
       "ratio": 0,
       "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-11-25T08:44:07.683Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 1334,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 898,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 751,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.05493221131369799,
-      "koArticles": {
-        "81070": {
-          "since": "2026-11-25T08:44:07.603Z",
-          "alerted": false,
-          "title": "KAI, 한국 달 착륙선 '뼈대' 개발한다…150억원 규모 계약 체결"
-        }
-      }
-    }
-  },
-  {
-    "ts": "2026-11-25T08:14:15.893Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 1243,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1098,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 937,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.02568849803286276,
-      "koArticles": {
-        "81069": {
-          "since": "2026-11-25T08:14:15.792Z",
-          "alerted": false,
-          "title": "中 우주정거장에 첫 외국인 우주비행사…우주 협력서 美中 '각축전'"
-        }
-      }
     }
   }
 ]
