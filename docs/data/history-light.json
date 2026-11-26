@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-11-26T07:44:07.780Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 1203,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 974,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 876,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.024988743809095004,
+      "koArticles": {
+        "81081": {
+          "since": "2026-11-26T07:44:07.707Z",
+          "alerted": false,
+          "title": "NASA가 들이받은 소행성, 4년 만에 충돌 현장 공개"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-11-26T07:14:16.960Z",
     "dsstore": {
       "ok": true,
@@ -1254,32 +1286,6 @@
           "title": "中 우주정거장에 첫 외국인 우주비행사…우주 협력서 美中 '각축전'"
         }
       }
-    }
-  },
-  {
-    "ts": "2026-11-25T07:44:09.171Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 1153,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 794,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 776,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.05582922824302135,
-      "koArticles": {}
     }
   }
 ]
