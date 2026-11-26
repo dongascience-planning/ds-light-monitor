@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-11-26T07:14:16.960Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 1608,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 2012,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 739,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.02799908946050535,
+      "koArticles": {
+        "81089": {
+          "since": "2026-11-26T07:14:16.878Z",
+          "alerted": false,
+          "title": "[KSFY] 로켓 발사가 일상이 되는 시대…한국 우주산업의 과제는 '인재 확보'"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-11-26T06:44:06.583Z",
     "dsstore": {
       "ok": true,
@@ -1247,32 +1279,6 @@
     "dotcomEn": {
       "untranslated": false,
       "ratio": 0.05582922824302135,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-11-25T07:14:06.575Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 1689,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1131,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 889,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
       "koArticles": {}
     }
   }
