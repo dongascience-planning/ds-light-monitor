@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-11-26T03:44:09.241Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 1478,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 988,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 760,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.025516121549524474,
+      "koArticles": {
+        "81080": {
+          "since": "2026-11-26T02:44:11.079Z",
+          "alerted": false,
+          "title": "[KSFY] \"한 번 쏠 때 1400명 움직여\"…누리호 발사 '못다 한 이야기'"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-11-26T03:14:09.592Z",
     "dsstore": {
       "ok": true,
@@ -1205,58 +1237,6 @@
     "dl": {
       "ok": true,
       "elapsed": 775,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-11-25T03:44:10.309Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 1463,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1154,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 665,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-11-25T03:14:23.435Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 1622,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 890,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 652,
       "slow": false,
       "imgBroken": false
     },
