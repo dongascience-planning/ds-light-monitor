@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-11-26T05:14:06.869Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 1444,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1112,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 746,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.02695910440941284,
+      "koArticles": {
+        "81087": {
+          "since": "2026-11-26T05:14:06.786Z",
+          "alerted": false,
+          "title": "[KSFY] 우주기업이 찾는 우주 인재…\"전문지식 전에 '기본' 갖춰야\""
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-11-26T04:44:19.917Z",
     "dsstore": {
       "ok": true,
