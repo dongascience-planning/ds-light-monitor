@@ -1,5 +1,37 @@
 [
   {
+    "ts": "2026-11-26T02:44:11.244Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 1269,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 813,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 664,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.025510204081632654,
+      "koArticles": {
+        "81080": {
+          "since": "2026-11-26T02:44:11.079Z",
+          "alerted": false,
+          "title": "[KSFY] \"한 번 쏠 때 1400명 움직여\"…누리호 발사 '못다 한 이야기'"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-11-26T02:14:59.737Z",
     "dsstore": {
       "ok": true,
@@ -1200,38 +1232,6 @@
       "untranslated": false,
       "ratio": 0,
       "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-11-25T02:44:11.424Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 1398,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1082,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 745,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.027803521779425393,
-      "koArticles": {
-        "81061": {
-          "since": "2026-11-25T02:44:11.350Z",
-          "alerted": false,
-          "title": "차세대 반도체 소재 '이황화텅스텐' 원자층 단위로 깎는다"
-        }
-      }
     }
   }
 ]
