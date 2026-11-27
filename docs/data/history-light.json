@@ -1,5 +1,42 @@
 [
   {
+    "ts": "2026-11-27T00:14:06.793Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 1497,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1085,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 622,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.057481964161042585,
+      "koArticles": {
+        "81063": {
+          "since": "2026-11-27T00:14:06.719Z",
+          "alerted": false,
+          "title": "양자점 내 '핫 전자' 에너지 손실 최소화…이동도 10배 증가"
+        },
+        "81066": {
+          "since": "2026-11-27T00:14:06.719Z",
+          "alerted": false,
+          "title": "지하 광통신망 수천 개의 지진계로 활용…'작은 지진' 1000분의 1초 단위로 포착"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-11-26T23:44:08.601Z",
     "dsstore": {
       "ok": true,
@@ -1296,32 +1333,6 @@
     "dl": {
       "ok": true,
       "elapsed": 719,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-11-26T00:14:06.812Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 1486,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1004,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 573,
       "slow": false,
       "imgBroken": false
     },
