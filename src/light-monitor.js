@@ -4,7 +4,7 @@ const { chromium } = require('playwright');
 const axios = require('axios');
 const fs = require('fs');
 const path = require('path');
-const { applyMutes } = require('./mute');
+const { applyMutes, checkMute } = require('./mute');
 
 // ── 설정 ────────────────────────────────────────────────────────
 const SERVICES = [
@@ -785,16 +785,25 @@ async function main() {
     if (!RECHECK_MODE) {
       const en = await checkEnTranslation(page);
       if (en.checked) {
+        // 영문 번역 알림 전용 음소거 — mute.json의 'dotcomEn' 키 (닷컴 up/down 음소거와 별개).
+        // 음소거 중 전환은 상태를 확정하지 않는다 → 만료 후에도 장애가 남아 있으면 그때
+        // 전환이 다시 감지돼 알림이 나간다 (끄고 잊는 사고 방지, 2026-11-27 배선).
+        const enMute = checkMute('dotcomEn');
         const prev = lastKnownEnUntranslated(); // 이번 회차 저장 전이라 직전 상태를 반영
         const isTransition = (en.untranslated && prev !== true) || (!en.untranslated && prev === true);
         let persist = true;
         if (isTransition) {
-          const delivered = await sendTranslationAlert(en.ratio, en.untranslated);
-          if (!delivered) {
-            // 전환 알림 전달 실패 → 이 상태를 확정 기록하지 않는다. 그래야 다음 회차가
-            // 같은 전환을 다시 감지해 재발송 (H2b — 알림 유실 방지). 이번 회차 대시보드 표시는 포기.
-            console.log('  ⚠️ 영문 번역 전환 알림 전달 실패 → 상태 미확정 (다음 회차 재시도)');
+          if (enMute) {
+            console.log(`  [음소거] 영문 번역 전환 알림 생략 (${enMute.reason}, ~${enMute.untilKst}까지) → 상태 미확정`);
             persist = false;
+          } else {
+            const delivered = await sendTranslationAlert(en.ratio, en.untranslated);
+            if (!delivered) {
+              // 전환 알림 전달 실패 → 이 상태를 확정 기록하지 않는다. 그래야 다음 회차가
+              // 같은 전환을 다시 감지해 재발송 (H2b — 알림 유실 방지). 이번 회차 대시보드 표시는 포기.
+              console.log('  ⚠️ 영문 번역 전환 알림 전달 실패 → 상태 미확정 (다음 회차 재시도)');
+              persist = false;
+            }
           }
         }
         if (persist) {
@@ -809,10 +818,15 @@ async function main() {
           } else {
             const { map, due } = trackEnKoArticles(prevMap, en.koArticles || [], Date.now());
             if (due.length) {
-              console.log(`  ⚠️ 개별 기사 번역 미적용 ${due.length}건 (지속 ${(EN_ARTICLE_PERSIST_MS / 3600000).toFixed(0)}시간+) → 알림`);
-              const sent = await sendEnArticleAlert(due);
-              // 전달 성공한 경우에만 alerted 기록 — 실패 시 다음 회차 재발송 (H2b)
-              if (sent) due.forEach((a) => { if (map[a.id]) map[a.id].alerted = true; });
+              if (enMute) {
+                // alerted 기록 안 함 → 음소거 만료 후에도 한글이면 그때 발송
+                console.log(`  [음소거] 개별 기사 번역 미적용 ${due.length}건 — 알림 생략 (${enMute.reason}, ~${enMute.untilKst}까지)`);
+              } else {
+                console.log(`  ⚠️ 개별 기사 번역 미적용 ${due.length}건 (지속 ${(EN_ARTICLE_PERSIST_MS / 3600000).toFixed(0)}시간+) → 알림`);
+                const sent = await sendEnArticleAlert(due);
+                // 전달 성공한 경우에만 alerted 기록 — 실패 시 다음 회차 재발송 (H2b)
+                if (sent) due.forEach((a) => { if (map[a.id]) map[a.id].alerted = true; });
+              }
             } else if (Object.keys(map).length) {
               console.log(`  👀 개별 기사 한글 ${Object.keys(map).length}건 추적 중 (지속 시간 미달 또는 알림 완료)`);
             }

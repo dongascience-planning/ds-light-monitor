@@ -20,7 +20,7 @@
 //
 // 사용법 — docs/data/mute.json:
 //   { "dotcom": { "until": "2026-11-04T09:00:00+09:00", "reason": "내부 조치 중" } }
-//   서비스 키: dsstore | dotcom | dl
+//   서비스 키: dsstore | dotcom | dl | dotcomEn(영문 번역 알림 전용 — 전환·개별 기사)
 // 만료되면 파일을 손대지 않아도 자동으로 알림이 되살아난다.
 //
 // ※ 이 레포는 공개다 — reason에 내부 상세(서버·계정·담당자)를 쓰지 말 것.
