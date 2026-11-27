@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-11-27T09:44:05.606Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 1638,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1002,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 811,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-11-27T09:14:09.859Z",
     "dsstore": {
       "ok": true,
@@ -1307,38 +1333,6 @@
       "untranslated": false,
       "ratio": 0,
       "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-11-26T09:14:11.402Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 1395,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 939,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 794,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.026520347508001828,
-      "koArticles": {
-        "81095": {
-          "since": "2026-11-26T09:14:11.315Z",
-          "alerted": false,
-          "title": "[사이언스게시판] 우주청, 누리호 육상·해상 이송 절차 사전 점검 완료 外"
-        }
-      }
     }
   }
 ]
