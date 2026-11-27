@@ -1,5 +1,47 @@
 [
   {
+    "ts": "2026-11-27T08:44:12.926Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 1476,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 957,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 645,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.06342042755344418,
+      "koArticles": {
+        "81115": {
+          "since": "2026-11-27T08:14:10.283Z",
+          "alerted": false,
+          "title": "[사이언스게시판] 우주청, 유·무인 드론 시험소 개소 外"
+        },
+        "81116": {
+          "since": "2026-11-27T08:14:10.283Z",
+          "alerted": false,
+          "title": "[과기원NOW] KAIST, 30일 과학기술·예술 융합 행사 개최 外"
+        },
+        "81118": {
+          "since": "2026-11-27T08:44:12.829Z",
+          "alerted": false,
+          "title": "맹장 수술비 줄고 비대면진료 수가 적용…도수치료 기준도 완화"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-11-27T08:14:10.355Z",
     "dsstore": {
       "ok": true,
@@ -1301,38 +1343,6 @@
           "since": "2026-11-26T08:44:20.973Z",
           "alerted": false,
           "title": "한림원 신입 회원 34명 선출…여성 회원 6명 \"2020년 이후 역대 최다\""
-        }
-      }
-    }
-  },
-  {
-    "ts": "2026-11-26T08:14:12.214Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 1429,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 981,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 588,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.027183600713012478,
-      "koArticles": {
-        "81092": {
-          "since": "2026-11-26T08:14:12.131Z",
-          "alerted": false,
-          "title": "청소년, 담배·술 줄고 운동 늘어…아침 결식률은 44.6%"
         }
       }
     }
