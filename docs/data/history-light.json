@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-11-27T04:44:06.792Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 1671,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1179,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 781,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-11-27T04:14:07.578Z",
     "dsstore": {
       "ok": true,
@@ -1325,38 +1351,6 @@
         "81080": {
           "since": "2026-11-26T02:44:11.079Z",
           "alerted": true,
-          "title": "[KSFY] \"한 번 쏠 때 1400명 움직여\"…누리호 발사 '못다 한 이야기'"
-        }
-      }
-    }
-  },
-  {
-    "ts": "2026-11-26T04:14:11.641Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 1570,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1123,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 923,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.025516121549524474,
-      "koArticles": {
-        "81080": {
-          "since": "2026-11-26T02:44:11.079Z",
-          "alerted": false,
           "title": "[KSFY] \"한 번 쏠 때 1400명 움직여\"…누리호 발사 '못다 한 이야기'"
         }
       }
