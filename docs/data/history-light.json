@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-11-27T21:44:09.264Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 1467,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1068,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 764,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-11-27T21:14:18.215Z",
     "dsstore": {
       "ok": true,
@@ -1281,32 +1307,6 @@
           "title": "늙은 쥐 난자 젊게 만드는 인공 단백질…사람에게도 적용 가능성"
         }
       }
-    }
-  },
-  {
-    "ts": "2026-11-26T21:44:04.374Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 1327,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 947,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 694,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
     }
   }
 ]
