@@ -1,5 +1,42 @@
 [
   {
+    "ts": "2026-11-27T08:14:10.355Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 1563,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 982,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 782,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0.034378629500580724,
+      "koArticles": {
+        "81115": {
+          "since": "2026-11-27T08:14:10.283Z",
+          "alerted": false,
+          "title": "[사이언스게시판] 우주청, 유·무인 드론 시험소 개소 外"
+        },
+        "81116": {
+          "since": "2026-11-27T08:14:10.283Z",
+          "alerted": false,
+          "title": "[과기원NOW] KAIST, 30일 과학기술·예술 융합 행사 개최 外"
+        }
+      }
+    }
+  },
+  {
     "ts": "2026-11-27T07:44:09.386Z",
     "dsstore": {
       "ok": true,
