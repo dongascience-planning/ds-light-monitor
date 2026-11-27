@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-11-27T05:44:10.305Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 1271,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 900,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 577,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-11-27T05:14:12.134Z",
     "dsstore": {
       "ok": true,
@@ -1282,38 +1308,6 @@
           "since": "2026-11-26T06:14:07.658Z",
           "alerted": false,
           "title": "[KSFY] \"누리호 다음은 재사용발사체\"…'우주 택배'로 열릴 우주 시대"
-        }
-      }
-    }
-  },
-  {
-    "ts": "2026-11-26T05:44:09.028Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 1654,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 961,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 714,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.027308493404304558,
-      "koArticles": {
-        "81087": {
-          "since": "2026-11-26T05:14:06.786Z",
-          "alerted": false,
-          "title": "[KSFY] 우주기업이 찾는 우주 인재…\"전문지식 전에 '기본' 갖춰야\""
         }
       }
     }
