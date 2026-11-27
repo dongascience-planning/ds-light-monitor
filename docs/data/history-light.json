@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-11-27T09:14:09.859Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 1396,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1080,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 800,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-11-27T08:44:12.926Z",
     "dsstore": {
       "ok": true,
@@ -1311,38 +1337,6 @@
           "since": "2026-11-26T09:14:11.315Z",
           "alerted": false,
           "title": "[사이언스게시판] 우주청, 누리호 육상·해상 이송 절차 사전 점검 완료 外"
-        }
-      }
-    }
-  },
-  {
-    "ts": "2026-11-26T08:44:21.017Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 1622,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1122,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 908,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.02378815080789946,
-      "koArticles": {
-        "81094": {
-          "since": "2026-11-26T08:44:20.973Z",
-          "alerted": false,
-          "title": "한림원 신입 회원 34명 선출…여성 회원 6명 \"2020년 이후 역대 최다\""
         }
       }
     }
