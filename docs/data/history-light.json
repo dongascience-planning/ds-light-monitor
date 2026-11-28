@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-11-28T04:14:13.385Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 1351,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 921,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 649,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-11-28T03:44:12.464Z",
     "dsstore": {
       "ok": true,
@@ -1252,38 +1278,6 @@
       "untranslated": false,
       "ratio": 0,
       "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-11-27T04:14:07.578Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 1742,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1105,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 912,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.027197122948977297,
-      "koArticles": {
-        "81107": {
-          "since": "2026-11-27T04:14:07.529Z",
-          "alerted": false,
-          "title": "비싼 장비 없이 프리즘만으로 수전해 성능 살핀다"
-        }
-      }
     }
   }
 ]
