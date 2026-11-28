@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-11-28T00:44:07.688Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 1633,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1064,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 792,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-11-28T00:14:07.100Z",
     "dsstore": {
       "ok": true,
@@ -1258,38 +1284,6 @@
       "untranslated": false,
       "ratio": 0,
       "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-11-27T00:44:07.623Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 1668,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1057,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 549,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.028175414678482162,
-      "koArticles": {
-        "81099": {
-          "since": "2026-11-27T00:44:07.552Z",
-          "alerted": false,
-          "title": "[씨즈더퓨처] 수억 원짜리 컴퓨터를 풍덩… AI 시대 대안이라는 '기상천외한' 컴퓨터 보관법"
-        }
-      }
     }
   }
 ]
