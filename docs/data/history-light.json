@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-11-28T03:44:12.464Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 1709,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1256,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 1065,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-11-28T03:14:07.052Z",
     "dsstore": {
       "ok": true,
@@ -1258,32 +1284,6 @@
           "title": "비싼 장비 없이 프리즘만으로 수전해 성능 살핀다"
         }
       }
-    }
-  },
-  {
-    "ts": "2026-11-27T03:44:07.746Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 1357,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 1129,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 859,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
     }
   }
 ]
