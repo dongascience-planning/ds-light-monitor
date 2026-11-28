@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-11-28T07:44:07.960Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 1391,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 865,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 686,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-11-28T07:14:05.410Z",
     "dsstore": {
       "ok": true,
@@ -1246,58 +1272,6 @@
           "title": "[과기원NOW] KAIST, 30일 과학기술·예술 융합 행사 개최 外"
         }
       }
-    }
-  },
-  {
-    "ts": "2026-11-27T07:44:09.386Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 1402,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 947,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 662,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.020616168635626594,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-11-27T07:14:07.834Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 1691,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 973,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 689,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
     }
   }
 ]
