@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-11-28T06:14:06.482Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 1166,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 878,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 705,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-11-28T05:44:07.419Z",
     "dsstore": {
       "ok": true,
@@ -1239,64 +1265,6 @@
     "dl": {
       "ok": true,
       "elapsed": 610,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0,
-      "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-11-27T06:14:07.788Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 1749,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 948,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 679,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.021839080459770115,
-      "koArticles": {
-        "81112": {
-          "since": "2026-11-27T06:14:07.702Z",
-          "alerted": false,
-          "title": "워커린스페이스, KTSAT과 '우주 AS' 협력…퇴역위성 실증 검토"
-        }
-      }
-    }
-  },
-  {
-    "ts": "2026-11-27T05:44:10.305Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 1271,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 900,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 577,
       "slow": false,
       "imgBroken": false
     },
