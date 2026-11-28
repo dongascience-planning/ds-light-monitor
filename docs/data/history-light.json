@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-11-28T08:44:17.820Z",
+    "dsstore": {
+      "ok": true,
+      "elapsed": 1709,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcom": {
+      "ok": true,
+      "elapsed": 1139,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dl": {
+      "ok": true,
+      "elapsed": 828,
+      "slow": false,
+      "imgBroken": false
+    },
+    "dotcomEn": {
+      "untranslated": false,
+      "ratio": 0,
+      "koArticles": {}
+    }
+  },
+  {
     "ts": "2026-11-28T08:14:07.189Z",
     "dsstore": {
       "ok": true,
@@ -1219,85 +1245,6 @@
       "untranslated": false,
       "ratio": 0,
       "koArticles": {}
-    }
-  },
-  {
-    "ts": "2026-11-27T08:44:12.926Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 1476,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 957,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 645,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.06342042755344418,
-      "koArticles": {
-        "81115": {
-          "since": "2026-11-27T08:14:10.283Z",
-          "alerted": false,
-          "title": "[사이언스게시판] 우주청, 유·무인 드론 시험소 개소 外"
-        },
-        "81116": {
-          "since": "2026-11-27T08:14:10.283Z",
-          "alerted": false,
-          "title": "[과기원NOW] KAIST, 30일 과학기술·예술 융합 행사 개최 外"
-        },
-        "81118": {
-          "since": "2026-11-27T08:44:12.829Z",
-          "alerted": false,
-          "title": "맹장 수술비 줄고 비대면진료 수가 적용…도수치료 기준도 완화"
-        }
-      }
-    }
-  },
-  {
-    "ts": "2026-11-27T08:14:10.355Z",
-    "dsstore": {
-      "ok": true,
-      "elapsed": 1563,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcom": {
-      "ok": true,
-      "elapsed": 982,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dl": {
-      "ok": true,
-      "elapsed": 782,
-      "slow": false,
-      "imgBroken": false
-    },
-    "dotcomEn": {
-      "untranslated": false,
-      "ratio": 0.034378629500580724,
-      "koArticles": {
-        "81115": {
-          "since": "2026-11-27T08:14:10.283Z",
-          "alerted": false,
-          "title": "[사이언스게시판] 우주청, 유·무인 드론 시험소 개소 外"
-        },
-        "81116": {
-          "since": "2026-11-27T08:14:10.283Z",
-          "alerted": false,
-          "title": "[과기원NOW] KAIST, 30일 과학기술·예술 융합 행사 개최 外"
-        }
-      }
     }
   }
 ]
